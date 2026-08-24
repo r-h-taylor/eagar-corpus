@@ -56,7 +56,7 @@ This lecture is structured around the heavy-section titanium welding problem (Se
 
 ### Soviet titanium electroslag welding technology
 - **Anchor:** `§6.p5`–`§6.p9`
-- **canonical_cluster_id:** "Soviet titanium electroslag welding technology"
+- **canonical_cluster_id:** "Soviet titanium electro-slag welding technology"
 - **Frame in this lecture:** Tom realizes mid-conference at David Taylor Annapolis that the Soviets used electroslag (not submerged arc) for heavy-section titanium. First free-world titanium electroslag weld made next door to Tom's lab. US Navy later acquires foreign technology samples (shipyard scrap), confirming electroslag welds in Soviet construction.
 - **Materials/systems:** titanium 2-inch plate; electroslag welding; calcium chloride flux
 - **Era:** late 1970s–early 1980s

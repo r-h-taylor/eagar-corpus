@@ -21,7 +21,7 @@ Lecture 29 is a continuation lecture in the welding metallurgy series. It opens 
 
 ### Baseball bat performance study (Eagar consulting)
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** "Baseball bat forensic consulting case"
+- **canonical_cluster_id:** "Aluminum bat forensic consulting case"
 - **Frame in this lecture:** Brief reference: "I did a study for someone once" on whether aluminum bats hit further than wood bats.
 - **Era:** unspecified.
 

@@ -6,7 +6,7 @@
 
 ### Burns Harbor steel mill (Bethlehem Steel, 1965)
 - **Anchor:** `§1.p3`
-- **canonical_cluster_id:**"post-1965 greenfield steel mills"
+- **canonical_cluster_id:**"Post-1965 greenfield steel mills"
 - **Frame in this lecture:** Burns Harbor as the last green-field steel mill built in the U.S., framing the magnitude of capital investment required for primary materials production and why only nation-states (not companies) now build them.
 - **Era:** 1965, with present-day cost comparison
 

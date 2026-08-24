@@ -72,7 +72,7 @@ This lecture's spine is the codes-and-safety-factor argument: how engineering pr
 
 ### NASA X-33 space plane
 - **Anchor:** `§8.p7`
-- **canonical_cluster_id:** "NASA X-33 space plane"
+- **canonical_cluster_id:** "X-33 Space Plane"
 - **Frame in this lecture:** A $50M structure with manufacturing defects; NASA reduced the safety factor to 1.05 to keep the program alive; the tank passed at room temperature but failed on liquid-hydrogen thermal cycling. Used to illustrate that safety factors are not magic — they exist to absorb the manufacturing imperfections of real fabrication.
 - **Materials/systems:** liquid hydrogen / liquid oxygen propellant tank, composite/aluminum structure
 - **Era:** late 1990s (program canceled 2001)

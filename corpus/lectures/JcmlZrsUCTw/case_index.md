@@ -72,7 +72,7 @@ This lecture is the closing session of the Fusion Welding short course. The firs
 
 ### U.S. Steel Industry Crisis and Japanese Competition
 - **Anchor:** `§10.p4`, `§10.p5`
-- **canonical_cluster_id:** "U.S. Steel Industry Crisis and Japanese Competition"
+- **canonical_cluster_id:** "US Steel Industry Crisis and Japanese Competition"
 - **Frame in this lecture:** Bethlehem Steel 1973 most-profitable-year-ever as the high-water mark before two decades of decline. US steel's 75% world capacity in 1945 → 25% by mid-1970s. The "fully depreciated 1911 coke ovens" anecdote from the 1975 Bethlehem new-hire training serves as Tom's archetype of monopoly-era managerial complacency.
 
 ### Tom Eagar's steel company experience

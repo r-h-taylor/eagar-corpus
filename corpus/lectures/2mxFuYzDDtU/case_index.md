@@ -22,7 +22,7 @@ This is a titanium-focused lecture. The teaching arc runs from general material 
 
 ### U.S. Navy heavy-section titanium submarine program (1970s)
 - **Anchor:** `§4.p2`, `§5.p2`, `§6.p3`
-- **canonical_cluster_id:**"U.S. Navy heavy-section titanium submarine program"
+- **canonical_cluster_id:**"US Navy heavy-section titanium submarine program"
 - **Frame in this lecture:** Tom's first Navy research contract as a young assistant professor was submerged arc welding of 6Al-4V for heavy-section submarine hull development. Funded by Office of Naval Research. Contact at Navy was a graduate of the department. Program also covered creep-fatigue interaction studies at NRL.
 - **Materials/systems:** Ti-6Al-4V, submerged arc welding, heavy section
 - **Era:** 1970s–1982

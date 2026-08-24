@@ -29,7 +29,7 @@ This lecture is structured around Tom's price-per-pound framework: two dollars (
 
 ### NASA X-33 space plane
 - **Anchors:** `§3.p1` through `§3.p13` (extended worked case)
-- **canonical_cluster_id:** "NASA X-33 space plane" (also: "X-33 hydrogen tank adhesive joint failures"; "X-33 Space Plane"; "X-33 space plane liquid nitrogen tank failure")
+- **canonical_cluster_id:** "X-33 Space Plane" (also: "X-33 hydrogen tank adhesive joint failures"; "X-33 Space Plane"; "X-33 space plane liquid nitrogen tank failure")
 - **Frame in this lecture:** The lecture's flagship case study. Three failure modes braided: (1) the 3D woven graphite-fiber composite cost overrun that ate the budget before tanks were built; (2) the 10-day-shelf-life adhesive bullet point that hid a 100%→20% strength curve; (3) the post-test leak from CTE mismatch between graphite-epoxy, Nomex, and adhesive joints under cryogenic-to-room-temperature cycling. Outcome: $50M tanks scrapped, $1.3B program cancelled.
 - **Materials/systems:** Nomex hexel foam core, graphite-epoxy composite skin, structural adhesive; liquid hydrogen tanks; aluminum oxygen tank.
 - **Era:** ca. late 1990s (Tom says "10 or 15 years ago" from 2013).

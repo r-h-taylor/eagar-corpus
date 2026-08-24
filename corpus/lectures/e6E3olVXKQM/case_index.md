@@ -33,7 +33,7 @@ This lecture is primarily a technical exposition on hydrogen cracking — diffus
 
 ### Nine-month delayed hydrogen crack (High Sierra mountains)
 - **Anchor:** `§7.p5`
-- **canonical_cluster_id:** "Nine-month delayed hydrogen crack (High Sierras)"
+- **canonical_cluster_id:** "Nine-month delayed hydrogen crack (High Sierra mountains)"
 - **Frame in this lecture:** Forward-referenced as Monday's story — steel component buried in snow that finally cracked nine months later because the cold Sierra environment slowed hydrogen diffusion to a near-stop. Not developed in this lecture.
 - **Era:** unspecified
 

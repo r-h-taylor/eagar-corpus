@@ -19,7 +19,7 @@
 
 ### Alcoa-Audi all-aluminum automobile development
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** "Alcoa-Audi aluminum vehicle development partnership"
+- **canonical_cluster_id:** "Audi-Alcoa aluminum vehicle development partnership"
 - **Frame in this lecture:** Ten-year development cycle for all-aluminum auto body. Used to make the point that aluminum vehicles are technically feasible but economically marginal at consumer price points.
 
 ### Andrew Mellon all-aluminum Pierce Arrow automobile

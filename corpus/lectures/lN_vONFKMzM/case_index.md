@@ -14,7 +14,7 @@ This lecture is structured as a productivity history of the steel industry. Case
 
 ### England 16th-17th century deforestation and energy crisis
 - **Anchor:** `§4.p1`, `§4.p2`, `§4.p3`, `§4.p4`, `§4.p6`
-- **canonical_cluster_id:** "England 16th century 17th century deforestation and energy crisis"
+- **canonical_cluster_id:** "England 16th-17th century deforestation and energy crisis"
 - **Frame in this lecture:** The structural argument for why American iron industry began — England exhausted its forests for charcoal (iron, shipbuilding, glass) and forced colonial relocation.
 - **Materials/systems:** charcoal, blast furnaces, cast iron, oak (shipbuilding).
 - **Era:** 1500s–1600s.

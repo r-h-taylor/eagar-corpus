@@ -90,7 +90,7 @@
 
 ### US copper tubing manufacturing
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** "US copper tubing manufacturing" (also "Reading Pennsylvania copper plant deoxidation process", "Copper-to-copper crimp connector adoption in residential plumbing")
+- **canonical_cluster_id:** "U.S. copper tubing manufacturing" (also "Reading Pennsylvania copper plant deoxidation process", "Copper-to-copper crimp connector adoption in residential plumbing")
 - **Frame in this lecture:** Transportation externality. Six US copper tubing plants survived 1980s–90s offshoring because the air-in-the-hole shipping cost was prohibitive. Reading Tube as the LGO thesis site.
 
 ### Saugus Ironworks

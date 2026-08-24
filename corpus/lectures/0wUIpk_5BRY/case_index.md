@@ -30,7 +30,7 @@ This lecture covers underwater welding, altitude effects on arc behavior, and an
 
 ### Brooklyn Bridge caisson workers — decompression sickness
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** "Brooklyn Bridge caissons - decompression sickness"
+- **canonical_cluster_id:** "Brooklyn Bridge caisson workers - decompression sickness"
 - **Frame in this lecture:** Historical origin of medical knowledge about the bends. Caisson workers digging in compressed air at the river floor, ascending without decompression protocols, developing cramps. Dated to 1880s.
 - **Materials/systems:** Pressurized work environment, atmospheric air
 - **Era:** 1880s

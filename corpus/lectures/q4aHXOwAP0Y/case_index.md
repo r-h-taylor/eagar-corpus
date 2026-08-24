@@ -12,7 +12,7 @@
 
 ### Rolls-Royce M250 BLISK (bladed disk) for helicopters
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** "Rolls-Royce M250 BLISK (bladed disk) for helicopters"
+- **canonical_cluster_id:** "Rolls Royce M250 BLISK (bladed disk) for helicopters"
 - **Frame in this lecture:** Cited as the only high-volume cast blisk engine in production (~50,000 units, 30+ years). Used to introduce the collateral-weight-savings argument.
 - **Materials/systems:** Cast nickel superalloy blisk.
 

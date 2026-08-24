@@ -30,7 +30,7 @@
 
 ### U.S. Steel price rollback (1962)
 - **Anchor:** `§1.p6`
-- **canonical_cluster_id:** "US Steel Price Rollback"
+- **canonical_cluster_id:** "U.S. Steel Price Rollback"
 - **Frame in this lecture:** President Kennedy forces U.S. Steel to roll back a price increase in 1962. Steel-industry executives cite this as the moment they lost profitability; Tom uses it to make the point that steel was the commodity controlling the global economy before the 1973 oil embargo.
 - **Era:** 1962
 

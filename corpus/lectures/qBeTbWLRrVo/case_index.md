@@ -16,7 +16,7 @@ This lecture moves from didactic exposition (post-weld heat treatment, under-mat
 
 ### Boston Navy Yard destroyer boiler weld
 - **Anchor:** §4.p1–§4.p7
-- **canonical_cluster_id:** "Boston Navy Yard destroyer boiler pipe weld (stainless-to-chromemoly transition)"
+- **canonical_cluster_id:** "Boston Navy Shipyard destroyer boiler pipe weld (stainless-to-chromemoly transition)"
 - **Frame in this lecture:** Tom's first big consulting case as a young MIT faculty member, ~1978. Stainless-to-2.25Cr-1Mo transition weld with persistent root cracking; NAVSEA procedure specified Inconel filler, contractor wanted to substitute stainless steel. Tom's solution: change the joint geometry (J-prep with a long land) to reduce restraint, leaving filler-metal specification intact. Used to illustrate (a) the Venn-diagram methodology applied under constraint and (b) that solutions sometimes come from the only variable left when the obvious ones are fixed.
 - **Materials/systems:** 2.25Cr-1Mo steel, stainless steel boiler pipe, Inconel filler, GTAW.
 - **Era:** ~1978; shipyard subsequently closed.

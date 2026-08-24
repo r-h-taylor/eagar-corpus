@@ -92,7 +92,7 @@ The center of gravity of this lecture is the **Soviet Alpha-class titanium subma
 
 ### SSN-21 Sea Wolf submarine budget zeroing
 - **Anchor:** `§8.p16`
-- **canonical_cluster_id:** "SSN-21 Sea Wolf submarine hull cracking problem"
+- **canonical_cluster_id:** "SSN-21 Sea Wolf hull cracking problem"
 - **Frame in this lecture:** Brief closing reference: Captain Millard Firebaugh (a graduate of MIT's program) was designing the SSN-21 in the mid-1980s when Congress zeroed the next year's budget, saying they wouldn't build another steel sub while the Soviets had titanium subs — and that the U.S. should leapfrog to composite submarines. Tom mentions attending a four-day workshop on composite subs which he calls "a laughing mess." Setup for a future lecture.
 - **Era:** Mid-1980s.
 - **Related clusters in canon:** *Composite submarine repairability failure*; *Navy topside weight reduction composite structures study*.

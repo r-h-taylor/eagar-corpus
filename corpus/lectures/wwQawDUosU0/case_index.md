@@ -19,7 +19,7 @@
 
 ### NASA X-33 space plane
 - **Anchor:** `§3.p2`, `§3.p3`, `§3.p4`
-- **canonical_cluster_id:** "NASA X-33 space plane"
+- **canonical_cluster_id:** "X-33 Space Plane"
 - **Frame in this lecture:** $1.3 billion half-size demonstrator. Two hydrogen tanks ($50M each composite) and one aluminum oxygen tank ($15M), totaling about $12,000/lb as fabricated. Intended successor to space shuttle, targeting $1,000/lb-to-orbit. Tank physical sample passed in class.
 - **Materials/systems:** Composite hydrogen tanks; aluminum oxygen tank; titanium and Inconel structural struts
 - **Era:** 1990s
