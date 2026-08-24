@@ -15,7 +15,7 @@ This recitation is an open Q&A about academic promotion, tenure, and MIT departm
 
 ### Dave Paul polluted tenure case
 - **Anchor:** `§10.p4`–`§10.p6`
-- **canonical_cluster_id:** PROPOSED: "MIT Materials Department tenure pollution case (Dave Paul, late 1990s)"
+- **canonical_cluster_id:** PROPOSED: MIT Materials Department tenure pollution case (Dave Paul, late 1990s)
 - **Frame in this section:** Flemings allegedly drafted a letter from a Japanese professor (Tom: "this was written by the man upstairs") in opposition to Dave Paul's tenure, while a Flemings student was a candidate in the same field. Tom escalated to Dean Bob Brown and later to the visiting committee in front of Provost Brown and President Vest. Outcome: no institutional response; Dave Paul denied tenure, went to Boston University.
 - **Era:** mid-to-late 1990s (during Tom's department-headship, 1995–onward).
 - **Note:** related to but distinct from the existing canonical "MIT Materials Department tenure discrimination settlement" cluster (the Peggy Cebe / $850,000 settlement, §7.p7). These are two separate tenure-process cases.
@@ -28,14 +28,14 @@ This recitation is an open Q&A about academic promotion, tenure, and MIT departm
 
 ### Bob Mehrabian tenure denial
 - **Anchor:** `§5.p2`–`§5.p4`
-- **canonical_cluster_id:** PROPOSED: "Bob Mehrabian solidification-vs-welding tenure case (1974)"
+- **canonical_cluster_id:** PROPOSED: Bob Mehrabian solidification-vs-welding tenure case (1974)
 - **Frame in this section:** Department head Walter Owen told Mehrabian he wouldn't get tenure if he stayed in solidification (Flemings' field) but would get tenure if he switched to welding. Mehrabian refused, was denied tenure; Tom took the welding position. Mehrabian later became president of Carnegie Mellon.
 - **Era:** 1974 conversation; tenure decision 1976.
 - **Note:** This is the structural antecedent of Tom's own hiring. Recurs across the corpus as Tom's most personal political-economy parable.
 
 ### Tom Eagar's own near-non-tenure (1977 letter)
 - **Anchor:** `§9.p1`–`§9.p2`
-- **canonical_cluster_id:** PROPOSED: "Eagar 1977 'will probably not make our tenure threshold' letter"
+- **canonical_cluster_id:** PROPOSED: Eagar 1977 'will probably not make our tenure threshold' letter
 - **Frame in this section:** The associate dean of engineering wrote to the president of Oregon Graduate Center in May 1977 that Tom, hired ten months earlier, would "probably not make our tenure threshold." Tom shows the letter on camera. Three years later he had more research money than any other untenured professor in the department.
 - **Era:** May 1977.
 - **Note:** This is the documentary centerpiece of the recitation. Likely recurs in other lectures as part of the "money talks" / Office of Naval Research arc.

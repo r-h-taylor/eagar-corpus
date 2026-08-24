@@ -8,33 +8,33 @@ This lecture is the fourth session of 3.371 Codes and Standards, transitioning f
 
 ### Ballpark Franks hot dog cooker stainless steel failure
 - **Anchor:** `§1.p1`–`§1.p9`
-- **canonical_cluster_id:** Hot dog cooker corrosion failure
+- **canonical_cluster_id:** "Hot dog cooker corrosion failure"
 - **Related cluster:** 316 stainless steel heat exchanger tube pitting failure (parallel mechanism)
 - **Frame in this lecture:** Opening story. 304 stainless steel replacement parts substituted in a 316 cooker; chloride attack from hot dog salt content caused rapid crumbling failure. Shows how 2% molybdenum doubles cost but is essential for chloride service.
 - **Materials/systems:** 304 vs. 316 stainless steel; chloride corrosion.
 
 ### Desalination pump bearing 302/304 substitution
 - **Anchor:** `§2.p1`–`§2.p3`
-- **canonical_cluster_id:** Desalination pump bearing failure
+- **canonical_cluster_id:** "Desalination pump bearing failure"
 - **Frame in this lecture:** Parallel current case to the hot dog cooker. 302 stainless steel inserts substituted in a 316 pump bearing destined for Middle East desalination service. Failed within a year; destroyed company reputation.
 - **Materials/systems:** 302/304/316 stainless steel; chloride attack on bearings.
 
 ### Woods Hole house spray foam fire
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** Woods Hole house spray foam fire
+- **canonical_cluster_id:** "Woods Hole house spray foam fire"
 - **Frame in this lecture:** Polyurethane spray foam insulation installed incorrectly along eaves caused a house fire. Used to illustrate that polymer foams are the lowest-thermal-conductivity material in the world — but the same property makes them dangerous if installed where heat can build up internally. Tom shows a charred sample.
 - **Materials/systems:** Polyurethane foam insulation; thermal conductivity.
 
 ### Concorde supersonic transport operations and economics
 - **Anchor:** `§7.p1`–`§7.p3`
-- **canonical_cluster_id:** Concorde supersonic transport operations and economics
+- **canonical_cluster_id:** "Concorde supersonic transport operations and economics"
 - **Frame in this lecture:** Personal anecdote of flying Concorde in the early 1990s ($2500 fare upgrade). Used to illustrate the practical limits of engineering — Concorde retired after a tarmac-debris crash, restricted routes due to sonic boom regulations, expensive maintenance with no slack time. Includes a side note on a king/tycoon who chartered British Airways for round-the-world weekend trips.
 - **Materials/systems:** N/A — operations and economics case.
 - **Era:** Early 1990s personal flight; 1980s-2003 Concorde service.
 
 ### Alberta refinery hydrostatic test pipe failure
 - **Anchor:** `§8.p5`
-- **canonical_cluster_id:** Alberta refinery pipe hydrostatic test failure
+- **canonical_cluster_id:** "Alberta refinery pipe hydrostatic test failure"
 - **Frame in this lecture:** Foreshadowed for tomorrow's lecture. $500M Alberta refinery construction project; during recession, pipe sourced from non-standard supplier; hydrostatic test produced a crack; client demanded $2M-$6M back. Tom's framing: "the fight arose because people don't know how to read a standard in plain English." Used to motivate the codes-and-standards material to follow.
 - **Materials/systems:** Carbon steel pipe (ASTM A106 seamless context); hydrostatic test; ASTM standard interpretation.
 - **Era:** Tom doesn't specify the year but references a recession; likely early 1980s or early 1990s.

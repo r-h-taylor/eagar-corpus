@@ -186,7 +186,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Pratt & Whitney F-117 stealth fighter (referenced)
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: Lockheed Skunk Works F-117 production hangar (X-33 facility)
+- **canonical_cluster_id:** "Lockheed Skunk Works X-33 spaceplane composite tank (rapid prototyping redesign)"
 - **Frame in this lecture:** Geographic-political context: the X-33 LH₂ tank was built in the same Palmdale top-secret hangar that produced the F-117. NASA used the Skunk Works specifically to escape conventional defense-contractor schedule/budget overruns — and got them anyway.
 - **Materials/systems:** —
 - **Era:** F-117 production through X-33 era

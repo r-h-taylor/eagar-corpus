@@ -148,53 +148,53 @@
 
 ### Kennecott Bingham Canyon copper mine operations (from chunk 1)
 - **Anchor:** `§2.p2`
-- **canonical_cluster_id:** Kennecott Bingham Canyon copper mine operations
+- **canonical_cluster_id:** "Kennecott Bingham Canyon copper mine operations"
 - **Frame in this lecture:** Used as the U.S. exemplar of declining copper ore grade — less than 0.5% Cu, contrasted with the historical 6% Belgian Congo ores. Visible from approach into Salt Lake City; "world's deepest pit."
 - **Materials/systems:** Copper ore extraction
 - **Era:** Historical to present
 
 ### MIT Commission on Industrial Productivity — Steel Industry Study (from chunk 1)
 - **Anchor:** `§2.p4`, `§2.p5`
-- **canonical_cluster_id:** MIT Commission on Industrial Productivity - Steel Industry Study
+- **canonical_cluster_id:** "MIT Commission on Industrial Productivity - Steel Industry Study"
 - **Frame in this lecture:** Source of the productivity figures Tom recites — manufacturing at 4% per year, mining at 6%, service sector at 0%. The decomposition of steel cost (45/45/10 in the mid-'70s shifting to 90% energy today) traces to this work.
 - **Era:** 1970s–1990s analysis
 
 ### Aluminum automotive applications (1990s Ford Taurus vs. Toyota Camry) (from chunk 1)
 - **Anchor:** `§3.p2`, `§3.p3`, `§3.p5`
-- **canonical_cluster_id:** Aluminum automotive applications (1990s Ford Taurus vs. Toyota Camry)
+- **canonical_cluster_id:** "Aluminum automotive applications (1990s Ford Taurus vs. Toyota Camry)"
 - **Frame in this lecture:** The break-even argument: aluminum body-in-white costs roughly twice steel ($4,000 vs. $2,000), unaffordable on a $20,000 car but invisible on a $40,000 Audi. Anchors the broader pricing-by-market-segment argument.
 - **Materials/systems:** Aluminum vs. steel automotive body structure
 - **Era:** 1990s–2000s
 
 ### Audi-Alcoa aluminum vehicle development partnership (from chunk 1)
 - **Anchor:** `§3.p5`
-- **canonical_cluster_id:** Audi-Alcoa aluminum vehicle development partnership
+- **canonical_cluster_id:** "Audi-Alcoa aluminum vehicle development partnership"
 - **Frame in this lecture:** Peter Bridenbaugh anecdote. Tom and Bridenbaugh (then SVP at Alcoa) at a metallurgical conference; Bridenbaugh confirms the break-even point is $4 a pound, not $3. Establishes that the Alcoa-Audi partnership was bounded by aluminum's premium-segment economics.
 - **Materials/systems:** Aluminum automotive applications
 - **Era:** 1990s
 
 ### Clayton Christensen innovator's dilemma research — steel mill cost data (from chunk 1)
 - **Anchor:** `§5.p5`, `§5.p6`
-- **canonical_cluster_id:** Clayton Christensen innovator's dilemma research—steel mill cost data
+- **canonical_cluster_id:** "Clayton Christensen innovator's dilemma research—steel mill cost data"
 - **Frame in this lecture:** Tom's daughter Rebecca was Christensen's research assistant; Christensen's cited figure of $15B to build an integrated steel mill traces back to a slide Tom drew at the Saginaw airport. Used as the second cautionary tale about how unsourced figures become canonical via citation laundering.
 - **Era:** Mid-1990s through publication
 
 ### Bethlehem Steel Burns Harbor (from chunk 1)
 - **Anchor:** `§5.p6`, `§6.p1`
-- **canonical_cluster_id:** Bethlehem Steel Burns Harbor
+- **canonical_cluster_id:** "Bethlehem Steel Burns Harbor"
 - **Frame in this lecture:** "The last steel plant ever built by a company in the world" — 1965, $6 billion. The anchor for Tom's argument that no shareholder-funded integrated steel mill has been built on a greenfield site since.
 - **Materials/systems:** Integrated steel production
 - **Era:** 1965
 
 ### POSCO (Korea) government-built steel mill surpassing Nippon Steel (from chunk 1)
 - **Anchor:** `§6.p1`
-- **canonical_cluster_id:** POSCO (Korea) government-built steel mill surpassing Nippon Steel
+- **canonical_cluster_id:** "POSCO (Korea) government-built steel mill surpassing Nippon Steel"
 - **Frame in this lecture:** Counterexample showing that greenfield integrated steel mills can be built — but only when bankrolled by a nation, not by shareholders. Korean government investment, 1970s.
 - **Era:** 1970s
 
 ### Post-1965 greenfield steel mills (from chunk 1)
 - **Anchor:** `§6.p1`, `§6.p2`
-- **canonical_cluster_id:** Post-1965 greenfield steel mills
+- **canonical_cluster_id:** "Post-1965 greenfield steel mills"
 - **Frame in this lecture:** Roughly a dozen built worldwide since 1965; none by a shareholder-funded company. Sets up the $1B-investment threshold argument that Boeing (Dreamliner, $20B), Intel ($1B+ fab) can clear but most companies cannot.
 - **Era:** 1965–present
 
@@ -212,27 +212,27 @@
 
 ### Saugus Ironworks (from chunk 2)
 - **Anchor:** `§8.p2`, `§13.p6`
-- **canonical_cluster_id:** Saugus Ironworks
+- **canonical_cluster_id:** "Saugus Ironworks"
 - **Frame in this chunk:** Used as the colonial-era baseline for understanding what a blast furnace / cupola is — "a cupola is nothing more than a small blast furnace; Saugus Iron Works is nothing more than a small blast furnace." Iron from bogs, limestone from New England, charcoal from cut trees as the energy source.
 - **Materials/systems:** charcoal-fired iron smelting, bog iron, limestone flux
 - **Era:** 17th century
 
 ### Mesabi Range iron ore depletion (from chunk 2)
 - **Anchor:** `§8.p4`
-- **canonical_cluster_id:** Mesabi Range iron ore depletion
+- **canonical_cluster_id:** "Mesabi Range iron ore depletion"
 - **Frame in this chunk:** Mesabi ore was pure enough to crush like limestone and put directly in the blast furnace. Mined to extinction by the end of WWII. Used to motivate why modern ironmaking requires grinding and sintering ore from worldwide sources.
 - **Materials/systems:** high-grade iron ore (hematite)
 - **Era:** late 19th c. – mid-20th c.
 
 ### Japan-US Oil and Steel Embargo (World War II) (from chunk 2)
 - **Anchor:** `§10.p4`
-- **canonical_cluster_id:** Japan-US Oil and Steel Embargo (World War II)
+- **canonical_cluster_id:** "Japan-US Oil and Steel Embargo (World War II)"
 - **Frame in this chunk:** US scrap-steel export restrictions cited (per historians) as one contributing cause of Pearl Harbor. Tom uses this to anchor the postwar shift in scrap economics.
 - **Era:** late 1930s – 1941
 
 ### Pearl Harbor attack (from chunk 2)
 - **Anchor:** `§10.p4`
-- **canonical_cluster_id:** Pearl Harbor attack
+- **canonical_cluster_id:** "Pearl Harbor attack"
 - **Frame in this chunk:** Briefly invoked as the consequence of US scrap restrictions on Japan. Not a developed case here; rather a historical anchor for the scrap-economy discussion.
 
 ### US Steel price rollback (Kennedy, 1962) (from chunk 2)
@@ -257,14 +257,14 @@
 
 ### Mao's Great Leap Forward backyard furnaces (from chunk 2)
 - **Anchor:** `§13.p7`
-- **canonical_cluster_id:** Great Leap Forward backyard furnaces in China
+- **canonical_cluster_id:** "Great Leap Forward backyard furnaces in China"
 - **Frame in this chunk:** Mao's communal-cupola industrialization policy, the post-1975 flood of Chinese cast-iron trinkets ("Tom's cast iron Christmas tree stand"), and the origin of modern "Made in China." Used to illustrate primitive cupola technology at population scale.
 - **Materials/systems:** small commune cupolas (Saugus-level technology)
 - **Era:** 1960s–1985
 
 ### Detroit blast furnace (1925) kept running until it blew up (from chunk 2)
 - **Anchor:** `§14.p1`
-- **canonical_cluster_id:** Detroit blast furnace rupture (1925-era)
+- **canonical_cluster_id:** "Detroit blast furnace rupture (1925-era)"
 - **Frame in this chunk:** A 1925-built riveted blast furnace, shell thinned to one tenth of original, walls flooded with water, welders sent up while still hot. At $100,000/hour of product, no one would shut it down. Eventually exploded — half-a-billion-dollar loss, paid by insurance. Tom's case for how operational economics override engineering judgment.
 - **Materials/systems:** riveted steel shell, blast furnace
 - **Era:** built 1925; failure circa late 1970s–early 1980s
@@ -281,7 +281,7 @@
 
 ### Tractor-trailer king-pin lockdown cast-iron fracture (from chunk 3)
 - **Anchor:** `§20.p1`
-- **canonical_cluster_id:** PROPOSED: **Tractor-trailer king-pin cast-iron lockdown fracture**
+- **canonical_cluster_id:** PROPOSED: Tractor-trailer king-pin cast-iron lockdown fracture
 - **Frame in this lecture:** Stage-direction case — Tom holds up a cast-iron lockdown component from a tractor-trailer fifth-wheel king pin assembly. The part bounced out, causing an accident; Tom is running tests for an active forensic case. Used to motivate why cast iron is fine for complex shapes despite brittleness.
 - **Materials/systems:** cast iron
 - **Era:** active 2014 consulting work

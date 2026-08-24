@@ -50,5 +50,7 @@
   ],
   "course_canonical": "Codes and Standards",
   "course_module": "Codes and Standards",
-  "corpus_id": "CS_Su2012_06"
+  "corpus_id": "CS_Su2012_06",
+  "visible": false,
+  "instructor": "guest"
 }

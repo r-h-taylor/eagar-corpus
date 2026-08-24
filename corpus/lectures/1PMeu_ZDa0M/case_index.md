@@ -124,12 +124,12 @@ This lecture is structured around productivity through the ages — from one per
 
 ### Boeing 787 all-composite aircraft / aerospace national investment
 - **Anchor:** `§10.p4`
-- **canonical_cluster_id:** PROPOSED: "Boeing-Airbus duopoly and government subsidy"
+- **canonical_cluster_id:** PROPOSED: Boeing-Airbus duopoly and government subsidy
 - **Frame in this lecture:** Tom's aircraft-industry parallel to POSCO — the Dreamliner-class jetliner requires 10–20 billion dollars, available only to two firms, both subsidized. Used as evidence that scale has outgrown company-level financing in multiple industries.
 
 ### Intel high-power chip thermal management (Pentium/Itanium) / semiconductor fab scale
 - **Anchor:** `§10.p4`
-- **canonical_cluster_id:** PROPOSED: "Semiconductor fab capital-cost escalation"
+- **canonical_cluster_id:** PROPOSED: Semiconductor fab capital-cost escalation
 - **Frame in this lecture:** Third example in Tom's national-investment series — 10–20 billion dollars for a sub-micron fab. Intel "probably built the last one"; the industry has since restructured into partnerships.
 
 ## Figures referenced (not cases)

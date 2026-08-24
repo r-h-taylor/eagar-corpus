@@ -81,7 +81,7 @@
 
 ### Andrew Mellon all-aluminum Pierce Arrow automobile
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** "PROPOSED: J.P. Morgan all-aluminum automobile (1930s)"
+- **canonical_cluster_id:** "Andrew Mellon all-aluminum Pierce Arrow automobile"
 - **Frame in this lecture:** Tom attributes the 1930s aluminum automobile to J.P. Morgan, not Mellon. May be the same cluster as "Andrew Mellon all-aluminum Pierce Arrow automobile" or "1930s all-aluminum Duesenberg automobiles" — Tom is reaching for the wealthy-industrialist-owns-aluminum-car trope. **Flag for editor:** likely conflated; the cluster_id used here is provisional.
 
 ### MIT Berylliosis cases

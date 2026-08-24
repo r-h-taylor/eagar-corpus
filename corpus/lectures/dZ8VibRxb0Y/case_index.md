@@ -21,7 +21,7 @@
 
 ### Chevy Bolt battery cost
 - **Anchor:** `§6.p1`
-- **canonical_cluster_id:** PROPOSED: "Chevy Bolt EV battery cost breakdown"
+- **canonical_cluster_id:** PROPOSED: Chevy Bolt EV battery cost breakdown
 - **Frame in this section:** Tom's personal vehicles (two Chevy Bolts) used as a datum: $10,000 battery cost to GM, $30,000 vehicle price to consumer. Used to make the point that healthcare for workers is the number-one cost of a US automobile, frame is second, seats third.
 - **Materials/systems:** Lithium-ion battery, vehicle BOM.
 - **Era:** Contemporary.
@@ -36,13 +36,13 @@
 
 ### 3.091 (Introduction to Solid State Chemistry / Structural Materials)
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** PROPOSED: "MIT 3.091 graduate-version proposal (Eagar/Sadoway/Grossman)"
+- **canonical_cluster_id:** PROPOSED: MIT 3.091 graduate-version proposal (Eagar/Sadoway/Grossman)
 - **Frame in this section:** Tom describes a recent discussion with new Department Head Jeff Grossman about a graduate version of 3.091, and Tom's offer to "condense everything in structural materials down to six lectures." Tom took 3.091 the first year it was offered, over 50 years ago.
 - **Era:** 1960s (Tom as freshman) and present (Grossman discussion).
 
 ### Vera Kistiakowsky quantum mechanics course
 - **Anchor:** `§3.p3`, `§3.p4`
-- **canonical_cluster_id:** PROPOSED: "Vera Kistiakowsky quantum mechanics course (Eagar undergraduate)"
+- **canonical_cluster_id:** PROPOSED: Vera Kistiakowsky quantum mechanics course (Eagar undergraduate)
 - **Frame in this section:** Tom's origin story for the "two or three key points" study method. As an undergraduate junior, failing a quantum mechanics course taught by Kistiakowsky (first tenured woman in MIT physics, daughter of Nobel laureate); reads the textbook the night before the final, identifies the high points, finishes the 3-hour exam in 80 minutes, gets an A.
 - **Era:** Late 1960s.
 - **Note:** This is more "Tom's pedagogical conversion story" than a case in the engineering sense, but it's a recurring autobiographical anchor and worth tracking.

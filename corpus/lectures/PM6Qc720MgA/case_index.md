@@ -8,28 +8,28 @@ The lecture is structured around two extended teaching cases (aircraft wing rib 
 
 ### Aircraft wing rib — titanium casting substitution
 - **Anchor:** `§2.p1` through `§3.p10` (extended treatment)
-- **canonical_cluster_id:** `Aircraft wing casting substitution project`
+- **canonical_cluster_id:**"Aircraft wing casting substitution project"
 - **Frame in this lecture:** The guest lecturer's own work at a Canadian regional-jet manufacturer (Bombardier, by inference from "Canadian company competing with the Brazilians"). The wing's heated leading-edge rib was originally machined from a 3.5-inch wrought titanium plate down to ⅛-inch web thickness — extremely wasteful. The cost-reduction question was whether the rib could be cast instead. The teaching point: castings introduce a "casting factor of safety" penalty (Boeing's value cited as 1.25) that can be eliminated only by 100% NDT inspection of the casting. The argument unfolds into which surfaces (tension vs. compression) need full inspection.
 - **Materials/systems:** Ti-alloy plate, Ti-alloy casting, aluminum skin (riveted), liquid penetrant testing, fracture toughness testing
 - **Era:** roughly mid-1990s to early 2000s (10-year-old design at time of speaker's involvement; lecture given Fall 2012)
 
 ### Regional jet landing gear torsion crack
 - **Anchor:** `§4.p3` through `§4.p4`
-- **canonical_cluster_id:** `Landing gear torsional cracking failure`
+- **canonical_cluster_id:**"Landing gear torsional cracking failure"
 - **Frame in this lecture:** A parallel project at the same Canadian aircraft company. During qualification testing at twice service load, a heavy steel landing-gear structural component cracked rapidly because of a torsional loading mode that had not been analyzed (tension and bending had been; torsion had not). The teaching point: even with thorough stress analysis, full-assembly testing reveals loading modes the analysis missed, and a redesign late in the program is enormously expensive because weight is already accounted for elsewhere.
 - **Materials/systems:** heavy-section steel landing gear, possible titanium substitution
 - **Era:** roughly mid-1990s to early 2000s
 
 ### Roof joist weld failure collapses
 - **Anchor:** `§7.p5` through `§8.p7` (extended treatment)
-- **canonical_cluster_id:** `Roof joist collapse from poor welding during snow storms`
+- **canonical_cluster_id:**"Roof joist collapse from poor welding during snow storms"
 - **Frame in this lecture:** The guest's forensic experience: of nine roof-joist collapses he investigated over about a year, eight involved welding defects at the diagonal-to-chord connections. The teaching points are (1) the demand side of the design is well-specified by code (snow loads, drift loads, etc.), but (2) the capacity side depends on weld quality, which is variable in practice, and (3) the design choice of single-sided vs. two-sided welds, and of fillet welds vs. round-tube-to-flat-bar welds, materially affects both inspectability and redundancy.
 - **Materials/systems:** structural steel joists, fillet welds, round-tube-to-flat-bar joints, rectangular tube chords
 - **Era:** speaker's own forensic practice, ~late 2000s through 2012
 
 ### Greenhouse / tomato warehouse weld failure
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** `Tomato greenhouse/warehouse weld failure`
+- **canonical_cluster_id:**"Tomato greenhouse/warehouse weld failure"
 - **Frame in this lecture:** A specific instance from the guest's forensic work, illustrating low-convexity fillet welds that pulled off the chord surface rather than ripping the parent metal. Used as a concrete example of the convexity / contact-angle teaching point.
 - **Materials/systems:** structural steel joist fillet welds
 
@@ -37,12 +37,12 @@ The lecture is structured around two extended teaching cases (aircraft wing rib 
 
 ### Boston molasses flood
 - **Anchor:** `§1.p3`
-- **canonical_cluster_id:** `Boston Molasses Flood`
+- **canonical_cluster_id:**"Boston Molasses Flood"
 - **Frame in this lecture:** Cited briefly as a historical example of why large stored-liquid structures in populated areas need code-governed design. The speaker explicitly distinguishes this from the Boiler and Pressure Vessel Code lineage but uses it for the same "structures near populations need oversight" argument.
 
 ### Propeller shaft designed to fail at 400 hours
 - **Anchor:** `§9.p3` (with brief recall at `§9.p4`)
-- **canonical_cluster_id:** `Shaft designed to fail within 400 hours`
+- **canonical_cluster_id:**"Shaft designed to fail within 400 hours"
 - **Frame in this lecture:** Cited from an earlier session in the same course (the speaker says "we had that propeller shaft example") as the canonical illustration that the acceptable safety factor depends on intended service life — a shaft designed for 400 hours has a safety factor less than one against a 10-year life, and that's intentional.
 
 ### Speaker's trailer design
@@ -52,7 +52,7 @@ The lecture is structured around two extended teaching cases (aircraft wing rib 
 
 ### ATV design
 - **Anchor:** `§1.p4`
-- **canonical_cluster_id:** `Honda ATV design optimization history` (provisional — may also map to `ATV exhaust and water ingress assembly failures`)
+- **canonical_cluster_id:**"Honda ATV design optimization history" (provisional — may also map to `ATV exhaust and water ingress assembly failures`)
 - **Frame in this lecture:** Backward-reference only. Not developed in §14.
 
 ### Helicopter blade (torsion)

@@ -31,7 +31,7 @@
 
 ## §3. Blisks, single-crystal blades, and turbine economics [06:17]
 
-`§3.p1` I should have looked at the blisk on the web. The web's getting better and better — I did this morning. Here's a nice graphic of a turban [turbine] disk that is *not* a blisk. Here's your root, where the vane has to attach to the big heavy flange. With a blisk you can make the whole thing integral, which they do for the M250 engines of Rolls-Royce. The integral version is a lot lighter than this great big mass right here. So you'd like to do that because there's collateral weight savings.
+`§3.p1` I should have looked at the blisk on the web. The web's getting better and better — I did this morning. Here's a nice graphic of a turbine disk that is *not* a blisk. Here's your root, where the vane has to attach to the big heavy flange. With a blisk you can make the whole thing integral, which they do for the M250 engines of Rolls-Royce. The integral version is a lot lighter than this great big mass right here. So you'd like to do that because there's collateral weight savings.
 
 `§3.p2` *[Tom hands a single-crystal blade sample around.]* I also pass around single-crystal blades — I usually find some excuse to pass this around several times. This is from an old Pratt & Whitney engine from the 1980s. It's from the hot section — single-crystal blade. It has cooling ports, that's why I pass it around. It's been filleted; they took a wire EDM and sliced it. It was a single crystal, but it has an internal structure. They cast it for turbulent flow, so you're getting cooling of the hot gases coming through. Hot gases at three thousand degrees Fahrenheit, with a melting temperature of the blade material at twenty-four hundred degrees Fahrenheit.
 

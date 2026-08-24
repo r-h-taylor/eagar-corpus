@@ -14,7 +14,7 @@
 
 ### MIT freshman seminar on what drives technology (with Heather Hosler)
 - **Anchor:** `§8.p3`–`§8.p6`
-- **canonical_cluster_id:** PROPOSED: "MIT freshman seminar on drivers of technology (Eagar/Hosler)"
+- **canonical_cluster_id:** PROPOSED: MIT freshman seminar on drivers of technology (Eagar/Hosler)
 - **Frame in this lecture:** Tom's military-needs theory vs. Hosler's art-and-ritual theory of what drives technological development; the students' chocolate presentations; Tom's realization that students no longer use libraries.
 - **Era:** Late 1990s.
 
@@ -27,7 +27,7 @@
 
 ### Sèvres kilogram and NIST mass-redefinition program
 - **Anchor:** `§6.p3`–`§6.p5`
-- **canonical_cluster_id:** PROPOSED: "NIST kilogram redefinition via Planck's constant (2010s)"
+- **canonical_cluster_id:** PROPOSED: NIST kilogram redefinition via Planck's constant (2010s)
 - **Frame:** Tom's conversation with Catherine Gebbie at NIST. The Sèvres platinum-iridium kilogram appears to be losing ~60 micrograms per century from repeated wiping; NIST is moving to a Planck-constant-based definition.
 - **Note:** This is a *figure*-grade reference (Tom returns to the kilogram standard across lectures) rather than a forensic case proper.
 
@@ -48,12 +48,12 @@
 
 ### Charles Townes / laser patent dispute
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: "Charles Townes laser invention and patent dispute"
+- **canonical_cluster_id:** PROPOSED: Charles Townes laser invention and patent dispute
 - **Frame:** Briefly: Townes won the Nobel for the laser; there was a patent dispute resolved in the prior decade. Townes was once Provost at MIT, did the laser work at Bell Labs.
 
 ### Sketchpad / CAD history at MIT
 - **Anchor:** `§7.p11`
-- **canonical_cluster_id:** PROPOSED: "MIT Sketchpad and CAD/FEA evolution"
+- **canonical_cluster_id:** PROPOSED: MIT Sketchpad and CAD/FEA evolution
 - **Frame:** Tom's timeline of computational design — Sketchpad (1969 per Tom; actually 1963) for geometry, finite element analysis in the 1970s for stresses, properties and performance in the 1980s–90s, manufacturability still ahead.
 
 ## Figures referenced (numeric anchors, not cases)

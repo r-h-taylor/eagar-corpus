@@ -8,7 +8,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Magnesium anode in steel hot water tanks (Juarez maquiladora glass-line repair)
 - **Anchor:** `§4.p1`–`§4.p10`
-- **canonical_cluster_id:** PROPOSED: Magnesium anode in domestic steel hot water tanks
+- **canonical_cluster_id:** "Magnesium anode nickel contamination failure"
 - **Frame in this lecture:** Spine of the corrosion thread. The anode's high-purity magnesium spec (<7 ppm nickel) used to teach concentration-cell corrosion; the Juarez fabrication line used to teach how design accommodates real-world coating defects.
 - **Materials/systems:** magnesium anode, glass-lined steel tank, epoxy patch, nickel-impurity concentration cell.
 - **Era:** ongoing manufacturing practice.
@@ -23,13 +23,13 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Pierce-Arrow aluminum automobile (Andrew W. Mellon)
 - **Anchor:** `§5.p8`
-- **canonical_cluster_id:** Andrew Mellon all-aluminum Pierce Arrow automobile
+- **canonical_cluster_id:** "Andrew Mellon all-aluminum Pierce Arrow automobile"
 - **Frame in this lecture:** Passing reference inside the Alcoa antitrust history.
 - **Era:** early 20th century.
 
 ### Magnesium "mag wheels" corrosion in road salt
 - **Anchor:** `§5.p1`–`§5.p2`
-- **canonical_cluster_id:** Magnesium automobile wheels corrosion in road salt
+- **canonical_cluster_id:** "Magnesium automobile wheels corrosion in road salt"
 - **Frame in this lecture:** Why automotive magnesium retreated under the dashboard. Road salt → magnesium chloride solubility.
 - **Era:** mid-late 20th century automotive practice.
 
@@ -41,7 +41,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Magnesium automotive paint flaking
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** Magnesium automotive paint flaking failure
+- **canonical_cluster_id:** "Magnesium automotive paint flaking failure"
 - **Frame in this lecture:** Why deck lids and hood lids are aluminum, not magnesium — atmospheric corrosion under paint.
 
 ### U.S. Navy magnesium-carbon composite (metallographic polishing problem)
@@ -51,7 +51,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Aluminum chloride / hydrogen kitchen reaction (Tom's son's chemistry project)
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** Aluminum chloride kitchen reaction (personal anecdote)
+- **canonical_cluster_id:** "Aluminum chloride kitchen reaction (personal anecdote)"
 - **Frame in this lecture:** Used to illustrate aluminum chloride's instability relative to magnesium chloride; pure aluminum's protective oxide skin is the corollary.
 
 ### Alcoa Wear-Ever cookware (pure aluminum)
@@ -61,24 +61,24 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Aloha Airlines Flight 243 (corrosion fatigue, 1988)
 - **Anchor:** `§7.p3`–`§7.p5`
-- **canonical_cluster_id:** Aloha Airlines Flight 243
+- **canonical_cluster_id:** "Aloha Airlines Flight 243"
 - **Frame in this lecture:** The keel-beam-and-rib-cage architecture of pressurized aluminum airliners. Forty-five-minute average flight = forty-five-minute fatigue cycle, plus saltwater corrosion = corrosion-fatigue failure of the upper skin. Used to teach pressurization cycles as fatigue cycles.
 - **Era:** 1988.
 
 ### World Trade Center collapse (Eagar's published paper)
 - **Anchor:** `§7.p8`
-- **canonical_cluster_id:** World Trade Center collapse
+- **canonical_cluster_id:** "World Trade Center collapse"
 - **Frame in this lecture:** Methodological aside on writing about a subject when you have no specialized expertise — go back to freshman physics and chemistry. Tom's paper as an example.
 - **Era:** post-2001.
 
 ### Johnson & Johnson (Ethicon) electrocauterization tip pitting
 - **Anchor:** `§8.p9`–`§8.p11`
-- **canonical_cluster_id:** Johnson & Johnson electrocauterization device corrosion failure
+- **canonical_cluster_id:** "Johnson & Johnson electrocauterization device corrosion failure"
 - **Frame in this lecture:** Closing case for the voltage-and-bond-energy section. 100 V DC pitting on stainless steel tips at the anode; platinum tops out around 2 V, titanium around 5 V; bond-strength limit is the materials-science answer to a customer demanding a 100 V-corrosion-resistant tip.
 
 ### Kresge Auditorium lead roof (MIT)
 - **Anchor:** `§9.p4`
-- **canonical_cluster_id:** Kresge Auditorium lead roof
+- **canonical_cluster_id:** "Kresge Auditorium lead roof"
 - **Frame in this lecture:** Lead's atmospheric corrosion resistance, cheaper than copper. Brief passing reference inside the lead/terne thread.
 
 ### Terne plate (lead-coated steel) for automotive gas tanks
@@ -88,7 +88,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Eighty-five-year-old terne plate window flats (Tom's house, copper replacement)
 - **Anchor:** `§11.p2`–`§11.p3`
-- **canonical_cluster_id:** Residential window flashing corrosion and replacement
+- **canonical_cluster_id:** "Residential window flashing corrosion and replacement"
 - **Frame in this lecture:** Tom's house replaced terne plate flats with copper (not plastic, despite the price difference: $5,000 plastic vs $9,000 copper). Used to teach copper's atmospheric corrosion resistance and the role of UV degradation in plastics.
 
 ### Galvanized steel handrails — Eagle Scout paint-flaking project (1986)
@@ -99,14 +99,14 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### PEX-A electron-beam cross-linked tubing
 - **Anchor:** `§11.p4`–`§11.p9`
-- **canonical_cluster_id:** PEX (cross-linked polyethylene) brass fitting failures
+- **canonical_cluster_id:** "PEX (cross-linked polyethylene) brass fitting failures"
 - **Frame in this lecture:** Used to introduce the electron-beam cross-linking method shared with sandpaper manufacturing. Primary-bond-energy (1–3 eV) argument for why UV alone can crosslink and why most adhesives can't set at production line speeds.
 - **Era:** PEX-A patented ~1989 (per Tom: "twenty-five years ago").
 - **Note:** Tom focuses here on the manufacturing technology, not the well-known brass-fitting failure mode. The cluster's canonical name emphasizes the failure case; this lecture instance is a contextual/historical anchor only.
 
 ### Sandpaper adhesive electron-beam cross-linking
 - **Anchor:** `§11.p5`–`§11.p6`
-- **canonical_cluster_id:** Sandpaper manufacturing high-speed curing
+- **canonical_cluster_id:** "Sandpaper manufacturing high-speed curing"
 - **Frame in this lecture:** Used to motivate electron-beam cross-linking as a general manufacturing technology, before applying it to PEX-A.
 
 ### Don Sadoway's startup company (Ambri)

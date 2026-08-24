@@ -8,60 +8,60 @@ This lecture is built around the conceptual arc from Griffith's 1925 energy crit
 
 ### Liberty ships and SS Schenectady
 - **Anchor:** `§2.p1`, `§2.p3`
-- **canonical_cluster_id:** `Liberty ships and SS Schenectady`
+- **canonical_cluster_id:**"Liberty ships and SS Schenectady"
 - **Frame in this lecture:** The Liberty ship hull fractures of WWII as the historical pivot that elevated energy of fracture (Charpy toughness) from a Griffith abstraction to a Navy specification. The 1946 Navy inquiry found problem plates averaging five foot-pounds; the Navy mandated ten, then fifteen (safety factor), then twenty (Coast Guard, 1960), then sixty-to-seventy for line pipe (Alaskan pipeline era).
 - **Materials/systems:** ship plate steel; Charpy V-notch toughness.
 - **Era:** WWII through mid-1970s pipeline construction.
 
 ### Northridge earthquake
 - **Anchor:** `§2.p1`
-- **canonical_cluster_id:** `Northridge earthquake`
+- **canonical_cluster_id:**"Northridge earthquake"
 - **Frame in this lecture:** Brief reference. Used to illustrate that codes designed only to force-of-fracture (not energy-of-fracture) failed when static structures were vibrated. Five billion dollars of damage led to code revision in California.
 - **Era:** Early 1990s.
 
 ### LNG tanker steel development for cryogenic service
 - **Anchor:** `§2.p4`, `§2.p5`, `§2.p6`
-- **canonical_cluster_id:** `LNG tanker steel development for cryogenic service`
+- **canonical_cluster_id:**"LNG tanker steel development for cryogenic service"
 - **Frame in this lecture:** Tom's own work at the steel company developing minus-60°F-toughness steel for the cylindrical skirts that hold the aluminum spheres on LNG tankers built at Quincy shipyard (Bethlehem Steel → General Dynamics). Sets up the Sparrows Point runoff-plate fraud (§2.p6).
 - **Materials/systems:** carbon steel, fine grain via normalization, Charpy at –60°F.
 - **Era:** Mid-1970s.
 
 ### LNG tanker shipyard plate selection and testing circumvention
 - **Anchor:** `§2.p6`
-- **canonical_cluster_id:** `LNG tanker shipyard plate selection and testing circumvention`
+- **canonical_cluster_id:**"LNG tanker shipyard plate selection and testing circumvention"
 - **Frame in this lecture:** The runoff-plate fraud. Sparrows Point steel typically barely passed 20 foot-pound spec at ~20.5; once a month a plate would come in at 30; the yard cut that plate up into runoff tabs for *all* the other welds. They tested the best plate, not the plate going into the ship.
 - **Materials/systems:** ship plate steel; Charpy testing.
 - **Era:** Mid-1970s.
 
 ### Quincy Shipyard liquid natural gas tanker construction (mid-1970s)
 - **Anchor:** `§2.p5`, `§8.p1`
-- **canonical_cluster_id:** `Quincy Shipyard liquid natural gas tanker construction (mid-1970s)`
+- **canonical_cluster_id:**"Quincy Shipyard liquid natural gas tanker construction (mid-1970s)"
 - **Frame in this lecture:** Quincy as the construction site for the LNG tankers whose steel Tom developed. Shipyard "now closed, turning into a parking lot for imported cars." Referenced again in §8 as the origin of the tail-shaft case.
 - **Era:** Mid-1970s through ~2010.
 
 ### Prudhoe Bay offshore ice islands
 - **Anchor:** `§3.p3`
-- **canonical_cluster_id:** `Prudhoe Bay offshore ice islands`
+- **canonical_cluster_id:**"Prudhoe Bay offshore ice islands"
 - **Frame in this lecture:** Ice as a structural material. Civil engineers from MIT designed man-made islands with sloping rock walls so accreting sea ice would build up above the waterline. Cites Professor Kingery's mid-1950s ice strength research as the academic foundation.
 - **Materials/systems:** sea ice, rock-armored islands.
 - **Era:** 1970s construction; 1950s research.
 
 ### Ice fishers dynamite accident
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** `Ice fishers dynamite accident`
+- **canonical_cluster_id:**"Ice fishers dynamite accident"
 - **Frame in this lecture:** Lateral teaching aside. Minnesota or Wisconsin ice fishers used dynamite to break holes in lake ice; dog retrieved the lit stick and ran under the pickup truck. Tom's "supposedly true story" used as a caution-against-overengineering / drinking-and-engineering parable.
 - **Era:** Unspecified, anecdotal.
 
 ### LNG carrier tail shaft fracture
 - **Anchor:** `§8.p1`, `§8.p2`
-- **canonical_cluster_id:** `LNG carrier tail shaft fracture`
+- **canonical_cluster_id:**"LNG carrier tail shaft fracture"
 - **Frame in this lecture:** Mid-1980s, Philippine Sea. One of the Quincy-built LNG ships had its tail shaft fail mid-voyage between Indonesia and Japan with a full LNG cargo. Offloaded onto a returning empty ship; Learjets flew fittings halfway around the world; out-of-the-way Philippine harbor; nobody hurt. Fatigue crack grew from a casting flaw the Seattle steel shop's inspector had found and the manager had suppressed by throwing him out of the office. Crack grew over five years until shaft broke in two. Pelloux brought in for forensic analysis.
 - **Materials/systems:** large cast steel marine shaft; fatigue from casting flaw.
 - **Era:** Mid-1980s (shaft failure); five years prior, casting fraud.
 
 ### Arizona pipeline stacker bracket failure
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** `Arizona pipeline stacker bracket failure`
+- **canonical_cluster_id:**"Arizona pipeline stacker bracket failure"
 - **Frame in this lecture:** Worked example of ductile-vs-brittle visual diagnosis. Arizona, ~2015. Big forklift lifting fifty tons of pipeline pipe; the holding container failed; millions of dollars damage. From photos alone Tom saw the steel had bent before breaking — ductile, therefore overload failure. "I didn't even have to go see it."
 - **Materials/systems:** structural steel bracket; overload failure.
 - **Era:** ~2015.
@@ -70,7 +70,7 @@ This lecture is built around the conceptual arc from Griffith's 1925 energy crit
 
 ### Alaskan Pipeline construction
 - **Anchor:** `§2.p3`
-- **canonical_cluster_id:** `Alaskan Pipeline construction`
+- **canonical_cluster_id:**"Alaskan Pipeline construction"
 - **Frame:** Cited as the application driving the steel company's interest in 60-70 foot-pound toughness in the mid-1970s.
 
 ### USS Nautilus hull material context
@@ -82,7 +82,7 @@ This lecture is built around the conceptual arc from Griffith's 1925 energy crit
 
 ### Brittle centrifuge sample
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: `Brittle centrifuge sample (classroom demo)`
+- **canonical_cluster_id:** "Duplex stainless steel centrifuge brittle failure"
 - **Frame:** Tom references "my brittle centrifuge" passed around in a previous lecture. Likely maps to `Duplex stainless steel centrifuge brittle failure` or `Ethanol production centrifuge disc failures` in the canon — both plausible. Flag for reconciliation.
 
 ## Figures referenced

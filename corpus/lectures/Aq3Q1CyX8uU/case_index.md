@@ -60,7 +60,7 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### Nils Christensen and the dimensionless Rosenthal solution
 - **Anchor:** `§8.p9`–`§8.p13`
-- **canonical_cluster_id:** PROPOSED: Nils Christensen dimensionless Rosenthal solution and MIT doctoral thesis theft
+- **canonical_cluster_id:** "Niels Christensen's doctoral thesis theft and redo"
 - **Frame in this lecture:** Norwegian freedom fighter during WWII (skiing across the Sweden–Norway border), Christensen came to MIT post-war on scholarship to work with John Chipman on welding fluxes. His first doctoral thesis manuscript was lost — Tom relates Christensen's surmise that Soviet spies at MIT stole it; he redid the work in nine extra months. Later, laid up in a Trondheim hospital bed in the mid-1960s, he extended Rosenthal's solution to dimensionless form, published in the *British Welding Journal* (1966). Returned to MIT for a sabbatical in the early 1980s; now deceased.
 - **Materials/systems:** welding flux thermodynamics; dimensionless heat-flow solutions
 - **Era:** WWII; mid-1960s; early 1980s
@@ -110,7 +110,7 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### Stud welding (Friday lecture callback) and arc blow
 - **Anchor:** `§7.p9`
-- **canonical_cluster_id:** PROPOSED: Stud welding arc blow callback
+- **canonical_cluster_id:** "Arc blow magnetization in shipyard welding"
 - **Frame in this lecture:** Tom references his Friday discussion of stud welding as the original setup for the arc-blow discussion — current turning 90° through a long thin workpiece concentrates the magnetic field on the inside of the bend and pushes the arc outward.
 - **Materials/systems:** stud welding; magnetic arc blow
 - **Era:** unspecified

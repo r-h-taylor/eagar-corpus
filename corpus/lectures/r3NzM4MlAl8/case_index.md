@@ -18,12 +18,12 @@
 
 ### Lehigh University welding metallurgy tradition (Stout, Doty, Pense, Meyer)
 - **Anchor:** `§1.p4`, `§6.p4`
-- **canonical_cluster_id:** PROPOSED: "Lehigh University welding metallurgy program (1940s–1970s)"
+- **canonical_cluster_id:** PROPOSED: Lehigh University welding metallurgy program (1940s–1970s)
 - **Frame in this lecture:** Origin story for the metallurgical bias in American welding education — "if the only tool you have is a hammer." Tom names Bob Stout, *Stout & Doty Weldability of Steels* (1940s), and the migration of Lehigh graduates to US Steel for HY steel development. Returns at §6.p4 to discuss Karl Meyer's reheat-cracking thesis.
 
 ### Rensselaer welding metallurgy program (Warren Savage / Doc Savage)
 - **Anchor:** `§1.p5`
-- **canonical_cluster_id:** PROPOSED: "Rensselaer welding metallurgy program (Warren Savage)"
+- **canonical_cluster_id:** PROPOSED: Rensselaer welding metallurgy program (Warren Savage)
 - **Frame in this lecture:** Parallel to the Lehigh tradition. Doc Savage as the second great American welding metallurgy mentor, with John Lippold as one of his last students.
 
 ### HY-80 and HY-100 steel development
@@ -38,17 +38,17 @@
 
 ### Pipeline Safety Administration / DOT buried-pipe property verification
 - **Anchor:** `§3.p8`
-- **canonical_cluster_id:** PROPOSED: "Pipeline Safety Administration buried pipe property verification (2010s)"
+- **canonical_cluster_id:** PROPOSED: Pipeline Safety Administration buried pipe property verification (2010s)
 - **Frame in this lecture:** 45,000 miles of buried oil and gas distribution pipe, much of it installed in the 1940s–50s. DOT requirement that pipeline companies prove the in-ground properties. Motivates Belmar's instrumented scratch-test commercialization.
 
 ### Belmar instrumented scratch test commercialization
 - **Anchor:** `§3.p7`–`§3.p8`
-- **canonical_cluster_id:** PROPOSED: "Belmar instrumented scratch test (MIT spinout)"
+- **canonical_cluster_id:** PROPOSED: Belmar instrumented scratch test (MIT spinout)
 - **Frame in this lecture:** Brendan Belmar's MIT doctoral thesis on metal-on-metal scratching scaled to a startup deriving the full stress-strain curve from groove geometry. Coupled with the DOT buried-pipe case as the customer.
 
 ### Electric Boat new-test resistance (early career)
 - **Anchor:** `§3.p10`
-- **canonical_cluster_id:** PROPOSED: "Electric Boat resistance to new inspection techniques (early career)"
+- **canonical_cluster_id:** "Electric Boat quality control measurement resistance"
 - **Frame in this lecture:** Tom comes to Electric Boat with a new NDT method; they want to throw him out of the shipyard. Used to make the point that the field needs better tests, not more tests.
 
 ### Critical mass of management (Nazi ball bearing factory)
@@ -58,17 +58,17 @@
 
 ### MIT metallurgy department history
 - **Anchor:** `§5.p4`
-- **canonical_cluster_id:** PROPOSED: "MIT metallurgy department founding (1888)"
+- **canonical_cluster_id:** PROPOSED: MIT metallurgy department founding (1888)
 - **Frame in this lecture:** Brief institutional history — MIT founded 1865 as geology and mining; metallurgy arrives 1888 in concert with Sorby and the petrography-to-steel turn.
 
 ### Bethlehem Steel mid-1970s offshore platform lamellar tearing
 - **Anchor:** `§6.p2`–`§6.p3`
-- **canonical_cluster_id:** PROPOSED: "Bethlehem Steel offshore platform lamellar tearing (mid-1970s)"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel offshore platform lamellar tearing (mid-1970s)
 - **Frame in this lecture:** Tom's first-hand context for the lamellar tearing era. Big oil-platform plates 3–4 inches thick, 400 ppm sulfur in the steel, dirty 1911-era blast furnaces. Tom's office mate at Bethlehem worked on it.
 
 ### Karl Meyer reheat cracking doctoral thesis (Lehigh)
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** PROPOSED: "Karl Meyer reheat cracking thesis (Lehigh)"
+- **canonical_cluster_id:** PROPOSED: Karl Meyer reheat cracking thesis (Lehigh)
 - **Frame in this lecture:** Meyer was Tom's supervisor at Bethlehem Steel. His thesis identified residual sulfur, arsenic, phosphorus, and antimony as the agents of reheat cracking during stress relief.
 
 ### WWII Welded Merchant Vessel Structural Failures / Liberty Ships
@@ -78,7 +78,7 @@
 
 ### Bethlehem Steel Charpy machining workaround (machine shop foreman)
 - **Anchor:** `§7.p5`
-- **canonical_cluster_id:** PROPOSED: "Bethlehem Steel Charpy bar machining workaround"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel Charpy bar machining workaround
 - **Frame in this lecture:** Lesson about supplier relationships: time your machining requests to the foreman's slack capacity to get cheaper bars. Tom presents this as a transferable management insight.
 
 ### Quincy Shipyard LNG tanker aluminum tank skirts (Charpy testing)
@@ -98,7 +98,7 @@
 
 ### Pre-stressed concrete core test-report fraud (Boston-area lab)
 - **Anchor:** `§8.p8`
-- **canonical_cluster_id:** PROPOSED: "Pre-stressed concrete core test report fraud (Boston-area lab)"
+- **canonical_cluster_id:** PROPOSED: Pre-stressed concrete core test report fraud (Boston-area lab)
 - **Frame in this lecture:** Aside in response to a student's incredulity. Tom names (in general terms) a Boston-south test lab that issues qualification reports without receiving the cores. Used to extend the LNG test-plate point.
 
 ### Gulf of Mexico seamless pipe failure (Ohio mill)
@@ -108,12 +108,12 @@
 
 ### Bethlehem weathering steel highway bridge (US Steel chromium fingerprint)
 - **Anchor:** `§9.p10`
-- **canonical_cluster_id:** PROPOSED: "Bethlehem-vs-US-Steel weathering steel bridge fingerprint"
+- **canonical_cluster_id:** PROPOSED: Bethlehem-vs-US-Steel weathering steel bridge fingerprint
 - **Frame in this lecture:** Tom's first job at Bethlehem Steel. A highway bridge plate with terrible toughness was blamed on Bethlehem; Tom showed by chromium content that it was actually US Steel weathering-steel chemistry. Companion case to the Gulf of Mexico pipeline at §9.p3–§9.p9.
 
 ### Untempered 100 ksi plate (mill processing failure)
 - **Anchor:** `§10.p2`
-- **canonical_cluster_id:** PROPOSED: "Untempered 100 ksi bridge plate (mill processing failure)"
+- **canonical_cluster_id:** PROPOSED: Untempered 100 ksi bridge plate (mill processing failure)
 - **Frame in this lecture:** Bob Summers's scuttlebutt explanation for a plate with 160 ksi strength and 5 foot-pound Charpy toughness — it slipped through the mill without tempering.
 
 ### Submarine and rocket fastener heat-treatment recall

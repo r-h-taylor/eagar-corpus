@@ -42,13 +42,13 @@ This lecture is primarily a management/leadership session — autobiographical a
 
 ### McKinsey consulting interaction
 - **Anchor:** `§3.p6` through `§3.p7`
-- **canonical_cluster_id:** PROPOSED: "McKinsey consulting middleman pattern (Tom's experience)"
+- **canonical_cluster_id:** PROPOSED: McKinsey consulting middleman pattern (Tom's experience)
 - **Frame in this section:** Tom's account of being hired by McKinsey for materials questions, charging a premium hourly rate, and McKinsey's eventual delegation of all substantive work to Tom's junior engineer. Used as the second example of "managers vs. leaders" — McKinsey is the manager (middleman, control, markup) and the engineer is the leader (substance).
 - **Note:** Recurs across the corpus as Tom's frame for management consulting. May warrant a canonical cluster.
 
 ### 3M Minneapolis fellowship trip (Bob Brown / Bob Armstrong)
 - **Anchor:** `§5.p4`
-- **canonical_cluster_id:** PROPOSED: "3M Minneapolis MIT fellowship trip (manager-spotting anecdote)"
+- **canonical_cluster_id:** PROPOSED: 3M Minneapolis MIT fellowship trip (manager-spotting anecdote)
 - **Frame in this section:** Tom's exemplar for how to spot a "manager" in the wild — the executive who won't talk to those he considers beneath him. Bob Brown (later MIT provost, then president of Boston University) declined to engage with Tom and others on the corporate jet to/from Minneapolis.
 - **Era:** Early 1990s (Tom's predecessor was still department head, placing this before Tom's own headship)
 - **Note:** This is a personal-observation anecdote, not an industrial case, but it's a recurring teaching move ("you can actually start to spot these people if you're careful") and may warrant a cluster.

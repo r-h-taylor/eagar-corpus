@@ -16,7 +16,7 @@
 
 ### Zircaloy nuclear fuel cladding
 - **Anchor:** `§1.p11`
-- **canonical_cluster_id:** *not in aggregate v2* — PROPOSED: "Zircaloy nuclear fuel cladding (student presentation topic)"
+- **canonical_cluster_id:** PROPOSED: Zircaloy nuclear fuel cladding (student presentation topic)
 - **Frame:** Cited as an example of a topic Course 22 (Nuclear Engineering) students have presented on. Not a case Tom develops.
 
 ### Davis-Besse nuclear reactor incident
@@ -26,7 +26,7 @@
 
 ### Flying buttresses (Gothic cathedrals)
 - **Anchor:** `§1.p11`
-- **canonical_cluster_id:** *not in aggregate v2* — PROPOSED: "Gothic cathedral flying buttresses (student presentation topic)"
+- **canonical_cluster_id:** PROPOSED: Gothic cathedral flying buttresses (student presentation topic)
 - **Frame:** Cited as an example of how broad the presentation topic latitude is.
 
 ### Oklahoma gas well derrick fire

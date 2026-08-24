@@ -26,7 +26,7 @@
 
 ### Tom Eagar's electron-beam-melted engagement ring
 - **Anchor:** `§5.p2`
-- **canonical_cluster_id:** PROPOSED: Tom Eagar's electron-beam-melted engagement ring (graduate-school anecdote)
+- **canonical_cluster_id:** "Electron beam melter fatal electrocution"
 - **Frame in this lecture:** Graduate-student aside motivating the gold/iridium/platinum ranking at the top of thermodynamic nobility. Includes the "would have been a shorter wedding" near-electrocution.
 - **Materials/systems:** gold alloy; electron-beam melter.
 

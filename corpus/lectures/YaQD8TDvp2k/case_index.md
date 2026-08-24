@@ -8,14 +8,14 @@ This lecture is structured around aluminum welding design and defects, with two 
 
 ### King Street Bridge failure (Melbourne, Australia)
 - **Anchor:** `§1.p1`, `§1.p2`
-- **canonical_cluster_id:** `King Street Bridge failure`
+- **canonical_cluster_id:**"King Street Bridge failure"
 - **Frame in this lecture:** Cruciform fillet weld detail with full wrap-around at a doubler plate; hydrogen crack at the high-restraint location grew in fatigue on the tension side until the bridge collapsed. Used as the case for why modern codes prohibit wrapping welds around the ends.
 - **Materials/systems:** Welded steel girder, doubler plate, fillet welds.
 - **Era:** Mid-20th century; revisited from prior lecture.
 
 ### Cement truck pressure vessel explosion (Pennsylvania) — full case
 - **Anchor:** `§4.p1` through `§4.p12`
-- **canonical_cluster_id:** `Cement truck pressure vessel explosion (Pennsylvania)` (primary); related clusters: `Pennsylvania cement truck fatality and regulatory failure`, `Cement truck case`, `Initial cement truck tank explosion and worker leg amputation`
+- **canonical_cluster_id:**"Cement truck pressure vessel explosion (Pennsylvania)" (primary); related clusters: `Pennsylvania cement truck fatality and regulatory failure`, `Cement truck case`, `Initial cement truck tank explosion and worker leg amputation`
 - **Frame in this lecture:** Aluminum 200-gallon water tanks for cement trucks built by an Iowa subsidiary of a large defense contractor. Designed by a lawyer using exclusions in the boiler and pressure vessel code and a D.O.T. opinion to skip doubler plates around port holes. Two failures recounted: (1) Iowa hydrotest explosion that took a worker's legs off when the tanks were new; (2) Pennsylvania field failure during overpressurized weld-repair testing (100 psi shop air instead of 5 psi) that killed the welder, found in four pieces. Used to illustrate (a) doubler plate requirements at stress concentrations, (b) the National Board inspection regime under state law, (c) the cost of replacing engineering with legal interpretation. The Connecticut steering-failure embedded anecdote (§4.p3) is a sub-story illustrating muriatic acid corrosion, not a separate case.
 - **Materials/systems:** Aluminum welded pressure vessel, 55 psi service, ASME boiler and pressure vessel code, National Board inspection regime.
 - **Era:** Manufactured at scale (~100,000 units); Pennsylvania failure date implied recent.
@@ -23,13 +23,13 @@ This lecture is structured around aluminum welding design and defects, with two 
 
 ### Connecticut cement truck steering failure (embedded sub-case)
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** `Connecticut cement truck steering failure`
+- **canonical_cluster_id:**"Connecticut cement truck steering failure"
 - **Frame in this lecture:** Cement truck driver lost steering on a Connecticut bridge after muriatic acid (carried on the truck for cement cleanup) leaked through seals and corroded the steering gears. Truck and driver fell ~100 feet. Used as a tangent inside the cement truck case to motivate why cement trucks carry acid and water.
 - **Materials/systems:** Steel steering gears, hydrochloric/muriatic acid.
 
 ### Tree stand aluminum turnbuckle (White Plains, NY)
 - **Anchor:** `§7.p1`, `§7.p2`
-- **canonical_cluster_id:** `Tree stand aluminum turnbuckle lawsuit`
+- **canonical_cluster_id:**"Tree stand aluminum turnbuckle lawsuit"
 - **Frame in this lecture:** Cast aluminum turnbuckle from a hunting tree stand fractured; plaintiff's expert magnified four pores to basketball size in SEM imagery. Tom's "four ping-pong balls on a desk" analogy at trial conveyed the actual ~2% area loss to the jury. The turnbuckle was also bent — failure cause was bending overload, not porosity. Used to illustrate (a) the proportional strength-loss relationship for porosity in aluminum, (b) how to explain microstructural scale to lay audiences.
 - **Materials/systems:** Cast aluminum turnbuckle.
 - **Era:** Trial date not specified.

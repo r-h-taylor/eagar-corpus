@@ -12,7 +12,7 @@
 
 ### Bethlehem Steel high-toughness Charpy testing
 - **Anchor:** `§2.p8`
-- **canonical_cluster_id:** PROPOSED: "Tom Eagar Bethlehem Steel research engineer Charpy machine stopping"
+- **canonical_cluster_id:** PROPOSED: Tom Eagar Bethlehem Steel research engineer Charpy machine stopping
 - **Frame in this lecture:** Tom's personal anecdote — as research engineer at Bethlehem working on high-toughness steels, he routinely stopped the Charpy machine (steel too tough to break), triggering calibration requirement. Test lab ignored the requirement.
 - **Era:** Tom's Bethlehem years (early career, pre-MIT)
 

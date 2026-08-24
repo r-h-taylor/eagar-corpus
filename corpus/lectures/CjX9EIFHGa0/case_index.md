@@ -8,21 +8,21 @@ This lecture is primarily methodological (preheat determination via the structur
 
 ### Venezuelan oil boiler failure (vanadium pentoxide / chromium oxide eutectic)
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** `Venezuelan oil boiler failure`
+- **canonical_cluster_id:**"Venezuelan oil boiler failure"
 - **Frame in this lecture:** Resumption of a prior anecdote. Tom uses it as the setup to the "right answer is worth a lot of money" moral about consulting fees and John Wulff. The technical content: V₂O₅ from vanadium-rich Venezuelan crude forms a low-melting eutectic with the protective Cr₂O₃ scale on stainless steel boilers, destroying the boiler overnight.
 - **Materials/systems:** stainless steel boiler tubes; chromium oxide protective scale; vanadium pentoxide.
 - **Era:** John Wulff's active consulting period (mid-20th century).
 
 ### Tar sands vanadium pentoxide furnace problem (Alberta)
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** `Tar sands vanadium pentoxide furnace problem`
+- **canonical_cluster_id:**"Tar sands vanadium pentoxide furnace problem"
 - **Frame in this lecture:** Brief consulting engagement Tom worked on. Used to illustrate the practical legacy of the Wulff-vanadium discovery: API specifications now mandate vanadium removal from crude, and the furnaces that do that removal can only be built from two materials (a brittle ceramic, and an expensive vanadium-titanium or aluminum-titanium alloy) because vanadium pentoxide corrodes everything else.
 - **Materials/systems:** ceramic furnace lining; possibly Ti-V or Ti-Al alloy; vanadium pentoxide; tar sands crude.
 - **Era:** Tom's consulting career.
 
 ### America's Cup HY-80 keel failure (HY130, 4340 substitution)
 - **Anchor:** `§5.p1`–`§5.p5`
-- **canonical_cluster_id:** `America's Cup HY-80 keel failure`
+- **canonical_cluster_id:**"America's Cup HY-80 keel failure"
 - **Frame in this lecture:** Developed case study illustrating zone-three preheat for 4340 steel. Jerry Milgram (MIT ocean engineering) calls Tom because the HY130 keel of an America's Cup prototype bent during sea trials; four-inch HY130 was the strongest plate available and it wasn't strong enough. Tom develops a welding procedure for 4340 using the structural welding code methodology just taught.
 - **Materials/systems:** HY130 (130 ksi yield), 4340 alloy steel, four-inch plate; ~600°F preheat.
 - **Era:** ~15–20 years before 2014 (so ~1994–1999).

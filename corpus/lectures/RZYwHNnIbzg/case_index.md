@@ -15,7 +15,7 @@ The teaching arc of Lecture 15 runs from generic pressure-vessel stress relief t
 
 ### Existing 688-class HY-100 hull sections: derating decision
 - **Anchors:** `§6.p1` – `§6.p4`
-- **canonical_cluster_id:** PROPOSED: "688-class submarine HY-100 test section derating decision"
+- **canonical_cluster_id:** "USS Seawolf HY-100 hydrogen cracking"
 - **Frame in this lecture:** Two prior 688-class attack submarines had 20–40 ft HY-100 test sections built into them as a precursor to Seawolf. After the Seawolf cracks were found, the Navy asked Tom whether those existing ships had to be derated. His answer: no — increase inspection budget, the sixteenth-inch cracks won't grow fast enough to threaten ship life.
 - **Era:** 1992
 
@@ -70,7 +70,7 @@ The teaching arc of Lecture 15 runs from generic pressure-vessel stress relief t
 
 ### CANMET reactor neutron diffraction for residual stress
 - **Anchor:** `§2.p6`
-- **canonical_cluster_id:** PROPOSED: "CANMET reactor neutron diffraction residual stress measurement"
+- **canonical_cluster_id:** PROPOSED: CANMET reactor neutron diffraction residual stress measurement
 - **Frame in this section:** Mentioned as the alternative to thermal stress relief verification — bring your pressure vessel to Canada for neutron diffraction analysis. Tom's point is that this isn't practical for production work.
 
 ## Figures referenced

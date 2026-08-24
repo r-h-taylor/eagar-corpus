@@ -89,7 +89,7 @@
 ### Naval Surface Warfare Center particle beam weapon development
 - **Anchor:** *not referenced* — but the SQUID detector / satellite magnetometer concern is adjacent.
 
-### PROPOSED: US Navy SQUID magnetic anomaly detection program
+### US Navy SQUID magnetic anomaly detection program
 - **Anchor:** `§5.p4`
 - **canonical_cluster_id:** PROPOSED: US Navy SQUID magnetic anomaly detection program
 - **Frame in this lecture:** Late 1980s Navy concern that Soviet satellites equipped with HTSC-based SQUID detectors would render steel-hulled submarines visible from orbit. The applied motivation for both titanium and stainless-steel submarine programs.
@@ -138,13 +138,13 @@
 ### MIT Commission on Industrial Productivity - Steel Industry Study
 - **Anchor:** *not directly referenced* — but the surrounding HBS / AISI / Kim Clark material sits in the same intellectual neighborhood. Not classified as a referenced case here.
 
-### PROPOSED: Kim Clark Harvard Business School career arc
+### Kim Clark Harvard Business School career arc
 - **Anchor:** `§7.p1`–`§7.p5`
 - **canonical_cluster_id:** PROPOSED: Kim Clark Harvard Business School career arc
 - **Frame in this lecture:** Tom's contemporary at Harvard (he was at HBS while Tom was at MIT). Cub Scout father (built the bad Pinewood Derby track). Paid honoraria by AISI to advise on decisions, including the Armco case which he characterized as a "good decision." Eventually Dean of HBS. The personal-history anchor for Tom's MIT-vs-HBS thesis.
 - **Note:** This may be a recurring corpus character; check aggregate for "Kim Clark" before canonicalizing.
 
-### PROPOSED: Morris Chang / Taiwan Semiconductor Manufacturing
+### Morris Chang / Taiwan Semiconductor Manufacturing
 - **Anchor:** `§8.p1`, `§8.p2`
 - **canonical_cluster_id:** PROPOSED: Morris Chang / Taiwan Semiconductor Manufacturing
 - **Frame in this lecture:** Tom's student Nun-Sen Tsai (welding heat flow thesis) becoming one of Chang's right hands at TSMC, but losing the succession to a Stanford materials-and-business student. Used as the closing example of MIT producing technicians-to-leaders rather than leaders.

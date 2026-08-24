@@ -6,14 +6,14 @@
 
 ### National lab stainless steel welding in glove boxes
 - **Anchor:** `§6.p7`
-- **canonical_cluster_id:** `National Lab stainless steel welding in glove boxes`
+- **canonical_cluster_id:**"National Lab stainless steel welding in glove boxes"
 - **Frame in this lecture:** Balmforth's prior employment, mentioned to motivate the inert-atmosphere requirement for stainless welding. He used glove boxes "because we wanted to be very careful that there was no outside contamination at all." Used as a one-sentence example of how far one might go to control oxidation during stainless welding.
 - **Materials/systems:** stainless steel, inert-gas welding, glove-box atmosphere control.
 - **Era:** unspecified (Balmforth's pre-MIT or pre-consulting employment).
 
 ### Stainless steel pipes with bleach storage
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** `Stainless steel pipes with bleach storage`
+- **canonical_cluster_id:**"Stainless steel pipes with bleach storage"
 - **Frame in this lecture:** Balmforth's domestic example of chloride-induced stress corrosion cracking: "if you've got stainless steel pipes under your sink and that's where you store your bleach, sometimes it can be a problem." Used as the everyday illustration of the chloride-environment caution that runs through §6.p2.
 - **Materials/systems:** austenitic stainless steel, chloride exposure, stress corrosion cracking.
 - **Era:** generic / didactic.

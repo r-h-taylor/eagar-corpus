@@ -28,7 +28,7 @@ The lecture's structural spine is the Chaparral Steel case as a worked example o
 
 ### Chaparral recycling project (cement, foam, Motorola wastewater)
 - **Anchors:** `§6.p2`–`§6.p5`
-- **canonical_cluster_id:** "PROPOSED: Chaparral recycling project (cement plant, automobile foam, Motorola arsenic wastewater)"
+- **canonical_cluster_id:** "Chaparral Steel"
 - **Frame in this lecture:** vertically integrated recycling — automobile shredding → steel scrap; foam cushions → cement kiln fuel; Motorola semiconductor wastewater → arsenic-bearing cement input. Secretary's "is it like car exhaust?" framing solved their public-relations problem with the Midlothian City Council.
 - **Materials/systems:** scrap steel, foam polyurethane, arsenic-bearing wastewater, Portland cement.
 - **Era:** 1994.
@@ -90,7 +90,7 @@ The lecture's structural spine is the Chaparral Steel case as a worked example o
 
 ### Armco Steel benchmarking anecdote
 - **Anchor:** `§3.p5`
-- **canonical_cluster_id:** "PROPOSED: Armco Steel Houston benchmarking failure (CF&I Pueblo gate-tour anecdote)"
+- **canonical_cluster_id:** PROPOSED: Armco Steel Houston benchmarking failure (CF&I Pueblo gate-tour anecdote)
 - **Frame:** the Armco Houston steel engineer who in thirty years had visited only one other steel plant (CF&I Pueblo, by stopping at the gate on vacation). Used to illustrate integrated-producer cultural insularity.
 
 ### MIT Commission on Industrial Productivity (NIST competitiveness anecdote)
@@ -105,17 +105,17 @@ The lecture's structural spine is the Chaparral Steel case as a worked example o
 
 ### LFM (Leaders for Manufacturing) Chaparral study
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** "PROPOSED: LFM (Leaders for Manufacturing) project Chaparral case study (early 1990s, with Steve Wheelwright)"
+- **canonical_cluster_id:** PROPOSED: LFM (Leaders for Manufacturing) project Chaparral case study (early 1990s, with Steve Wheelwright)
 - **Frame:** the early-1990s study tour with HBS's Steve Wheelwright that surfaced the "no blame for failed projects" Chaparral culture.
 
 ### Homer Research Labs (Bethlehem Steel)
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** "PROPOSED: Bethlehem Steel Homer Research Labs (mid-1960s build, post-bankruptcy donation to Lehigh)"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel Homer Research Labs (mid-1960s build, post-bankruptcy donation to Lehigh)
 - **Frame:** six-hundred-million-dollar mid-1960s research lab; given to Lehigh after Bethlehem's bankruptcy.
 
 ### American Iron and Steel Institute Orlando talk (1991)
 - **Anchor:** `§7.p6`
-- **canonical_cluster_id:** "PROPOSED: AISI presidents Orlando resort talk (1991, Tom on why steel matters)"
+- **canonical_cluster_id:** PROPOSED: AISI presidents Orlando resort talk (1991, Tom on why steel matters)
 - **Frame:** Tom's 1991 invited talk at a $1,000/night gated Orlando resort to the presidents of the American Iron and Steel Institute, used as evidence of integrated-producer waste.
 
 ## Figures referenced (not cases)

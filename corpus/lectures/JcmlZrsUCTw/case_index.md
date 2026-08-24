@@ -31,7 +31,7 @@ This lecture is the closing session of the Fusion Welding short course. The firs
 
 ### MIT perfect mirror (Yoel Fink doctoral work)
 - **Anchor:** `§4.p5`
-- **canonical_cluster_id:** PROPOSED: "Yoel Fink perfect mirror / Bragg fiber development"
+- **canonical_cluster_id:** PROPOSED: Yoel Fink perfect mirror / Bragg fiber development
 - **Frame in this lecture:** MIT doctoral thesis ~1998 developing dielectric mirror via index-of-refraction layering, with quantum-confined reflection. First application: laser surgery fiber optics. Now used for higher-power laser welding.
 - **Note:** new cluster (not in aggregate). Tom returns to Fink work in other lectures; suggested promotion to canonical case pending corpus search.
 

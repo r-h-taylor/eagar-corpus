@@ -37,7 +37,7 @@
 
 ### Generator rotor forging (US Steel or Bethlehem Steel)
 - **Anchor:** `§4.p4`
-- **canonical_cluster_id:** "French electrical generator rotor forging failure" (likely a different case) — **PROPOSED: US Steel / Bethlehem Steel generator rotor forging facility**
+- **canonical_cluster_id:** PROPOSED: US Steel / Bethlehem Steel generator rotor forging facility
 - **Frame in this lecture:** Six-story-tall forging facility, originally used for WWI battleship gun barrels. 450-ton ingot → 200-ton forging after oxide loss and machining. Only one such facility remaining in the US; Bethlehem's steel plant is now an amusement park.
 - **Materials/systems:** Heavy-section forging, battleship gun barrels, generator rotors.
 - **Era:** WWI through 2011.

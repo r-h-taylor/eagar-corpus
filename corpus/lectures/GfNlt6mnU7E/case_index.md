@@ -41,7 +41,7 @@ This lecture is primarily a technical exposition of welding codes and aluminum m
 
 ### Werner Ladder Company extrusion
 - **Anchor:** `§6.p2`
-- **canonical_cluster_id:** "PROPOSED: Werner Ladder Company extrusion temper case"
+- **canonical_cluster_id:** PROPOSED: Werner Ladder Company extrusion temper case
 - **Frame in this lecture:** Used to illustrate T1 temper — extrusion heat itself serves as the solutionizing treatment; the ladder rail ages naturally as it cools in the plant. A teaching scenario rather than a documented failure case.
 - **Materials/systems:** Aluminum extrusion, T1 temper.
 

@@ -26,7 +26,7 @@
 
 ### General Electric aerospace fuel nozzle (additive)
 - **Anchor:** `§3.p2`
-- **canonical_cluster_id:** PROPOSED: "GE aerospace fuel nozzle additive manufacturing case"
+- **canonical_cluster_id:** PROPOSED: GE aerospace fuel nozzle additive manufacturing case
 - **Frame in this lecture:** Cited as the standard example of why additive manufacturing wins on functional complexity — twenty parts collapsed into one with internal cooling features that couldn't be machined.
 - **Materials/systems:** GE LEAP engine fuel nozzle (likely)
 - **Era:** mid-2010s
@@ -55,13 +55,13 @@
 
 ### NASA deep-space mission and Mars program (potato chips comparison)
 - **Anchor:** `§7.p4`, `§7.p5`
-- **canonical_cluster_id:** PROPOSED: "MIT faculty mission-to-Mars budget argument (Philadelphia alumni event, ~1994)"
+- **canonical_cluster_id:** PROPOSED: MIT faculty mission-to-Mars budget argument (Philadelphia alumni event, ~1994)
 - **Frame in this lecture:** Tom recounts an MIT colleague's argument that the US could afford a Mars program because Americans spend more annually on potato chips. Tom's rebuttal: if you polled Americans, they'd choose the chips.
 - **Era:** ~1994 alumni event recollection
 
 ### Pittsburgh Plate Glass / gallium arsenide as moon-program spinoff
 - **Anchor:** `§7.p5`
-- **canonical_cluster_id:** *no exact match* — Tom credits the Apollo program with gallium arsenide development. Cluster might be PROPOSED: "Apollo program materials spinoffs (gallium arsenide, GPS)" but the reference is glancing and not a developed case.
+- **canonical_cluster_id:** PROPOSED: Apollo program materials spinoffs (gallium arsenide, GPS)
 
 ### Texas chemical plant explosion / Chemical Safety Board
 - **Anchor:** `§1.p6`

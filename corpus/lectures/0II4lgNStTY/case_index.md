@@ -131,7 +131,7 @@ This lecture is structured around the heavy-section titanium welding problem (Se
 
 ### Unspecified consulting case — Caterpillar inspection technique
 - **Anchor:** `§2.p11`
-- **canonical_cluster_id:** PROPOSED: "Caterpillar weld inspection student project (2015)"
+- **canonical_cluster_id:** PROPOSED: Caterpillar weld inspection student project (2015)
 - **Frame:** current student case (week-of-lecture email). Manager doesn't want a new inspection technique because it creates a new specification compliance burden. Used to parallel Tom's own 1985 Electric Boat experience.
 
 ## Figures referenced

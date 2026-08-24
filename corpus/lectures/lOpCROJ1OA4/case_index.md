@@ -37,14 +37,14 @@ This lecture is structured around aluminum alloy metallurgy and temper designati
 
 ### Hall-Héroult aluminum refining discovery (1888)
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** PROPOSED: "Hall-Héroult aluminum refining discovery (1888)"
+- **canonical_cluster_id:** PROPOSED: Hall-Héroult aluminum refining discovery (1888)
 - **Frame in this lecture:** Simultaneous independent invention by Charles Martin Hall (founder of Alcoa) and Paul Héroult of France, within two months of each other and with no communication. This is the foundational moment for cheap aluminum.
 - **Materials/systems:** Aluminum smelting.
 - **Era:** 1888.
 
 ### Alcan-Péchiney merger and Novelis Skooter co-cast Alclad
 - **Anchor:** `§1.p1`, `§1.p4`
-- **canonical_cluster_id:** PROPOSED: "Novelis Skooter co-cast Alclad process"
+- **canonical_cluster_id:** PROPOSED: Novelis Skooter co-cast Alclad process
 - **Frame in this lecture:** Modern Alclad manufacture. Traditional roll-bonding of pure-aluminum cladding onto a high-strength aluminum-alloy core had ~15% yield. Novelis (Alcan/Péchiney merger entity) developed co-casting that gives ~100% yield. Outside skin of Airbus aircraft is Alclad of this type.
 - **Materials/systems:** Pure aluminum cladding on 2xxx/7xxx aluminum alloy cores.
 - **Era:** Roll-bond process: 1930s–2000s. Co-cast process: ~2005–2010 adoption.

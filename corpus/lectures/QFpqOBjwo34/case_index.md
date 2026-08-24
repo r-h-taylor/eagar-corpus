@@ -23,7 +23,7 @@
 
 ### Ohio automotive supplier emergency call from Honda
 - **Anchor:** `§5.p2`, `§5.p3`
-- **canonical_cluster_id:** PROPOSED: Ohio automotive supplier emergency call from Toyota
+- **canonical_cluster_id:** "Toyota supplier quality crisis (1990s)"
 - **Frame in this lecture:** 1990s Columbus, Ohio. A Tier-1 supplier to Honda/GM/Ford/Chrysler arrived 45 minutes late to a dinner because Toyota had summoned him to fix a parts problem same-day. Used to contrast Japanese collaborative supplier management with GM's adversarial "fix it by 9 AM or we sue" approach.
 - **Note:** Canonical cluster lists "Honda" but Tom's actual story is about Toyota. The supplier sold to all four (Honda, GM, Ford, Chrysler), but the same-day-summons anecdote is specifically about Toyota. Suggest cluster rename or split.
 

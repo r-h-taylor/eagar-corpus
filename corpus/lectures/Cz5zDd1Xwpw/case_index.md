@@ -8,14 +8,14 @@ This is a procedurally-oriented lecture on welding codes, with the metallurgical
 
 ### Pentium 2 two-chip package (residual stress limit on chip size)
 - **Anchor:** `§1.p4`
-- **canonical_cluster_id:** PROPOSED: Pentium 2 two-chip package and one-centimeter joining limit
+- **canonical_cluster_id:** "Pentium 6 / Early 1990s large-format chip bonding"
 - **Frame in this lecture:** Tom's tour of an Intel plant in the late 1990s revealed that the Pentium 2, unlike the original Pentium, was actually two chips in one package — because you couldn't join something more than about one centimeter on a side without cracking from residual soldering/brazing stresses. Used to undermine the redefinition of Moore's Law.
 - **Era:** late 1990s
 - **Materials/systems:** silicon chip joining, residual stress, solder/braze
 
 ### Bell Helicopter mast electroplating and hydrogen bakeout
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** Bell Helicopter mast hydrogen cracking prevention
+- **canonical_cluster_id:** "Bell Helicopter mast hydrogen cracking prevention"
 - **Frame in this lecture:** Critical non-welded high-strength steel part. Electroplated for corrosion resistance; within five minutes of leaving the plating bath it goes into the hydrogen bakeout oven, because the steel is high-strength and there's no redundancy — mast failure means loss of blades and no possibility of auto-rotation.
 - **Materials/systems:** high-strength steel mast, electroplating, hydrogen embrittlement, bakeout
 - **Era:** unspecified (Tom has flown the Bell 407, so contemporary)
@@ -29,14 +29,14 @@ This is a procedurally-oriented lecture on welding codes, with the metallurgical
 
 ### Hovering helicopter engine-loss fatalities
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** PROPOSED: hovering helicopter engine-loss fatalities and operating-envelope litigation
+- **canonical_cluster_id:** "Helicopter engine loss lawsuits"
 - **Frame in this lecture:** Tom references "a couple of situations" where pilots lost engines while hovering with no forward momentum, dropped, and died, leading to lawsuits over whether they should have been in the dead-zone of the operating envelope. Used to make the point that hovering is more dangerous than flying.
 - **Era:** unspecified
 - **Note:** Tom is plural ("a couple of situations") — this may aggregate multiple individual consulting cases. Flag for editor.
 
 ### Seawolf submarine hydrogen cracking
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** Seawolf submarine hydrogen cracking
+- **canonical_cluster_id:** "Seawolf submarine hydrogen cracking"
 - **Frame in this lecture:** The principal forensic case of the lecture. The Seawolf was supposed to be welded with HY-100 (100 ksi) steel, but high-side chemistry on every alloying element (carbon, manganese, chromium) drove the weld metal strength to 130 ksi with martensitic rather than acicular-ferrite structure. Hydrogen cracking ensued. Repair cost an additional $2 billion, doubling the submarine's price; Congress was unhappy. Only one Seawolf-class was built, partly for this reason and partly because the Cold War ended.
 - **Materials/systems:** HY-100 steel, martensite, acicular ferrite, hydrogen embrittlement
 - **Era:** late 1980s / early 1990s
@@ -44,7 +44,7 @@ This is a procedurally-oriented lecture on welding codes, with the metallurgical
 
 ### America's Cup 4340 yacht welding (foreshadowed)
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** America's Cup 4340 welding procedure development
+- **canonical_cluster_id:** "America's Cup 4340 welding procedure development"
 - **Frame in this lecture:** Foreshadowed at the end of the layer 2 cut — Tom is about to launch into the case where a client wanted to use 4340 (a high-hardenability, >180 ksi steel requiring 600°F preheat and post-weld heat treatment) for racing yacht components. Will be developed in the next portion of the lecture.
 
 ## Figures referenced

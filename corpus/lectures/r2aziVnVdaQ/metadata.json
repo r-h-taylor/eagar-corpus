@@ -179,5 +179,8 @@
   ],
   "course_canonical": "Codes and Standards",
   "course_module": "Codes and Standards",
-  "corpus_id": "CS_F2012_10"
+  "corpus_id": "CS_F2012_10",
+  "visible": false,
+  "instructor": "guest",
+  "guest_note": "Simone Belmar"
 }

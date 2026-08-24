@@ -39,19 +39,19 @@
 
 ### Christopher Schuh ultra-fine-grain nickel-tungsten alloys
 - **Anchor:** `§8.p4`
-- **canonical_cluster_id:** PROPOSED: "Schuh ultra-fine-grain nickel-tungsten alloy commercialization"
+- **canonical_cluster_id:** PROPOSED: Schuh ultra-fine-grain nickel-tungsten alloy commercialization
 - **Frame in this lecture:** Tom characterizes his MIT colleague Christopher Schuh's tenure work and commercial venture (nickel-tungsten alloy with stabilized ultra-fine grain due to poor mutual solubility and tungsten's low diffusivity). Used as the modern follow-on to Backofen's unsolved grain-stabilization problem from §8.p1-3.
 - **Era:** roughly 2000s-2010s (Schuh's MIT tenure work)
 
 ### Coble creep / Nabarro creep mechanism naming
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** PROPOSED: "Coble doctoral thesis at General Electric"
+- **canonical_cluster_id:** PROPOSED: Coble doctoral thesis at General Electric
 - **Frame in this lecture:** Tom recounts that Coble was Ashby's student at Harvard who did his doctoral thesis at General Electric, invented Coble creep, and came back to MIT as a faculty member during Tom's student years. Nabarro identified as a South African metallurgist. Not a developed case — purely biographical anchor for the creep mechanisms.
 - **Era:** 1950s-1960s (Coble's PhD era); Tom as student (1970s)
 
 ### David Holt's MIT tenure denial
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** PROPOSED: "David Holt MIT tenure denial and Episcopalian ministry"
+- **canonical_cluster_id:** PROPOSED: David Holt MIT tenure denial and Episcopalian ministry
 - **Frame in this lecture:** Tom mentions that David Holt — Backofen's collaborator on the M-value plots in this section — was hired as an assistant professor at MIT, didn't get tenure, and "went off to become an Episcopalian minister." Used as biographical color for the figure he's discussing.
 - **Era:** roughly 1970s
 

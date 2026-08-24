@@ -42,27 +42,27 @@ This lecture is structured around two paired case studies from Tufte (a "success
 
 ### National Ignition Facility (NIF) and the dual-use laser
 - **Anchor:** `§5.p12`
-- **canonical_cluster_id:** PROPOSED: "Lawrence Livermore National Ignition Facility dual-use"
+- **canonical_cluster_id:** PROPOSED: Lawrence Livermore National Ignition Facility dual-use
 - **Frame in this lecture:** Tom's neighbor's visit to Lawrence Livermore. Tom explains to her that NIF's stated mission (fusion energy) is cover for the real mission (simulating nuclear weapons effects after the test ban). Used as a parallel to the space-laser-on-the-shuttle case to teach how military programs are described to the public versus to Congress.
 - **Era:** post-1996 (Comprehensive Test Ban Treaty); anecdote ca. early 2010s.
 - **Note:** May overlap with existing clusters on Lawrence Livermore or weapons-lab visits; flagged as proposed because no exact match in the aggregate.
 
 ### Space-based laser weapon and the cargo bay
 - **Anchor:** `§5.p9`–`§5.p10`
-- **canonical_cluster_id:** PROPOSED: "Space-based chemical laser weapon (Rockwell, 1978)"
+- **canonical_cluster_id:** PROPOSED: Space-based chemical laser weapon (Rockwell, 1978)
 - **Frame in this lecture:** Tom triangulates the classified laser-weapon design from three unclassified sources — Air Force 50 MW superconducting generator program, chemical laser efficiency at 10%, and Professor Bowen's one-meter potassium-chloride window forging at Lincoln Lab. Friend at Rockwell confirms the figure and the cargo-bay fit. Used to argue the shuttle's real purpose was military.
 - **Materials/systems:** Potassium chloride / fluoride / cesium chloride single crystals; chemical lasers; superconducting generators.
 - **Era:** ca. 1978.
 
 ### Lester Thurow lecture fees
 - **Anchor:** `§2.p3`
-- **canonical_cluster_id:** PROPOSED: "Lester Thurow lecture-circuit economics"
+- **canonical_cluster_id:** PROPOSED: Lester Thurow lecture-circuit economics
 - **Frame in this lecture:** $30,000-per-lecture in 1988 as benchmark for what top lecturers earn — and an argument that they don't use PowerPoint.
 - **Note:** May be a recurring Eagar anchor; flagged as proposed pending corpus search.
 
 ### Edward Tufte seminar and book economics
 - **Anchor:** `§1.p1`–`§1.p4`, `§2.p3`
-- **canonical_cluster_id:** PROPOSED: "Edward Tufte information-display pedagogy"
+- **canonical_cluster_id:** PROPOSED: Edward Tufte information-display pedagogy
 - **Frame in this lecture:** The seminar ($500/day × 200 attendees = $100K/day), the four books on acid-free vellum, the handout pricing negotiation. Used as the source for the Napoleon's-march graph and the PowerPoint-Gettysburg satire.
 - **Note:** Tufte himself is not an engineering case, but his Challenger / Snow analysis is the teaching frame for the whole first half of the lecture. Proposed as a methodological cluster.
 

@@ -57,7 +57,7 @@ This lecture is primarily a history-of-welding and history-of-steelmaking lectur
 
 ### Russian submarine commissioning photo leak (Fox News)
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** PROPOSED: Russian submarine commissioning photo intelligence leak
+- **canonical_cluster_id:** "Russian submarine hull thickness intelligence"
 - **Frame in this lecture:** A briefly visible curtain flap during commissioning ceremony revealed double-hull construction; subsequently used in computer simulations of weapon-damage scenarios. Tom uses it as illustration of why hull-thickness measurement is classified.
 - **Note:** This paragraph is the most heavily garbled in the lecture; flagged for human review.
 

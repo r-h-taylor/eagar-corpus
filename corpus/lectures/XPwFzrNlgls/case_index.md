@@ -6,7 +6,7 @@
 
 ### Bob Rose freshly made light bulb demonstration
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** Bob Rose light bulb classroom demonstration
+- **canonical_cluster_id:** "Bob Rose light bulb classroom demonstration"
 - **Frame in this lecture:** Substitute retells Eagar's story about his thesis advisor Bob Rose collecting fresh light bulbs from a North Shore Boston manufacturer; freshly made glass can be bounced without breaking, but oxygen diffusion onto the glass surface over a single class period creates micro-cracks that make it brittle.
 - **Materials/systems:** soda-lime glass, oxygen surface diffusion
 - **Era:** mid-20th-century / Rose's teaching career
@@ -20,14 +20,14 @@
 
 ### MIT Building 56/66 glass panel fracture (Fall 2016)
 - **Anchor:** `§5.p1`, `§5.p6`
-- **canonical_cluster_id:** MIT Building 56/66 glass panel spontaneous breakage
+- **canonical_cluster_id:** "MIT Building 56/66 glass panel spontaneous breakage"
 - **Frame in this lecture:** Substitute walked in from the T and noticed a fractured glass panel on building 56 (or 66). Facilities reported this was not the first panel to break in that location. The morning of the lecture, crews were replacing multiple panels — not just the broken one. Treated as a live, on-campus illustration of how thermal stress, installation defects, or inclusions can cause spontaneous fracture, and as a hint at the cost and litigation that follows.
 - **Materials/systems:** architectural glass, IGU
 - **Era:** Fall 2016
 
 ### China glass bridge high-heel fracture
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** China glass bridge high-heel impact fracture
+- **canonical_cluster_id:** "China glass bridge high-heel impact fracture"
 - **Frame in this lecture:** A glass bridge in China — opened the year prior — had a panel fracture after a woman in high heels stepped on it. The fracture was contained by the three-layer IGU redundancy. Used to illustrate why multilayer IGU is specified for safety-critical applications.
 - **Materials/systems:** three-layer IGU laminated safety glass
 - **Era:** ~2015–2016
@@ -41,14 +41,14 @@
 
 ### London conical building solar focusing incident
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** London conical building solar focusing incident
+- **canonical_cluster_id:** "London conical building solar focusing incident"
 - **Frame in this lecture:** Substitute recounts a London building (unnamed, likely 20 Fenchurch Street / "Walkie-Talkie") whose curved glass curtain wall focused sunlight onto a spot across the street hot enough to melt car hoods. The same designer reportedly had this issue on two or three buildings. Used to illustrate that sunlight angle and building geometry can create unforeseen thermal stress loading on glass panels.
 - **Materials/systems:** curved glass curtain wall
 - **Era:** ~2013 (Walkie-Talkie incident)
 
 ### Nickel sulfide inclusion spontaneous glass breakage
 - **Anchor:** `§7.p1`, `§7.p2`, `§7.p3`, `§7.p4`
-- **canonical_cluster_id:** Nickel sulfide inclusion spontaneous glass breakage
+- **canonical_cluster_id:** "Nickel sulfide inclusion spontaneous glass breakage"
 - **Frame in this lecture:** Tempered glass with nickel sulfide inclusions trapped mid-thickness can fracture spontaneously after years in service. The α-to-β phase change in nickel sulfide produces a volume expansion that imposes tensile stress on the surrounding glass, eventually exceeding its tensile strength. Diagnostic signature: figure-8 / butterfly fracture pattern; spherical inclusion confirmed by stereo microscopy and SEM/EDS (with gold sputter coating).
 - **Materials/systems:** tempered soda-lime glass, NiS inclusions
 - **Era:** general phenomenon

@@ -65,7 +65,6 @@ This lecture pivots between cost-of-materials framing (§1–§3), conceptual de
 
 ### MIT "No Knife" hack
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: MIT "No Knife" gallery hack
 - **Frame in this section:** MIT hack lore. Students installed a place setting (tray, glass, plate, fork, spoon — no knife) in Building 10 lobby gallery space ~20–25 years prior, with an existentialist artist statement.
 - **Era:** ~1988–1993
 
@@ -110,7 +109,6 @@ This lecture pivots between cost-of-materials framing (§1–§3), conceptual de
 
 ### Henry Petroski, *To Engineer is Human*
 - **Anchor:** `§9.p3`
-- **canonical_cluster_id:** PROPOSED: Petroski "To Engineer is Human" reference
 - **Frame in this section:** Tom holds the book. Petroski as Duke professor elected to NAE the same year as Tom for this work. Theme: we only learn from our mistakes; we build bigger until something fails. References Hyatt Regency and *Challenger*.
 
 ### Hyatt Regency walkway collapse (referenced)

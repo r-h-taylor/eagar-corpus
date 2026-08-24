@@ -8,32 +8,32 @@ This is a survey lecture on steel — history, metallurgy, processes, productivi
 
 ### Saugus Iron Works
 - **Anchor:** `§3.p2`, also `§10.p1`
-- **canonical_cluster_id:** Saugus Ironworks
+- **canonical_cluster_id:** "Saugus Ironworks"
 - **Frame in this lecture:** Early-American blast furnace; used as the baseline productivity datum (~3000 person-hours/ton circa 1600) in the productivity curve at §10.
 - **Materials/systems:** charcoal, limestone, iron ore; bellows-driven blast furnace
 - **Era:** ~1600s
 
 ### Czechoslovak high-manganese ore
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** Czechoslovak high-phosphorus ore steel cracking
+- **canonical_cluster_id:** "Czechoslovak high-phosphorus ore steel cracking"
 - **Frame in this lecture:** Tom credits a Czech manganese-bearing ore for enabling sulfur tolerance in early steelmaking. *Note: this may be a different incident from the canonical cluster, which is phosphorus-related. Flagged for cluster reconciliation.*
 - **Era:** pre-Bessemer
 
 ### Bethlehem Steel and Charles Schwab
 - **Anchor:** `§3.p6`, `§4.p1`, `§4.p3`, `§6.p4`, `§6.p5`, `§6.p9`, `§8.p1`, `§8.p4`, `§8.p6`, `§10.p3`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel history (Schwab founding, Burns Harbor, Homer research lab)
+- **canonical_cluster_id:** "Bethlehem Steel Burns Harbor"
 - **Frame in this lecture:** Threaded through the lecture. Schwab founds Bethlehem after Carnegie fight; Bethlehem learns to roll I-beams (skyscraper enabler); Bethlehem develops hot-work tool steels; Bethlehem builds Burns Harbor in 1964 (last US private greenfield integrated mill) which nearly bankrupts the company; Tom joins in 1974 right after their peak year; Bethlehem ultimately goes bankrupt and Burns Harbor is sold for ten cents on the dollar. The Homer research lab ($600M in mid-1960s) is Tom's reference point for steel-industry technological seriousness.
 - **Era:** 1900s–early 2000s
 
 ### Burns Harbor, Indiana integrated mill
 - **Anchor:** `§6.p4`, `§8.p1`, `§8.p4`, `§8.p6`
-- **canonical_cluster_id:** Bethlehem Steel Burns Harbor
+- **canonical_cluster_id:** "Bethlehem Steel Burns Harbor"
 - **Frame in this lecture:** Last private-company integrated steel mill in the US; cost $5B in 1964; nearly bankrupted Bethlehem; ingot-cast rather than continuous-cast at startup (a strategic mistake); ultimately sold to ISG/Mittal for cents on the dollar after Bethlehem's bankruptcy.
 - **Era:** 1964–2000s
 
 ### Edison continuously poured concrete house
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** Thomas Edison concrete homes
+- **canonical_cluster_id:** "Thomas Edison concrete homes"
 - **Frame in this lecture:** Edison's patented one-pour concrete house design (patent ~1,219,000-something), with shingles, filigrees, and porch cast in place. Tom notes one was actually built.
 - **Era:** early 1900s
 
@@ -51,35 +51,35 @@ This is a survey lecture on steel — history, metallurgy, processes, productivi
 
 ### US Steel basic open hearth (early 1970s)
 - **Anchor:** `§7.p2`, `§7.p5`
-- **canonical_cluster_id:** U.S. Steel's last large open hearth furnace
+- **canonical_cluster_id:** "U.S. Steel's last large open hearth furnace"
 - **Frame in this lecture:** Tom's central indictment of US Steel management: in the early 1970s, after BOF had been proven for a decade, US Steel built the last large open hearths (450-ton capacity) at ~$1B cost. "Billion-dollar dinosaurs."
 - **Era:** early 1970s
 - **Cross-references:** U.S. Steel leadership denial of Japanese steel technology superiority; US Steel industry decline and management failure
 
 ### Linz, Austria basic oxygen furnace development
 - **Anchor:** `§7.p3`, `§7.p4`, `§7.p5`
-- **canonical_cluster_id:** Basic oxygen furnace introduction in Austria
+- **canonical_cluster_id:** "Basic oxygen furnace introduction in Austria"
 - **Frame in this lecture:** Post-WWII Austrians, lacking capital to compete with US Big Steel, innovate the BOF using liquefied oxygen (a German WWI-era process); make 300 tons in 20 minutes vs. open-hearth 450 tons in 24 hours.
 - **Era:** post-WWII
 
 ### Continuous casting development (Japan, 1960s)
 - **Anchor:** `§8.p2`, `§8.p5`, `§8.p6`, `§10.p2`
-- **canonical_cluster_id:** Continuous casting and steel industry capacity collapse
+- **canonical_cluster_id:** "Continuous casting and steel industry capacity collapse"
 - **Frame in this lecture:** Continuous casting raises buy-to-fly ratio from 65% (ingot) to 97%; another billion-dollar process innovation the integrated US producers were slow to adopt. Bethlehem and Armco both put in ingot casting at greenfield mills then had to rip it out within a decade.
 
 ### Armco Steel ingot casting decision
 - **Anchor:** `§8.p6`
-- **canonical_cluster_id:** Armco Steel continuous casting decision
+- **canonical_cluster_id:** "Armco Steel continuous casting decision"
 - **Frame in this lecture:** Like Bethlehem at Burns Harbor, Armco built ingot casting when continuous casting was emerging; both companies had to rip it out within ten years.
 
 ### Continuous caster breakouts
 - **Anchor:** `§8.p5`
-- **canonical_cluster_id:** Continuous caster breakout
+- **canonical_cluster_id:** "Continuous caster breakout"
 - **Frame in this lecture:** Running too fast breaks the solid skin and dumps 20-30 tons of steel on the floor; ~2 weeks shutdown plus $1-2M/day losses.
 
 ### POSCO Steel (South Korea)
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** POSCO (Korea) government-built steel mill surpassing Nippon Steel
+- **canonical_cluster_id:** "POSCO (Korea) government-built steel mill surpassing Nippon Steel"
 - **Frame in this lecture:** Government-funded; passed US Steel as world's largest in the 1990s. Tom's example that since Burns Harbor (1964) no major mill has been built without government financing.
 
 ### Bao Steel (China)
@@ -89,17 +89,17 @@ This is a survey lecture on steel — history, metallurgy, processes, productivi
 
 ### ArcelorMittal acquisitions
 - **Anchor:** `§8.p3`, `§8.p4`
-- **canonical_cluster_id:** Lakshmi Mittal steel mill acquisition strategy
+- **canonical_cluster_id:** "Lakshmi Mittal steel mill acquisition strategy"
 - **Frame in this lecture:** "They buy plants at ten cents on the dollar when the great managers run them into the ground." Acquired Burns Harbor from bankrupt Bethlehem.
 
 ### Argon Oxygen Decarburization at MIT (Chipman / Krivsky)
 - **Anchor:** `§9.p1`, `§9.p2`
-- **canonical_cluster_id:** Argon oxygen decarbonization (AOD) process development
+- **canonical_cluster_id:** "Argon oxygen decarbonization (AOD) process development"
 - **Frame in this lecture:** Discovered in MIT Building 8 basement; Chipman's [Chapman's] student William Krivsky takes it to a small NY State steel company; AOD enables low-ppm carbon in stainless steel, drops stainless price by ~3X. Now used for essentially all stainless steel and aerospace alloys (with VOD for the latter).
 
 ### MIT Commission on Industrial Productivity (*Made in America*)
 - **Anchor:** `§10.p5`
-- **canonical_cluster_id:** MIT Commission on Industrial Productivity - Steel Industry Study
+- **canonical_cluster_id:** "MIT Commission on Industrial Productivity - Steel Industry Study"
 - **Frame in this lecture:** Tom contributed to the steel chapter alongside Lester Thurow. Source of the "to live well, a nation must produce well" opening line and the Krugman productivity quote.
 
 ## Figures referenced (numeric anchors, not cases)

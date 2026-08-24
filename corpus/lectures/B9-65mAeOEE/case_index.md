@@ -112,7 +112,7 @@
 
 ### 1880s Hall-Héroult process commercialization
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** *PROPOSED: 1880s Hall-Héroult process commercialization*
+- **canonical_cluster_id:** PROPOSED: 1880s Hall-Héroult process commercialization
 - **Frame in this lecture:** Hall (1886) cuts aluminum price in half. Tom uses this to land his materials-economics rule: cut the price in half and quantity used goes up four times.
 - **Era:** 1886 onward.
 

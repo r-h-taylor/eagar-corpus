@@ -39,7 +39,7 @@
 
 ### MIT brittle fracture research — Morris Cohen and Ben Averbach
 - **Anchor:** `§3.p9`
-- **canonical_cluster_id:** PROPOSED: "MIT brittle fracture research (Cohen, Averbach)"
+- **canonical_cluster_id:** PROPOSED: MIT brittle fracture research (Cohen, Averbach)
 - **Frame in this lecture:** Third of the three post-WWII brittle-fracture research centers. Cited as the origin point for most of what is known about brittle fracture of steels.
 - **Era:** late 1940s–1960s
 
@@ -64,7 +64,7 @@
 
 ### Battleship gun barrel manufacturing infrastructure
 - **Anchor:** `§4.p4`
-- **canonical_cluster_id:** PROPOSED: "Battleship gun barrel manufacturing facilities"
+- **canonical_cluster_id:** PROPOSED: Battleship gun barrel manufacturing facilities
 - **Frame in this lecture:** Government-built early-20th-century heat-treatment facilities for long tubular forgings. Repurposed for generator rotors after WWII. Cited as the example of government-funded capability creating downstream commercial industry.
 - **Era:** early 20th century
 
@@ -90,7 +90,7 @@
 
 ### Pelloux quote — "something won't fail unless it's been welded"
 - **Anchor:** `§6.p7`, `§8.p1`
-- **canonical_cluster_id:** PROPOSED: "Pelloux 'something won't fail unless it's been welded' quote"
+- **canonical_cluster_id:** PROPOSED: Pelloux 'something won't fail unless it's been welded' quote
 - **Frame in this lecture:** Tom's first year on faculty; MIT mechanical engineering professor Reggie Pelloux's classroom remark, later delivered by Tom in the 1992 Houdremont Lecture to 500 welding engineers at the International Institute of Welding in Montreal. Used as both job-security joke and frame for §7 (why welds actually do fail).
 - **Era:** late 1970s–1992
 

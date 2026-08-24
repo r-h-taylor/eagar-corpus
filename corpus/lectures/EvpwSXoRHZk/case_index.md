@@ -35,7 +35,7 @@
 
 ### MIT undergraduate mercury fulminate fly-catcher
 - **Anchor:** `§3.p7`
-- **canonical_cluster_id:** "PROPOSED: MIT undergraduate mercury fulminate fly-catcher"
+- **canonical_cluster_id:** PROPOSED: MIT undergraduate mercury fulminate fly-catcher
 - **Frame in this lecture:** Tom's personal undergraduate-era anecdote. Contact-explosive demonstration. Personal/biographical reference.
 
 ### Southern California plumber cell-phone cigar incident
@@ -78,7 +78,7 @@
 
 ### Navy reactor disposal
 - **Anchor:** `§7.p5`
-- **canonical_cluster_id:** "PROPOSED: Navy nuclear reactor disposal practices"
+- **canonical_cluster_id:** PROPOSED: Navy nuclear reactor disposal practices
 - **Frame in this lecture:** Brief Q&A with student. Tom believed reactors were buried in the Atlantic off Norfolk; student corrects to Washington State (Hanford).
 
 ### Anonymous liquid-copper-jet cutting venture
@@ -99,7 +99,7 @@
 
 ### Red Adair oil well firefighting
 - **Anchor:** `§7.p10`
-- **canonical_cluster_id:** "PROPOSED: Red Adair oil well blowout firefighting"
+- **canonical_cluster_id:** PROPOSED: Red Adair oil well blowout firefighting
 - **Frame in this lecture:** Contextual aside positioning the Pittsburgh aluminum-explosives specialist as a Red-Adair-equivalent for potline freeze-ups. References first Gulf War (Kuwaiti oil fires) as the moment Red Adair's techniques became widely known.
 
 ## Figures referenced (not cases)

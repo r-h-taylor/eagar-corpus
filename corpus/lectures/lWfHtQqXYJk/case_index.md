@@ -8,7 +8,7 @@ This lecture is the corrosion capstone for the Summer 2015 Welding Metallurgy co
 
 ### Iridium engagement ring (Tom's wife)
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** *PROPOSED: Iridium engagement ring (Tom's wife, electron-beam melted)*
+- **canonical_cluster_id:** PROPOSED: Iridium engagement ring (Tom's wife, electron-beam melted)
 - **Frame in this lecture:** Tom electron-beam melted an iridium alloy for the ring because of its corrosion immunity. Sets up the Cannon-connector electrocution story.
 - **Materials:** Iridium alloy, electron beam melting
 - **Era:** 1973

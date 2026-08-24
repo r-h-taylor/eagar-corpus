@@ -45,7 +45,7 @@ import sys
 from pathlib import Path
 
 WORK = Path.home() / "Dropbox" / "Research" / "Eagar Corpus"
-REPO = Path.home() / "code" / "Eagar-Corpus"
+REPO = Path.home() / "Projects" / "Eagar-Corpus"
 
 PER_LECTURE_FILES = [
     "anchors.json",

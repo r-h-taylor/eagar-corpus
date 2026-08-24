@@ -58,7 +58,7 @@ This lecture covers underwater welding, altitude effects on arc behavior, and an
 
 ### Ambrose Monell and the Sudbury nickel-copper ore
 - **Anchor:** `§9.p4`
-- **canonical_cluster_id:** PROPOSED: "Ambrose Monell and INCO Sudbury ore"
+- **canonical_cluster_id:** PROPOSED: Ambrose Monell and INCO Sudbury ore
 - **Frame in this lecture:** Monell developed the 70/30 nickel-copper alloy whose composition directly mirrored the Sudbury, Canada ore body. Alloy spelled M-O-N-E-L because trademark law barred trademarking a living person's name (M-O-N-E-L-L). Tom adjacent-cites Elwood Haynes (Haynes Stellite founder).
 - **Materials/systems:** Monel (70Ni-30Cu), nickel-copper ore
 - **Era:** Early 20th century (INCO incorporated 1902)

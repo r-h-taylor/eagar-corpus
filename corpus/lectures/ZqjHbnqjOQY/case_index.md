@@ -50,7 +50,7 @@ This lecture is dominated by a single extended case (the National Academy / NSF 
 
 ### China rare earth embargo on Japan / Chinese metals market disruption
 - **Anchor:** `§6.p1`
-- **canonical_cluster_id:** *PROPOSED:* "2007 Chinese metals market disruption" — distinct from the rare earth embargo on Japan (2010). The 2007 event Tom describes is broad Chinese metals buying on the open market in advance of the 2008 financial crisis, doubling and tripling prices of titanium, aluminum, and steel. This is *not* the rare earth embargo and should not be conflated.
+- **canonical_cluster_id:** PROPOSED: 2007 Chinese metals market disruption
 - **Frame in this lecture:** Used to explain why the actual Alvin contract cost diverged sharply from Tom's 2004 estimate.
 
 ## Figures referenced

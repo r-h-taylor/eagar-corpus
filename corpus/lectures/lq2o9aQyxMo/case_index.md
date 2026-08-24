@@ -68,7 +68,7 @@
 
 ### Presidential limousine glass armor
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: "Presidential limousine glass armor"
+- **canonical_cluster_id:** PROPOSED: Presidential limousine glass armor
 - **Frame in this lecture:** Tom's standing prop (referenced, not produced today). Four layers of glass plus one layer of polycarbonate, adhesively bonded by hand layup with rollers, then pressed in a vacuum system to eliminate bubbles. Used to illustrate maximum-care surface preparation for life-safety adhesive joints.
 - **Materials/systems:** Glass, polycarbonate, polyimide adhesive.
 

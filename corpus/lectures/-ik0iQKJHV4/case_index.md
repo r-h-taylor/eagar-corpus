@@ -134,26 +134,26 @@ This is the course-opening lecture. It surfaces a high density of cases as illus
 
 ## Cases proposed (not in aggregate v2)
 
-### PROPOSED: Bethlehem Steel I-beam rolling and Manhattan high-rises
+### Bethlehem Steel I-beam rolling and Manhattan high-rises
 - **Anchor:** `§1.p3`, `§1.p4`
 - **Frame:** Bethlehem learned to roll I-beams around 1900; the resulting structural steel enabled Manhattan to grow beyond 10–12 stories. Tom's first-person framing (he worked at Bethlehem 35 years before this lecture, so ~mid-1970s).
 - **Note:** Bethlehem is referenced throughout the corpus; this specific I-beams/Manhattan claim may warrant its own cluster.
 
-### PROPOSED: Bethlehem Steel cost structure 1970s vs. 2010s
+### Bethlehem Steel cost structure 1970s vs. 2010s
 - **Anchor:** `§5.p5`
 - **Frame:** 45% materials / 45% labor / 10% profit (mid-1970s) → 95% materials / 10% labor / −5% profit (2011). The before-and-after snapshot of the steel-industry labor productivity revolution. Recurring framing figure.
 
-### PROPOSED: MP35N alloy applications and limits
+### MP35N alloy applications and limits
 - **Anchor:** `§9.p5`, `§9.p6`, `§9.p7`, `§9.p8`
 - **Frame:** Gaylord Smith / International Nickel 1960s invention. 300 ksi tensile with 10% elongation and 50% RA — unprecedented among metals. Cold-work strengthening limits it to wire and small bolts; cannot be made into plate. Tom recommends it for aneurysm clips (non-magnetic, NMR-safe) and notes its use in propellers and reportedly in four 747 wing-attachment bolts.
 - **Note:** distinct from "Medical aneurysm clip MRI safety controversy" — this is the material, not the controversy.
 
-### PROPOSED: Accel trolley wire copper-silver casting
+### Accel trolley wire copper-silver casting
 - **Anchor:** `§2.p1`
 - **Frame:** Trolley wire sample for the New Haven-to-Boston Acela upgrade. Cast from high-purity copper-silver alloy; Tom's sample is a reject with only 0.1% silver. The microstructure teaching prop.
 - **Note:** likely matches existing cluster "Accel trolley wire for Boston-New Haven electrified rail upgrade" — close-but-not-identical naming. Flag for reconciliation.
 
-### PROPOSED: Tremont Nail Company forged and cut nails
+### Tremont Nail Company forged and cut nails
 - **Anchor:** `§4.p1`
 - **Frame:** Massachusetts firm (Mansfield, est. 1819) supplying Tom's nail samples. Used as the historical-baseline teaching prop for the productivity arc.
 

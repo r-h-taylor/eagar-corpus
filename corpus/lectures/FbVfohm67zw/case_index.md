@@ -31,7 +31,7 @@
 
 ### MIT custodians' Christmas breakfast
 - **Anchor:** `§12.p1`–`§12.p5`
-- **canonical_cluster_id:** PROPOSED: "MIT custodians' Christmas breakfast (Eagar department head practice)"
+- **canonical_cluster_id:** PROPOSED: MIT custodians' Christmas breakfast (Eagar department head practice)
 - **Frame in this section:** Tom's annual practice when he was department head of Materials Science: scrambled eggs, bacon, sausage, french toast for the nighttime custodians, scheduled at 6–7 AM before they clocked out, with permission from physical plant. Used to illustrate the same respect-leadership principle as the Honeywell case but on his own home ground.
 - **Note:** Not in aggregate v2; proposed for addition. Tom returns to the parking-space-saved-after-stepping-down detail as the punchline.
 

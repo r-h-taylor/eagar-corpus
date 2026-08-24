@@ -64,7 +64,7 @@ This lecture moves from didactic exposition (post-weld heat treatment, under-mat
 
 ### Pea shooter helicopter drive-shaft coupling (truncated)
 - **Anchor:** §6.p1
-- **canonical_cluster_id:** PROPOSED: Helicopter pea shooter drive-shaft coupling hydrogen cracking
+- **canonical_cluster_id:** "Helicopter engine peashooter nitriding failure and lawsuit"
 - **Frame in this lecture:** Tom begins the case — nitrided high-hardness steel tube, ~3/4-inch diameter, ~$5,000 part, splined coupling between helicopter engine and transmission. A Vancouver-based metallurgist is mentioned as co-investigator. Recording cuts off before Tom describes the failure mode.
 - **Materials/systems:** Nitrided hardened steel tube, internal splines.
 - **Note:** This case may be the same as or related to "Helicopter engine peashooter nitriding failure and lawsuit" in the aggregate — pending confirmation, treating as proposed new cluster with possible merge. Reconciliation needed against the existing nitriding-failure cluster.

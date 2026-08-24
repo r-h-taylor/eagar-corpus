@@ -126,7 +126,7 @@ This lecture is structured as a productivity history of the steel industry. Case
 
 ### Andrew Carnegie / Eagar grandfather story
 - **Anchor:** `§7.p2`, `§7.p3`
-- **canonical_cluster_id:** PROPOSED: "Andrew Carnegie and Eagar grandfather University of Chattanooga donation"
+- **canonical_cluster_id:** PROPOSED: Andrew Carnegie and Eagar grandfather University of Chattanooga donation
 - **Frame in this lecture:** Tom's grandfather (former mayor of Chattanooga) sought $25,000 from Carnegie to complete a $500K matching grant (Rockefeller's $250K) for the University of Chattanooga. Carnegie asked his education level; grandfather said 13 months; Carnegie revealed he too had 13 months and granted the funds. The anecdote serves as a Carnegie character study and a generational bridge to the steel-industry narrative.
 
 ### Dick Simmons private plane story

@@ -15,17 +15,17 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### 2008 financial crisis / derivatives collapse
 - **Anchor:** `§4.p6`
-- **canonical_cluster_id:** 2008 financial crisis / derivatives collapse
+- **canonical_cluster_id:** "2008 financial crisis / derivatives collapse"
 - **Frame in this lecture:** Brief tangent triggered by mention of Robert Merton (Nobel laureate, Black-Scholes algorithm). Tom describes derivatives as "a big Ponzi scheme" and attributes the financial collapse to derivatives abuse. Not developed.
 
 ### Spot welding sound-bite anecdote (3,000 welds for 2,000 good ones)
 - **Anchor:** `§4.p8`
-- **canonical_cluster_id:** PROPOSED: Automotive spot welding 3,000-for-2,000 sound bite (~1990)
+- **canonical_cluster_id:** "Automobile spot welding quality"
 - **Frame in this lecture:** Tom's example of a sound bite with content — used to illustrate the Thurow lesson. Quoted back to him by a stranger at a welding conference a year later. Likely connects to cluster "Automotive spot welding quality" but is delivered specifically as a *rhetorical-form* anecdote, not as a forensic teaching case.
 
 ### California ternplate gas tank (early 2000s emissions regulations)
 - **Anchor:** `§7.p1`–`§7.p2`
-- **canonical_cluster_id:** California gas tank emissions regulations and lead-coated steel manufacturing
+- **canonical_cluster_id:** "California gas tank emissions regulations and lead-coated steel manufacturing"
 - **Frame in this lecture:** Setup only — Tom introduces California's stiffer hydrocarbon emissions requirements and the historical use of ternplate (lead-coated steel) for gas tanks. The forming-limit-diagram problem this case is meant to illustrate is not reached in this segment; presumably developed in the next.
 - **Materials/systems:** Low-carbon steel, lead coating (ternplate), automotive gas tanks
 - **Era:** Background 1980s; problem early 2000s
@@ -33,12 +33,12 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### Kresge Auditorium lead roof
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** Kresge Auditorium lead roof
+- **canonical_cluster_id:** "Kresge Auditorium lead roof"
 - **Frame in this lecture:** One-line reference, used as evidence that lead has outstanding corrosion resistance. Not developed.
 
 ### Lead pipe in residential plumbing (historical London water)
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** Lead pipe in residential plumbing
+- **canonical_cluster_id:** "Lead pipe in residential plumbing"
 - **Frame in this lecture:** One-line reference to early London water-pipe history, supporting the lead-corrosion-resistance point. Not developed.
 
 ## Figures referenced (recurring numeric anchors, not cases)

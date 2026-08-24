@@ -39,7 +39,7 @@
 
 ### Electric Boat Quonset Point pressure-hull welding facility
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** PROPOSED: "Electric Boat Quonset Point pressure-hull welding facility"
+- **canonical_cluster_id:** PROPOSED: Electric Boat Quonset Point pressure-hull welding facility
 - **Frame in this lecture:** Brief reference. Electric Boat's $200M indoor building at Quonset Point exists to maintain the circularity needed for steel pressure hulls. Used to set the scale of the manufacturing problem, but the Soviets and Tom were doing it with electroslag rather than the gas metal arc Electric Boat used. Not a developed case in this excerpt; flagged as a proposal because it doesn't match an existing cluster.
 
 ## Figures referenced

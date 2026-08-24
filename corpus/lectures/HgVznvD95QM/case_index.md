@@ -26,14 +26,14 @@ This recitation is structured around a single extended teaching case (Molten Met
 
 ### Doc Edgerton stroboscope / EG&G origin
 - **Anchor:** `§2.p2`–`§2.p5`
-- **canonical_cluster_id:** PROPOSED: "Doc Edgerton stroboscope and EG&G founding"
+- **canonical_cluster_id:** PROPOSED: Doc Edgerton stroboscope and EG&G founding
 - **Frame in this lecture:** Parallel case to MMT origin. GE funded Edgerton's stroboscope research at MIT, didn't see commercial value, let him keep the IP; Edgerton became wealthy, founded EG&G, funded the Boston Science Museum. Tom uses the parallel to set up the US Steel / Nagel handoff at §2.p6.
 - **Era:** ~1928 onward
 - **Note:** Edgerton appears across the corpus as a recurring named figure; proposed as a discrete cluster pending aggregate review.
 
 ### Buzzword bingo at Al Gore commencement
 - **Anchor:** `§3.p2`–`§3.p3`
-- **canonical_cluster_id:** PROPOSED: "Al Gore MIT commencement buzzword bingo hack"
+- **canonical_cluster_id:** PROPOSED: Al Gore MIT commencement buzzword bingo hack
 - **Frame in this lecture:** Brief MIT-culture anecdote in the middle of the MMT hype narrative; characterizes Gore's relationship to MIT technology promotion. Sloan students distributed buzzword bingo cards as graduates entered; Secret Service tipped off Gore.
 
 ### Nashua Corporation board collapse and acquisition failure
