@@ -1,0 +1,649 @@
+<<<FILE: layer3.md>>>
+# Lecture 2 — Flames, Cutting, and the Physics of Arcs
+
+*3.371 Fusion Welding, Summer 2013, session 2 of 6.*
+*Source video: `EvpwSXoRHZk`.*
+
+---
+
+## §1. Flame structure and stoichiometry [00:02]
+
+`§1.p1` If we want to talk about the properties of stoichiometry — this is the fuel in the mixture from 0 to 100% — you'll find with most gases, acetylene, natural gas, hydrogen, propane, you go through a peak, and that's when you're at just the right ratio. If you're burning hydrogen you want to have H₂O, or something close to it. If you're burning acetylene you're going to have two CO₂'s and an H₂O, so you should have about two and a half oxygen molecules to burn for every acetylene molecule. If you have the proper ratio, you get a peak in temperature. The zero is the neutral mixture, where essentially it's not oxidizing and not reducing. And that gets into your secondary flame.
+
+`§1.p2` If you actually look at the structure of a flame — like an oxyacetylene torch flame — you find that it has structure to it. It's not just a ball of fire or a jet of fire sticking out. *[Tom draws on the board.]* This is your nozzle with the flame shooting out, and you'll have what we call a primary flame and a secondary flame. The primary combustion is the hottest combustion. For oxyacetylene, you're going to get 3100 degrees centigrade in there. But in fact that's not burning to CO₂ and H₂O; that's burning to carbon monoxide and H₂O. Out here, the carbon monoxide will combine with some of the oxygen in the air, or leftover oxygen in the flame, and give you carbon dioxide. So you have secondary combustion. It's a two-step process.
+
+`§1.p3` The whole combustion process is extremely complex. If you take something simple like methane and break down all the chemical steps and all the intermediaries, you have to break up the carbon and the hydrogen, and you'll get a CH radical that only lasts for milliseconds or microseconds — it's not stable. You have to break up the big molecule into little parts, and then those react with other things. There are two pages of chemical formulas for something simple like CH₄ going to carbon dioxide and water vapor, with carbon monoxide and all these other intermediate steps.
+
+`§1.p4` Those of you on submarines — do you guys still have Halon fire extinguishers? On surface ships? Ever since the P. Smith thing they're starting to phase them out. We used to use Halon. Did anyone ever do a demonstration with Halon to show you how it puts out a fire? They start a little candle over here, and the guy squirts a little Halon in the room, just from here to over there. About two or three seconds later the flame goes out. What it does is the chlorine or the bromine or whatever the halide is poisons these intermediate reactions and stops the combustion process. It's very effective. It's just not good for global warming. I have an old Halon extinguisher in my kitchen — don't tell the EPA, I'm sure they'll come in with a SWAT team to get my Halon. But it does poison the atmosphere.
+
+`§1.p5` Of course, you poison the atmosphere every time you exhale. You're putting out things like carbon tetrachloride in your breath. You produce it in your body — you have salt intake, you burn things in your body, and you produce reaction products, some of which could put out a fire if they were at higher concentration.
+
+`§1.p6` The Navy is sort of guilty of a number of environmental things. Anybody know about tributyl tin? It was allowed in paint. Tributyl tin will keep all those barnacles off — not only that, it kills every mollusk in the harbor. Oysters, clams, scallops, any mollusk in the harbor is dead meat, literally. About twenty, twenty-five years ago some people went to Congress and Congress told the Navy to quit using it. Economically it was great for the Navy, and the Navy can always justify doing things in the name of national security. But Congress decided they'd rather have people scraping barnacles than wiping out the fishery industry in the harbor.
+
+`§1.p7` If you go down to Aberdeen Proving Ground for the Army, there's RDX everywhere in the ground. This is the firing range. Used to be JP Morgan's private hunting reserve before the income tax. There are deer running around — beautiful area at the top of the Chesapeake Bay. To pay his tax when they came out with the income tax, JP Morgan gave away his hunting preserve, and it's now been a shooting range for the last eighty years. The deer are still there, but they're not shooting at them. There's RDX all over the soil. It's a huge environmental site. But those aren't the big environmental sites.
+
+`§1.p8` So the secondary combustion is the outer flame rather than the inner flame. You can change that inner-outer flame ratio by changing the fuel-oxygen ratio. The welding handbook actually has pictures showing an oxidizing flame, a neutral flame, and a reducing flame. In the secondary flame, you either have excess oxygen or excess carbon. You can tell when you get a lot of excess carbon, because all of a sudden your flame goes yellow rather than blue — you have soot particles glowing red or yellow, carbon particles giving the flame the color. So when you see yellow flames, it usually means you're fuel rich.
+
+---
+
+## §2. Surface heating and the boundary-layer problem [09:25]
+
+`§2.p1` Let's talk a little more about surface heating with flames. The heat must diffuse across the gas boundary layer. The gas is coming out of some torch, hits the surface, diffuses to the side, and this essentially becomes a cold gas that has to be swept away. The faster the gas is coming out, the thinner this boundary layer — you can sweep it away more effectively. But there's the law of diminishing returns. We talked about diffuse flames, where you have a very slow flame, and we talked about premix flames.
+
+`§2.p2` *[Tom turns on a torch.]* That's a premix flame. The mixing is done down in a little chamber. The air comes in and mixes with the gas, so you have a mixture, and if I unscrewed this thing you'd find a little piezoelectric igniter, just like on your gas stove at home. If this is properly designed — which it is — the flame shoots out at several meters per second. That's the flame velocity. If you had too big a torch and not a big enough orifice, not enough gas, you could actually get flashback. Once it ignites, the gas could burn faster going into the torch than coming out. So you have to balance the speed out with the burning velocity. And the speed of that flame is determined by the thermal expansion of the gas as it burns. The hotter the flame, the faster the velocity.
+
+`§2.p3` *[Tom lights both torches.]* If I run both of these — this being propane, which burns at a lower temperature — you should hear a lower velocity. That's a softer flame than this, because this is a higher-temperature gas. The higher-temperature gas expands more, gives you higher velocity, thinner boundary layers, better heat transfer. The maximum heat transfer from a burning gas is basically a jet burner. This is constant-pressure burning — it's at one atmosphere, burning out in the atmosphere. If I had a chamber around this and ignited it inside a chamber with a little nozzle, that would be constant-volume burning, and it would come shooting out with ten times the velocity. That's a jet burner. We have jet burners in jet engines: we burn at constant volume in the combustion chamber and shoot the gas out the back to get a big reaction force. That's how rockets and jet aircraft work.
+
+`§2.p4` You also have the question of inerts. The temperature of flames is determined by the enthalpy of the reaction, the delta-G of the reaction gas, the oxygen-fuel ratio — which gives those hump curves — and the presence of inerts. If I have an oxy-flame, whether it's oxyacetylene, oxy-propane, or oxy-propylene, I'll have about ten times the velocity as that same fuel burning in air. All that nitrogen slows things down, drops the temperature by roughly a factor of two, and drops the combustion velocity by a factor of ten. Much less heat transfer. A little birthday candle, I can put my finger through there all I want, fairly slowly, and not burn myself. If I did it with MAP gas, even though it's burning in air, I have to do it pretty quickly. I don't want to leave my finger in there for a second and a half, or I'll end up with blistered skin.
+
+`§2.p5` So heat intensity can be varied, but the maximum heat intensity I can get with even a jet burner is about 2,000 watts per square centimeter. That's much less than the electric arc can give me — 10,000. We do have applications of jet burners. They used to use them to drill holes in rock. If I want to drill a hole in a rock and I come in with a jet burner at 2,000 watts per square cm — because of the relatively low thermal conductivity of the rock compared to a metal, and the brittleness of the rock — I can heat it up and cause it to expand. It can't expand freely, so it buckles and cracks, and with the high velocity of the jet burner I can blow the shards of rock out. I can burn right through, drill a hole right through that rock, faster than any mechanical drill, probably by a factor of three to five.
+
+`§2.p6` The reason we quit using it about twenty-five years ago — it's sort of loud, like 180 dB. The threshold of pain is 130 dB. It's a logarithmic scale. All the neighbors get to hear it, if you're drilling where there are neighbors. But at a mine site there aren't a lot of neighbors except the bears, and they don't complain that much. In the last five or ten years they've actually gone back to using it, dealing with the noise problem, because it's so much more productive at drilling holes through rock. So we use jet burners for materials processing, not just for rocket engines.
+
+`§2.p7` In rocket engines — we have rocket engines where we just burn hydrogen and oxygen. That was supposed to be the next space shuttle, the X-33 aerospace plane. It had two hydrogen tanks and one oxygen tank; it was going to produce H₂O, clean burning. The reason they did that is they wanted to keep the weight down, and what's lighter than hydrogen? Nothing. So they wanted to burn H₂ as the rocket fuel. But you can get a hotter flame with solid rocket boosters — about 4,000 degrees C versus the 3100 C of acetylene. Anybody know how we do that?
+
+`§2.p8` Same way as sparkler technology on the Fourth of July. You add metal powders — magnesium powder or aluminum powder — just like making a flare. With sparklers, they're not trying for 4,000 degrees, because people already burn themselves with sparklers; they actually add clay to the sparkler to drop the temperature. But in a solid rocket motor they use aluminum and magnesium and get 4,000 degree temperatures. That's the way to get really efficient burning temperatures for rockets.
+
+`§2.p9` There's a problem with solid rocket motors though: once you turn them on, how do you turn them off? Basically you don't. You just burn out until the fuel's used up. People are developing solid rocket boosters that can be turned off, but basically a solid rocket motor is just a mixture of oxidant and fuel, and you have a controlled explosion — burning from one direction so it's controlled, but very rapid. In any case, we know how to get higher temperatures if we need to, but in welding we don't usually need to. We usually make do with what we have.
+
+---
+
+## §3. Acetylene: discovery, storage, and hazards [18:20]
+
+`§3.p1` The main use of flames is not oxyacetylene welding anymore. Oxyacetylene welding was very popular about a hundred years ago. Acetylene was discovered around 1836 by Edmund Davy, who I think was Sir Humphrey Davy's brother. *[Tom shows the welding encyclopedia.]* This is the picture I was looking for — oxidizing flames, neutral flames, and reducing flames. You can see secondary combustion. The reducing flame with a lot of excess carbon has a bigger secondary flame, because you have more carbon left over.
+
+`§3.p2` It wasn't until 1862 that Wöhler determined he could produce acetylene easily by reacting water with calcium carbide. If you pour water on calcium carbide, it generates acetylene and calcium oxide. If you go to a shipyard, that's typically how they do it. Anybody been to a shipyard where they have a carbide shack? I remember someone telling me a story at Newport News. I was down there once, sitting in the office where the welding engineers sit, and one heard the alarm go off, and the fire department was rushing to wherever it was. Another engineer came in and said, "well, they got a fire down at the carbide shack." The welding engineer jumped out of there as fast as he could to beat the fire department to the carbide shack, so they didn't douse it with water. Because if you put water on the carbide, you're just going to get a bigger flame — you're going to be generating acetylene. That's why they have a carbide shack. Storing acetylene is a problem.
+
+`§3.p3` In the early 1900s, Thomas Wilson of Spray, North Carolina, found an easy way to make calcium carbide. He was trying to synthesize metals — Edison and Westinghouse had come along, you now had electricity — and he was running arc furnaces. He put some carbon and some limestone in a furnace and tried to keep the air out so he could synthesize some chemical. He ended up with a black powder, couldn't figure out anything to do with it, so threw it into the Neuse River in North Carolina, and something was around that ignited it. He thought, "that's strange, I've never seen water burn before." So he started studying it some more. He had synthesized calcium carbide. All you need to synthesize calcium carbide is an arc furnace, limestone, and carbon. The electric energy breaks things down and you form calcium carbide.
+
+`§3.p4` Then if you take that calcium carbide in an acetylene generator on site — it's nothing more than a silo with calcium carbide — you drop the calcium carbide powder into a hopper, drip water on it, and acetylene comes off. You pipe the acetylene through the shipyard for flame cutting. It's a pain in the neck to store acetylene. Acetylene tends to explode if you go above about 60 or 70 PSI. It's explosive under pressure — not a good thing. You can't just compress it like a regular old compressed gas.
+
+`§3.p5` This was the beginning of the Prest-O-Lite division of Union Carbide, about 1904. PC Avery from Indianapolis got together with two famous automotive experts, James Allison and Carl Fisher. Anybody ever heard of Fisher or Allison? You ever heard of Detroit Diesel Allison? It's now Rolls-Royce. Allison engines came out of Indianapolis. Fisher Body is the division of General Motors that made all the automotive structures. Allison and Fisher set up shop right across from what they later built as the Indianapolis Speedway. These guys were into automotive stuff.
+
+`§3.p6` And they came up with a way to store acetylene. *[Tom holds up an acetylene cylinder.]* This is a split acetylene cylinder. This is what's called a B cylinder. The reason it's called a B cylinder is because B stands for bus — two of these would be the headlights on buses around 1910. They just had a little flame shooting out the top off the acetylene cylinder. You can't pressurize the acetylene, so what they learned is you could fill it up with acetone. Acetone will dissolve 400 times its volume in acetylene without creating a high pressure to cause the acetylene to go unstable. The problem is you don't want a bunch of acetone in there sloshing around — it could leak out and start its own fire. So over the years they put sand or asbestos in to keep the acetone from sloshing around.
+
+`§3.p7` In the early 1950s they developed a calcium silicate binder which is 92% porous. This has got a plastic sleeve over it, but you can look at the top — it has a little piece of felt to keep the ceramic powders in. Extremely porous, 92% porous cement, with the rest filled with acetone. That's why acetylene cylinders are so heavy — they're heavy because they're full of liquid. Transporting acetylene is a pain. You have to be careful because of the explosive nature, and you also have to be careful not to do any piping with pure copper. Everything has to be brass or nickel or stainless — usually brass. Copper will react with acetylene to form copper acetylides, which are contact explosives.
+
+`§3.p8` If you want to make a contact explosive — I wouldn't, this is something you probably shouldn't do at home, because if you don't know what you're doing it may go off before you want it to. But for all you terrorists out there, I'm just telling you some ways to terrorize the neighborhood using contact explosives. I remember as an undergraduate here, the living group I was in, one guy got into mercury fulminate, which is a contact explosive. He had a wooden desk; he would stand up some straight pins, put a grain of sugar on top of the head of the straight pin, put a drop of mercury fulminate on top, let it dry. That made a contact explosive. The sugar would attract the flies — this was during the summer — and this was his fly catcher. The fly would come up and, boom, blow up the fly. A different MIT approach to catching flies.
+
+---
+
+## §4. From flames to arcs: the electrically augmented flame [26:54]
+
+`§4.p1` The highest heat intensity you can get from a flame is about 2,000 watts per square cm, because of this heat-transfer problem across the boundary layer. So why do we use electric arcs? Electric arcs can give us a lot more heat transfer. Even though the gas coming out of a jet burner is 3000 degrees C, even if I increased the temperature of the gas to 10,000 C, that's not going to give me 10,000 watts per square cm. Maybe 500, but not 10,000. What happens with an electric arc is the electrons are not slowed down by the gas molecules — they can punch their way right through the boundary layer. In an electric arc, 80 to 90% of the heat is carried by the electrons and not by the hot gases.
+
+`§4.p2` I like to think of an electric arc — this is my own terminology — as an electrically augmented flame. It's essentially a flame with an electric current going through it. When we talk about plasma arcs later, you'll learn there are things called transferred plasma arcs. A transferred plasma arc has electrons going to the workpiece, and it can deliver up to 20,000 watts per square cm on the surface. A non-transferred plasma arc, where the current goes to a water-cooled copper tip and no current goes to the workpiece, only transfers about 2,000 watts per square cm. So 90% of your heat in a non-transferred arc is carried by the electrons.
+
+`§4.p3` Now I want to talk about arcs and the physics of arcs, so we can understand how arc welding works — because it's the most common form of fusion welding. *[Tom draws on the board.]* I've drawn this as a gas tungsten arc, where the anode is the workpiece and the electrode is the cathode. In here we'll have a plasma jet. We're going to talk about that later, but the plasma jet is actually a wind going about 500 miles an hour off the tip of that electrode, created by electromagnetic forces. If you've ever wondered why you can weld overhead — it's because the tip of that electrode has a 500-mph wind blowing the drops up against gravity.
+
+`§4.p4` There's some interesting physics going on here. I told you the electrons punch their way through the boundary layer. It turns out the electrode is relatively cold. If this is a tungsten electrode, it's at something like 2800 C. The workpiece might even be molten, but even if it's water-cooled copper, it's cold — at most a couple of thousand degrees C. So the electrons have a hard time getting out. The plasma doesn't ionize to be a conducting material until it gets away from the cool boundary layer at either electrode. So at both electrodes, if I plot voltage as a function of distance — voltage this way — I have what we call the cathode fall voltage. For the electrons to punch their way through this un-ionized cold boundary layer takes a lot of voltage. They have to have enough energy to accelerate their way through an un-ionized vapor space.
+
+`§4.p5` Then they get into the plasma column, which is ionized and is a great conductor, and so I have a small voltage drop — about 10 volts per centimeter. The cathode fall voltage will be on the order of four or five volts over less than a millimeter, probably less than a quarter of a millimeter. A fairly steep voltage. Then we have the anode fall at the other end, where we have another boundary layer of cold gas, an anode fall voltage. In the plasma column, it's 10 volts per centimeter, and 99% of the current is carried by the electrons in a high-pressure arc. What do I mean by high pressure? For a physicist, anything above half an atmosphere is high pressure. When we come back, I'll explain why they define that as a high-pressure arc.
+
+`§4.p6` **Student:** If you have an ionized gas — on the other side, how do you have an electrical — on the other side you said there's un-ionized gas at the tip of the electrode?
+
+The electrons just have enough energy — they're ballistic, if you will. They shoot their way across that gap. If you give them enough voltage gradient, they will puncture through the un-ionized gas, because the electrons are very small. If they hit something, they'll bounce off like a billiard ball, but most of them will get through if you give them enough electric field to push them through. That's the big voltage drop — the big electric field accelerating across this un-ionized gap. There is no conductive path across that gap. You're just giving them enough momentum to jump it, like jumping over a river — running fast and jumping.
+
+---
+
+## §5. Underwater welding and the plasma bubble [33:23]
+
+`§5.p1` **Student:** The only experience I ever had welding was underwater for the first time. Is that process exactly the same?
+
+It's not going through water. When you strike that arc, you vaporize the water. The plasma is at 10,000 degrees. Even if it's a water plasma, it's 10,000 degrees — that's vapor. In underwater welding, a certain fraction of your power is going to creating a plasma bubble between the two electrodes. There is no liquid water on either surface of either electrode, anode or cathode. You get essentially the same efficiency. Actually, you get a little better efficiency, because in a regular arc in air this is just radiating through the gas, but if you cool the outside of the plasma — because it's now a water sheath around it, a plasma bubble surrounded by water — you actually constrict the arc. The plasma is narrower in underwater welding than in air, because you've got the water squeezing the little bubble of gas. That creates a higher current density through the plasma column, greater heating — so the underwater arc is actually slightly hotter than the one in the air.
+
+`§5.p2` Since 90% of the heat is carried by the current, it doesn't make a big difference. But it does make a measurable difference. You'll get a greater depth-to-width ratio for the same current underwater on a piece of carbon steel than in air. You'll get different chemistry in the weld pool because you're at a higher pressure. The pressure at which you can maintain this bubble stably is about 30 atmospheres — about 450 PSI. So if you get to depths approaching that, like 400 feet, you can't do underwater welding much below about 400 feet, because the water pressure will swamp the whole thing out and shut the arc off. You're just running electric current through water, and that doesn't do much.
+
+`§5.p3` Below about 400 feet you have to create habitats, and you do dry welding at 900 feet down, or whatever. In practice, about 400 or 500 feet is the maximum where you start getting instabilities and can't maintain a stable bubble. Not everything's symmetric, and if you have a wave of water come through and wash out your arc, that's not going to produce a good weld. In the laboratory you can go to 30 atmospheres, thousand-feet pressure depth. But once you get below 400 or 500 feet you start needing habitats. If you're going to make a habitat, you might as well make it at lower pressure in some cases, or you might do it at the higher pressure. But you run into problems above 30 atmospheres — the arc becomes unstable. It can't generate the gas and maintain a stable bubble of plasma.
+
+---
+
+## §6. Flame cutting: oxygen, MAP gas, and a perjury trial [37:32]
+
+`§6.p1` Before I go further into arcs, we have to talk about flame cutting. It's what I brought the samples for. They still do acetylene flame cutting. We can also talk about whether acetylene or MAP gas is better for welding — there's been an open debate for thirty years in the welding community. People sell MAP gas and tell you it's safer. I told you the problems with acetylene: it can explode under pressure, it can form copper acetylides. MAP gas — C₃H₄, or propylene, which is what people use now — is a liquid in a container. It doesn't explode under pressure, doesn't have the triple bond that creates problems of stability. So people say, "oh, you should use MAP." Other people say, "no, acetylene works better." Just like the plumbers doing soldering will tell you MAP works better than propane. And they're right — it's hotter, you can probably go twice as fast with MAP as with propane. If you're a plumber, speed is important. If you're a home plumber doing your own stuff, you don't care if you make the solder joint twice as fast. It may actually be a little safer not to use MAP, because you can burn yourself pretty badly pretty quickly with the higher heat intensity.
+
+`§6.p2` I actually represent the company that makes the cylinders, and people do some interesting things with them. There was a plumber in Southern California lying on his stomach on the grass, with a hole where there was a copper pipe, and he wanted to sweat a copper elbow. He had a cell phone in one hand, a cigar in his mouth, and was starting to solder the copper pipe. The elbow moved on him, so he started using the lit torch as a hammer to get it back in place — while he's talking on the phone, smoking a cigar. He split the neck of the cylinder, and a woman walking by with her granddaughter saw an 8-foot flame shoot out of the hole right in his face. He wasn't happy.
+
+`§6.p3` The one that settled just a month ago has been going on for three years. This guy in Southern California was smoking methamphetamines. People really like MAP for smoking methamphetamines because it's got high heat intensity — you can vaporize the methamphetamine quickly and get a bigger high, I guess. He claimed he wasn't. But it's not a good idea to throw these to the ground as hard as you can. I estimate people have thrown these at 45 miles an hour, from the fracture energy. When they blow up — if I released all the gas in this, it's only ten cubic feet if it was full of liquid. The flammable limits of MAP and acetylene are like 2 or 3% by volume.
+
+`§6.p4` This room would not fill up and explode. You might get a really intense fire over in that corner and burn down the corner. They've done tests out at Mount Shasta in California where they basically pull on these things to ignite them, and when the gas comes streaming out, it'll burn for three, four, five seconds. As long as you're not standing in the middle of it, you're fine. If you are standing in the middle of it, you can get severe burns — like 75% of your body. So it's not a good thing. Anyway, this guy — they started the trial. It was a federal case without a jury, and the judge heard the first two days of two weeks of testimony. He was supposed to finish it up in May, and we were supposed to come in and talk about how this guy was really smoking methamphetamines and how we could prove it didn't happen the way he said. He and his girlfriend — he was in his forties and she was a grandmother in her fifties — it's probably not appropriate, certainly on tape, to talk about what they were doing while they were doing the drugs. But they lied about everything.
+
+`§6.p5` It turns out we didn't have to put on our case, because the judge threw it out. If you commit perjury, the case can be thrown out, because the other side was prejudiced. The judge threw out the case halfway through, because what they said under oath at trial was not what they said under oath in their depositions, was not what they told the police the day it happened, was not what they told the halfway houses a couple of days later. They kept changing the story. People do foolish things with these cylinders — hammering on them while on the cell phone — and they do fail every now and then, but usually because they're abused.
+
+`§6.p6` People still debate which to use for welding, acetylene or MAP. I did a little calculation once to show that, even though the temperature is only about 230 degrees C different for the oxy-fuel MAP versus acetylene, the combustion intensity goes as the square of the temperature above 1600 — the melting temperature of steel. You get 36% more heat from acetylene even though it's only a 2 or 3% difference in temperature. A small change in temperature makes a big difference in efficiency of heating the surface. Acetylene is better for welding. It's much better than propylene — I've never heard of anyone using propylene; losing another hundred degrees, you can just see how much slower it is.
+
+---
+
+## §7. The mechanics of flame cutting [44:53]
+
+`§7.p1` We do use flames for flame cutting, and flame cutting is an interesting process. You have a double set of tubes. The inner tube has pure oxygen; the outer annulus has your premixed flame. You heat up the surface of your workpiece without turning the oxygen jet on yet. How many of you have done oxyacetylene cutting or watched it? A couple of you have done it. The torch has an extra lever. You light it, hold the flame right up against the surface — I usually take that inner cone tip, a couple of millimeters long, and just touch it to the surface of the steel. You look for the oxide on the steel to sparkle or bubble. That means you're starting to melt the iron oxide on the surface. Then you pull the oxygen lever and inject pure oxygen into hot steel, and it will burn — not at 10⁴ watts per square cm, but about 10⁵ watts per square cm. That's about ten times more intense than the heat of an arc. You're getting all the chemical heat of pure oxygen burning with iron.
+
+`§7.p2` For flame cutting, the way you get around the heat-transfer problem of the boundary layer is you condense the boundary layer. The iron oxide becomes a liquid — that's your combustion product — and if you have really pure oxygen, which works best for flame cutting, you don't have a boundary layer. There are no inerts left over. There's no gaseous boundary layer formed, and you get about 10⁵ watts per square cm. You need, in theory, an oxide of the metal that melts at a lower temperature than the metal itself. Melting temperature of steel is 1536 C; iron oxide melts at 1380. Aluminum and magnesium cannot be flame cut because their oxide has a higher melting temperature than the metal. Stainless steels cannot be flame cut because chromium forms a very refractory oxide and you can't melt it to blow it out of the way. Titanium in theory should not be able to be flame cut, but in fact it can be.
+
+`§7.p3` *[Tom hands samples around.]* This is actually my first research project here at MIT, back in the late 1970s, on welding of titanium. This is saw-cut titanium; this is flame-cut titanium. I only have a thinner piece, but you can flame cut it. A lot of smoke comes off when you're flame cutting titanium — it turns out it's just titanium dioxide, which is basically what's in wall paint. It's not particularly toxic, not toxic really at all, but a lot of smoke. Back twenty-five years ago, I didn't have the office I'm in right now, but the office I'm in now is right across from the welding lab. My technician was flame cutting some titanium and we had the vents on, but the vents weren't all that great and some smoke was getting out into the hall. The secretary to my old thesis advisor calls up the environmental police on me. This was when the environmental police were not quite so adamant about things. The guy comes into the lab, sees the technician, sees smoke all around, and says, "what are you doing?" My technician Bruce says, "flame cutting some titanium." The guy says, "what kind of lab is this?" Bruce says, "it's a welding lab." And I said, "well, what are you expecting to come out of a welding lab?" That was what the environmental guy said. They don't say those things now — twenty, twenty-five years later, I probably would have been in handcuffs up at the Cambridge police station. But it does generate a lot of smoke to flame cut titanium.
+
+`§7.p4` The reason it works is that titanium will start dissolving its own oxide at about 900 degrees C. You get up to higher temperatures, the protective titanium oxide coating dissolves into the titanium, and you expose fresh metal to pure oxygen. You get a very rapid reaction, just like a flare. A controlled flare — there's no boundary layer formed, and it burns right through.
+
+`§7.p5` **Student:** Question on those samples — for magnesium and aluminum, the oxide layer is pretty thin, right? So why do you need to melt that oxide layer away because underneath…
+
+Because aluminum and magnesium have no solubility whatsoever for their oxide. They don't dissolve oxygen. Titanium does.
+
+**Student:** I guess what I'm asking is, couldn't you melt the metal underneath through the oxide?
+
+You can, and you'll end up with a very lousy looking cut. You can melt through the stuff, but if you do it in a controlled way, that's plasma cutting, and you can actually get a very good surface. I'm going to talk about that in a second.
+
+`§7.p6` There are various qualities of oxyacetylene cuts. *[Tom shows a plastic guide.]* Here's a guide for good surfaces and bad surfaces. Sample 4 is the best surface. You can have really lousy cuts; you can have really great cuts with oxyacetylene cutting. I have seen in steel mills where they basically take an oxygen torch and cut through three-foot-thick steel. When the steel comes off the continuous caster and is already hot, you don't even have to preheat it. They just take an oxygen lance and the guy goes through it at several feet a minute. Just oxygen, no preheat — because it's already hot. You just need the jet of oxygen to blow some of that surface oxide away.
+
+`§7.p7` **Student:** When we did it I think the torch was consumable — is that the same thing?
+
+No, you're talking about carbon arc gouging. Were you gouging things to make prep for welding?
+
+**Student:** They were just teaching us basics in dive school.
+
+This is in dive school. That's a form of oxy-gouging, where you strike an arc and you have air blowing through a tube. Underwater you need to strike an arc — you have to have something to generate your bubble to start insulating everything, because otherwise you'd quench the whole thing with water. They take essentially a carbon arc gouging setup — a graphite tube — and blow oxygen through it. The outside, that carbon tube, is striking an arc to create the bubble to exclude the water. You're exposing hot steel from the arc to the oxygen jet, and you're just burning through it. They call it burning of steel, and it really is burning of steel.
+
+`§7.p8` **Student:** We had metal-shielded carbon tips, then the giant Broco torch, and the oxygen carry cable.
+
+You guys are talking about a salvage operation with the great big stuff — cutting great big things. It's pretty impressive to see this stuff cut through three-foot-thick steel.
+
+**Student:** We cut through big anchor chain.
+
+You can do some pretty impressive cutting. But you're using chemical heat, and you're getting around the gas boundary layer in most cases by forming a liquid slag rather than an inert gas that inhibits oxygen from reaching the molten metal. You can get extremely high heat-transfer rates, and you can cut titanium.
+
+---
+
+## §8. Plasma cutting and an MIT dedication [53:31]
+
+`§8.p1` *[Tom shows the Iron-Oxygen Combustion Process paper.]* This is just another way of saying it — oxygen condenses as iron oxide, no boundary layer, combustion intensity reaches 10⁵ watts per square cm. I told you the metal oxide should melt below the melting temperature of the metal, but that's not always true, as with titanium. There's a paper in your reader called "The Iron Oxygen Combustion Process," written by Alan Wells, who went on later to become director general of the Welding Institute. This plot comes out of his paper. There are not a lot of papers on oxyacetylene welding — most people don't consider it very scientific.
+
+`§8.p2` One of the things you need to understand is the difference between a scientist and an engineer. The quote I like comes from Theodore von Kármán. Does anybody know who Theodore von Kármán was? He was the founder of the Jet Propulsion Lab. He was also sort of the person who explained why the Wright brothers were successful in flying. Von Kármán was a Hungarian professor at Caltech who was into boundary layers. Around World War II he was one of the more prominent engineer-scientists in the country. Von Kármán had a quote: *a scientist explains that which exists; an engineer creates that which never was.* The reason I like the quote — the scientists think it's a wonderful quote, because they explain what exists. The engineers think it's a great quote too, because they're creating things out of nothing. They often don't understand why it works, but they have to go out and solve the problem. So engineers like the quote and scientists like the quote, which is why I think it's a great quote.
+
+`§8.p3` Joel Moses, who used to be provost — number two guy at MIT — and was head of the electrical engineering department, used to describe the Media Lab by taking Von Kármán's quote and saying, "and the Media Lab creates that which never will be." The Media Lab is famous for doing simulations of what they want to build. I remember fifteen years ago a student came in wearing a vest to talk to me about some material problem. He was an electrical engineering student in the Media Lab, building a wearable computer. His jacket had wires and chips in it, so you could put it on and walk off with your computer. What happens when it rains, I don't know. They did form One Laptop Per Child, and the Media Lab's done a number of interesting things, but mostly Nick Negroponte, the guy who started it, is descended from Italian royalty, and he still has that attitude of being a king.
+
+`§8.p4` *[Tom returns to the Wells paper plot.]* This is the equivalent oxygen purity; down here is oxygen purity, and up here is the relative combustion rate. One is a low carbon steel with 98% oxygen purity. If you decrease the oxygen purity to 90%, you'll have half the combustion rate. If you have 10% nitrogen in your oxygen jet, you'll have a boundary layer — unburned nitrogen — and that slows down the process. Up here are different types of steels. This is Armco iron, has almost no carbon. This is a razor steel — about 1% carbon. A cast iron would be way down here. You can flame cut cast iron, but it'll be a very ragged edge. You don't have a consistent process of melting and burning through.
+
+`§8.p5` So carbon contamination — higher-carbon steels are more difficult to flame cut. Alloy steels that give off vapors — steels with more chromium, like HY-80, form chromium suboxides when burning. They're harder to cut, slower to cut, and you can lose 10 to 20% on your productivity for an oxyacetylene cut because of carbon in the steel, other alloying elements that form vapors, or low-purity oxygen.
+
+`§8.p6` The reason we're not as concerned about some of those things now is because we have plasma cutting. Plasma cutting uses an arc, so you can get ten times the heat intensity, and you can melt very nice edges. *[Tom shows samples.]* This is a piece of plasma-cut stainless steel — a laboratory sample from a plasma cutting company — and you have nice smooth edges, smoother than oxygen cutting. The problem is you're using the heating of the metal to melt right through it and blow the metal out of the way. When you get to corners and turn, you'll see we have problems at the corners. We don't get nice square corners, because of your turning and changing your heat flow direction. They tried to cut a square of stainless steel and it's got round edges. This one shows — to cut a circle, they had to puncture in the middle, start here, and then go around. You can see they get a pretty smooth hole. So plasma cutting has replaced a lot of oxyacetylene cutting, particularly in panel lines and where you can have the big heavy plasma equipment.
+
+`§8.p7` Oxyacetylene's still nice. I've got an oxyacetylene outfit in the back of my garage that's not much bigger than your backpack — oxygen torch and acetylene B cylinder. I can go out in the woods and cut down a steel fence if I want. Go to the bank, cut through the vault — oh no, I can't do that, it's stainless steel. But if I had a plasma torch, I could.
+
+`§8.p8` When Dick Simmons, who's a graduate of MIT and worth about a billion dollars through Allegheny Ludlum Steel, was going to dedicate Simmons Hall — one of the undergraduate dorms — they came to me. Could they have him weld his initials into the cornerstone for the dedication? I said, well, Dick probably hasn't welded for forty years, he's going to be wearing a suit, and I don't think that's such a good idea. What if we have him plasma cut a stainless steel ribbon? That's a great idea. So they made a stainless steel ribbon, and I had a portable plasma unit, and I had to go over there and show Dick — in front of the whole MIT Corporation, who was there for the dedication of this dormitory that he had paid for most of. He's wearing his nice suit, and I'm showing him: "okay Dick, all you have to do, here's the torch, press this button, I'll be here, you press the button and just move it across, and it'll melt through the thin stainless steel." He did, it was fine, everybody thought it was great. He made all his money in stainless steel, and so he cut a piece of stainless steel to break the ribbon on his dorm.
+
+`§8.p9` Afterwards he came up to me, delighted. He said, "you know, I haven't done any cutting for years." I said, "I know, but it's not that hard to do plasma cutting." And it's not. He said, "but you got dirt on my suit." This is probably a $2,000 suit this man's wearing. I just brushed it off and said, "well, it's just a little dust, or smoke, or cinders. I'll buy you a new one, Dick." But I didn't have to buy it. Plasma cutting is very easy to do, very good surface. You can cut stainless steel, aluminum, magnesium. It's limited — you can't cut 36 inches thick. You have a hard time cutting more than half an inch or an inch unless you have really big equipment. The limit is probably an inch and a half or two inches. But most of what people cut isn't any thicker than that. Plasma cutting has been the preferred method.
+
+---
+
+## §9. Hexavalent chrome, salvage cutting, and the Pennzoil tank [63:29]
+
+`§9.p1` In a panel line, they'll do plasma cutting over a water bath, so all the smoke and drops are quenched in the water. Environmentally it's not that bad. However, yesterday I saw a request from the ship production committee — the Navy is soliciting ideas for cold cutting of metals.
+
+**Student:** Water?
+
+You could do water jet with powders. They want to get away from plasma. The reason is, the Defense Department has environmental police, and they're looking at the amount of stainless steel you cut, claiming you get hexavalent chrome. You don't, it turns out. I went over to the Pentagon once and gave a talk about how it's not really hexavalent chrome. The fume, as it sits around afterwards, can turn to hexavalent chrome, but at a concentration that's so low no one should worry about it.
+
+`§9.p2` When the fume actually comes off, we proved thermodynamically that it's not hexavalent chrome. It can't be. It's like one part in 10¹⁰ hexavalent chrome at the temperatures we're operating at. But as it sits around in the moisture and the air, and the fume gets corroded by the moisture, there's an increase in the level of hexavalent. Most people don't measure fresh fume — what a welder or operator will breathe. They collect the fume, wait a month to ship it to the lab, and analyze it when it's been exposed all that time, so they get bad results.
+
+`§9.p3` **Student:** They've got a super-saw now so they don't have to burn the whole cuts.
+
+Slow, isn't it?
+
+**Student:** Very.
+
+It's a lot slower than the —
+
+**Student:** They put a clay tray down to catch all the —
+
+I don't know what the —
+
+**Student:** They use a big machine, probably a two-foot saw.
+
+A circular saw, or band saw? A band saw. I've got a band saw in my lab, probably not a lot different. They've made this one quote-unquote portable, but portable by having a chain fall to bring it — it's not some guy lifting it.
+
+**Student:** They set up rails.
+
+The blade's not moving very fast.
+
+**Student:** No.
+
+Partly because the HY steels — you can't cut high-strength steel that fast, because the friction — that's why you need a bimetal blade. If you cut too fast, you just melt the tips, and they're not very sharp after they melt.
+
+`§9.p4` It's the environmental police — they're changing a lot of the rules. My example on changing the rules: I once had to investigate the explosion of a storage tank at a refinery in Oil City, Pennsylvania. Oil City is just down the river from Titusville, where Edwin Drake drilled for oil in 1856 [1859]. That was the beginning of the oil industry. This plant had been built around 1900, and the tank that blew up — killed the welder, blew her across the river — was an old riveted 1920s tank. The first day I got there — this was a Pennzoil facility, now closed, about fifteen years ago — these old riveted tanks, small-scale production compared to any other big refinery in Texas or the West Coast or even the East Coast.
+
+`§9.p5` The first day you go out there in the tank farm area, you dig down through the gravel about one foot, and you strike oil. They've been spilling oil there so long, for eighty years at that point, that you go one foot down and you strike oil. I realized the second day the reason they hadn't closed it — as soon as you close it, it becomes an EPA site. As long as you're in operation, you can keep polluting — well, you can't pollute all you want, but you don't have to clean up the last eighty years. When you close it, they're going to make you pay for the cleanup if they can identify who it was, which they could in this case.
+
+`§9.p6` You know how they transported oil from Titusville down to Oil City back around 1900? They just floated it on the river. Poured it out on the river, had a little weir at the other end and skimmed it off the water. The rules have changed over a hundred years. Now if they see Newton's rings out there — in fact, that's what happened in my town. There's an old clay pit pond in front of the high school, and a high school student noticed Newton's rings on the water, so they start investigating. It's the elementary school up on the hill, about a third of a mile above it, that had a corrosion problem in the pipes for the number-six bunker oil they burn to heat the school. That cost the town $1.5 million dollars to repair. In the old days you just skim it off the water.
+
+`§9.p7` There are lots of rules that have changed over the years, getting tighter, increasing the cost. To a certain extent, we ship the problems overseas. Commercially, all the ships were being decommissioned in Bangladesh. They'd take the last trip and run aground on the beach. Then thousands of little Bangladeshis with their acetylene torches — probably earning 50 cents a day — would cut the stuff up for scrap. There's asbestos and all. The average life of one of these ship dismantlers was about five years. Given that they would starve to death if they didn't have the job — and starving to death is even quicker than five years.
+
+`§9.p8` The Navy decommissions ships in the United States — although I've heard some Navy ships go other places. At least you take the reactors out of them first, and you're probably still burying them in the Atlantic?
+
+**Student:** No, they're in Washington State.
+
+You're burying them in Washington State. You used to bury them in the Atlantic Ocean, right off Norfolk. They drove them there?
+
+---
+
+## §10. Liquid copper jets and the frozen aluminum pot [71:44]
+
+`§10.p1` On those samples I passed around, written either "LPF" or "LPM" or "RPM" — you know what that is? I got that from a company that makes plasma cutters, and they gave me some old samples from their lab. People have developed other cutting techniques with even better heat transfer than from a plasma flame. One company — who will remain nameless, and I maybe shouldn't even describe this — they were trying to use jets of liquid copper. They could cut through steel with a liquid copper jet at ten times the speed of plasma cutting or oxyacetylene. The problem was, how do you generate a nice stable laminar-flow jet of molten copper? They did it in the laboratory and could cut ten-foot lengths there. You're using some fairly sophisticated ceramic materials, and their lifetime even so — because this was superheated copper — was not very good. If you hit it with just straight copper, it could freeze. With really superheated copper, you could zip through steel almost as fast as you can rip a sheet of paper.
+
+`§10.p2` People look at different things, and it's really just the fundamentals of heat transfer. A liquid metal can erode away a solid metal faster than anything else. Go through the heat-transfer coefficients and Peclet numbers — a liquid metal will cut through another liquid metal faster than anything.
+
+`§10.p3` There are some other things people do. I remember thirty-five years ago as a young faculty member — let me finish with a story. I get a phone call. These crank phone calls always come to the junior faculty, right — they pass it down from headquarters. The guy says he has a problem, he needs to cut some aluminum. "Well, what kind of aluminum?" "We're in a foundry, we have some aluminum casting." "Well, there's band saws." "I don't think a band saw's going to work." "Why not?" "Well, what we've got is pretty big." "How big?" "About two feet thick." "There are band saws that'll cut something two feet." "Well, it's going to be hard to get in there." "What do you have?" It turns out he was in Alabama. He had an aluminum foundry, and his melting pot of aluminum was about two feet deep. They lost their electrical power for a day and his pot froze on him. It's buried partway in the ground with all this ceramic around it, so it's a little hard to get in there. I was the young assistant professor — I didn't know how to do it, and I wasn't of much help to him.
+
+`§10.p4` About fifteen years later I was having dinner with a graduate of the department who was a senior executive vice president of Alcoa. I said, "Peter, you guys at Alcoa must have aluminum pot lines freeze up every now and then, where they make the molten aluminum, and you'd have about a two-foot-thick thing inside a big ceramic container." He said yeah. I said, "well, when it happens, how do you get it out? Because if that happens in carbon steel, it happens in steel mills all the time. People dump 300 tons of steel on the floor of the melt shop, it solidifies, and they just send people in with oxyacetylene torches and start cutting up this one- or two-foot-thick carbon steel. It might take a week to drill holes and put bolts in so they can sling these five-ton pieces of steel out and remelt them. In a steel mill, if you have a breakout — a big blob of steel — you can cut it up with oxyacetylene. You couldn't do it with plasma, but oxyacetylene will do it. But aluminum you can't. So how do you do it?"
+
+`§10.p5` He said, "well, there's this guy in Pittsburgh." A lot of you are too young to remember — anybody know who Red Adair was? Back in the seventies and eighties — there was actually a movie done about Red Adair. If you had an oil well blowout, Red Adair was the guy they'd call. He would fly in his Lear jet with his crews, and they'd come in with a crane and set off an explosive charge right next to the oil well, making sure it didn't reignite, because some of the valves and piping was still a little hot from the fire. He was the expert in the world for putting out oil rigs that had gone wildcat. The undoing of Red Adair was the first Gulf War, when Saddam Hussein set off all the oil wells — but they had other people, probably some of the military, learning from Red Adair. When it was all done, Red Adair's secrets were out.
+
+`§10.p6` Anyway, this guy in Pittsburgh was the Red Adair of aluminum potline freeze-ups. He would go in and drill some holes, put some charges in, light it off, and blow it up. I said, "doesn't it sometimes blow up the pot line?" He says, "yeah, but if you don't do it, the pot line's no good anyway. Sometimes it works and sometimes it doesn't. Depends on how it breaks up that aluminum." But you just blow it apart. That's one approach.
+
+`§10.p7` There are various types of cutting problems that people run into. On Thursday we'll start talking more about arcs. But I'm finished with flames, unless you have other questions.
+
+<<<END FILE>>>
+
+<<<FILE: anchors.json>>>
+{
+  "lecture_id": "EvpwSXoRHZk",
+  "course": "3.371 Fusion Welding",
+  "term": "Summer 2013",
+  "session": "2/6",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Flame structure and stoichiometry",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "01:01"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2", "p3"], "timestamp_range": ["01:01", "03:41"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p4"], "timestamp_range": ["03:41", "04:36"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p5"], "timestamp_range": ["04:36", "05:57"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p6"], "timestamp_range": ["05:57", "06:30"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["06:30", "07:30"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["07:30", "08:24"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8"], "timestamp_range": ["08:24", "09:25"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Surface heating and the boundary-layer problem",
+      "section_timestamp_start": "09:25",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p9"], "timestamp_range": ["09:25", "10:15"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p10"], "timestamp_range": ["10:15", "11:22"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p11"], "timestamp_range": ["11:22", "12:45"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p12"], "timestamp_range": ["12:45", "13:55"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p13"], "timestamp_range": ["13:55", "15:04"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p14"], "timestamp_range": ["15:04", "15:55"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p15"], "timestamp_range": ["15:55", "16:59"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p16"], "timestamp_range": ["16:59", "17:35"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p17"], "timestamp_range": ["17:35", "18:20"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Acetylene: discovery, storage, and hazards",
+      "section_timestamp_start": "18:20",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p18"], "timestamp_range": ["18:20", "19:30"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p19"], "timestamp_range": ["19:30", "20:53"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p20"], "timestamp_range": ["20:53", "21:53"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p21"], "timestamp_range": ["21:53", "22:30"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p21"], "timestamp_range": ["22:30", "23:18"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p22"], "timestamp_range": ["23:18", "24:31"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p23"], "timestamp_range": ["24:31", "25:37"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p24"], "timestamp_range": ["25:37", "26:54"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "From flames to arcs: the electrically augmented flame",
+      "section_timestamp_start": "26:54",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p25"], "timestamp_range": ["26:54", "27:53"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p26"], "timestamp_range": ["27:53", "28:49"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p27"], "timestamp_range": ["28:49", "30:00"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p28"], "timestamp_range": ["30:00", "31:06"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p29"], "timestamp_range": ["31:06", "32:19"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p30"], "timestamp_range": ["32:19", "33:23"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Underwater welding and the plasma bubble",
+      "section_timestamp_start": "33:23",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p31"], "timestamp_range": ["33:23", "35:11"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p32"], "timestamp_range": ["35:11", "36:19"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p33"], "timestamp_range": ["36:19", "37:32"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Flame cutting: oxygen, MAP gas, and a perjury trial",
+      "section_timestamp_start": "37:32",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p34"], "timestamp_range": ["37:32", "39:05"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p35"], "timestamp_range": ["39:05", "40:08"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p36"], "timestamp_range": ["40:08", "41:25"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p37"], "timestamp_range": ["41:25", "42:53"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p38"], "timestamp_range": ["42:53", "43:40"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p39"], "timestamp_range": ["43:40", "44:53"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The mechanics of flame cutting",
+      "section_timestamp_start": "44:53",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p40"], "timestamp_range": ["44:53", "46:09"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p41"], "timestamp_range": ["46:09", "47:30"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p42"], "timestamp_range": ["47:30", "49:09"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p43"], "timestamp_range": ["49:09", "49:46"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p44"], "timestamp_range": ["49:46", "50:25"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p45"], "timestamp_range": ["50:25", "51:22"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p46"], "timestamp_range": ["51:22", "52:40"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p47"], "timestamp_range": ["52:40", "53:31"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Plasma cutting and an MIT dedication",
+      "section_timestamp_start": "53:31",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p48"], "timestamp_range": ["53:31", "54:16"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p49"], "timestamp_range": ["54:16", "55:44"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p50"], "timestamp_range": ["55:44", "57:05"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p51"], "timestamp_range": ["57:05", "58:25"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p52"], "timestamp_range": ["58:25", "59:00"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p53"], "timestamp_range": ["59:00", "60:29"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p54"], "timestamp_range": ["60:29", "60:58"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p55"], "timestamp_range": ["60:58", "62:24"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p56"], "timestamp_range": ["62:24", "63:29"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Hexavalent chrome, salvage cutting, and the Pennzoil tank",
+      "section_timestamp_start": "63:29",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p57"], "timestamp_range": ["63:29", "64:45"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p58"], "timestamp_range": ["64:45", "65:40"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p59"], "timestamp_range": ["65:40", "67:14"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p60"], "timestamp_range": ["67:14", "68:18"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p61"], "timestamp_range": ["68:18", "69:07"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p62"], "timestamp_range": ["69:07", "70:12"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p63"], "timestamp_range": ["70:12", "71:09"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p64"], "timestamp_range": ["71:09", "71:44"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Liquid copper jets and the frozen aluminum pot",
+      "section_timestamp_start": "71:44",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p65"], "timestamp_range": ["71:44", "73:08"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p66"], "timestamp_range": ["73:08", "73:34"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p67"], "timestamp_range": ["73:34", "74:55"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p68"], "timestamp_range": ["74:55", "76:12"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p69"], "timestamp_range": ["76:12", "77:21"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p70"], "timestamp_range": ["77:21", "77:50"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p70"], "timestamp_range": ["77:50", "78:15"]}
+      ]
+    }
+  ]
+}
+<<<END FILE>>>
+
+<<<FILE: editorial_register.md>>>
+# Editorial Register: Layer 2 → Layer 3
+
+*Lecture EvpwSXoRHZk (Fusion Welding, Summer 2013, session 2/6). Records the editorial judgments made in lifting the cleanup edit to the readable edition.*
+
+## Sectioning decisions
+
+The lecture divides into ten sections, slightly more than the 4–8 typical band, because Tom moves through many discrete teaching units (flame structure → boundary layers → acetylene history → arcs → underwater welding → flame cutting debate → flame cutting mechanics → plasma cutting → environmental regulation → liquid copper / aluminum potlines). Each section is 3–8 minutes, mapping to a clear teaching transition: a new physical phenomenon, a new piece of equipment, or a resumption from an extended anecdote.
+
+The two trickiest boundaries:
+- §4/§5: Tom segues from arc physics directly into the student's underwater-welding question. §5 is given its own section because the student question reframes the next several minutes around underwater conditions specifically. §4 ends at the conclusion of the cathode/anode fall discussion.
+- §6/§7: The MAP gas perjury trial digression closes §6; §7 opens with Tom returning to the mechanics of flame cutting itself with "We do use flames for flame cutting." Tom's transition is explicit, so the section break is clean.
+
+## Per-section editorial decisions
+
+### §1 — Flame structure and stoichiometry
+
+- **§1.p1:** Smoothed two self-corrections ("two CO2's and a — and one oxygen for an H2O" → cleaned to the corrected form). Removed "I can't remember" hedge about the x and zero axis labels — the corrected reading is unambiguous.
+- **§1.p2:** Combined L2 p2 (Tom searching for a flame diagram, "let's see, I can't find it, I'll just draw it") with L2 p3. The book-search sequence is cut entirely — it's pure pocket-patting, no teaching content. The drawing on the board is preserved as a stage direction.
+- **§1.p4:** Halon discussion. "Did anyone ever do a demonstration with Halon to show you how it puts out a fire?" preserved as a rhetorical question; Tom answers it himself. The "P. Smith thing" preserved as Tom said it — captioner may have garbled a name (possibly USS Sam Houston or similar), but no unambiguous correction available; flagged for editor review.
+- **§1.p5 / §1.p6:** L2 p6 is one long paragraph mixing the exhalation-as-pollution point with the tributyl tin case. Split into two layer-3 paragraphs at the natural pivot to "The Navy is sort of guilty of a number of environmental things." Soft reorder *within section* — content is preserved in delivery order.
+- **§1.p7:** Aberdeen RDX anecdote. Bracketed [Proving] inserted after "Aberdeen" on first mention per convention (Tom slurs the full place name). Removed "$50,000 — I mean, there's deer running around" — this is Tom losing his train of thought reaching for a dollar figure he doesn't complete; the corrected reading is the deer/preserve description that follows.
+
+### §2 — Surface heating and the boundary-layer problem
+
+- **§2.p1:** Backward reference "we talked about um diffuse flames where you have a very slow flame, uh, we talked about um premix flames like these" preserved because it carries content (Tom is establishing the categories before lighting the torches). Light cleanup of repeated "we talked about."
+- **§2.p2:** Stage direction *[Tom turns on a torch.]* inserted. "Got to turn it on again" cut as pocket-patting.
+- **§2.p3:** Stage direction *[Tom lights both torches.]* inserted. The "should hear a lower velocity" remark preserved — this is an auditory teaching moment Tom is signaling.
+- **§2.p5:** Smoothed "and you'll get a uh something that only lasts for milliseconds" → cleanly delivered. The 10⁴ vs 10⁵ comparison preserved verbatim — Tom uses these units explicitly.
+- **§2.p6:** Cut "Um, in any case" filler. Cut repeated "the bears and stuff, and they don't" — captioner echo.
+- **§2.p7:** X-33 aerospace plane reference preserved. Tom's "Anybody know how we do that?" preserved as rhetorical setup for §2.p8.
+
+### §3 — Acetylene: discovery, storage, and hazards
+
+- **§3.p1:** Tom interrupts his own discovery narrative to show the flame-types picture he was searching for earlier. The split: Edmund Davy intro → picture aside → resumption with Wöhler/calcium carbide at §3.p2. This is a minor *within-section* soft reorder: Tom's actual delivery puts the picture aside between the Davy date and the Wöhler date; layer 3 keeps the picture aside attached to the Davy intro and starts §3.p2 cleanly with 1862.
+- **§3.p3:** Thomas Wilson / Spray, NC. Preserved Tom's "I think it was a black powder" hedge — this is a teacherly qualification, not filler.
+- **§3.p4 / §3.p5:** Layer 2 p21 covers both the acetylene generator description and the Prest-O-Lite / Allison / Fisher history. Split at "This was the beginning of the Prest-O-Lite division" — natural topic pivot.
+- **§3.p6:** Stage direction *[Tom holds up an acetylene cylinder.]* inserted. The "B for bus / 1910 headlights" content is preserved; this is a substantive piece of industrial history.
+- **§3.p8:** Mercury fulminate fly-catcher anecdote. Tom's mid-sentence aside about terrorists preserved — it's the joke Tom is making, and removing it would alter the teaching moment. Smoothed "he put — he would take by his wooden desk, he put some straight pins, stand them up" → "he had a wooden desk; he would stand up some straight pins" (self-correction smoothed to the corrected form).
+
+### §4 — From flames to arcs
+
+- **§4.p3:** Stage direction *[Tom draws on the board.]* inserted. The gas tungsten arc diagram is implicit in L2 ("I've drawn this as a gas tungsten arc"); layer 3 makes the drawing-event explicit.
+- **§4.p6:** Student question preserved with attribution. Tom's "I don't want to say tunnel — they have enough energy, they blast their — they're ballistic" smoothed: cut "I don't want to say tunnel" (Tom rejecting his own word choice mid-sentence) and the "blast their" false start.
+
+### §5 — Underwater welding and the plasma bubble
+
+- **§5.p1:** Student question preserved with attribution. Smoothed "this is just radiating through the gas. But if you actually cool the outside of the plasma, because it's now a water sheath around it — it's just a plasma bubble surrounded by water" — preserved as is; the dashes signal Tom's parenthetical, which carries content.
+- **§5.p3:** Tom's mid-paragraph self-questioning "Did I do all those — that math right? You should know. Some for 450 — yeah, thousand feet." cut entirely. He resolves his own arithmetic uncertainty and lands on "400 or 500 feet" as the practical limit. The cut is consequential — it removes Tom checking his work on tape — and is the **most substantive cut in this lecture.** Layer 2 preserves the full exchange. Layer 3 reads the resolved version.
+
+### §6 — Flame cutting: oxygen, MAP gas, and a perjury trial
+
+- **§6.p1:** "I told you all the problems with acetylene — it can explode under pressure, it can form copper acetylides and whatnot." preserved — it's a recap of §3 that orients the reader at the section boundary.
+- **§6.p2:** Southern California plumber anecdote. Preserved Tom's "He wasn't happy" closer — it's the rhetorical landing.
+- **§6.p3 / §6.p4 / §6.p5:** Methamphetamine perjury trial. Tom's "it's probably not appropriate, certainly on tape, to talk about what they were doing while they were doing the drugs" preserved — it's Tom signaling his own redaction, which is itself a teaching moment about expert-witness conduct. The repeated "okay" closers cut where they're mid-clause filler; preserved where they close rhetorical units.
+- **§6.p6:** Tom's calculation about the T-flame² scaling. Smoothed "did I actually do that calculation for you here? Okay I don't think I did. But it's T-flame minus 1600" → cleaner exposition of the calculation. Tom did present the underlying physics; the meta-comment about whether he wrote it on the board is cut.
+
+### §7 — The mechanics of flame cutting
+
+- **§7.p3:** Titanium flame-cutting / environmental police anecdote. Stage direction *[Tom hands samples around.]* inserted. The dialogue with the environmental inspector preserved with light cleanup: "the guy says — my technician Bruce says" smoothed to "My technician Bruce says." The punchline "what are you expecting to come out of a welding lab?" preserved verbatim.
+- **§7.p5:** Student exchange about magnesium / aluminum oxide. Two student turns labeled. Tom's "I'm going to talk about that in a second" preserved as the section bridge to plasma cutting.
+- **§7.p6:** Stage direction *[Tom shows a plastic guide.]* inserted. "I didn't bring back my piece of HY-80 but that was done, and it was a sample 4 cut" cut — Tom is referencing a sample he doesn't have in hand, and the reference goes nowhere.
+- **§7.p7 / §7.p8:** Dive-school student exchange about underwater cutting. Three student turns labeled. The exchange flows as a back-and-forth; preserved in delivery order. Tom's "yep" and "okay" acknowledgments cut where they're pure backchannel.
+
+### §8 — Plasma cutting and an MIT dedication
+
+- **§8.p1:** Stage direction *[Tom shows the Iron-Oxygen Combustion Process paper.]* inserted. The Alan Wells citation preserved.
+- **§8.p2:** Von Kármán quote rendered in italics per convention for quoted material. Tom's recursive "engineers like the quote and scientists like the quote, which is why I think it's a great quote" preserved — it's the punchline.
+- **§8.p3:** Joel Moses / Media Lab digression preserved. The wearable computer anecdote and Negroponte parenthetical preserved — they're characteristic Tom asides that establish his stance on hype-driven research. "What happens when it rains, I don't know" preserved as a rhetorical aside.
+- **§8.p4:** Stage direction *[Tom returns to the Wells paper plot.]* inserted. The Armco / razor-steel / cast-iron comparison preserved as a discrete teaching unit.
+- **§8.p6:** Stage direction *[Tom shows samples.]* inserted. The plasma-cut stainless steel circle description preserved — Tom is walking the class through the artifact.
+- **§8.p7:** "Go to the bank, cut through the vault — oh no, I can't do that, it's stainless steel" preserved as the joke it is.
+- **§8.p8 / §8.p9:** Dick Simmons / Simmons Hall dedication anecdote. Preserved largely intact — it's a single sustained narrative arc. "I'll buy you a new one, Dick" preserved as Tom's recounted line. The "$2,000 suit" detail preserved.
+
+### §9 — Hexavalent chrome, salvage cutting, and the Pennzoil tank
+
+- **§9.p1 / §9.p2:** Hexavalent chrome thermodynamics argument. Preserved Tom's "one part in 10¹⁰" — this is a specific quantitative claim he made on tape.
+- **§9.p3:** Extended student exchange about Navy super-saw / band saw setup. Six student turns labeled. The exchange is fragmentary on both sides; preserved in delivery order with minimal cleanup. Tom's "I don't know what the —" preserved as an interrupted sentence (Tom is genuinely puzzled by what the students are describing).
+- **§9.p4:** Oil City Pennzoil tank. "1856 [1859]" bracketed: Tom said 1856, but Drake's well was drilled in 1859. Per convention, factual slips are bracketed only when they would actively mislead. The date is bracketed here because it anchors a historical claim ("That was the beginning of the oil industry") and a reader looking up Drake's well would find the correct date 1859.
+- **§9.p7:** Bangladesh ship-breaking. "given the fact they would starve to death if they didn't have the job — and starving to death is even quicker than five years" preserved verbatim — this is Tom's rhetorical landing on the ethics of the issue.
+- **§9.p8:** Closing student exchange on reactor disposal. Two student turns. Tom's question "They drove them there?" preserved — he is genuinely surprised and the question hangs unanswered as Tom transitions.
+
+### §10 — Liquid copper jets and the frozen aluminum pot
+
+- **§10.p1:** "Who will remain nameless, and I maybe shouldn't even describe this" preserved — Tom signaling his own redaction, which is itself a teaching/professional-conduct moment.
+- **§10.p3:** The Alabama aluminum foundry phone-call anecdote rendered as reported dialogue. Tom's recounting alternates between his own voice and the foreman's; layer 3 preserves the alternation but tightens the quote marks. "Well, what do you have?" / "It turns out he was in Alabama" — the pivot from in-call dialogue to retrospective narration preserved.
+- **§10.p4 / §10.p6:** Alcoa potline freeze-up. The Peter / Pittsburgh-explosives-expert framing preserved. Pittsburgh aluminum potline freeze-up case explicitly named.
+- **§10.p5:** Red Adair / Gulf War digression. Preserved largely intact — it's the comparison Tom is building the Pittsburgh-aluminum-guy framing against.
+- **§10.p7:** Closing line. Tom's mid-sentence "But anyway, so anyway" cut — pure transition filler. The "Thursday we'll start talking more about arcs" preserved as the session closer.
+
+## Captioner corrections (silent)
+
+- "Sir Humphrey Davy's brother" — Edmund Davy was actually Humphry Davy's cousin, not brother. **This is Tom's spoken error, not the captioner's.** Per convention, factual errors Tom made on tape are preserved unless they would actively mislead. Left as Tom said it; a reader curious about the relationship can verify. Flagged here so the editor can decide whether to bracket on review.
+- "Newton's rings" preserved — Tom is using the term loosely for oil-on-water iridescence (not the optical phenomenon precisely). Left as Tom said it.
+- "P. Smith thing" preserved — captioner may have garbled a name (USS Sam Houston? Sam Smith?); no unambiguous correction available. Flagged for editor review.
+- "One Laptop for a Child" → "One Laptop Per Child" — corrected silently (Tom slurred the program name).
+- Spelling of "Wöhler" used in layer 3; captioner had no umlaut.
+
+## Soft reorderings logged
+
+- **§1.p5 / §1.p6:** L2 p6 split at the "Navy is sort of guilty" pivot. No reordering, just paragraph break.
+- **§3.p1 / §3.p2:** Picture-aside attached to Edmund Davy intro rather than interleaved between Davy and Wöhler. Justification: the picture shows oxidizing/neutral/reducing flames, which is the topic of §1.p8 and §3.p1 — the aside belongs with the flame-structure recap, not interrupting the discovery chronology.
+
+## Constitutional constraint (preserved verbatim per convention)
+
+Decisions NOT permitted at layer 3:
+- Adding new sentences in Tom's voice (Feynman/Leighton/Sands could because Feynman was alive to ratify; we cannot).
+- Reordering content across section boundaries.
+- Merging cases Tom kept separate, or splitting cases he handled as one.
+- Removing factual errors Tom made on tape. (Captioner errors are corrected silently; Tom's slips are bracketed; Tom's genuine misstatements are preserved and footnoted in layer 3 only when they would actively mislead a reader.)
+
+<<<END FILE>>>
+
+<<<FILE: case_index.md>>>
+# Case Index — Lecture EvpwSXoRHZk (Fusion Welding 2/6)
+
+*Citation format: layer 3 paragraph anchor (e.g. `§3.p3`). Cases are named teaching units. Recurring numeric anchors and historical references are noted separately.*
+
+## Cases referenced
+
+### Navy Tributyl Tin (TBT) paint program
+- **Anchor:** `§1.p6`
+- **canonical_cluster_id:** "Navy Tributyltin (TBT) paint environmental damage"
+- **Frame in this lecture:** Tom's environmental-regulation framing. Used as an example of military exemption from environmental review until Congressional intervention twenty to twenty-five years ago.
+- **Era:** 1970s–late 1980s
+
+### Aberdeen Proving Ground RDX soil contamination
+- **Anchor:** `§1.p7`
+- **canonical_cluster_id:** "Aberdeen Proving Ground RDX soil contamination"
+- **Frame in this lecture:** Continuing the military-environmental-impact thread. Includes the JP Morgan hunting preserve / income tax origin story.
+- **Era:** post-1913 (income tax establishment) through present
+
+### Newport News carbide shack fire
+- **Anchor:** `§3.p2`
+- **canonical_cluster_id:** "Newport News Shipyard carbide shack incident"
+- **Frame in this lecture:** Used to illustrate why water-on-calcium-carbide is the opposite of fire suppression. The welding engineer racing the fire department to stop them from dousing the carbide.
+- **Era:** undated (Tom's visit was "once")
+
+### Thomas Wilson calcium carbide discovery
+- **Anchor:** `§3.p3`
+- **canonical_cluster_id:** "Thomas Wilson calcium carbide discovery"
+- **Frame in this lecture:** Origin of industrial acetylene supply. Spray, NC, early 1900s — arc furnace synthesis from limestone and carbon.
+- **Era:** early 1900s
+
+### Prest-O-Lite / Allison / Fisher acetylene cylinder development
+- **Anchor:** `§3.p5–p7`
+- **canonical_cluster_id:** "Acetylene cylinder explosion hazard (early acetylene storage)"
+- **Frame in this lecture:** The acetone-soaked porous-binder cylinder. B-for-bus cylinder as 1910 bus headlight. Industrial-history origin of modern acetylene storage.
+- **Materials/systems:** acetylene, acetone, calcium silicate binder (developed early 1950s)
+- **Era:** 1904 founding through early 1950s binder development
+
+### Acetylene-copper acetylide reaction
+- **Anchor:** `§3.p7`
+- **canonical_cluster_id:** "Acetylene-copper reaction hazard"
+- **Frame in this lecture:** Why piping for acetylene must be brass or nickel, not pure copper. Contact-explosive formation.
+- **Materials/systems:** acetylene, copper, brass
+
+### MIT mercury fulminate fly-catcher (undergraduate anecdote)
+- **Anchor:** `§3.p8`
+- **canonical_cluster_id:** PROPOSED: "MIT undergraduate mercury fulminate fly-catcher"
+- **Frame in this lecture:** Contact-explosive demonstration as a digression from copper acetylides. Characterizes MIT undergraduate culture in Tom's day.
+- **Era:** Tom's undergraduate years (early 1970s)
+
+### Southern California plumber cell-phone / cigar / lit-torch incident
+- **Anchor:** `§6.p2`
+- **canonical_cluster_id:** PROPOSED: "Southern California plumber lit-torch hammer incident"
+- **Frame in this lecture:** Misuse of MAP gas cylinder leading to neck rupture and 8-foot flame. Tom is consulting for the cylinder manufacturer.
+- **Era:** undated, consulting case
+
+### Southern California methamphetamine MAP gas perjury case
+- **Anchor:** `§6.p3–p5`
+- **canonical_cluster_id:** "Southern California MAP cylinder misuse federal lawsuit"
+- **Frame in this lecture:** Federal civil case dismissed on perjury grounds. Tom was retained as expert witness; case settled "a month ago" (i.e., mid-2013) after three years of litigation.
+- **Materials/systems:** MAP gas cylinder
+- **Era:** 2010–2013
+
+### Mount Shasta MAP and acetylene burn testing
+- **Anchor:** `§6.p4`
+- **canonical_cluster_id:** "Mount Shasta MAP and acetylene burn testing study"
+- **Frame in this lecture:** Empirical study on what happens when MAP/acetylene cylinders are deliberately ruptured. Used in expert-witness work.
+- **Era:** undated
+
+### MIT titanium flame-cutting environmental incident
+- **Anchor:** `§7.p3`
+- **canonical_cluster_id:** "MIT titanium flame-cutting environmental incident"
+- **Frame in this lecture:** Smoke from titanium flame-cutting prompted complaint from thesis advisor's secretary to environmental police. Tom's "what are you expecting to come out of a welding lab?" anecdote.
+- **Era:** late 1970s (Tom's first research project at MIT)
+
+### Simmons Hall dedication plasma cutting demonstration
+- **Anchor:** `§8.p8–p9`
+- **canonical_cluster_id:** "Simmons Hall dedication plasma cutting demonstration"
+- **Frame in this lecture:** Dick Simmons (Allegheny Ludlum, ~$1B net worth) plasma-cutting a stainless steel ribbon at the dorm dedication, in front of the MIT Corporation, in a $2,000 suit.
+- **Era:** ca. 2002 (Simmons Hall opened 2002)
+
+### Oil City Pennzoil refinery storage tank explosion
+- **Anchor:** `§9.p4–p6`
+- **canonical_cluster_id:** "Tank explosion at Pennzoil Oil City refinery"
+- **Frame in this lecture:** Forensic investigation of a riveted 1920s tank that exploded and killed the welder. Tom's introduction to the EPA-site-on-closure phenomenon: one foot of gravel before striking oil. Includes the historical aside about floating crude oil down the river from Titusville (where Drake drilled in 1859) to Oil City.
+- **Materials/systems:** riveted 1920s pressure vessel
+- **Era:** consulting case ca. 1998 (15 years before 2013); incident itself undated but on a 1920s-built tank
+
+### Belmont elementary school oil tank leak (Tom's town)
+- **Anchor:** `§9.p6`
+- **canonical_cluster_id:** "Belmont elementary school oil tank leak"
+- **Frame in this lecture:** Newton's-rings on a clay-pit pond traced back to a number-six bunker-oil pipe corrosion failure at the elementary school. $1.5M repair cost to the town.
+- **Materials/systems:** corroded number-six bunker oil piping
+- **Era:** undated, but recent at time of lecture
+
+### Bangladesh ship-breaking
+- **Anchor:** `§9.p7`
+- **canonical_cluster_id:** "Ship dismantling in Bangladesh"
+- **Frame in this lecture:** End-of-life merchant ships run aground for dismantling by acetylene-torch workers at ~50¢/day, with ~5-year average life expectancy due to asbestos and other exposures.
+- **Era:** late 20th century, ongoing
+
+### Navy reactor disposal (Washington State vs. Atlantic)
+- **Anchor:** `§9.p8`
+- **canonical_cluster_id:** PROPOSED: "Navy nuclear reactor disposal site transition (Atlantic to Washington State)"
+- **Frame in this lecture:** Brief student-prompted exchange. Tom is surprised to learn reactors are now buried in Washington State rather than the Atlantic off Norfolk.
+- **Era:** transition undated; lecture date 2013
+
+### Liquid copper jet cutting research
+- **Anchor:** `§10.p1`
+- **canonical_cluster_id:** "Liquid copper jet cutting research"
+- **Frame in this lecture:** Unnamed company's lab demonstration of cutting steel with a superheated molten copper jet at 10× plasma speed. Heat-transfer fundamentals: liquid metal cuts liquid metal faster than anything.
+- **Materials/systems:** molten copper jet, ceramic nozzle materials
+- **Era:** unspecified, in Tom's career
+
+### Alabama aluminum foundry freeze-up
+- **Anchor:** `§10.p3`
+- **canonical_cluster_id:** "Alabama aluminum foundry freeze-up"
+- **Frame in this lecture:** Crank phone call to junior-faculty Tom ~35 years ago (i.e., ca. 1978). Two-foot-thick frozen aluminum pot, foundry lost power for a day. Tom couldn't help. Sets up the Alcoa solution fifteen years later.
+- **Era:** ca. 1978
+
+### Alcoa aluminum potline freeze-up explosive demolition
+- **Anchor:** `§10.p4–p6`
+- **canonical_cluster_id:** "Alcoa aluminum potline freeze-up explosive demolition"
+- **Frame in this lecture:** Dinner conversation with Peter, senior EVP at Alcoa. The "Red Adair of aluminum potlines" — a Pittsburgh contractor who drills holes, packs explosives, and blows up the frozen pot. Sometimes destroys the pot line; sometimes salvageable.
+- **Materials/systems:** aluminum potline, explosive charges
+- **Era:** ca. 1993 (15 years after the Alabama call)
+
+### Red Adair oil-well firefighting
+- **Anchor:** `§10.p5`
+- **canonical_cluster_id:** PROPOSED: "Red Adair oil-well blowout firefighting"
+- **Frame in this lecture:** Historical context for the Alcoa potline-explosive contractor. Includes the first Gulf War (Saddam Hussein igniting Kuwaiti wells) as the diffusion event for Red Adair's techniques.
+- **Era:** 1970s–early 1990s
+
+## Figures referenced (not cases)
+
+- **Halon as combustion-chain inhibitor** (§1.p4): demonstration anecdote, not a developed case.
+- **Atmospheric pressure threshold for arc physics** (§4.p5): "anything above half an atmosphere is high pressure" — Tom's recurring teaching frame for arc-pressure regimes.
+- **400-foot underwater welding depth limit / 30 atmospheres** (§5.p2–p3): recurring quantitative anchor across the corpus's underwater-welding material.
+- **2,000 W/cm² jet burner ceiling vs. 10,000 W/cm² arc ceiling

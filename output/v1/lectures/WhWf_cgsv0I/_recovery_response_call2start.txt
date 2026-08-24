@@ -1,0 +1,268 @@
+<<<FILE: layer3.md>>>
+---
+video_id: WhWf_cgsv0I
+course: Casting
+term: Summer 2011
+video_title: "3.371 Materials Processing and Casting - Summer 2011 [3/7]"
+layer: 3
+pipeline_version: 2.0
+---
+
+# Lecture 3 — Why Vapor-Phase Processing Doesn't Scale; Energy, Productivity, and the Steel Industry
+
+*3.371 Materials Processing and Casting, Summer 2011, session 3 of 7.*
+*Source video: `WhWf_cgsv0I`.*
+
+---
+
+## §1. Why structural materials are made from liquids, not vapors [00:03]
+
+`§1.p1` Last time I tried to show that the processing rate means that for structural materials — where you have to produce thousands of cubic meters of material — you really can't start with the vapor phase. Two reasons. One is it's just too slow; you can't get enough atoms there fast enough. Even at room temperature there's about a thousandfold difference between the density of a gas and the density of a condensed phase. The typical number for methane, liquid natural gas, is 800. There's about a thousandfold change, and therefore at least a thousandfold change in processing compared to pouring a liquid as opposed to depositing a vapor.
+
+`§1.p2` But in fact vapors are usually deposited at a lot less than 100% concentration in air. They're at a very low partial pressure — 10⁻³, 10⁻⁶ of an atmosphere if you're doing vapor phase processing. So if you have one-thousandth the density and then a partial pressure that's one-thousandth or one-millionth, your processing rate is a million times less or a billion times less. So vapor phase processing — you can put coatings on structural materials to improve corrosion resistance, reflectivity, optical properties — but as a basic structural material to build a bridge across a river, you're going to do it by pouring liquid. Start out by pouring liquid.
+
+`§1.p3` The second reason is just the energy cost. Getting something into the vapor phase takes ten times the energy of getting it into the liquid phase. You've got to break every bond, whereas in a liquid you only have to break about 10% of the bonds from a solid. So the energy cost is tremendous and the processing rate is slow, and therefore vapor phase processing is something we do for functional materials that have extremely high value added, like semiconductors — that are a million times as valuable per pound or per unit volume.
+
+---
+
+## §2. Energy content and the cost of structural materials [02:45]
+
+`§2.p1` Another way to look at this — this is out of a book on material selection by Mike Ashby, who used to be at Harvard and then retired a few years ago from the University of Cambridge. The horizontal axis is 1980 dollars; the vertical is energy content in gigajoules per ton. For structural materials like gravel, all you have to do is crush the rock — not a lot of energy. There's a lot of force, but on a per-pound basis not a lot of energy. Aluminum oxide is very stable, and that's what you mine out of the ground, so it takes a lot of energy to make aluminum metal out of it.
+
+`§2.p2` Copper at that time was 100, rising to about 500. That's because we've used up most of the good copper ores in the world. The really good copper ores came out of the Belgian Congo — Zaire now, whatever the name is, central Africa — where they used to have 6% copper ores. The largest copper mine still in operation in the United States is the Bingham mine right outside Salt Lake City. If you've flown the right way into Salt Lake City you've looked at the world's deepest pit, goes down about 300 feet. The Bingham mine is less than half a percent copper in the ore. Gold we mine out of ores even less than that, in parts per million, but gold is 10,000 times as valuable per atom as copper.
+
+`§2.p3` So there's a lot of energy content in copper just in the mining. In aluminum it's basically getting the oxygen out of the aluminum oxide. Plastics — that's basically the energy content you'd get if you just burned it as a barrel of oil, plus the processing. Steel is around 50. Steel is the high-volume material in the world, other than gravel and cement. Cement is about two billion tons a year; steel's about a billion tons per year. Back in 1980 at $4.40 per gigajoule, steel would be about $220 of energy cost per ton, and that was about right back then. The ore might cost you $100, the energy might cost you $200, and you might buy the finished steel at $400 a ton because there was some other processing to make it into a shape.
+
+`§2.p4` Aluminum at $4.40 times 300 back in 1980 would be $1,400 of energy cost, and the cheapest aluminum back then was about a dollar a pound. So steel might be twenty or thirty cents a pound, aluminum a dollar a pound. Aluminum's got one-third the density — or 40% of the density — so you're getting more volume per pound, but it's still a lot more expensive. Now aluminum's up around two bucks a pound and steel's up around fifty cents a pound, depending on the type. Energy costs have become the dominant factor. When I went to work for a steel company in the mid-'70s, it was about 45% ore and raw materials, 45% energy, and 10% profit. Today it's about 90% energy cost. Raw materials really aren't that significant.
+
+---
+
+## §3. Productivity growth across sectors [07:08]
+
+`§3.p1` That's partly because the only industry over the last thirty years that has exceeded the productivity of the manufacturing sector is the mining sector. If you look at productivity over the last twenty, thirty years in the service sector — doctors, insurance companies, Wall Street — the productivity growth has been around 0%. No productivity growth whatsoever. In the medical business it's going down. In the financial sector maybe some people are getting rich, but the productivity growth is not there. They always say, well, we've got computers now, we're more efficient at screwing people in the financial industry. In the manufacturing industry it's been about 4% productivity growth, and in the mining industry about 6%. Average that over twenty years and you find ore cost about one-third as much as it did twenty years ago. 1.06 to the twentieth power — you can do it on your HP calculator.
+
+`§3.p2` In manufacturing, productivity has also gone up dramatically. Before the Chinese started blowing away the metals market four or five years ago, a ton of steel in 2000 cost about half the price in real dollars of what it cost in 1980, if you took out inflation. That's because of productivity increases. On the cost-versus-pounds-per-year plot I showed last time, stone is very low cost because it has very low energy cost. Cement and steel have all benefited from better mining costs. Things with more energy content in them have gotten more expensive in a sense, because energy cost has become the big factor over the last twenty, thirty years.
+
+`§3.p3` Also, as I pointed out last time, steel is 95 pounds out of every 100 pounds of metal. Aluminum is less than 2%, copper just over 1%. Stainless steels are about 10% of that 95%.
+
+---
+
+## §4. Why we don't see all-aluminum Tauruses [10:47]
+
+`§4.p1` **Student:** *[question about gasoline prices and aluminum cars]*
+
+`§4.p2` You have to wait for the new design. That $4 a gallon article was written originally with numbers good from the mid-'90s, so the break-even point right now might be $6 a gallon. Gas has been $6 or 8 a gallon for years in Norway and elsewhere. But the United States is the market where everybody dumps their cars, and we have gasoline prices less than $3 a gallon. That's why people make steel cars. You don't see an all-aluminum Ford Taurus, or an all-aluminum Toyota Corolla or Camry. The reason is you can't make a $20,000 car out of aluminum.
+
+`§4.p3` Aluminum is just too expensive to make a low-priced car. If I want to make a forty, fifty, sixty thousand dollar car, sure, I can make it out of aluminum. The body-in-white, which is the basic metal structure for a unibody car, only costs about a thousand or two thousand dollars out of steel. But if it costs $4,000 out of aluminum, and you're trying to sell the car for $20,000, you can't afford an extra $2,000 worth of aluminum. If you're selling an Audi for $40,000, who cares about a lousy $2,000? The person buying an Audi for $40,000 is pretty much insensitive to whether it's 40,000 or 42,000. But the person buying a Taurus at $20,000 cares.
+
+`§4.p4` **Student:** Do they make Audi out of aluminum?
+
+`§4.p5` Audis are almost all aluminum. Audi and Alcoa had a big thing back in the '90s. I used to say the break-even point was $3 a pound. I gave a talk at a metallurgical conference, and Peter Brienna, who was a graduate of this department and at the time was senior executive VP of Alcoa — he had the longest title: research, development, safety, technology, environment, and something else — was giving a talk in the same session about all the work they were doing with Audi to make all-aluminum cars. He came up to me afterwards and said, "It's not $3 a pound, Tom, it's $4 a pound is the transition." He admitted it was even higher than what I had estimated. So I used his $4 number. That's a mid-'90s number.
+
+`§4.p6` In the material selection part of the lectures, the point is you have to be careful when you start talking about prices of things. I can talk about a ship or a railroad where 20 cents a pound is the value of a pound saved over the life of the vehicle — a commercial freighter or cargo carrier — versus a spacecraft where it's $20,000 a pound. They're two different beasts. But Wall Street doesn't understand that difference. They can't tell the difference between 20 cents and $20,000, technologically. I harangue on that in the material selection lectures, so let me not harangue here.
+
+---
+
+## §5. World casting production and why the steel number is wrong [15:34]
+
+`§5.p1` This is from *Modern Casting* — pounds of cast metal, world casting production, 2004–2005. Gray iron castings, 40 million tons. Ductile iron, which is just a better grade, 20 million tons. Malleable iron, which is expensive and requires a furnace to heat treat for long hours, has dropped to a million tons. Steel, 9 million tons. Aluminum, 12 million tons. This is out of the *Metal Handbook*, 10th edition, and their source is *Modern Casting*. There's a problem with this graph. I told you we make a billion tons of steel, and they say the steel castings output is 9 or 10 million tons. What's the problem?
+
+`§5.p2` **Student:** They say 12 million tons, aluminum's more than steel.
+
+`§5.p3` The only steel they're talking about is where the final product is a cast shape of steel. They don't count steel that became a plate or an I-beam. These are the casters; they only count steels that were cast as a piece of steel. But in aluminum, where everything is cast, that's 12 million tons of aluminum produced in the world, much of it ending up in Audis as sheet metal. What's the largest single use of aluminum in the world? 40% of all aluminum goes into what?
+
+`§5.p4` **Student:** Beverage cans.
+
+`§5.p5` Aluminum cans — 40% of all aluminum production. All of that started out as a casting, and all those beverage cans are part of this 12 million tons. The steel number should be a billion, not 10 million tons, because they're comparing apples and oranges. This is what's sold as a casting; that is all the aluminum that was cast for any application, even sheet metal. So you have to be careful — just because it's in a handbook, just because it comes from a reliable source, doesn't mean it's reliable.
+
+---
+
+## §6. Two cases of dubiously sourced "reliable" numbers [18:12]
+
+`§6.p1` This has happened to me a couple of times. Back in the late '70s I was giving a talk at a welding conference and I wanted to know how many welders there are in the United States. How would you estimate that?
+
+`§6.p2` **Student:** *[suggestion involving college graduates]*
+
+`§6.p3` There's lots of people who weld who never graduated from college. College graduates don't correlate with the professions. I went to the number of pounds of electrodes sold — there has to be someone consuming them. Knowing how much metal a guy could lay down in a day, I came up with a number like 800,000 people full-time welding. Except not everybody's a full-time welder. So I figured maybe half a million are full-time welders — you go to a shipyard or John Deere and they've got guys who just weld all day — but some farmer welds two hours a week, some auto mechanic. There's got to be about 2 million welders, probably half a million full-time and one and a half million part-time. There's some people who weld one hour a month, but are you going to include those?
+
+`§6.p4` Anyway, I gave the talk citing 2 million welders. About 1990, twelve years later, a new edition of the welding handbook came out, and I'm flipping through it and it says there are about 2 million welders in the United States, citing the US Bureau of Labor Statistics. I thought, hey, they got the same number I did. So I called the American Welding Society and said, where'd you get this Bureau of Labor Statistics? They told me the Bureau of Labor Statistics had called them up — and the only number they had ever heard was mine. So they gave it to BLS, and BLS gave it back, but they didn't reference me in the welding handbook. They referenced the government, because the government is more reliable.
+
+`§6.p5` The other case is Clayton Christensen at Harvard Business School. He's been chair of the faculty; some people say he's the greatest business school professor in the country right now. He wrote a book called *The Innovator's Dilemma* fifteen, twenty years ago. I've known Clayton since he was a graduate student. He lives just up the street from me. Back when he was writing *Innovator's Dilemma*, my daughter, who's now in her mid-30s, was a college student and needed a job one summer, and Clayton gave her a job doing research for his book.
+
+`§6.p6` One of the example sections is the steel industry — how the big integrated producers didn't innovate and the little electric furnace steelmakers did. Clayton asked Rebecca to find out what it cost to build an integrated big steel mill, and she came home one night and said, "Dad, I can't find it anywhere, do you know?" I said, sure, I've got a slide in my office. I brought in a copy. That slide was made in Saginaw, Michigan, in the airport when I was visiting General Motors with a graduate student. We were talking about what his thesis would be, and I jotted down what it cost to build an integrated steel plant versus a mini-mill — people were talking about micro-mills back then — and I pulled the numbers out of the air.
+
+`§6.p7` Well, they weren't completely out of the air; it was my best estimate. $15 billion to build an integrated steel plant in the mid-'90s. I know what it cost to build a steel plant. The last steel plant ever built by a company in the world was Bethlehem Steel's Burns Harbor plant in Indiana in 1965. It cost $6 billion. Take inflation and it's $15 billion to build one in the mid-'90s, or $20–25 billion today. So my number wasn't way off. If you look in Clayton's book, I'm referenced for the cost of a steel plant. I just sort of pulled it out of the air — well, not out of my anatomy, I had a basis for it — but now it's referenced in this great management text. So be careful when you see numbers like that 10 million tons. Clayton wrote it in his book, it must be the gospel, right.
+
+---
+
+## §7. Greenfield steel mills and the scale of capital risk [24:16]
+
+`§7.p1` Now let me finish that story. Why have we had new steel mills built since 1965? POSCO, the world's largest steel company, in Pohang, Korea, built a steel mill in the 1970s. But POSCO Steel was not bankrolled by financial people; it was bankrolled by the Korean government. There have been probably a dozen steel mills built in the world on greenfield sites since 1965, but not a single one has been built by a company risking shareholder money. It was countries who saw steel as vital to the growth of their nation.
+
+`§7.p2` Once you get to the $10, $15, $20 billion range, very few companies are willing to risk that type of investment. If you're in the aircraft business, Boeing has to do it — when they come out with a Dreamliner, that's a $20 billion investment, supposed to be $10 billion. Intel — a new fab is over a billion dollars. There are only a few companies in the world profitable enough to take the risk of a $1 billion investment. Usually it takes a nation to do that.
+
+`§7.p3` One of the things I'm trying to get across today is the magnitude of these industries in structural materials. It's not a small business. Running a blast furnace can be worth $100,000 an hour. You guys are in the Navy — what costs the Navy $100,000 an hour to run? I was going to say a carrier.
+
+`§7.p4` **Student:** One carrier, like — *[discussion of carrier reactor power]*
+
+`§7.p5` Okay, so 30% is basically full tilt for a reactor. If I've got 5,000 personnel on a carrier, whether it's $100,000 or $200,000 — maybe running the reactor is 50% of the cost of running the ship. I've got a $15 billion investment in that ship and I have to amortize it over 40 years. A kid in high school, if you taught him how, could do those numbers. You've got eleven or twelve carriers, so you're talking a million or two million dollars an hour just for the carriers without the battle groups. Hillary wrote the book *It Takes a Village*; it takes a nation to run a carrier. And it takes a nation to build a big steel mill nowadays.
+
+---
+
+## §8. The three ingredients of steel and the blast furnace [27:50]
+
+`§8.p1` So let me now talk about how we do casting. Since 95% of all casting is basically making steel — I'm not trying to emphasize steel too much, but there's a lot of steel in the world — and you guys are going to be involved in buying or working with lots of steel, let me talk about steel. Steel is made from three things: iron ore, limestone, and coal. They talked about Saugus Iron Works — they were cutting trees, not coal, making charcoal — but you need an energy source. Traditionally that was coal. In Saugus they could get iron ore from the bogs. And there's limestone all over New England. Limestone is the flux; the iron ore produces the iron; the coal you have to put in coke ovens.
+
+`§8.p2` Coal ordinarily has all kinds of volatile components, so you do the same thing with coal that you do with wood for charcoal: you burn off all the volatiles in a reduced-oxygen environment. It's called a coke oven. If you want to see a carcinogen factory, it's a coke oven. When I moved to Bethlehem, Pennsylvania, you could smell the coke ovens all over town — that sweet smell of sulfur.
+
+`§8.p3` There's a whole area of chemistry dealing with coal tar chemistry. If you go back to 1900 you would have taken courses at MIT in coal tar chemistry — the volatiles that come off at 2,000 degrees Fahrenheit off the stack. What you're left with is carbon, similar to charcoal but coming from coal, and we call it coke. You crush the limestone — you don't have to do much more than that. Today we have to take iron ore from different parts of the world and we have to sinter it. We grind it and sinter it and make it into pellets. They used to be golf-ball size, now they're smaller for faster reactivity — marble-size pellets of iron ore.
+
+`§8.p4` In the old days, anyone heard of the Mesabi range in Minnesota? An iron ore range so pure that all you had to do was crush it up like limestone and stick it in your blast furnace. But we ran out of the Mesabi range right after World War II — mined it into extinction. They still have lots of iron ore up in Minnesota, and the Great Lakes shipping went from Minnesota to Pittsburgh and Chicago.
+
+`§8.p5` Now you have to put those three things into a blast furnace. This is about 40 stories tall, and today a good blast furnace costs you two, three, four, five billion dollars depending on size. A big blast furnace will have 4,000 or 5,000 cubic meter internal volume, and it will produce 5 million tons a year — 10,000 or 15,000 tons a day of cast iron.
+
+---
+
+## §9. Steelmaking processes and the value of pig iron [31:54]
+
+`§9.p1` The blast furnace is 100% ore — all virgin iron — that goes to the steel refinery. Steel is made by three processes, or it was: electric furnace, open hearth, and basic oxygen furnace. They have to add more flux into all of these. The electric furnace can start with pig iron, but that's an expensive way to do it. Pig iron 35 years ago, when I worked at Bethlehem Steel, we used to figure $180 a ton for the cast iron coming out of the blast furnace. So 10,000 tons a day in a big blast furnace at $180 a ton is about $20 million a day — about a million dollars an hour for a big blast furnace.
+
+`§9.p2` The small ones we had at Bethlehem Steel, built in 1911 — they were very proud of their ancient technology, believe me — were only worth $100,000 an hour. But a big blast furnace today is a million dollars an hour, costs more than a carrier to run.
+
+`§9.p3` The electric furnace can take anywhere from 0 to 100% scrap; typically they take 100% scrap. The open hearth used to take essentially 70 to 80% virgin cast iron from the blast furnace and couldn't take more than 20 or 30% scrap. The basic oxygen furnace can take about 30% scrap and has to take 70% virgin ore.
+
+---
+
+## §10. Recycling, Pearl Harbor, and the post-war steel order [34:09]
+
+`§10.p1` Before 1880 we didn't have a steel industry in the world. Andrew Carnegie became the Bill Gates of his day, the richest man in the world. Today some guy in Mexico is the richest — communications, not drugs. Well, you have to communicate to get those drugs across the border.
+
+`§10.p2` In the United States we use 100 million tons of steel a year. Some of that steel lasts 100 years before it's recycled, some lasts 30 years. You weren't putting 100 million tons in for the first half of the 20th century, maybe only 50 million tons a year, but the second half certainly 100 million. Fifty million tons times 100 years is 50 billion tons of steel — and that has to be recycled. 70 to 80% of all the steel we produce is recycled, and it has to be.
+
+`§10.p3` Can you imagine the size of the landfills if you couldn't recycle steel? You can imagine, because concrete can't be recycled. We're putting 2 billion tons of cement into the environment worldwide every year, and there's no way to recycle it. You can crush it up and make aggregate for roads, but you can't pave the whole world. There wouldn't be room for trees.
+
+`§10.p4` **Student:** *[question about breakwaters / artificial reefs]*
+
+`§10.p5` They call it an artificial reef for the environmentalists, because otherwise they're not going to allow you to dump trash in the ocean. It actually isn't particularly harmful — concrete started out as limestone, ends up as calcium hydroxide. But we don't recycle a lot of concrete, and we're using twice as much of it as we do steel.
+
+`§10.p6` In the 1960s and '70s the cost of scrap dropped dramatically. One of the reasons people say the Japanese attacked Pearl Harbor was that we were starting to put restrictions on the amount of scrap steel we would sell to Japan. We were the world's consumer of steel for the first half of the 20th century, producing the scrap that was coming back after 20 or 30 years of use. We had all the steel scrap compared to the rest of the world, and we were withholding it. That wasn't the only reason for Pearl Harbor, but the historians say we put restrictions on the amount of scrap they could buy, and it was fueling their industry.
+
+`§10.p7` In 1962 US Steel wanted to raise the price of steel, and what did President Kennedy do? There was a big battle between the president of the United States and the president of US Steel, and Kennedy forced US Steel to roll back its prices, because he said raising the price of steel would be inflationary to the world economy. It's the same as oil prices today — he could control US Steel but couldn't control OPEC. Oil you could pump out of the ground for a nickel a barrel in 1960, and we had plenty in Texas and Saudi Arabia had even more. But once oil became scarce, energy became the big thing and not steel.
+
+`§10.p8` After World War II the United States controlled 75% of the world's steel production. Why? Because we bombed out all the other capacity in all the other countries. We didn't have a war on our turf. There was not a single steel mill bombed in the United States. We built a lot of capacity in World War II, but it's not what we built, it's what we destroyed.
+
+---
+
+## §11. Bethlehem Steel, fully depreciated plants, and Gordon Forward [39:18]
+
+`§11.p1` In 1975, when I went to work for Bethlehem Steel, the managers who had been hired in 1945 right after the war were now the leaders of US Steel and Bethlehem Steel, and they still had the mindset that whatever they did, they were the king. In 1975 they controlled 25% of the world steel production, and everybody else was making steel in modern plants built since World War II. Bethlehem Steel was very proud that our coke ovens were built in 1910 and our blast furnaces in 1911.
+
+`§11.p2` I went to a seminar as a new hire where the vice president of finance said it cost us nothing to make steel because our plants were fully depreciated. I was stupid enough to raise my hand — I was only 24 years old — and say, excuse me, sir, I don't understand why it doesn't cost us anything to make steel just because our plants are fully depreciated. He said, "That's 'cause you don't understand finance." I later took an accounting course and I learned it's true, I didn't understand finance — but neither did he.
+
+`§11.p3` The fact that your plant is depreciated has nothing to do with what it costs to make something in it. That's an accounting game. It has nothing to do with the real cost. Our costs were double the Japanese cost, because we were building in 1911 plants that we were holding together with duct tape and a prayer. The Japanese had brand new mills no more than 10 or 15 years old, the most productive in the world. And we were wondering why they could ship steel to the United States and sell it for less than we could make it.
+
+`§11.p4` What's the shipping cost to get a ton of cargo across the Pacific or Atlantic? You guys are in the business of ships and you don't know? About $30 a ton — it's been about the same for the last thirty years. Gordon Ford [Forward], who started one of these electric furnace steel companies — a small mini-mill steel company in 1975 — everybody asked, how can you compete with the Japanese and their big integrated $5 billion plants? First of all, it only cost him $250 million to build his mini-mill. Sure, it only produced one-fifth or one-tenth as much, but the capital cost was about 5%. It couldn't produce all the range of products that the big mills could.
+
+`§11.p5` But [Forward] used to say: if we can keep our labor cost below $30 a ton, we don't care if the Koreans pay their employees nothing — we can compete in the American market. Because it costs them $30 to ship steel over here. Their only competitive advantage was labor cost. By the way, Gordon's a graduate of MIT, this department. He's retired up in Vancouver now, but he's Canadian by background.
+
+---
+
+## §12. The cupola [43:47]
+
+`§12.p1` So what are these types of furnaces, and what makes them so important in this huge industry? Steel today is a trillion-dollar worldwide industry — a billion tons times $1,000 a ton, I did that math in my head.
+
+`§12.p2` Before I get to the steel furnaces, let's talk about cupolas. Most of you thought a cupola was a little thing on top of a barn with a weather vane.
+
+`§12.p3` **Student:** *[question about scrap in different furnace types]*
+
+`§12.p4` You can use scrap in an electric furnace, but you can't in an open hearth or a basic oxygen furnace. I'm going to come to that. The output of the blast furnace just makes pig iron, or cast iron. It's actually carried over — you don't solidify it, that would be a tremendous waste of energy. So you carry it over in a hot metal car, about 100 tons at a time, on a big railroad car with lots of bogies, going about half a mile through the plant to the steelmaking part. The plant has a couple thousand employees — maybe a thousand in iron making, a thousand in steel making.
+
+`§12.p5` This is cast iron, lousy mechanical properties — today maybe $300 a ton value for the molten iron. The steel side becomes something with a $400, $500, $600 a ton value just as a casting with no shape yet. Give it shape like an I-beam or a sheet with particular properties and you're up to $800 to $1,000 a ton selling price.
+
+`§12.p6` On the other side, they take the hot steel and they continuously cast it — that's where I started out, I was going to talk about casting. They continuously cast it, they ingot cast it, they take the pig iron and make pig iron, which you can sell to someone to make cast iron parts. So you can cast steel, ingot cast steel, or make pig iron to sell to a cast iron foundry. The ingots — you can do great big hot forgings, you can do an ingot breakdown mill to make blooms and shapes and plate, you can do continuous casting to make slabs. We'll talk about all this — not just for steel but for all metals. But I dwell on steel because it's the 900-pound gorilla, 90% of the metals.
+
+`§12.p7` I've been walking through steel mills for 35 or 40 years and it still amazes me every time. I'm sure it amazed each of you to walk through a shipyard the first time. Shipyards are not the same as steel mills — they're similar, but shipyards are just a small version of a steel mill. The bigger steel mills are dealing with 350-ton castings — 700,000-pound castings, the largest castings made in the world. The shipyards may deal with 100-ton castings. You have some of the biggest cranes in a shipyard because you actually lift whole sections weighing a lot more than 300 tons. But in terms of components, big hunks of metal, steel mills outdo shipyards in terms of a single fabricated hunk. Ships are bigger overall — bigger than cars or railroad cars — but in terms of components, the steel mill wins.
+
+`§12.p8` So, cupolas. If you look it up in the dictionary, cupolas are little houses with weather vanes on top of a barn. But a cupola is also a melting furnace for cast iron, and there's nothing really fancy about it — not all that different than the Saugus Iron Works. You put your charge in at the top — your iron ore, limestone, and coal — and you have a flame where you heat up the bottom and blow air in. These ports are called tuyères — t-u-y-è-r-e. Later we'll talk about a blast furnace. A cupola is nothing more than a small blast furnace. Saugus Iron Works is nothing more than a small blast furnace. We call them cupolas when you're just making cast iron.
+
+---
+
+## §13. Mao's cupolas and modern cupola construction [49:26]
+
+`§13.p1` In the '60s, Mao Zedong in China decided he was going to industrialize China. As part of the Great Leap Forward, all the communes were supposed to have their own cast iron cupola. Instead of making pottery and clay utensils, they were going to make cast iron. Mao was leading China right into the 16th century. By 1975, ten years later when he passed away and they opened up China, between '75 and '85 we were flooded with little cast iron trinkets, because every commune had to figure out some way to get some currency. I have a cast iron Christmas tree stand made in China — this was the beginning of "Made in China," the modern "Made in China." They had thousands and thousands, if not a million, of these little cupolas. They weren't all very big or this fancy — maybe sort of Saugus Iron Works fancy — remember, Mao was leading them into the 16th century. China had probably half of the world's cast iron capacity in these little inefficient, environmentally unsound cupolas.
+
+`§13.p2` Now they've gotten rid of a lot of that and gone upscale and they make ties. There's apparently one town in China that makes 90% of all the world's neckties. They've learned to specialize.
+
+`§13.p3` Here are three different versions. This is just an air-cooled wall. This is a shell wall with an inner cavity that's water-cooled — if you want to pump stuff through there, you don't want to melt the outside walls. And this one is even less sophisticated, a single shell, and they just flood the outside. You'd see this curtain of water — just pumping Niagara Falls around the thing to keep the walls from melting. Productivity goes up as you cool the walls.
+
+`§13.p4` They do this same type of wall cooling on the huge steel blast furnaces — not on the modern ones, but I had one in Detroit that was built in 1925, and the walls were starting to buckle. It was an old riveted structure, but it was producing $100,000 an hour of product. They knew it was falling apart, but no one wanted to take the call to shut it down. They would send welders up there while the thing was still hot, welding the shell back together. The shell was buckled, thinned down to one-tenth of its original thickness. They were flooding the outside with water to keep the whole thing cool. At $100,000 an hour, who's going to shut it down? No one. Not the outside consultants, not the internal people — no one was going to take that responsibility. So they kept pushing it until it blew up one night and caused a half-billion-dollar loss. Insurance company paid for it.
+
+`§13.p5` You don't like that? I'm just telling you guys the way it really is out there. Well, this is a good time for a break. *[Aside on the Mississippi/Missouri river flooding insurance situation: floodplain residents can only get insurance from the US government, no private company will write it. Same for coastal homes given the Arctic ice cap melting and sea-level rise. Your taxes pay to rebuild their houses.]*
+
+---
+
+## §14. After the break: who actually makes the decisions [54:57]
+
+`§14.p1` *[break]*
+
+`§14.p2` Now you know why it's "Materials Processing for Poets" — that's what I call this course right now. You're not going to know how to process materials when you're done, but you guys are all going to be managers anyway. You're going to be the ones where some chief comes to you and says, "I got a crack in the wall of the reactor, do you think I should shut it down?" I'm not kidding. They don't know, and they don't have the authority to shut it down, do they? Only if they think it's safety-related — only safety-related. Maybe in the Navy, but commercially, not everything's safety, or they rationalize it away that it's not, because no one really wants to take responsibility for making the expensive decisions. They know that no matter what decision they make, someone's going to second-guess them afterwards and tell them they were wrong. Everybody can do Monday-morning quarterbacking, and the only thing that will save you is safety. "I did it because of safety" — that's the only defense you have.
+
+`§14.p3` It's not all that different even on Wall Street. People have to make billion-dollar decisions, and most people don't understand what they're doing enough to make an intelligent decision. So a lot of times there is no decision, which is the worst decision.
+
+---
+
+## §15. Energy crises and diversification [56:46]
+
+`§15.p1` You were asking about energy crises. We've had energy crises. The problem is the same story investors have had for centuries: don't put all your eggs in one basket. The reason we had an energy crisis in 1973 is that we were almost totally dependent on oil as the source of energy. We had no capacity to immediately switch from oil to natural gas to coal in most of our big energy-consuming industries. When the oil supply got disrupted, all of a sudden we had a crisis — there wasn't enough energy available because the only energy we could use was oil.
+
+`§15.p2` We had another energy crisis in 1978 or so. It wasn't nearly as bad. The managers who had the government come in and say, you've got to shut down your plant except in the middle of the night because we don't have enough electricity — they were losing hundreds of thousands of dollars an hour because they couldn't run their plant at capacity — they said, I'm not going to let this happen again. They went out and bought insurance in the sense that they could run their furnaces on oil or gas, and some on coal. They diversified. So in the next crisis, the restraint on the amount of oil may have even been worse, but it wasn't felt nearly as badly because industry had the ability to flip the switch and change to natural gas or coal. You don't have to have everyone have flexibility, you only need some flexibility. In 1973 we had no flexibility.
+
+`§15.p3` People have been predicting for 50 years that we're running out of oil in the next 20 years. Why are we not running out of oil? There's plenty of oil still in the world, but not at $2 a barrel. We've used up all the $2-a-barrel oil. The only $2-a-barrel oil that's left is in Saudi Arabia — actually it costs them about $2.50 to pump it out of the ground now. I heard this in the '80s from a guy from AT&T who was working over in Saudi Arabia. They don't even meter the gas. When you fill up your car it's just a flat rate, like two bucks to fill up the tank. You need five gallons, two bucks; you need 20 gallons, two bucks. In Libya it was 10 cents a gallon. To them, oil is cheaper than water; the cost is just the inconvenience of getting out in the sun to fill up your car.
+
+`§15.p4` We've got as much heavy oil in the form of tar sand in North America — including Canada — up in Alberta. The tar sands have almost the same energy reserves as Saudi Arabia, 200 to 250 years. Now you can't get it for $2 a barrel. When I first worked on a case up there, it was about $30 a barrel, and oil was going for about $30 a barrel, and they were barely able to make do. Now because of environmental concerns it costs them $50 a barrel, but it's selling for 100, so they're making out. Anybody been to Alberta? Richest province in Canada. Money flows like water — billions and billions of dollars of oil money. All the other provinces are going bankrupt without Alberta. The most American province in Canada — all the Americans have moved up there to get jobs. But it wasn't like that 20 years ago. When it cost $30 a barrel and oil dropped at times to $15, you could lose your shirt. Now it's well above 50 and staying there, and they make lots of money.
+
+`§15.p5` There is a trillion tons of heavy oil in the Orinoco river valley of Venezuela — lots of oil in Venezuela. That's the light stuff. After World War II they started shipping oil to the United States.
+
+---
+
+## §16. John Wulff and the vanadium in Venezuelan oil [61:38]
+
+`§16.p1` There's a good little story I can tell you. They shipped some oil up here right after World War II and started firing up the Boston Edison plant, which was the energy generator back then. John Wulff, who was my thesis advisor when I was a freshman — John Wulff had the office that I'm in now. He told me the story when I was a freshman that he got a call one morning from Boston Edison. They needed a consult because overnight all the stainless steel in their whole plant had just rotted away to nothing. He said, well, I know the answer, but it will cost you $5,000. $5,000 in the late '40s was like two or three years' salary — like $200,000 or $300,000 today. He knew the answer, and he had been looking at impurity elements in oil for 10 or 15 years.
+
+`§16.p2` John Wulff was German, W-U-L-F-F. During the war he wasn't involved in things like the Manhattan Project. But he knew there were lots of things going on in these buildings we're in right now that had to do with people interested in uranium. John Chipman — the Chipman rooms just across the courtyard — was working on a crucible material to hold molten uranium. No one had a use for uranium before. John Wulff didn't know exactly what it was all about. But at a cocktail party of faculty one evening, he said, "You know, there's a lot of uranium in the oil in the Balkans." It was one of the impurity elements in the oils that he was studying — he had also studied oxidation of metals. After he told that cocktail party about the uranium in the oil, he said there were two Secret Service agents in his office the next morning asking him what he knew about uranium. So there were people at MIT who knew about the Manhattan Project. But John Wulff didn't, because he was German.
+
+`§16.p3` Anyway, after World War II, Boston Edison's stainless steel all went to pot, and they said, if you know the answer we'll pay your fee — we need to know. They had just lost a million-dollar plant; what's $5,000? After the agreement was signed, he said: last week you got your first shipment of Venezuelan oil. They said, yes. He said, Venezuelan oil contains vanadium, and vanadium forms an oxide with stainless steel that melts off the protective chromium oxide. They had just oxidized their stainless steel because the vanadium impurity in the oil ate it up overnight. Today the American Petroleum Institute has specs on getting the vanadium out. There's really only one alloy, a nickel-chrome alloy, that can survive vanadium.
+
+`§16.p4` I actually briefly got hired on a thing up in the tar sands area of Alberta because they have vanadium in their feedstock. They have processes now to get rid of the vanadium, but back then no one really knew about it because they always had the nice crude from Texas that didn't have this problem. John Wulff knew about it at the right time and found the right client who had a big enough problem that he could put a couple of kids through college on that one answer. You've got to be at the right spot at the right time.
+
+---
+
+## §17. Cast iron in service and modern cupola design [66:23]
+
+`§17.p1` Where was I? I was going to talk about cupolas. *[Tom holds up a cast iron part.]* This is a piece of cast iron that was shipped to me — it was in my office when I showed up Friday night after my travels. I need it back, I have to do some tests on it. But it's part of a big tractor-trailer, and it actually holds the king pin — the six-inch-diameter pin that holds the trailer to the tractor on the fifth wheel — and this was the lockdown to keep the thing from bouncing out. It did bounce out in one case. There are complex shapes where making something out of cast iron is fine.
+
+`§17.p2` This is more on a cupola. A modern cupola — you pour the material in at the top, you have different types of ceramic on each side, you have to have expansion joints. It's really hot down at the bottom where all the fuel is melting the stuff coming in from the top. You have blasts in here — Michael showed you the bellows — and you have to heat things up by blowing air in. These are tuyères. Every now and then you open the plug, just a big plug of sand here, and the cast iron comes out. You cast your pigs, or your little brackets, or your Christmas tree stands, whatever you're making.
+
+`§17.p3` That's cupola technology. It's still used in bigger cupolas in lots of foundries all over the country. People who make brakes for cars — brake calipers — and engine blocks for cars, are typically melting in cupolas. The American Foundryman Society has gotten money from the Department of Energy for more efficient cupolas that use less energy, so you can pay Americans more to compete against the Chinese who are making cast iron parts and paying their people nothing.
+
+---
+
+## §18. The blast furnace [68:48]
+
+`§18.p1` This is a blast furnace — not a cupola. It has what they call the bell up here, which is basically just a valve. You pour your stuff in, drop the bell, and everything falls in. You have to have abrasion-resistant walls, erosion all the way along, thermal shock. The difference is, this might be 20 stories tall in a steel mill — not a small furnace. This could cost you $2 billion just to rebuild. You have these huge blowers — there's a man standing right there.
+
+`§18.p2` **Student:** What's the steel shell?
+
+`§18.p3` Steel shell, maybe 1 inch thick. Internal pressure of a few PSI, like five PSI. The blast pressure — you're blowing air in there pretty fast, almost supersonic. Call it sonic velocity. You're blowing air in as fast as you can to get the fastest burning rate. You've got a mixture of coke pellets, sinter pellets (the iron ore), and lumps of limestone. The limestone starts to melt, and down here you get slag — a molten glass of slag floating on top of the cast iron. The carbon is mixed in here, and eventually down at the bottom you get this pool of iron. On one side you take off the slag — a little tap to get rid of the molten limestone and silica glass that came from the iron ore rock. A slightly lower tap is for the iron. The whole depth of the molten stuff at the bottom may only be 3 or 4 feet tall.
+
+`§18.p4` You tap it off every 45 minutes to an hour, take a couple hundred tons off. A modern Japanese or Korean mill, 5,000 cubic meters, 10,000 tons a day, maybe 15,000. One of these can produce 4 to 5 million tons of steel a year — that's 0.5% of the world total out of one blast furnace. So you go to Pohang, the world's largest steel company, 30 million tons at one site — 3% of the world's production at one steel mill, much of it going into Korean shipbuilding across the street. Actually 10 or 15 miles away. They don't have to transport those plates very far.
+
+`§18.p5` They may have five of these producing 25 million tons of steel a year. Lots of refractory — 3 or 4 feet of ceramic refractory brick relining this thing. You may spend $100 million on ceramic brick relining it. Takes six months. The furnace will run for five years or more before you have to shut it down and completely rebuild it. The rebuild can cost you a billion dollars to completely reline.
+
+`§18.p6` On the smaller older ones — probably even on the newer ones — they have injectors where they can spray more ceramic on the inside walls, because you hate to lose half a year's production at a couple hundred thousand dollars an hour. The downtime's worth something. The ceramic gets eroded away over time.
+
+`§18.p7` The temperature gradient across the wall — you may have 2,400 degrees Fahrenheit inside and a couple hundred degrees outside. Sometimes they water-cool the outside steel shell, just a sheet of water coming down, a waterfall. They weld on rods so the ceramic brick can be attached to the shell. It's a pretty complex structure — a multi-billion-dollar facility.
+
+`§18.p8` Here you can see the temperature difference going up. The gas comes off. It takes about 600 pounds of coal for every ton of cast iron — 600 to 2,000-pound ratio. All that coal burning means you have these two stacks coming up around the furnace where stuff is being dropped in, and you have the gas coming down. Most of this gas is blast furnace gas. The blast furnace gas will go through one of these regenerators, and the other one, the air blast, comes in through the other hot regenerator to preheat the air.
+
+`§18.p9` You have this on ships, when you're burning — not reactors but

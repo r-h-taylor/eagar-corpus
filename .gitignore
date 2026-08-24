@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 *.bak
 *.bak[0-9]
+output/v1/*.bak
+output/v1/*.bak[0-9]
+output/v1/failures_*.log
+site/
