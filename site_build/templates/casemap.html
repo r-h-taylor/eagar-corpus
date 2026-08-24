@@ -1,0 +1,458 @@
+{% extends "base.html" %}
+{% set static_prefix = "static" %}
+{% set home_prefix = "index.html" %}
+{% set nav_prefix = "" %}
+
+{% block title %}Case Map — Eagar Corpus{% endblock %}
+{% block body_class %}casemap-page{% endblock %}
+
+{% block head_extra %}
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<style>
+  /* casemap-specific layout — kept here rather than in site.css
+     because it only applies to this page */
+  body.casemap-page main {
+    max-width: none;
+    padding: 0;
+  }
+  .casemap-intro {
+    max-width: 920px;
+    margin: 1.5rem auto 0.5rem;
+    padding: 0 2rem;
+  }
+  .casemap-intro h1 {
+    margin-bottom: 0.25rem;
+  }
+  .casemap-intro p {
+    color: var(--text-muted);
+    margin-top: 0;
+  }
+  .casemap-layout {
+    display: grid;
+    grid-template-columns: 1fr 400px;
+    height: calc(100vh - 240px);
+    min-height: 600px;
+    margin: 1rem 2rem 2rem;
+    border: 1px solid var(--border);
+    background: white;
+  }
+  #casemap-vis {
+    position: relative;
+    overflow: hidden;
+  }
+  #casemap-vis svg { display: block; }
+
+  .casemap-legend {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    background: rgba(255,255,255,0.92);
+    border: 1px solid var(--border);
+    padding: 8px 12px;
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-size: 11px;
+    border-radius: 3px;
+    z-index: 10;
+  }
+  .casemap-legend .swatch {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .casemap-legend .row { margin: 3px 0; color: var(--text-muted); }
+
+  .casemap-controls {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    background: rgba(255,255,255,0.92);
+    border: 1px solid var(--border);
+    padding: 10px 14px;
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-size: 12px;
+    border-radius: 3px;
+    z-index: 10;
+    max-width: 260px;
+  }
+  .casemap-controls label {
+    display: block;
+    margin: 4px 0;
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+  .casemap-controls input[type="range"] {
+    width: 100%;
+    margin-top: 4px;
+  }
+  .casemap-stat {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid var(--border);
+    color: var(--text-soft);
+    font-size: 11px;
+  }
+
+  /* Nodes */
+  .case-node circle { cursor: pointer; transition: opacity 0.15s ease; }
+  .case-node text {
+    pointer-events: none;
+    text-anchor: middle;
+    fill: white;
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-weight: 500;
+  }
+  .case-node.faded circle { opacity: 0.18; }
+  .case-node.faded text { opacity: 0.30; }
+  .case-node.hover circle { stroke: var(--text); stroke-width: 2; }
+
+  /* Side panel */
+  #casemap-panel {
+    background: var(--accent-soft);
+    border-left: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 1.5rem;
+    font-size: 14px;
+  }
+  #casemap-panel .placeholder {
+    color: var(--text-soft);
+    font-style: italic;
+    text-align: center;
+    margin-top: 80px;
+  }
+  #casemap-panel h2 {
+    margin: 0 0 0.25rem;
+    font-size: 1.1rem;
+    line-height: 1.3;
+  }
+  #casemap-panel h2 a {
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+  }
+  #casemap-panel h2 a:hover {
+    border-bottom-color: var(--accent);
+  }
+  #casemap-panel .panel-meta {
+    color: var(--text-muted);
+    font-size: 12px;
+    margin-bottom: 1.25rem;
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+  }
+  #casemap-panel .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: white;
+    margin-right: 6px;
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+  }
+  #casemap-panel .case-link-out {
+    color: var(--text-soft);
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: 6px;
+  }
+  #casemap-panel .case-link-out:hover { color: var(--accent); }
+
+  #casemap-panel h3 {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-soft);
+    margin: 1.5rem 0 0.5rem;
+  }
+  #casemap-panel .appearance {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  #casemap-panel .appearance:last-child { border-bottom: none; }
+  #casemap-panel .appearance .row1 {
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-size: 12px;
+  }
+  #casemap-panel .anchor {
+    font-family: ui-monospace, "SF Mono", Consolas, monospace;
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-right: 6px;
+  }
+  #casemap-panel .treatment {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 1px 6px;
+    border-radius: 8px;
+    margin-left: 4px;
+  }
+  #casemap-panel .treatment.substantive {
+    background: var(--text);
+    color: white;
+  }
+  #casemap-panel .treatment.brief {
+    background: var(--border);
+    color: var(--text-muted);
+  }
+  #casemap-panel .appearance .snippet {
+    color: var(--text);
+    font-style: italic;
+    margin: 0.35rem 0 0;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  #casemap-panel .course {
+    color: var(--text-muted);
+    font-size: 11px;
+    margin-top: 0.15rem;
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="casemap-intro">
+  <h1>Case Map</h1>
+  <p>
+    Every canonical case referenced in the {{ lecture_count }}-lecture corpus.
+    Each bubble is one case, sized by the number of lectures in which it appears,
+    colored by pedagogical function. Click a bubble to see its appearances; click
+    the case name in the panel for the full case page.
+  </p>
+</div>
+
+<div class="casemap-layout">
+  <div id="casemap-vis">
+    <div class="casemap-controls">
+      <label>
+        <input type="checkbox" id="show-mixed" checked> Show mixed-frame cases
+      </label>
+      <label>
+        Minimum lecture frequency:
+        <input type="range" id="min-freq" min="1" max="10" value="1">
+        <span id="min-freq-val">1</span>
+      </label>
+      <div class="casemap-stat" id="stat-line">— cases displayed</div>
+    </div>
+    <div class="casemap-legend">
+      <div class="row"><span class="swatch" style="background: #b85c38"></span> Industrial-historical</div>
+      <div class="row"><span class="swatch" style="background: #4a6a8a"></span> Forensic</div>
+      <div class="row"><span class="swatch" style="background: #8a6a3e"></span> Biographical</div>
+      <div class="row"><span class="swatch" style="background: #4a7a5a"></span> Technical narrative</div>
+      <div class="row"><span class="swatch" style="background: #735b8a"></span> Mixed</div>
+    </div>
+    <svg id="casemap-canvas"></svg>
+  </div>
+
+  <div id="casemap-panel">
+    <p class="placeholder">Click a case to see where it appears across the corpus.</p>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+const COLORS = {
+  "industrial-historical": "#b85c38",
+  "forensic": "#4a6a8a",
+  "biographical": "#8a6a3e",
+  "technical-narrative": "#4a7a5a",
+  "mixed": "#735b8a",
+  "unclassified": "#9c9484",
+};
+
+let allCases = [];
+
+async function init() {
+  const data = await d3.json("data/casemap_data.json");
+  allCases = data.cases;
+  setupControls();
+  render();
+}
+
+function setupControls() {
+  document.getElementById("show-mixed").addEventListener("change", render);
+  const minFreq = document.getElementById("min-freq");
+  const minFreqVal = document.getElementById("min-freq-val");
+  minFreq.addEventListener("input", () => {
+    minFreqVal.textContent = minFreq.value;
+    render();
+  });
+}
+
+function render() {
+  const showMixed = document.getElementById("show-mixed").checked;
+  const minFreq = +document.getElementById("min-freq").value;
+
+  const displayed = allCases.filter(c => {
+    if (c.n_total < minFreq) return false;
+    if (!showMixed && c.function_tag === "mixed") return false;
+    return true;
+  });
+
+  document.getElementById("stat-line").textContent =
+    `${displayed.length} of ${allCases.length} cases shown`;
+
+  drawCaseMap(displayed);
+}
+
+function drawCaseMap(displayed) {
+  const visEl = document.getElementById("casemap-vis");
+  const W = visEl.clientWidth;
+  const H = visEl.clientHeight;
+
+  const svg = d3.select("#casemap-canvas")
+    .attr("width", W)
+    .attr("height", H);
+  svg.selectAll("*").remove();
+
+  const maxFreq = d3.max(displayed, d => d.n_total) || 1;
+  const rScale = d3.scaleSqrt()
+    .domain([1, maxFreq])
+    .range([5, 50]);
+
+  const padX = 50;
+  const usable = W - 2 * padX;
+  const xTargets = {
+    "industrial-historical": padX + usable * 0.12,
+    "forensic":              padX + usable * 0.32,
+    "biographical":          padX + usable * 0.50,
+    "technical-narrative":   padX + usable * 0.66,
+    "mixed":                 padX + usable * 0.84,
+    "unclassified":          padX + usable * 0.95,
+  };
+
+  const g = svg.append("g");
+  Object.entries(xTargets).forEach(([tag, x]) => {
+    if (tag === "unclassified") return;  // don't show label for unclassified
+    g.append("text")
+      .attr("x", x)
+      .attr("y", 24)
+      .attr("text-anchor", "middle")
+      .style("font-size", "10px")
+      .style("font-family", "Source Sans Pro, system-ui, sans-serif")
+      .style("text-transform", "uppercase")
+      .style("letter-spacing", "0.08em")
+      .style("fill", COLORS[tag])
+      .style("opacity", 0.6)
+      .text(tag === "technical-narrative" ? "Tech. narrative" :
+            tag === "industrial-historical" ? "Industrial-hist." :
+            tag.charAt(0).toUpperCase() + tag.slice(1));
+  });
+
+  const nodes = displayed.map(d => ({...d, r: rScale(d.n_total)}));
+
+  const simulation = d3.forceSimulation(nodes)
+    .force("x", d3.forceX(d => xTargets[d.function_tag] || xTargets.unclassified).strength(0.18))
+    .force("y", d3.forceY(H / 2).strength(0.06))
+    .force("collide", d3.forceCollide(d => d.r + 2).strength(0.9))
+    .force("charge", d3.forceManyBody().strength(-10))
+    .alphaDecay(0.04);
+
+  const node = g.selectAll(".case-node")
+    .data(nodes, d => d.cluster_id)
+    .join("g")
+    .attr("class", "case-node")
+    .on("mouseover", function() { d3.select(this).classed("hover", true); })
+    .on("mouseout", function() { d3.select(this).classed("hover", false); })
+    .on("click", (event, d) => showDetail(d));
+
+  node.append("circle")
+    .attr("r", d => d.r)
+    .attr("fill", d => COLORS[d.function_tag] || COLORS.unclassified)
+    .attr("fill-opacity", 0.78)
+    .attr("stroke", d => COLORS[d.function_tag] || COLORS.unclassified)
+    .attr("stroke-opacity", 0.5);
+
+  node.filter(d => d.r >= 20)
+    .append("text")
+    .style("font-size", d => Math.min(12, d.r * 0.33) + "px")
+    .each(function(d) {
+      const max = Math.floor(d.r * 0.5);
+      const words = d.cluster_id.split(/\s+/);
+      const lines = [];
+      let line = "";
+      for (const w of words) {
+        if ((line + " " + w).length > max && line) {
+          lines.push(line);
+          line = w;
+        } else {
+          line = line ? line + " " + w : w;
+        }
+        if (lines.length >= 2) break;
+      }
+      if (line && lines.length < 3) lines.push(line);
+      const display = lines.slice(0, 3);
+      if (lines.length > 3 || (line && lines.length === 3)) {
+        display[2] = display[2].slice(0, max - 1) + "…";
+      }
+      const lineH = +d3.select(this).style("font-size").replace("px", "");
+      const yStart = -(display.length - 1) * lineH * 0.55;
+      d3.select(this).selectAll("tspan")
+        .data(display)
+        .join("tspan")
+        .attr("x", 0)
+        .attr("y", (txt, i) => yStart + i * lineH * 1.1)
+        .text(txt => txt);
+    });
+
+  node.append("title")
+    .text(d => `${d.cluster_id}\n${d.n_total} lectures (${d.n_substantive} substantive + ${d.n_brief} brief)`);
+
+  simulation.on("tick", () => {
+    nodes.forEach(d => {
+      d.x = Math.max(d.r + 4, Math.min(W - d.r - 4, d.x));
+      d.y = Math.max(d.r + 40, Math.min(H - d.r - 4, d.y));
+    });
+    node.attr("transform", d => `translate(${d.x},${d.y})`);
+  });
+}
+
+function showDetail(d) {
+  const panel = document.getElementById("casemap-panel");
+  const tagColor = COLORS[d.function_tag] || COLORS.unclassified;
+  const tagLabel = d.function_tag.replace(/-/g, " ");
+
+  const appearancesHtml = d.lectures.map(l => `
+    <div class="appearance">
+      <div class="row1">
+        <span class="anchor">${l.anchor}</span>
+        <a href="lectures/${l.video_id}.html#l3-${l.anchor.replace('§','s').replace('.','-')}">${escapeHtml(l.lecture_title || l.video_id)}</a>
+        <span class="treatment ${l.treatment}">${l.treatment}</span>
+      </div>
+      <div class="course">${escapeHtml(l.course || '')}${l.course && l.term ? ' · ' : ''}${escapeHtml(l.term || '')}</div>
+      ${l.snippet ? `<p class="snippet">"${escapeHtml(l.snippet)}"</p>` : ''}
+    </div>
+  `).join('');
+
+  panel.innerHTML = `
+    <h2>
+      <a href="cases/${d.safe_id}.html">${escapeHtml(d.cluster_id)}</a>
+      <a class="case-link-out" href="cases/${d.safe_id}.html" title="Full case page">↗</a>
+    </h2>
+    <div class="panel-meta">
+      <span class="tag" style="background: ${tagColor}">${tagLabel}</span>
+      <strong>${d.n_total}</strong> lecture${d.n_total === 1 ? '' : 's'}
+      · ${d.n_substantive} substantive, ${d.n_brief} brief
+    </div>
+    <h3>Appearances</h3>
+    ${appearancesHtml}
+  `;
+}
+
+function escapeHtml(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+                  .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+
+window.addEventListener("resize", () => {
+  if (allCases.length) render();
+});
+init();
+</script>
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% set static_prefix = "../static" %}
+{% set home_prefix = "../" %}
+{% set nav_prefix = "../" %}
+
+{% block title %}Cases — Eagar Corpus{% endblock %}
+
+{% block content %}
+<h1>Cases</h1>
+<p><em>"I teach basically in stories. You can call them parables."</em> &mdash; T.W. Eagar</p>
+<p>Each case is one such story &mdash; an industrial decision, a failure, a career, a material's history &mdash; through which Eagar teaches. Every case in the corpus, indexed and cross-linked, with each appearance shown side by side.</p>
+
+<div class="filter-controls">
+  <input type="text" id="filter-input" placeholder="Filter cases…">
+  <label><input type="checkbox" id="hide-proposed"> Hide proposed</label>
+</div>
+
+<table class="browse-table" id="cases-table">
+  <thead>
+    <tr>
+      <th>Case</th>
+      <th class="num">Appearances</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for c in cases %}
+    <tr {% if c.is_proposed %}class="proposed-row"{% endif %}>
+      <td><a href="{{ c.safe_id }}.html">{{ c.cluster_id }}</a></td>
+      <td class="num">{{ c.appearance_count }}</td>
+      <td>{% if c.is_proposed %}<span class="proposed-flag">proposed</span>{% else %}canonical{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="../static/js/browse.js"></script>
+{% endblock %}

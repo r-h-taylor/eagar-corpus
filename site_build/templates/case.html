@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% set static_prefix = "../static" %}
+{% set home_prefix = "../" %}
+{% set nav_prefix = "../" %}
+
+{% block title %}{{ cluster_id }} — Eagar Corpus{% endblock %}
+{% block body_class %}case-page{% endblock %}
+
+{% block content %}
+<div class="case-header">
+  <h1>{{ cluster_id }}</h1>
+  {% if is_proposed %}<p class="proposed-flag-big">PROPOSED case — pending reconciliation against canon</p>{% endif %}
+  <p class="case-summary">Appears in {{ appearance_count }} lecture{{ "s" if appearance_count != 1 else "" }}.</p>
+</div>
+
+<section class="appearances">
+  <h2>Appearances across the corpus</h2>
+  {% for app in appearances %}
+  <div class="appearance">
+    <div class="appearance-meta">
+      <a href="../lectures/{{ app.video_id }}.html#l3-{{ app.anchor|replace('§','s')|replace('.','-') }}">
+        {{ app.lecture_title }}
+      </a>
+      <span class="meta-divider">·</span>
+      <span>{{ app.course }}, {{ app.term }}</span>
+      <span class="meta-divider">·</span>
+      <span class="anchor">{{ app.anchor }}</span>
+    </div>
+    {% if app.frame %}
+    <p class="appearance-frame">{{ app.frame }}</p>
+    {% endif %}
+    {% if app.paragraph_html %}
+    <blockquote class="appearance-snippet">
+      {{ app.paragraph_html|safe }}
+    </blockquote>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endblock %}

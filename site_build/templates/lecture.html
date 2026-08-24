@@ -1,0 +1,227 @@
+{% extends "base.html" %}
+{% set static_prefix = "../static" %}
+{% set home_prefix = "../" %}
+{% set nav_prefix = "../" %}
+
+{% block title %}{{ lec.title }} — Eagar Corpus{% endblock %}
+{% block body_class %}lecture-page{% endblock %}
+
+{% block content %}
+<div class="lecture-header">
+  <div class="lecture-title-row">
+    {% if lec.prev_vid %}
+    <a class="lec-nav lec-nav-prev" href="{{ lec.prev_vid }}.html" title="Previous: {{ lec.prev_id }}" aria-label="Previous lecture">‹</a>
+    {% else %}
+    <span class="lec-nav lec-nav-prev lec-nav-disabled" aria-hidden="true">‹</span>
+    {% endif %}
+    <h1>{{ lec.title }}</h1>
+    {% if lec.next_vid %}
+    <a class="lec-nav lec-nav-next" href="{{ lec.next_vid }}.html" title="Next: {{ lec.next_id }}" aria-label="Next lecture">›</a>
+    {% else %}
+    <span class="lec-nav lec-nav-next lec-nav-disabled" aria-hidden="true">›</span>
+    {% endif %}
+  </div>
+  <div class="lecture-meta">
+    <span>{{ lec.course }}</span>
+    <span>{{ lec.term }}</span>
+    <span>Session {{ lec.session }}</span>
+    <span class="meta-divider">·</span>
+    <span>{{ lec.sections|length }} section{{ "s" if lec.sections|length != 1 else "" }}</span>
+    <span>{{ lec.cases|length }} cases</span>
+    <span class="meta-divider">·</span>
+    <a href="https://www.youtube.com/watch?v={{ lec.video_id }}" target="_blank" rel="noopener" class="yt-link">Watch on YouTube ↗</a>
+    <a href="../lecture_data/{{ lec.video_id }}/">all files</a>
+  </div>
+</div>
+
+<div class="layer-toolbar">
+  <button class="layer-toggle active" data-layer="l3">
+    <span class="check">✓</span> Layer 3 — readable
+  </button>
+  <button class="layer-toggle" data-layer="l2">
+    <span class="check">✓</span> Layer 2 — cleanup
+  </button>
+</div>
+
+<div class="lecture-body">
+  <aside class="section-nav">
+    {% for sec in lec.sections %}
+    <a href="#l3-s{{ sec.section_num }}" data-section="{{ sec.section_num }}">
+      <span class="sec-num">§{{ sec.section_num }}</span>
+      <span class="sec-title">{{ sec.title }}</span>
+      <span class="sec-ts">{{ sec.timestamp }}</span>
+    </a>
+    {% endfor %}
+  </aside>
+
+  <div class="columns" data-active-layers="l3">
+
+    <!-- Layer 3 column -->
+    <div class="column col-l3 visible" data-layer="l3">
+      <div class="col-header">Layer 3 — readable edition</div>
+      <article class="layer-content">
+        {% for sec in lec.sections %}
+        <section class="l3-section" id="l3-s{{ sec.section_num }}">
+          <h2>§{{ sec.section_num }}. {{ sec.title }} <span class="ts">[{{ sec.timestamp }}]</span></h2>
+          {% for p in sec.paragraphs %}
+          <div class="paragraph l3-paragraph{% if p.is_student %} student-turn{% endif %}{% if p.is_stage_direction %} stage-direction{% endif %}"
+               data-l3-id="{{ p.l3_id }}"
+               id="l3-{{ p.l3_id|replace('§','s')|replace('.','-') }}">
+            <span class="anchor-marker">{{ p.l3_id }}</span>
+            <div class="paragraph-body">{{ p.html|safe }}</div>
+            <span class="register-marker" data-l3-id="{{ p.l3_id }}" title="Editorial note">◆</span>
+          </div>
+          {% endfor %}
+        </section>
+        {% endfor %}
+      </article>
+
+      <!-- Case index at end -->
+      <section class="case-index-block">
+        <h2>Cases referenced</h2>
+        <ul class="case-list">
+          {% for c in lec.cases %}
+          <li>
+            <a href="../cases/{{ c.cluster_id|replace('/', '_')|replace(' ', '_') }}.html">{{ c.case_name }}</a>
+            {% if c.is_proposed %}<span class="proposed-flag">proposed</span>{% endif %}
+            <a class="anchor-jump" href="#l3-{{ c.anchor|replace('§','s')|replace('.','-') }}">{{ c.anchor }}</a>
+            <p class="case-frame">{{ c.frame }}</p>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+
+    <!-- Layer 2 column -->
+    <div class="column col-l2" data-layer="l2">
+      <div class="col-header">Layer 2 — cleanup edit</div>
+      <article class="layer-content">
+        {% for p in lec.layer2_paragraphs %}
+        <div class="paragraph l2-paragraph"
+             data-l2-id="{{ p.l2_id }}"
+             id="l2-{{ p.l2_id }}">
+          <span class="anchor-marker">{{ p.l2_id }} <span class="ts">{{ p.timestamp }}</span></span>
+          <div class="paragraph-body">{{ p.html|safe }}</div>
+        </div>
+        {% endfor %}
+      </article>
+    </div>
+
+  </div>
+</div>
+
+<!-- Editorial note popup -->
+<div id="register-popup" class="popup hidden">
+  <button class="popup-close">×</button>
+  <h3>Editorial note</h3>
+  <div class="popup-body"></div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  window.LECTURE_DATA = {
+    video_id: {{ lec.video_id|tojson }},
+    anchor_map: {{ anchor_map_json|safe }},
+    register: {{ register_json|safe }}
+  };
+</script>
+<script src="../static/js/reader.js"></script>
+<style>
+  mark.quote-highlight {
+    background: rgba(255, 224, 102, 0.55);
+    padding: 0 2px;
+    border-radius: 2px;
+    transition: background-color 1.2s ease-out;
+  }
+  mark.quote-highlight.fade { background: transparent; }
+</style>
+<script>
+(function() {
+  function normalize(t) {
+    return t.toLowerCase()
+      .replace(/[\u2019\u2018]/g, "'")
+      .replace(/[\u201c\u201d]/g, '"')
+      .replace(/[\u2014\u2013]/g, '-')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  function urlParam(name) {
+    const m = new RegExp('[?&]' + name + '=([^&#]+)').exec(window.location.search);
+    return m ? decodeURIComponent(m[1].replace(/\+/g, ' ')) : null;
+  }
+  function highlight() {
+    const q = urlParam('q');
+    if (!q) return;
+    const needle = normalize(q);
+    if (!needle) return;
+    // search inside each .paragraph-body; skip stage-direction paragraphs
+    const bodies = document.querySelectorAll(
+      '.paragraph:not(.stage-direction) .paragraph-body'
+    );
+    let hit = null;
+    for (const body of bodies) {
+      const text = normalize(body.textContent);
+      if (text.indexOf(needle) === -1) continue;
+      // find the actual character range in the live DOM (not normalized)
+      const raw = body.textContent;
+      const lower = raw.toLowerCase()
+        .replace(/[\u2019\u2018]/g, "'").replace(/[\u201c\u201d]/g, '"')
+        .replace(/[\u2014\u2013]/g, '-');
+      // map normalized index back by approximating: search lower for the
+      // first few words of the needle and extend
+      const head = needle.split(' ').slice(0, 6).join(' ');
+      let i = lower.indexOf(head);
+      if (i < 0) i = lower.indexOf(needle.split(' ')[0] || '');
+      if (i < 0) continue;
+      // extend match to about needle length
+      const len = Math.min(needle.length + 20, raw.length - i);
+      hit = { body, start: i, len };
+      break;
+    }
+    if (!hit) return;
+    wrapRange(hit.body, hit.start, hit.len);
+    const m = hit.body.querySelector('mark.quote-highlight');
+    if (m) {
+      const rect = m.getBoundingClientRect();
+      if (rect.top < 60 || rect.bottom > window.innerHeight - 60) {
+        m.scrollIntoView({behavior: 'smooth', block: 'center'});
+      }
+      setTimeout(() => m.classList.add('fade'), 10000);
+    }
+  }
+  function wrapRange(container, start, len) {
+    // walk text nodes; when we cross the [start, start+len) range, wrap
+    const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
+    let pos = 0, nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    const end = start + len;
+    for (const n of nodes) {
+      const nlen = n.nodeValue.length;
+      const nstart = pos, nend = pos + nlen;
+      pos = nend;
+      if (nend <= start || nstart >= end) continue;
+      const a = Math.max(0, start - nstart);
+      const b = Math.min(nlen, end - nstart);
+      const before = n.nodeValue.slice(0, a);
+      const middle = n.nodeValue.slice(a, b);
+      const after = n.nodeValue.slice(b);
+      const frag = document.createDocumentFragment();
+      if (before) frag.appendChild(document.createTextNode(before));
+      const mk = document.createElement('mark');
+      mk.className = 'quote-highlight';
+      mk.appendChild(document.createTextNode(middle));
+      frag.appendChild(mk);
+      if (after) frag.appendChild(document.createTextNode(after));
+      n.parentNode.replaceChild(frag, n);
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', highlight);
+  } else {
+    highlight();
+  }
+})();
+</script>
+{% endblock %}

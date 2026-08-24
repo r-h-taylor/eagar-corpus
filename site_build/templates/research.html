@@ -1,0 +1,224 @@
+{% extends "base.html" %}
+{% set static_prefix = "static" %}
+{% set home_prefix = "index.html" %}
+{% set nav_prefix = "" %}
+
+{% block title %}Research — Eagar Corpus{% endblock %}
+{% block body_class %}research-page{% endblock %}
+{% block description %}Research directions Eagar flagged in his lectures: open problems, proposed studies, and measurement gaps — each linked to its source passage.{% endblock %}
+
+{% block head_extra %}
+<style>
+  .research-intro { max-width: 880px; margin: 1.5rem auto 0.5rem; padding: 0 2rem; }
+  .research-intro h1 { margin-bottom: 0.25rem; }
+  .research-intro .method { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.75rem; }
+
+  .research-controls {
+    max-width: 880px;
+    margin: 1rem auto;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.25rem;
+    align-items: center;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-size: 0.85rem;
+  }
+  .research-controls input[type="search"] {
+    flex: 1 1 220px;
+    padding: 0.4rem 0.6rem;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    font-size: 0.9rem;
+  }
+  .research-controls label { color: var(--text-muted); }
+  .research-controls select {
+    padding: 0.3rem 0.4rem;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    font-size: 0.85rem;
+  }
+
+  #research-count {
+    max-width: 880px;
+    margin: 0 auto 0.5rem;
+    padding: 0 2rem;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+  }
+
+  #research-list { max-width: 880px; margin: 0 auto 3rem; padding: 0 2rem; }
+  .idea-card {
+    margin: 1.25rem 0;
+    padding: 1.1rem 1.25rem;
+    border-left: 3px solid #888;
+    background: #fafaf8;
+  }
+  .idea-card.open_problem { border-color: #b85c38; }
+  .idea-card.proposed_study { border-color: #4a7a5a; }
+  .idea-card.measurement_gap { border-color: #4a6a8a; }
+  .idea-card .summary {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #111;
+    margin-bottom: 0.45rem;
+    line-height: 1.4;
+  }
+  .idea-card .verbatim {
+    font-style: italic;
+    color: #333;
+    margin: 0.4rem 0;
+    padding-left: 0.9rem;
+    border-left: 2px solid #ccc;
+    line-height: 1.5;
+  }
+  .idea-card .imeta {
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+  }
+  .idea-card .imeta a { color: var(--text-muted); }
+  .idea-card .tag {
+    display: inline-block;
+    padding: 0.1em 0.55em;
+    border-radius: 3px;
+    margin-right: 0.4em;
+    font-size: 0.72rem;
+  }
+  .idea-card .tag.score { background: #333; color: #fff; }
+  .idea-card .tag.cat   { background: #666; color: #fff; }
+  .idea-card .tag.dom   { background: #ddd; color: #333; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="research-intro">
+  <h1>Research</h1>
+  <p>Directions Eagar flagged in his lectures — phenomena he identified as unresolved, studies he proposed, and measurement or instrumentation gaps he named. Each is linked to the source passage where he raised it.</p>
+  <p class="method">An LLM scanned each lecture for these three patterns; candidates were scored by a second model and the strongest kept. Summaries are AI-distilled; the verbatim quote is authoritative. Treat as a starting point — some flagged problems may have been resolved since the lecture was taught.</p>
+</div>
+
+<div class="research-controls">
+  <input type="search" id="r-search" placeholder="Search ideas…">
+  <label>Kind:
+    <select id="r-cat">
+      <option value="">All</option>
+      <option value="open_problem">Open problem</option>
+      <option value="proposed_study">Proposed study</option>
+      <option value="measurement_gap">Measurement gap</option>
+    </select>
+  </label>
+  <label>Domain:
+    <select id="r-dom"><option value="">All domains</option></select>
+  </label>
+  <label>Rating:
+    <select id="r-score">
+      <option value="3" selected>3+ (all)</option>
+      <option value="4">4+</option>
+    </select>
+  </label>
+</div>
+
+<div id="research-count"></div>
+<div id="research-list"></div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+let IDEAS = [];
+let filtered = [];
+const PAGE = 100;
+let shown = 0;
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => (
+    {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+}
+
+const CAT_LABEL = {
+  "open_problem": "open problem",
+  "proposed_study": "proposed study",
+  "measurement_gap": "measurement gap",
+};
+
+function cardHtml(x) {
+  const cat = x.category || "";
+  return `<div class="idea-card ${cat}">
+    <div class="summary">${escapeHtml(x.summary)}</div>
+    <div class="verbatim">&ldquo;${escapeHtml(x.verbatim)}&rdquo;</div>
+    <div class="imeta">
+      <span class="tag score">${x.score}</span>
+      <span class="tag cat">${escapeHtml(CAT_LABEL[cat] || cat)}</span>
+      ${x.domain ? `<span class="tag dom">${escapeHtml(x.domain)}</span>` : ""}
+      &mdash; <a href="${x.link}">${escapeHtml(x.corpus_id)} ${escapeHtml(x.anchor)}</a>
+    </div>
+  </div>`;
+}
+
+function applyFilters() {
+  const term = document.getElementById("r-search").value.toLowerCase().trim();
+  const cat = document.getElementById("r-cat").value;
+  const dom = document.getElementById("r-dom").value;
+  const minScore = +document.getElementById("r-score").value;
+  filtered = IDEAS.filter(x => {
+    if ((x.score || 0) < minScore) return false;
+    if (cat && x.category !== cat) return false;
+    if (dom && x.domain !== dom) return false;
+    if (term) {
+      const blob = (x.summary + " " + x.verbatim).toLowerCase();
+      if (!blob.includes(term)) return false;
+    }
+    return true;
+  });
+  shown = 0;
+  document.getElementById("research-list").innerHTML = "";
+  renderMore();
+  document.getElementById("research-count").textContent =
+    `${filtered.length} ideas`;
+}
+
+function renderMore() {
+  const list = document.getElementById("research-list");
+  const batch = filtered.slice(shown, shown + PAGE);
+  list.insertAdjacentHTML("beforeend", batch.map(cardHtml).join(""));
+  shown += batch.length;
+  let more = document.getElementById("more-btn");
+  if (more) more.remove();
+  if (shown < filtered.length) {
+    list.insertAdjacentHTML("afterend",
+      `<div style="text-align:center;margin:1rem 0"><button id="more-btn" style="padding:.45rem .9rem;background:#555;color:#fff;border:none;border-radius:3px;cursor:pointer;font-family:inherit;font-size:.85rem">Show more (${filtered.length - shown} left)</button></div>`);
+    document.getElementById("more-btn").addEventListener("click", renderMore);
+  }
+}
+
+function populateDomains() {
+  const counts = {};
+  for (const x of IDEAS) {
+    if (!x.domain) continue;
+    counts[x.domain] = (counts[x.domain] || 0) + 1;
+  }
+  const order = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+  const sel = document.getElementById("r-dom");
+  for (const d of order) {
+    const opt = document.createElement("option");
+    opt.value = d;
+    opt.textContent = `${d} (${counts[d]})`;
+    sel.appendChild(opt);
+  }
+}
+
+async function init() {
+  const res = await fetch("data/research.json");
+  IDEAS = await res.json();
+  populateDomains();
+  ["r-search","r-cat","r-dom","r-score"].forEach(id =>
+    document.getElementById(id).addEventListener("input", applyFilters));
+  applyFilters();
+}
+init();
+</script>
+{% endblock %}

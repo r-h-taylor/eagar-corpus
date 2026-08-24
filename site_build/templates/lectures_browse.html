@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% set static_prefix = "../static" %}
+{% set home_prefix = "../" %}
+{% set nav_prefix = "../" %}
+
+{% block title %}Lectures — Eagar Corpus{% endblock %}
+
+{% block content %}
+<h1>Lectures</h1>
+
+<div class="filter-controls">
+  <input type="text" id="filter-input" placeholder="Filter by title, course, term…">
+  <span class="filter-hint">Click any column header to sort</span>
+</div>
+
+<table class="browse-table" id="lectures-table">
+  <thead>
+    <tr>
+      <th class="sortable" data-sort="course">Course<span class="sort-arrow"></span></th>
+      <th class="sortable sort-asc" data-sort="term">Term<span class="sort-arrow"></span></th>
+      <th class="sortable" data-sort="title">Title<span class="sort-arrow"></span></th>
+      <th class="sortable num" data-sort="sections">§<span class="sort-arrow"></span></th>
+      <th class="sortable num" data-sort="cases">Cases<span class="sort-arrow"></span></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for lec in lectures %}
+    <tr>
+      <td>{{ lec.course }}</td>
+      <td>{{ lec.term }}</td>
+      <td><a href="{{ lec.video_id }}.html">{{ lec.title }}</a></td>
+      <td class="num">{{ lec.section_count }}</td>
+      <td class="num">{{ lec.case_count }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="../static/js/browse.js"></script>
+{% endblock %}

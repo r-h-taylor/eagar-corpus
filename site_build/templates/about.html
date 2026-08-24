@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block title %}About — Eagar Corpus{% endblock %}
+
+{% block content %}
+<article class="prose">
+<h1>About this archive</h1>
+
+<p>This archive is a searchable edition of the recorded lectures given by Prof. Thomas W. Eagar at MIT between 2011 and 2022. Eagar joined the MIT faculty in 1976 and continued teaching until his death in October 2022. From 2011 onward he self-recorded his MIT classroom lectures and posted them on YouTube under the channel <code>eagar.mit.edu</code>. 231 lectures were recorded; 215 are presented here as Eagar's own teaching. The remaining 16 sessions feature guest lecturers or are recordings of educational films Eagar showed in class, and are excluded from the public reader so the corpus reflects Eagar's own voice. The text is the result of pairing the auto-captioned transcripts with a defined editorial process to produce a citable scholarly resource.</p>
+
+<p>The framing — <em>a narrative pedagogy of engineering</em> — reflects the distinctive feature of Eagar's teaching: that engineering judgment is taught through industrial-historical cases, forensic analyses, biographical episodes, and technical narratives. <em>"I teach basically in stories. You can call them parables."</em> — T.W. Eagar. The corpus indexes 1,949 cases referenced across the 215 Eagar-taught lectures. Some recur many times — Liberty ships, Bethlehem Steel, the World Trade Center collapse — refined across decades; others appear once. Both are units of teaching. The index lets a reader trace every appearance of each case side by side.</p>
+
+<h2>The layered architecture</h2>
+
+<p>The corpus is produced through a three-layer editorial pipeline: the documentary baseline, a cleanup edit, and a readable edition. Each layer is preserved and citable.</p>
+
+<p><strong>Layer 1 — Documentary baseline.</strong> The original YouTube auto-caption transcripts, unmodified. Layer 1 is the documentary baseline against which the editorial layers were produced. It contains the raw captioner output including all mistranscriptions, timing artifacts, and proper-noun mishearings. Layer 1 is not redistributed with this archive — the auto-captions remain available on YouTube. Readers wishing to verify a specific passage against source can use the "Watch on YouTube" link on each lecture page.</p>
+
+<p><strong>Layer 2 — Cleanup edit.</strong> Captioner errors corrected, sentence and paragraph boundaries inserted, filler lightly thinned. The speaker's genuine spoken slips of memory are preserved with bracketed corrections — for example, in lecture <code>WM_Su2015_18</code>, where Eagar refers to "Alfred the Great" while discussing HMS Victory, the text reads "Alfred the Great [Lord Nelson]" since Nelson was Victory's flagship commander. Mechanical transformations (caption fixes, punctuation insertion) are logged in a per-lecture <code>transformation_log.md</code>; the speaker's slips are flagged in <code>editorial_register.md</code>. Layer 2 reads as the speaker thinking aloud, made legible.</p>
+
+<p><strong>Layer 3 — Editorial edit.</strong> Readable edition with section structure, smoothed self-corrections, removed false starts, physical-object teaching moves rendered as italicized stage directions in brackets, and soft reordering within sections where the speaker delivered content out of order during real-time teaching. Every editorial judgment is logged in <code>editorial_register.md</code>. Layer 3 prose is the default reading view.</p>
+
+
+<h2>The constraint set</h2>
+
+<p>The editor of Layer 3 may not:</p>
+<ul>
+  <li>Add new sentences in the speaker's voice.</li>
+  <li>Reorder content across section boundaries.</li>
+  <li>Merge cases the speaker kept separate, or split cases he handled as one.</li>
+  <li>Silently correct factual errors made on tape. Caption mishearings (the auto-captioner rendering "Forward" as "Ford," "Mesabi" as "Wasabi") are corrected silently against audio; the speaker's genuine errors are preserved with bracketed corrections; the speaker's substantive misstatements are preserved as spoken.</li>
+</ul>
+
+<h2>How to read</h2>
+
+<p>The default reading view on a lecture page shows Layer 3 alone. The "Layer 2 — cleanup" toggle at the top of each page opens Layer 2 as a second column for side-by-side reading; clicking a paragraph in either column scrolls the other to the corresponding passage. The ◆ marker next to any Layer 3 paragraph opens its editorial note. Use the ← and → arrows at the top of the page (or the keyboard arrow keys) to navigate to the previous or next lecture within the same course-term.</p>
+
+<h2>Lecture identifiers</h2>
+
+<p>Each lecture has a stable corpus identifier of the form <code>CODE_TERMYEAR_NN</code> — for example, <code>WM_Su2014_01</code> for the first lecture of Welding Metallurgy in Summer 2014. CODE designates Eagar's course module (SMS for Structural Materials Selection, WM for Welding Metallurgy, CAS for Casting, and so on); TERM is one of S (Spring), Su (Summer), or F (Fall); NN is the lecture's position within Eagar's playlist for that course-term. These identifiers are corpus-internal and are used for citation; they are independent of the underlying YouTube video IDs, which remain stable URLs.</p>
+
+<h2>How to cite</h2>
+
+<p>Use of the corpus requires citing both the corpus itself and the companion paper.</p>
+
+<p>The corpus is deposited on Zenodo. The concept DOI <a href="https://doi.org/10.5281/zenodo.20226048"><code>10.5281/zenodo.20226048</code></a> always resolves to the most recent version; cite it for general reference. Specific versions have their own version DOIs, listed on the Zenodo record.</p>
+
+<p>Taylor, R. H. (2026). <em>The Eagar Corpus: the recorded teaching of Thomas W. Eagar (MIT, 2011–2022)</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.20226048">https://doi.org/10.5281/zenodo.20226048</a></p>
+
+<p>BibTeX:</p>
+<pre><code>@dataset{taylor_eagar_corpus_2026,
+  author    = {Taylor, Richard H.},
+  title     = {The {Eagar} {Corpus}: the recorded teaching of
+               {Thomas W. Eagar} ({MIT}, 2011--2022)},
+  year      = 2026,
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20226048},
+  url       = {https://doi.org/10.5281/zenodo.20226048}
+}</code></pre>
+
+<h2>Companion paper</h2>
+
+<p>R. H. Taylor, "Teaching Engineering as Practice and Science: The Teaching Corpus of Thomas W. Eagar," <em>Journal of Materials Education</em> (forthcoming 2026). The corpus is the empirical basis of that paper; its DOI will be added here on publication.</p>
+
+<p>To cite a specific passage, append the lecture's corpus identifier and paragraph anchor to the corpus citation, as you would a page number — for example:</p>
+
+<blockquote>Taylor, R. H. (2026). <em>The Eagar Corpus: the recorded teaching of Thomas W. Eagar (MIT, 2011–2022)</em>. Zenodo. <a href="https://doi.org/10.5281/zenodo.20226048">https://doi.org/10.5281/zenodo.20226048</a>, lecture <code>SMS_F2014_01</code> (Structural Materials Selection, Fall 2014), §5.p8.</blockquote>
+
+<h2>Editorial responsibility</h2>
+
+<p>The corpus is curated by <a href="https://scholar.google.com/citations?user=N6dbY7QAAAAJ&hl=en">Richard H. Taylor, PhD</a>, former postdoc in Prof. Eagar's laboratory at MIT. Editorial decisions are recorded in the per-lecture <code>editorial_register.md</code> and in corpus-level audit files.</p>
+
+<h2>Acknowledgments</h2>
+
+<p>This archive exists because of the work of others. Neil Jenkins, MD, MPH, PhD, managed the <code>eagar.mit.edu</code> page. Brian Hohman, PhD, recorded lectures and reviewed materials. Mike Balmforth, M.S., also recorded lectures. Without that recording effort, there would be no corpus. The MIT Department of Materials Science and Engineering hosts <a href="https://eagar.mit.edu"><code>eagar.mit.edu</code></a>, which provides Prof. Eagar's biographical information and links to the original YouTube videos. The Eagar family has been generously supportive of this scholarly edition.</p>
+
+<h2>Pipeline and methodology</h2>
+
+<p>Layers 2 and 3 were produced initially by a two-call pipeline using Anthropic's Claude Opus 4.7, anchored to a hand-edited worked example (the first section of lecture <code>SMS_F2014_01</code>) that defines the editorial standard and subsequently reviewed by the editor. The pipeline, prompts, validation rules, and worked example are released as open-source software alongside the corpus.</p>
+
+</article>
+{% endblock %}

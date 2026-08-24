@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% block description %}A scholarly edition of the recorded teaching of Thomas W. Eagar at MIT, 2011-2022: 215 lectures, 1,949 cases, with editorial layers and full-text search.{% endblock %}">
+  <title>{% block title %}Eagar Corpus{% endblock %}</title>
+  <link rel="stylesheet" href="{{ static_prefix|default('/static') }}/css/site.css">
+  {% block head_extra %}{% endblock %}
+</head>
+<body class="{% block body_class %}{% endblock %}">
+  <header class="site-header">
+    <a href="{{ home_prefix|default('/') }}"
+class="site-title">Materials Engineering: A Narrative Pedagogy</a>
+    <nav>
+      <a href="{{ nav_prefix|default('/') }}lectures/">Lectures</a>
+      <a href="{{ nav_prefix|default('/') }}cases/">Cases</a>
+      <a href="{{ nav_prefix|default('/') }}casemap.html">Case Map</a>
+      <a href="{{ nav_prefix|default('/') }}quotes.html">Quotes</a>
+      <a href="{{ nav_prefix|default('/') }}research.html">Research</a>
+      <a href="{{ nav_prefix|default('/') }}search.html">Search</a>
+      <a href="{{ nav_prefix|default('/') }}about.html">About</a>
+    </nav>
+  </header>
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="site-footer">
+    <p>The teaching archive of Thomas W. Eagar (1950–2022), MIT. A three-layer searchable corpus. Editorial conventions: <a href="{{ nav_prefix|default('/') }}about.html">methodology</a>. Cite the corpus and the methods paper together — see About for details.</p>
+  </footer>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

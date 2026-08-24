@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Search — Eagar Corpus{% endblock %}
+
+{% block content %}
+<h1>Search</h1>
+
+<div class="search-controls">
+  <input type="text" id="search-input" placeholder="Search the corpus…" autofocus>
+  <div class="scope-filters">
+    <label><input type="checkbox" name="scope" value="paragraph" checked> Paragraphs</label>
+    <label><input type="checkbox" name="scope" value="case" checked> Cases</label>
+    <label><input type="checkbox" name="scope" value="lecture" checked> Lectures</label>
+  </div>
+</div>
+
+<div id="search-status">Loading search index…</div>
+<div id="search-results"></div>
+
+<script src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
+<script src="static/js/search.js"></script>
+{% endblock %}

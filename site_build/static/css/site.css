@@ -1,0 +1,644 @@
+/* ---------------------------------------------------------------
+   Eagar Corpus site — main stylesheet
+   --------------------------------------------------------------- */
+
+:root {
+  --accent: #c89b00;
+  --accent-light: #fef9e7;
+  --accent-soft: #f8f6f1;
+  --text: #2b2b2b;
+  --text-muted: #666;
+  --text-soft: #888;
+  --border: #e0ddd6;
+  --bg: #fafaf7;
+  --code-bg: #f4f1ea;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: "Source Serif Pro", Charter, Georgia, serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+}
+
+a { color: var(--text); text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+a:hover { text-decoration-color: var(--accent); }
+
+h1, h2, h3 { font-family: "Source Sans Pro", system-ui, sans-serif; font-weight: 600; color: var(--text); }
+h1 { font-size: 1.8rem; line-height: 1.25; margin: 1rem 0 1.5rem; }
+h2 { font-size: 1.3rem; margin: 2rem 0 1rem; }
+h3 { font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+
+code, pre { font-family: ui-monospace, "SF Mono", Consolas, monospace; }
+code { font-size: 0.92em; background: var(--code-bg); padding: 0.1em 0.3em; border-radius: 3px; }
+
+/* ---------------------------------------------------------------
+   Header & footer
+   --------------------------------------------------------------- */
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid var(--border);
+  background: white;
+}
+.site-title {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+}
+.site-header nav a {
+  margin-left: 1.5rem;
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.92rem;
+  text-decoration: none;
+  color: var(--text-muted);
+}
+.site-header nav a:hover { color: var(--accent); }
+
+main {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  margin-top: 4rem;
+  padding: 2rem;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------------------------------------------------------------
+   Home page
+   --------------------------------------------------------------- */
+
+.hero { margin: 2rem 0 3rem; }
+.hero h1 { font-size: 2.5rem; margin: 0 0 0.5rem; }
+.hero .subtitle { font-size: 1.15rem; color: var(--text-muted); margin: 0; }
+
+.corpus-stats {
+  display: flex;
+  gap: 3rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 3rem;
+}
+.corpus-stats .stat {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  color: var(--text-muted);
+}
+.corpus-stats .num {
+  display: block;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: var(--text);
+  font-family: "Source Serif Pro", Charter, Georgia, serif;
+}
+
+.entry-points {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+.entry-card { padding: 1.5rem; border: 1px solid var(--border); border-radius: 4px; background: white; }
+.entry-card h2 { margin-top: 0; }
+.entry-card h2 a { text-decoration: none; }
+.entry-card h2 a:hover { color: var(--accent); }
+.entry-card p { margin-bottom: 0; color: var(--text-muted); }
+
+/* ---------------------------------------------------------------
+   Browse tables
+   --------------------------------------------------------------- */
+
+.filter-controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+#filter-input { padding: 0.5rem 0.75rem; border: 1px solid var(--border); border-radius: 3px; min-width: 280px; font-family: inherit; font-size: 0.95rem; }
+#sort-select { padding: 0.5rem; border: 1px solid var(--border); border-radius: 3px; font-family: inherit; }
+
+.browse-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.browse-table th, .browse-table td {
+  text-align: left;
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+.browse-table th {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.browse-table th.num, .browse-table td.num { text-align: right; }
+.browse-table tr:hover { background: var(--accent-soft); }
+.browse-table tr.proposed-row { color: var(--text-muted); font-style: italic; }
+.proposed-flag {
+  font-size: 0.75rem;
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.proposed-flag-big {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.92rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  display: inline-block;
+  margin: 0.5rem 0;
+}
+
+/* ---------------------------------------------------------------
+   Lecture page
+   --------------------------------------------------------------- */
+
+.lecture-page main {
+  max-width: none;
+  padding: 1.5rem 2rem;
+}
+
+.lecture-header h1 { margin: 0 0 0.5rem; }
+.lecture-meta {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.lecture-meta .meta-divider { color: var(--border); }
+.lecture-meta a { color: var(--text-muted); }
+
+.layer-toolbar {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1.5rem 0 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+.layer-toggle {
+  background: white;
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border-radius: 3px;
+  color: var(--text-muted);
+}
+.layer-toggle .check { opacity: 0; }
+.layer-toggle.active { color: var(--text); background: var(--accent-light); border-color: var(--accent); }
+.layer-toggle.active .check { opacity: 1; color: var(--accent); }
+.layer-toggle:hover { background: var(--accent-soft); }
+
+.lecture-body {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.section-nav {
+  position: sticky;
+  top: 1rem;
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.85rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+}
+.section-nav a {
+  display: block;
+  padding: 0.4rem 0.5rem;
+  text-decoration: none;
+  color: var(--text-muted);
+  border-left: 2px solid transparent;
+  line-height: 1.35;
+}
+.section-nav a:hover { color: var(--text); background: var(--accent-soft); }
+.section-nav a.active { color: var(--text); border-left-color: var(--accent); background: var(--accent-light); }
+.section-nav .sec-num { color: var(--accent); font-weight: 600; }
+.section-nav .sec-title { display: block; }
+.section-nav .sec-ts { color: var(--text-soft); font-size: 0.78rem; }
+
+.columns {
+  display: grid;
+  gap: 1.5rem;
+  align-items: start;
+}
+.columns[data-active-layers="l3"] { grid-template-columns: 1fr; }
+.columns[data-active-layers="l2"] { grid-template-columns: 1fr; }
+.columns[data-active-layers="l3,l2"] { grid-template-columns: 1fr 1fr; }
+
+.column {
+  display: none;
+  min-width: 0;
+  max-height: calc(100vh - 8rem);
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: white;
+}
+.column.visible { display: block; }
+
+.col-header {
+  position: sticky;
+  top: 0;
+  background: var(--accent-soft);
+  padding: 0.5rem 1rem;
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+  z-index: 1;
+}
+
+.layer-content { padding: 1.5rem; }
+
+/* Layer 3 styling */
+.l3-section h2 {
+  font-size: 1.25rem;
+  margin: 2rem 0 1rem;
+  font-weight: 600;
+}
+.l3-section h2 .ts { color: var(--text-soft); font-size: 0.85rem; font-family: ui-monospace, monospace; font-weight: 400; }
+
+.l3-paragraph {
+  padding: 0.4em 0.6em;
+  margin: 0 -0.6em 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  transition: background 100ms;
+}
+.l3-paragraph:hover { background: var(--accent-soft); }
+.l3-paragraph.active { background: var(--accent-light); box-shadow: -3px 0 0 var(--accent); }
+.l3-paragraph .paragraph-body p:first-child { margin-top: 0; }
+.l3-paragraph .paragraph-body p:last-child { margin-bottom: 0; }
+.l3-paragraph.student-turn { font-style: italic; }
+.l3-paragraph.stage-direction { color: var(--text-muted); font-size: 0.95em; }
+
+.anchor-marker {
+  font-family: ui-monospace, monospace;
+  font-size: 0.7rem;
+  color: var(--text-soft);
+  display: block;
+  margin-bottom: 0.2rem;
+}
+.anchor-marker .ts { color: var(--text-soft); margin-left: 0.5rem; }
+
+.register-marker {
+  position: absolute;
+  right: 0.4rem;
+  top: 0.4rem;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.9rem;
+  opacity: 0;
+  transition: opacity 100ms;
+}
+.l3-paragraph:hover .register-marker { opacity: 0.6; }
+.register-marker:hover { opacity: 1 !important; }
+.register-marker.has-note { opacity: 0.6; }
+
+/* Layer 2 styling */
+.l2-paragraph {
+  padding: 0.4em 0.6em;
+  margin: 0 -0.6em 0.9em;
+  font-family: ui-monospace, "SF Mono", Consolas, monospace;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+  border-radius: 4px;
+  cursor: pointer;
+}
+.l2-paragraph:hover { background: var(--accent-soft); }
+.l2-paragraph.active { background: var(--accent-light); box-shadow: -3px 0 0 var(--accent); color: var(--text); }
+.l2-paragraph .paragraph-body p:first-child { margin-top: 0; }
+.l2-paragraph .paragraph-body p:last-child { margin-bottom: 0; }
+
+/* Case index at bottom */
+.case-index-block {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.case-list { list-style: none; padding: 0; }
+.case-list li { padding: 0.6rem 0; border-bottom: 1px dotted var(--border); }
+.case-list .anchor-jump { font-family: ui-monospace, monospace; font-size: 0.82rem; color: var(--text-muted); margin-left: 0.5rem; }
+.case-frame { margin: 0.3rem 0 0; color: var(--text-muted); font-size: 0.92rem; }
+
+/* Register popup */
+.popup {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1.5rem 2rem;
+  max-width: 600px;
+  max-height: 70vh;
+  overflow-y: auto;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+  z-index: 100;
+}
+.popup.hidden { display: none; }
+.popup-close { position: absolute; top: 0.5rem; right: 1rem; background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--text-soft); }
+.popup h3 { margin-top: 0; }
+.popup-body { font-size: 0.95rem; }
+
+/* ---------------------------------------------------------------
+   Case page
+   --------------------------------------------------------------- */
+
+.case-page main { max-width: 900px; }
+.case-summary { color: var(--text-muted); }
+.appearance { padding: 1.2rem 0; border-bottom: 1px solid var(--border); }
+.appearance-meta {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+.appearance-meta .meta-divider { color: var(--border); }
+.appearance-meta .anchor { font-family: ui-monospace, monospace; font-size: 0.85rem; }
+.appearance-frame { font-style: italic; color: var(--text-muted); margin: 0.3rem 0; }
+.appearance-snippet {
+  border-left: 3px solid var(--border);
+  padding-left: 1rem;
+  margin: 0.5rem 0;
+  color: var(--text);
+}
+
+/* ---------------------------------------------------------------
+   Search
+   --------------------------------------------------------------- */
+
+.search-controls { margin: 1rem 0 2rem; }
+#search-input { width: 100%; padding: 0.7rem 1rem; font-size: 1.1rem; border: 1px solid var(--border); border-radius: 4px; font-family: inherit; }
+.scope-filters { margin-top: 0.8rem; display: flex; gap: 1rem; font-family: "Source Sans Pro", system-ui, sans-serif; font-size: 0.9rem; color: var(--text-muted); }
+#search-status { color: var(--text-muted); margin-bottom: 1rem; }
+.search-result { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+.search-result .result-type { font-family: "Source Sans Pro", system-ui, sans-serif; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.5px; color: var(--accent); margin-bottom: 0.2rem; }
+.search-result .result-title { font-weight: 600; }
+.search-result .result-snippet { color: var(--text-muted); font-size: 0.92rem; margin: 0.3rem 0 0; }
+.search-result mark { background: var(--accent-light); color: var(--text); padding: 0 2px; }
+
+/* ---------------------------------------------------------------
+   About / prose
+   --------------------------------------------------------------- */
+
+.prose { max-width: 700px; }
+.prose p { margin: 1em 0; }
+.prose ul { padding-left: 1.5rem; }
+.prose ul li { margin: 0.4em 0; }
+
+/* ---------------------------------------------------------------
+   Responsive
+   --------------------------------------------------------------- */
+
+@media (max-width: 900px) {
+  .lecture-body { grid-template-columns: 1fr; }
+  .section-nav { position: static; max-height: none; }
+  .columns[data-active-layers="l3,l2"] {
+    grid-template-columns: 1fr;
+  }
+  .entry-points { grid-template-columns: 1fr; }
+  .corpus-stats { flex-wrap: wrap; gap: 1.5rem; }
+}
+/* ---------------------------------------------------------------
+   Dark mode — appended to site.css
+   Honors prefers-color-scheme: dark from the OS/browser.
+   --------------------------------------------------------------- */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent: #e0b54a;        /* slightly brighter gold for contrast */
+    --accent-light: #3a3220;   /* dark amber */
+    --accent-soft: #232018;    /* deep warm dark */
+    --text: #e8e4d6;           /* warm off-white */
+    --text-muted: #a59f8e;
+    --text-soft: #807a6c;
+    --border: #3a3530;
+    --bg: #1a1814;             /* deep warm brown-black */
+    --code-bg: #2a2620;
+  }
+
+  body { background: var(--bg); color: var(--text); }
+
+  /* Header background should match dark bg, not white */
+  .site-header { background: #211e18; }
+
+  /* Links: keep border-color underlines but adjusted for dark */
+  a { text-decoration-color: var(--border); }
+  a:hover { text-decoration-color: var(--accent); }
+
+  /* Code/pre blocks */
+  code { background: var(--code-bg); color: var(--text); }
+
+  /* Case map page adjustments */
+  body.casemap-page .casemap-layout {
+    background: #211e18;
+    border-color: var(--border);
+  }
+  body.casemap-page #casemap-vis { background: #211e18; }
+
+  .casemap-controls,
+  .casemap-legend {
+    background: rgba(33, 30, 24, 0.92);
+    color: var(--text-muted);
+  }
+
+  /* Bubble strokes need to be lighter in dark mode for visibility */
+  .case-node circle { stroke-opacity: 0.7; }
+  .case-node text { fill: white; }   /* unchanged - text on colored bubble */
+  .case-node.hover circle { stroke: var(--text); }
+
+  /* Side panel */
+  #casemap-panel {
+    background: #1f1c16;
+    border-left-color: var(--border);
+  }
+
+  /* Treatment badges */
+  #casemap-panel .treatment.substantive {
+    background: var(--text);
+    color: var(--bg);
+  }
+  #casemap-panel .treatment.brief {
+    background: var(--border);
+    color: var(--text-muted);
+  }
+}
+
+
+/* YouTube link in lecture header */
+.lecture-meta .yt-link {
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.88rem;
+  text-decoration: none;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+}
+.lecture-meta .yt-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+/* ---------------------------------------------------------------
+   Dark mode — additional overrides for hardcoded backgrounds
+   Appended after the existing @media (prefers-color-scheme: dark) block
+   in site.css. These rules target elements that use `background: white`
+   directly instead of via --bg, and so don't pick up the variable swap.
+   --------------------------------------------------------------- */
+
+@media (prefers-color-scheme: dark) {
+  /* Site-wide hardcoded white backgrounds */
+  .site-header,
+  .entry-card,
+  .layer-toolbar,
+  .column,
+  .popup {
+    background: #211e18 !important;
+  }
+
+  /* Paragraph hover/active rebalanced for dark surfaces */
+  .l3-paragraph:hover,
+  .l2-paragraph:hover {
+    background: #2a2620;  /* slightly lighter than column bg */
+  }
+  .l3-paragraph.active,
+  .l2-paragraph.active {
+    background: #3a3220;  /* warm accent-light analog */
+    color: var(--text);
+  }
+
+  /* Browse-table row hover */
+  .browse-table tr:hover { background: #2a2620; }
+
+  /* Section nav hover/active */
+  .section-nav a:hover { background: #2a2620; }
+  .section-nav a.active { background: #3a3220; }
+
+  /* Layer toggle button states */
+  .layer-toggle.active {
+    color: var(--text);
+    background: #3a3220;
+    border-color: var(--accent);
+  }
+  .layer-toggle:hover { background: #2a2620; }
+
+  /* Column header band */
+  .col-header {
+    background: #2a2620;
+    color: var(--text-muted);
+  }
+
+  /* Code blocks should also be subtly distinct from page bg */
+  code { background: #2a2620; }
+}
+
+
+/* ---------------------------------------------------------------
+   Sortable column headers (browse table)
+   --------------------------------------------------------------- */
+.browse-table th.sortable {
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+  padding-right: 1.5rem;
+}
+.browse-table th.sortable:hover { color: var(--accent); }
+.browse-table th.sortable .sort-arrow {
+  display: inline-block;
+  width: 0.8em;
+  margin-left: 0.3em;
+  color: var(--text-soft);
+  font-size: 0.85em;
+  opacity: 0.4;
+}
+.browse-table th.sortable.sort-asc .sort-arrow::after {
+  content: "\25B2";  /* black up-pointing triangle */
+  opacity: 1;
+  color: var(--accent);
+}
+.browse-table th.sortable.sort-desc .sort-arrow::after {
+  content: "\25BC";  /* black down-pointing triangle */
+  opacity: 1;
+  color: var(--accent);
+}
+
+/* Filter hint text */
+.filter-controls .filter-hint {
+  margin-left: 1rem;
+  color: var(--text-soft);
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+
+/* ---------------------------------------------------------------
+   Lecture page prev/next navigation
+   --------------------------------------------------------------- */
+.lecture-title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin: 0;
+  flex-wrap: nowrap;
+  max-width: 100%;
+}
+.lecture-title-row h1 {
+  flex: 0 1 auto;
+  margin: 0;
+  min-width: 0;
+}
+.lec-nav {
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0 0.4rem;
+  border-radius: 4px;
+  user-select: none;
+  transition: color 100ms, background 100ms;
+}
+.lec-nav:hover {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+.lec-nav-disabled {
+  color: var(--text-soft);
+  opacity: 0.3;
+  cursor: default;
+}

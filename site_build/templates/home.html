@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Eagar Corpus — home{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>Materials Engineering: A Narrative Pedagogy</h1>
+  <p class="subtitle">The teaching archive of Thomas W. Eagar (1950–2022).</p>
+</section>
+
+<section class="corpus-stats">
+  <div class="stat"><span class="num">{{ lecture_count }}</span> lectures</div>
+  <div class="stat"><span class="num">{{ total_words|int }}</span> cleaned words</div>
+  <div class="stat"><span class="num">{{ case_count }}</span> cases referenced</div>
+  {% if proposed_count %}
+  <div class="stat"><span class="num">{{ proposed_count }}</span> proposed (pending reconciliation)</div>
+  {% endif %}
+</section>
+
+<section class="entry-points">
+  <div class="entry-card">
+    <h2><a href="lectures/">Lectures</a></h2>
+    <p>Browse the {{ lecture_count }} processed lectures by course, term, or title. Each lecture has a three-column reading view that lets you move between the readable edition, the cleanup layer, and the raw auto-caption transcript.</p>
+  </div>
+  <div class="entry-card">
+    <h2><a href="cases/">Cases</a></h2>
+    <p><em>"I teach basically in stories. You can call them parables."</em> &mdash; T.W. Eagar<br>Each case is one such story: an industrial decision, a failure, a career, a material's history. Indexed across the corpus, with every appearance shown side by side.</p>
+  </div>
+  <div class="entry-card">
+    <h2><a href="search.html">Search</a></h2>
+    <p>Full-text search across the corpus, scoped by paragraph, case, or lecture.</p>
+  </div>
+  <div class="entry-card">
+    <h2><a href="about.html">About</a></h2>
+    <p>The three-layer architecture, the editorial conventions, the constraint set, the citation requirements.</p>
+  </div>
+</section>
+{% endblock %}
