@@ -15,7 +15,7 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### Swiss watch industry transition (Swatch / Rolex bifurcation)
 - **Anchor:** `§1.p1`–`§1.p10`
-- **canonical_cluster_id:** PROPOSED: "Swiss watch industry survival via quartz and luxury bifurcation"
+- **canonical_cluster_id:** PROPOSED: Swiss watch industry survival via quartz and luxury bifurcation
 - **Frame in this lecture:** Used as Tom's framing case for "what makes something expensive" — at the low end, Swatches sold as fashion; at the high end, titanium-cased, ceramic-bezeled fifty-thousand-dollar luxury watches. The titanium watch becomes the segue to the broader discussion of why titanium is even available as a metal.
 - **Materials/systems:** Titanium watch case; ceramic bezel; quartz piezoelectric movement.
 - **Era:** 1960s–present.
@@ -26,7 +26,7 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### H.C. Starck (reactive metal metallurgy)
 - **Anchor:** `§2.p2`
-- **canonical_cluster_id:** PROPOSED: "H.C. Starck Newton facility — MIT vacuum metallurgy spin-off"
+- **canonical_cluster_id:** PROPOSED: H.C. Starck Newton facility — MIT vacuum metallurgy spin-off
 - **Frame in this lecture:** Cited as an example of how WWII-era vacuum metallurgy at MIT spun off into commercial reactive-metals firms. Now a Bayer Chemical subsidiary.
 - **Materials/systems:** Reactive metals (Ti, Mo, W, Nb); vacuum melting.
 - **Era:** WWII onward.
@@ -47,7 +47,7 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### Tesla Nevada gigafactory water siting decision
 - **Anchor:** `§3.p4`, `§3.p8`
-- **canonical_cluster_id:** PROPOSED: "Tesla Nevada gigafactory water siting"
+- **canonical_cluster_id:** PROPOSED: Tesla Nevada gigafactory water siting
 - **Frame in this lecture:** Tom argues the Nevada siting is a mistake because manufacturing requires enormous water input; recalls a similar GM Sloan-program team that proposed Nogales, Arizona for the same maquiladora-labor reason and was challenged on water access.
 - **Materials/systems:** Manufacturing water requirements (thousands of gallons per car).
 - **Era:** 2014 (Tesla); GM anecdote ~1990s.
@@ -68,7 +68,7 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### Aircraft landing gear material selection
 - **Anchor:** `§4.p7`–`§4.p9`
-- **canonical_cluster_id:** PROPOSED: "Aircraft landing gear high-strength steel and inspection"
+- **canonical_cluster_id:** PROPOSED: Aircraft landing gear high-strength steel and inspection
 - **Frame in this lecture:** Landing gear are designed first because they take the highest stresses, and they are steel at 250–280 ksi because no composite can match the critical-flaw-size / strength combination. Triple vacuum arc melted, magnetic particle inspected.
 - **Materials/systems:** High-strength steel (250–280 ksi); vacuum arc melting; magnetic particle inspection.
 - **Era:** Contemporary aerospace practice.
@@ -82,21 +82,21 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### Rob Ritchie high-entropy alloy *Science* paper (2014)
 - **Anchor:** `§5.p2`–`§5.p4`
-- **canonical_cluster_id:** PROPOSED: "Ritchie 2014 cryogenic high-entropy alloy (CrMnFeCoNi)"
+- **canonical_cluster_id:** PROPOSED: Ritchie 2014 cryogenic high-entropy alloy (CrMnFeCoNi)
 - **Frame in this lecture:** Rob Ritchie (formerly MIT, now Berkeley) and collaborators published an equiatomic CrMnFeCoNi alloy with excellent cryogenic fracture toughness in *Science*. Tom: "all they did was add iron to MP35N" and the strengthening mechanism (twinning) is the same. The Ashby plot reproduced in the paper is, in Tom's reading, a rediscovery.
 - **Materials/systems:** High-entropy equiatomic CrMnFeCoNi alloy; twin-induced plasticity.
 - **Era:** September 2014.
 
 ### MP35N alloy (Gaylord Smith, International Nickel)
 - **Anchor:** `§6.p1`–`§6.p6`, `§7.p5`–`§7.p6`
-- **canonical_cluster_id:** PROPOSED: "MP35N cobalt-nickel-chrome-molybdenum alloy (Gaylord Smith / International Nickel)"
+- **canonical_cluster_id:** PROPOSED: MP35N cobalt-nickel-chrome-molybdenum alloy (Gaylord Smith / International Nickel)
 - **Frame in this lecture:** Tom's "favorite alloy." 35Co-35Ni-20Cr-10Mo, developed by Gaylord Smith at International Nickel in the 1960s. Non-magnetic, strengthens by twinning under cold work, reaches 280 ksi yield as bolt stock. Four MP35N bolts hold the 747 wing onto the fuselage. ASTM-specced for surgical implants since 1978.
 - **Materials/systems:** MP35N (35Co-35Ni-20Cr-10Mo); cold-work twinning; surgical implant ASTM spec.
 - **Era:** 1960s–present.
 
 ### Boeing 747 wing-to-fuselage bolts
 - **Anchor:** `§6.p2`
-- **canonical_cluster_id:** PROPOSED: "Boeing 747 wing-to-fuselage MP35N bolt selection"
+- **canonical_cluster_id:** PROPOSED: Boeing 747 wing-to-fuselage MP35N bolt selection
 - **Frame in this lecture:** Four MP35N bolts, ~300 ksi, hold each 747 wing on. Sourced from Standard Pressed Steel (Philadelphia).
 - **Materials/systems:** MP35N bolts; high-strength fastener metallurgy.
 - **Era:** 747 era onward.
@@ -124,14 +124,14 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### Army microcrystalline titanium penetrator program (Schuh)
 - **Anchor:** `§8.p4`
-- **canonical_cluster_id:** PROPOSED: "Army microcrystalline titanium kinetic-energy penetrator program (Schuh)"
+- **canonical_cluster_id:** PROPOSED: Army microcrystalline titanium kinetic-energy penetrator program (Schuh)
 - **Frame in this lecture:** Christopher Schuh (MIT DMSE) is funded by the Army to develop microcrystalline titanium as a non-radioactive high-density alternative to depleted uranium.
 - **Materials/systems:** Microcrystalline titanium; armor penetrators.
 - **Era:** ~2010s.
 
 ### Tessa Hadlock platinum eyelid weights (Mass Eye and Ear)
 - **Anchor:** `§8.p5`–`§8.p6`
-- **canonical_cluster_id:** PROPOSED: "Hadlock platinum eyelid weights for facial reconstruction"
+- **canonical_cluster_id:** PROPOSED: Hadlock platinum eyelid weights for facial reconstruction
 - **Frame in this lecture:** Dr. Tessa Hadlock (Mass Eye and Ear, HST graduate, Tom's ENT) embedded platinum weights in the eyelid of a young woman whose facial muscles had been severed, so she could close her eye. Platinum chosen for density (small weight, no bulge), corrosion resistance, and bio-inertness.
 - **Materials/systems:** Platinum; medical implants; density-driven design.
 - **Era:** ~2014 (Boston Globe article).
@@ -145,7 +145,7 @@ This lecture is structured around toughness as a design criterion, with two exte
 
 ### Tom Eagar's copper roof (personal)
 - **Anchor:** `§9.p4`
-- **canonical_cluster_id:** PROPOSED: "Tom Eagar's residential copper roof installation"
+- **canonical_cluster_id:** PROPOSED: Tom Eagar's residential copper roof installation
 - **Frame in this lecture:** $9,000 for ~50 sq ft of copper roofing on Tom's house, justified as a 100–300 year lifetime. Lateral example of when copper's price is worth paying.
 - **Materials/systems:** Copper roofing; atmospheric corrosion resistance.
 - **Era:** Contemporary (Tom's house).

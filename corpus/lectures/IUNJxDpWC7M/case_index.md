@@ -36,13 +36,13 @@ This lecture is the corrosion-mechanisms session of the welding metallurgy cours
 
 ### Mothballed B-52s at the Arizona aircraft boneyard
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** PROPOSED: "Arizona aircraft boneyard (Davis-Monthan AFB) mothballing practice"
+- **canonical_cluster_id:** PROPOSED: Arizona aircraft boneyard (Davis-Monthan AFB) mothballing practice
 - **Frame in this lecture:** Brief reference, not a forensic case. Used to make the moisture-pathway point by counterexample (low-humidity desert preserves metals) and to contrast with Navy practice of storing assets in seawater.
 - **Era:** SALT-treaty era reference, late Cold War.
 
 ### Nuclear submarine / carrier reactor shutdown with hydrazine
 - **Anchor:** `§3.p7`
-- **canonical_cluster_id:** PROPOSED: "Navy reactor shutdown hydrazine oxygen scavenging"
+- **canonical_cluster_id:** PROPOSED: Navy reactor shutdown hydrazine oxygen scavenging
 - **Frame in this lecture:** Pedagogical contrast with commercial pre-boiler sparging. Navy uses hydrazine; commercial plants can't afford it and use steam sparge instead.
 - **Era:** ongoing Navy practice.
 

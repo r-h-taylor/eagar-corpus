@@ -22,7 +22,7 @@ This lecture is primarily methodological — Tom is teaching how engineers think
 
 ### MIT women faculty salary equity investigation (Hopkins / Birgeneau)
 - **Anchor:** `§8.p1`–`§8.p5`
-- **canonical_cluster_id:** PROPOSED: "MIT women faculty equity study (Hopkins/Birgeneau, late 1990s)"
+- **canonical_cluster_id:** PROPOSED: MIT women faculty equity study (Hopkins/Birgeneau, late 1990s)
 - **Frame in this lecture:** Used as a non-engineering application of the scientific method (collect the data, test the hypothesis, draw the conclusion, act on it). Also as a case study in how committee dynamics resist data collection that might surface uncomfortable answers.
 - **Era:** "20 years ago" — i.e. mid-to-late 1990s. The published MIT report on women in science is from 1999 (Birgeneau-era), with the engineering follow-up under Lorna Gibson and Bob Brown a few years later.
 - **People named:** Nancy Hopkins (biology), Bob Birgeneau (Dean of Science, later UC Berkeley Chancellor), Chuck Vest (President), Lorna Gibson (engineering committee chair), Bob Brown (Provost, later BU President).
@@ -43,7 +43,7 @@ This lecture is primarily methodological — Tom is teaching how engineers think
 
 ### Lord Kelvin on powered flight (impossibility prediction)
 - **Anchor:** `§2.p5`
-- **canonical_cluster_id:** PROPOSED: "Lord Kelvin's impossible-flight prediction"
+- **canonical_cluster_id:** PROPOSED: Lord Kelvin's impossible-flight prediction
 - **Frame in this lecture:** Mentioned in passing as Tom's stock example of scientific prediction outrun by engineering practice.
 
 ## Figures and themes referenced (not cases)

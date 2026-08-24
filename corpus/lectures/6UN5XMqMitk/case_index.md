@@ -31,7 +31,7 @@
 
 ### Aluminum aerospace clad-sheet manufacturing (Alclad and continuously cast variants)
 - **Anchor:** `§4.p1`–`§4.p6`
-- **canonical_cluster_id:** PROPOSED: "Alclad aluminum aerospace sheet — roll-bond and continuous-cast clad processes"
+- **canonical_cluster_id:** PROPOSED: Alclad aluminum aerospace sheet — roll-bond and continuous-cast clad processes
 - **Frame in this lecture:** Seventy-year history of roll-bonding 1100 aluminum onto 2014/2024 cores to prevent galvanic micro-cells from copper precipitates. Recent (~mid-2000s) commercial development by a Spokane WA inventor of continuous direct-chill casting that fuses two alloys at a single fusion line, dropping clad-sheet costs and opening kitchen-appliance and brazed-radiator markets.
 - **Materials/systems:** 1100 / 2014 / 2024 aluminum; direct chill (DC) casting; brazing alloys for radiators.
 - **Note:** May correspond to "Aluminum radiator field brazing development" partly, but the §4 case is properly about clad-sheet manufacturing rather than field brazing.
@@ -49,7 +49,7 @@
 
 ### Naval Research Laboratory ratio analysis diagram (Liberty ships heritage)
 - **Anchor:** `§6.p2`
-- **canonical_cluster_id:** PROPOSED: "Naval Research Lab ratio analysis diagram"
+- **canonical_cluster_id:** PROPOSED: Naval Research Lab ratio analysis diagram
 - **Frame in this lecture:** Framing reference. Tom invokes the NRL diagram (developed out of Liberty ship failures, 1950s–60s) as the parent framework before pivoting to Ashby plots.
 - **Note:** Likely overlaps with existing canonical clusters "Liberty ships and SS Schenectady" and "Navy brittle fracture study - welded vessels and ships" — this lecture's mention is framework-level, not case-level.
 
@@ -64,14 +64,14 @@
 
 ### Non-sparking copper-beryllium mining tools
 - **Anchor:** `§7.p9`–`§7.p10`
-- **canonical_cluster_id:** PROPOSED: "Non-sparking copper-beryllium tools for methane-atmosphere mining"
+- **canonical_cluster_id:** PROPOSED: Non-sparking copper-beryllium tools for methane-atmosphere mining
 - **Frame in this lecture:** Beryllium's principal non-aerospace structural application. Cu-2-3%Be precipitation-hardened to 180–200 ksi; high thermal conductivity prevents frictional sparking. Used as the closing reason to study beryllium beyond spacecraft.
 
 ## §8 — Calcium / radium
 
 ### Portland cement as a structural material
 - **Anchor:** `§8.p1`–`§8.p2`
-- **canonical_cluster_id:** PROPOSED: "Portland cement (calcium / dolomite-magnesium chemistry)"
+- **canonical_cluster_id:** PROPOSED: Portland cement (calcium / dolomite-magnesium chemistry)
 - **Frame in this lecture:** Calcium counts as a structural material — used in larger quantity than iron, as Portland cement. Limestone → kiln → CaO → Ca(OH)₂ with water. Some Portland is calcium-magnesium from dolomite ore.
 
 ### Radium cocktails (1920s)
@@ -105,7 +105,7 @@
 
 ### Blackhawk helicopter high-performance magnesium
 - **Anchor:** `§9.p12`
-- **canonical_cluster_id:** PROPOSED: "Blackhawk helicopter high-performance magnesium components"
+- **canonical_cluster_id:** PROPOSED: Blackhawk helicopter high-performance magnesium components
 - **Frame in this lecture:** Brief reference to a magazine article Tom has about Blackhawk magnesium use. Tied to US government's recurring multi-million-dollar low-cost-magnesium initiatives, foreshadowing the next lecture's Adam Powell guest talk.
 
 ## Figures referenced (not cases)

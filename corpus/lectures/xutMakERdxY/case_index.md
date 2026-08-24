@@ -111,5 +111,5 @@
 - "Titanium heat exchanger silt damage" back-reference at §6.p1 likely points to "NYC titanium heat exchanger fire" or a related titanium HX cluster from the prior lecture; needs cross-reference to lecture 6 transcript.
 - "Admiralty brass heat exchanger plugging failure" matched to existing cluster.
 
-### PROPOSED: Pacemaker battery case corrosion
+### Pacemaker battery case corrosion
 - See entry above; not located in canonical list as such. Recommend adding.

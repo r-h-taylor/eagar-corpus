@@ -8,39 +8,39 @@ This is a definitional / autobiographical lecture rather than a case-driven one.
 
 ### China 1984 drainage-ditch labor anecdote
 - **Anchor:** `§1.p1`–`§1.p3`
-- **canonical_cluster_id:** `PROPOSED: China 1984 Hangzhou drainage ditch labor observation`
+- **canonical_cluster_id:** PROPOSED: China 1984 Hangzhou drainage ditch labor observation
 - **Frame in this lecture:** Engineering decisions depend on local constraints. The "obvious" American move (buy a backhoe) fails on diesel-fuel cost and on the social cost of unemployed labor. Used to set up the lecture's thesis that engineering is context-dependent problem-solving.
 - **Era:** 1984.
 - **Other lectures in corpus:** TBD — search aggregate for "China" / "Hangzhou" / "1984 backhoe."
 
 ### Quantum mechanics final exam (Vera Kistiakowsky)
 - **Anchor:** `§2.p1`–`§2.p3`
-- **canonical_cluster_id:** `PROPOSED: Tom Eagar quantum mechanics final exam revelation (Kistiakowsky)`
+- **canonical_cluster_id:** PROPOSED: Tom Eagar quantum mechanics final exam revelation (Kistiakowsky)
 - **Frame in this lecture:** Autobiographical. Used to introduce Tom's "guess the outline" theory of teaching — only one or two themes per lecture, the rest is fluff.
 - **Era:** Tom's junior year at MIT, late 1960s.
 
 ### BU Management School minority fellowship program
 - **Anchor:** `§9.p2`
-- **canonical_cluster_id:** `BU Management School minority fellowship program` *(matches canon)*
+- **canonical_cluster_id:**"BU Management School minority fellowship program" *(matches canon)*
 - **Frame in this lecture:** Used as the positive contrast to MIT's neglect of its NROTC student. First cohort: 10 fellowships, fewer than half graduate. Second cohort: 10 fellowships plus mandatory tutoring sessions, 8 of 10 graduate. The lesson: structural support, not just admission, is what makes a minority-fellowship program work.
 - **Era:** Late 1970s.
 
 ### MIT Materials Department tenure discrimination settlement
 - **Anchor:** `§10.p1`
-- **canonical_cluster_id:** `MIT Materials Department tenure discrimination settlement` *(matches canon)*
+- **canonical_cluster_id:**"MIT Materials Department tenure discrimination settlement" *(matches canon)*
 - **Frame in this lecture:** $850,000 settlement for a woman denied tenure under Tom's predecessor. Surfaces in Tom's first two months as department head and sets up the women-faculty problem he inherits.
 - **Era:** 1995.
 
 ### Tom Eagar department-head minority and women faculty hiring program (1995–2000)
 - **Anchor:** `§10.p3`–`§10.p9`
-- **canonical_cluster_id:** `PROPOSED: Tom Eagar department-head minority and women faculty hiring program (1995-2000)`
+- **canonical_cluster_id:** PROPOSED: Tom Eagar department-head minority and women faculty hiring program (1995-2000)
 - **Frame in this lecture:** Tom's solution to the chauvinism reputation. (a) Take on the two archaeologist lecturers as a visible existence proof of women in the department. (b) Apply the "count the buds on the trees" lesson from his Sloan Senior Executive Program: identify good women and minority grad students in their second year and recruit them as faculty. Outcome: 4 women and 4 men hired in five years; one African-American, one Hispanic, one gay woman.
 - **Note:** Tom's MLK Scholar sabbatical-visitor program is part of the same teaching unit but functioned differently: visiting positions only, no permanent hires, blocked by department backlash.
 - **Era:** 1995–2000.
 
 ### MIT Materials Department female faculty interruption pattern
 - **Anchor:** `§11.p1`
-- **canonical_cluster_id:** `PROPOSED: MIT Materials Department faculty meeting interruption pattern (gendered)`
+- **canonical_cluster_id:** PROPOSED: MIT Materials Department faculty meeting interruption pattern (gendered)
 - **Frame in this lecture:** Concrete behavioral instance of the chauvinism problem. The senior archaeologist faculty member tells Tom that men interrupt women but not other men in faculty meetings; Tom verifies and intervenes by saying "excuse me, she's still talking, let her finish." The lesson Tom draws is that leadership requires identifying the actual mechanism, not just the diagnosis.
 - **Era:** 1995–2000.
 

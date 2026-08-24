@@ -20,13 +20,13 @@
 
 ### Bethlehem Steel summer training program (1975)
 - **Anchor:** `§4.p4`, `§4.p5`
-- **canonical_cluster_id:** PROPOSED: "Bethlehem Steel forging plant summer training (1975)"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel forging plant summer training (1975)
 - **Frame in this lecture:** Tom's first-summer experience at Beth Steel forging plant — 500 new engineers, week of vice-presidential talks, observation of manual oxide-scale removal from large forgings.
 - **Era:** Summer 1975.
 
 ### Japan Steel Works 600-ton upset forging
 - **Anchor:** `§4.p2`, `§4.p3`
-- **canonical_cluster_id:** PROPOSED: "Japan Steel Works 600-ton upset forging"
+- **canonical_cluster_id:** PROPOSED: Japan Steel Works 600-ton upset forging
 - **Frame in this lecture:** Visual aid (photograph) showing barreling and oxide breakaway under the gripping tongs. Tom uses it to illustrate friction-induced inhomogeneous deformation and to anchor the practical scale: largest forgings today are about 750 tons.
 - **Materials/systems:** Carbon steel forging at 2200°F.
 
@@ -38,7 +38,7 @@
 
 ### Al Backofen — biographical anecdotes
 - **Anchor:** `§6.p2`, `§6.p5`–`§6.p8`
-- **canonical_cluster_id:** PROPOSED: "Al Backofen biographical anecdotes (Marblehead house sale, Christmas tree farm, antique trade)"
+- **canonical_cluster_id:** PROPOSED: Al Backofen biographical anecdotes (Marblehead house sale, Christmas tree farm, antique trade)
 - **Frame in this lecture:** Backofen's retirement from MIT in mid-fifties, his $90,000 Marblehead house sale, his New Hampshire Christmas tree farm ($3/foot, ~10,000 trees/year, $50–60K income), and his antique-resale trade between New England yard sales and New York City. Tom's salary comparison: $15,000 as assistant professor.
 - **Era:** 1976 onward.
 
@@ -64,7 +64,7 @@
 
 ### Tony Thompson doctoral thesis on grain size and fatigue in copper
 - **Anchor:** `§8.p9`
-- **canonical_cluster_id:** PROPOSED: "Tony Thompson doctoral thesis on grain size and fatigue in copper"
+- **canonical_cluster_id:** PROPOSED: Tony Thompson doctoral thesis on grain size and fatigue in copper
 - **Frame in this lecture:** Cited as the literature Tom drew on to justify the Acela trolley wire rejection. Thompson was Backofen's student and Tom's first lab supervisor at MIT.
 
 ### Eagar wire-drawing thesis (superconducting wire)
@@ -75,13 +75,13 @@
 
 ### Jim Melcher diffusion-as-circuit anecdote
 - **Anchor:** `§9.p10`
-- **canonical_cluster_id:** PROPOSED: "Jim Melcher diffusion-as-electric-circuit anecdote"
+- **canonical_cluster_id:** PROPOSED: Jim Melcher diffusion-as-electric-circuit anecdote
 - **Frame in this lecture:** Tom's welding/copper-steel current flow problem with the Curie transition; Melcher (MIT) drew an infinite series of parallel resistors instead of thinking atomistically. Used to make the lecture's closing point that engineers from different disciplines speak different languages.
 - **Era:** Unspecified; Melcher "passed away about 15 years ago" (i.e., ~1997 from 2012 vantage).
 
 ### Stamixco static polymer mixer puzzle
 - **Anchor:** `§9.p3`–`§9.p9`
-- **canonical_cluster_id:** PROPOSED: "Stamixco static polymer mixer blue-resin migration puzzle"
+- **canonical_cluster_id:** "Polymer extrusion mixing problem (blue/white resin)"
 - **Frame in this lecture:** Mike Mousakas's $500 student-contest puzzle: blue resin starts in the center of an extrusion and ends up on the outside. Mousakas (chemical engineer) explained it as a boundary-layer problem; Tom solved it in five minutes as inhomogeneous flow (white sticks to the wall, blue noses forward and folds over). Used to close the lecture on the theme that engineers from different disciplines describe the same phenomenon in different vocabularies.
 
 ## Figures referenced (recurring numeric anchors)

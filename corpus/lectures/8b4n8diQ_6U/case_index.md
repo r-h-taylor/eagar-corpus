@@ -36,7 +36,7 @@
 
 ### Race-car wave-GPS spin-out monitoring (John Hansman)
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: "John Hansman wave-GPS race car fishtail monitoring"
+- **canonical_cluster_id:** PROPOSED: John Hansman wave-GPS race car fishtail monitoring
 - **Frame in this lecture:** Precision GPS application; Hansman (MIT Aero/Astro) using wave GPS to monitor tail-end movement of race cars to control brakes and prevent spin-out.
 - **Note:** New cluster proposed; not in aggregate.
 
@@ -66,7 +66,7 @@
 
 ### Stainless steel weld ferrite/austenite gauge
 - **Anchor:** `§8.p10`
-- **canonical_cluster_id:** PROPOSED: "Stainless steel weld ferrite-content magnetic gauge"
+- **canonical_cluster_id:** PROPOSED: Stainless steel weld ferrite-content magnetic gauge
 - **Frame in this lecture:** Magnetic lift-off gauge used in welding QC to measure ferrite vs. austenite percentage in stainless steel welds.
 - **Note:** Tom mentions in passing as illustration; may recur across lectures.
 

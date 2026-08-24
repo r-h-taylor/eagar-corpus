@@ -111,20 +111,35 @@ follow-up concerns:
    skip-on-ambiguity (the model must confidently affirm a match
    before a reference is committed). Confirmed brief mentions are
    written to per-lecture `extended_case_references.md` files. In
-   v1.0.0 this recovered 255 additional canonical-cluster references
-   across 158 lectures.
+   v1.0.0 this recovered 470 additional canonical-cluster references
+   across 158 lectures, covering 255 of the 757 clusters the pass
+   examined.
 
-2. **Proposed-cluster merge suggestions.** Each PROPOSED cluster
-   surfaced during editorial review is compared against canonical
+2. **Proposed-cluster merge suggestions.** PROPOSED clusters
+   surfaced during editorial review are compared against canonical
    candidates that share keywords. The model suggests merges for clear
    duplicates and flags genuinely-new clusters for editorial triage.
-   In v1.0.0 this produced 5 merge suggestions and flagged 46
-   proposed-new clusters for editorial triage; merge suggestions are
-   in `ontology/proposed_merge_suggestions.json`.
+   Pass B ran against a keyword-matched subset rather than the full
+   proposal set: of the 399 distinct PROPOSED clusters in the corpus,
+   53 were compared against canonical candidates, producing 5 merge
+   suggestions and 48 flagged for editorial triage. The remaining 346
+   proposals were never compared against the canon and await triage.
+   Merge suggestions are in
+   `ontology/proposed_merge_suggestions.json`.
 
 ## What the corpus does *not* cleanly recover
 
-- The reconciliation pass has bounded recall. About 486 canonical
+- Between v1.0.2 and v1.1.0 a promotion pass stripped the `PROPOSED:`
+  marker from a large number of proposals, quoting them as though they
+  were canonical. Because `build_casemap_data.py` counts any
+  double-quoted value, those proposals entered the case map as clusters
+  with no canonical entry behind them. v1.1.0 restores the marker on
+  every promoted proposal that did not resolve to a canonical cluster;
+  promotions that did resolve are retained as merges. Case-map totals
+  therefore fall between v1.0.2 and v1.1.0 while canonical-reference
+  counts rise.
+
+- The reconciliation pass has bounded recall. 502 canonical
   clusters remain unreferenced after reconciliation, primarily because
   their cluster_ids use descriptive language (e.g., "1980s American
   steel industry restructuring") that does not yield distinctive

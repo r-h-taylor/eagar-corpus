@@ -74,37 +74,37 @@ This lecture is organized around the productivity revolution in American steel-m
 
 ### Ashby's age-of-materials plot
 - **Anchor:** `§1.p2`, `§1.p4`–`§1.p7`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: Michael Ashby's age-of-materials plot critique`
+- **canonical_cluster_id:** PROPOSED: Michael Ashby's age-of-materials plot critique
 - **Frame in this lecture:** Tom revises his own attribution date (1992, not 1980), and notes Ashby quietly corrected the original "metallurgy is dead" framing in the fourth edition.
 
 ### MIT Chipman / Elliott / King steel chemistry lineage
 - **Anchor:** `§6.p4`–`§6.p6`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: MIT Chipman steel chemistry lineage`
+- **canonical_cluster_id:** PROPOSED: MIT Chipman steel chemistry lineage
 - **Frame in this lecture:** John Chipman (Georgia Tech physical chemist) applied high-temperature physical chemistry to slag-metal partitioning; transformed steel chemistry from "crapshoot" (10-30% bad heats) to one bad heat in a hundred. Over half this department's chaired professorships derive from steel-industry funding tied to Chipman.
 
 ### Elliott and Gleiser in Mao-era China
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: John Elliott China visit (late 1970s)`
+- **canonical_cluster_id:** PROPOSED: John Elliott China visit (late 1970s)
 - **Frame in this lecture:** Elliott's textbook enshrined in glass case at Chinese university because Mao restricted European imports. Brief anecdote within the Chipman cluster.
 
 ### MIT-developed venturi vacuum degassing
 - **Anchor:** `§5.p7`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: MIT venturi vacuum degassing for steel`
+- **canonical_cluster_id:** PROPOSED: MIT venturi vacuum degassing for steel
 - **Frame in this lecture:** Developed at MIT mechanical engineering in the 1940s. Brief in-passing reference within the BOF→tundish process flow.
 
 ### Bethlehem Steel suicide-in-bath
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: Bethlehem Steel BOF suicide`
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel BOF suicide
 - **Frame in this lecture:** Retired worker jumped into a BOF bath; body floated, visible as gold on the surface. One ingot buried in the cemetery. Phosphorus contamination from human body slightly degraded the heat. Brief anecdote, but recurs in Eagar's lectures.
 
 ### Carnegie open-hearth scale-up
 - **Anchor:** `§4.p1`, `§4.p6`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: Carnegie open-hearth scale economies`
+- **canonical_cluster_id:** PROPOSED: Carnegie open-hearth scale economies
 - **Frame in this lecture:** Andrew Carnegie's economies-of-scale strategy built initially on Bessemer, then on open hearth. Used as the setup for U.S. Steel's eventual conservatism trap.
 
 ### Boeing-Airbus government subsidy parallel
 - **Anchor:** `§7.p1`–`§7.p4`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed as `PROPOSED: Boeing-Airbus subsidy parallel`
+- **canonical_cluster_id:** PROPOSED: Boeing-Airbus subsidy parallel
 - **Frame in this lecture:** Used to illustrate that foreign-government backing of integrated steel mills is part of a broader pattern. Boeing's defense contracts (~50%) are an indirect US subsidy; Airbus is directly subsidized; both governments deny their own.
 
 ### Clayton Christensen innovator's dilemma research

@@ -8,25 +8,25 @@ This lecture is primarily a history-of-engineering and history-of-MIT survey. Mo
 
 ### Egyptian-Israeli tank war (1973) as a West Point teaching exemplar
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** `Egyptian-Israeli Tank War`
+- **canonical_cluster_id:**"Egyptian-Israeli Tank War"
 - **Frame in this lecture:** Used as a metaphor for the West Point pedagogical style — "they tell you how it's done" — contrasted with the Harvard Business School case-study method and the MIT Sloan quantitative method. Not a forensic teaching case here; cited rhetorically.
 
 ### Automobile spot welding quality (3000 welds / 2000 good)
 - **Anchor:** `§9.p9`
-- **canonical_cluster_id:** `Automobile spot welding quality`
+- **canonical_cluster_id:**"Automobile spot welding quality"
 - **Frame in this lecture:** Used as a self-illustrative example of communication-driven pedagogy. Tom recounts giving the 1989 Gatlinburg keynote on resistance welding and discovering that the memorable framing ("three thousand spot welds because you need two thousand good ones") got quoted back to him a year later. The case stands in for a recurring corpus topic (automotive spot weld reliability) but is deployed here as a story about how to teach, not about the welding itself.
 
 ## Figures and recurring numeric anchors
 
 ### US share of world steel production (1945: 75%, ~1970: 25%)
 - **Anchor:** `§10.p1`
-- **canonical_cluster_id:** PROPOSED: `US share of world steel production (1945–1970)`
+- **canonical_cluster_id:** "US Steel industry decline"
 - **Frame in this lecture:** Tom's setup for the Sputnik-as-wake-up-call narrative. The 75%-to-25% collapse over twenty-five years is a framing statistic Tom uses across multiple lectures to motivate discussions of the US steel industry decline and Japanese competition.
 - **Note:** Figure, not case. May warrant promotion to the figures index when the figures-vs-cases taxonomy is consolidated.
 
 ### Materials engineering share of practicing engineers (~60%)
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** PROPOSED: `Materials engineering share of practicing engineers`
+- **canonical_cluster_id:** PROPOSED: Materials engineering share of practicing engineers
 - **Frame in this lecture:** Tom cites a study finding ~25% of practicing engineers are directly doing materials work and another ~35% indirectly — for ~60% total. Used to motivate the Course Three / materials subgroup point in §4.p3.
 - **Note:** Figure, not case.
 

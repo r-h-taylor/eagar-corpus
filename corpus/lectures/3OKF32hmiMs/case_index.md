@@ -6,7 +6,7 @@
 
 ### Digital Alloys Joule Printing process
 - **Anchor:** `§1.p3`, `§7.p1–p14`, `§8.p1–p4`
-- **canonical_cluster_id:** "PROPOSED: Digital Alloys Joule Printing process development"
+- **canonical_cluster_id:** PROPOSED: Digital Alloys Joule Printing process development
 - **Frame in this lecture:** Resistive heating of welding wire on a substrate; titanium printed at ~2 kg/hr at ~600 W, ~300 Wh/kg. Argon-purged chamber. MIT-spinout startup, ~25 people, in stealth at time of lecture.
 - **Materials/systems:** Titanium wire feedstock; argon environment; tool steel for second target market.
 - **Era:** 2017–2019.
@@ -26,14 +26,14 @@
 
 ### Ford automotive stamping die manufacturing
 - **Anchor:** `§9.p3`, `§9.p5`, `§9.p6`
-- **canonical_cluster_id:** "PROPOSED: Ford automotive stamping die manufacturing"
+- **canonical_cluster_id:** "Ford stamping die failure case study"
 - **Frame in this lecture:** Alex visited Ford a few months earlier; saw massive die that stamps vehicle hoods from sheet plate. Wear components inside dies have complex geometries currently machined inefficiently from tool steel — Digital Alloys' second target market. Tom adds: dies weigh 200 tons, desk-height, highly polished; replacement urgency drives die-tooling economics (cannot sell cars when out of production).
 - **Materials/systems:** Tool steel; 200-ton stamping dies.
 - **Era:** 2018–2019 (current).
 
 ### Tesla new-vehicle tooling investment scale
 - **Anchor:** `§9.p6`
-- **canonical_cluster_id:** "PROPOSED: Tesla new-vehicle tooling investment scale"
+- **canonical_cluster_id:** PROPOSED: Tesla new-vehicle tooling investment scale
 - **Frame in this lecture:** Glancing reference — "something like a billion dollars to create all tooling for a completely new vehicle" before first car is sold. Illustrates the size of the prize for tool-die efficiency improvements.
 - **Era:** late 2010s framing.
 
@@ -67,19 +67,19 @@
 
 ### Lincoln Electric welding wire / strategic investment
 - **Anchor:** `§1.p3`
-- **canonical_cluster_id:** "PROPOSED: Lincoln Electric welding wire / Digital Alloys strategic investment"
+- **canonical_cluster_id:** PROPOSED: Lincoln Electric welding wire / Digital Alloys strategic investment
 - **Frame in this lecture:** Lincoln Electric as Digital Alloys investor — one of largest welding technology companies; manufactures wire which is Joule Printing's feedstock.
 - **Era:** 2017–2019.
 
 ### Carbon DLP polymer printing (background)
 - **Anchor:** `§1.p3`
-- **canonical_cluster_id:** "PROPOSED: Carbon DLP automotive vertical"
+- **canonical_cluster_id:** PROPOSED: Carbon DLP automotive vertical
 - **Frame in this lecture:** Alex's prior employer; he led their automotive business development. Background only.
 - **Era:** mid-2010s.
 
 ### Stratasys FDM and PolyJet (background)
 - **Anchor:** `§1.p3`
-- **canonical_cluster_id:** "PROPOSED: Stratasys FDM and PolyJet"
+- **canonical_cluster_id:** PROPOSED: Stratasys FDM and PolyJet
 - **Frame in this lecture:** Alex's earlier employer. Background only.
 - **Era:** early-mid 2010s.
 

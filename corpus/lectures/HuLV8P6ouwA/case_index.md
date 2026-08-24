@@ -19,13 +19,13 @@
 
 ### Houston oil company clad-pipe project cancellation
 - **Anchor:** `§1.p6, §1.p7, §1.p8`
-- **canonical_cluster_id:** "PROPOSED: Houston oil company clad-pipe offset project cancellation"
+- **canonical_cluster_id:** "Oil pipeline corrosion project cancellation—offset regulations"
 - **Frame in this section:** Student summer project — corrosive crude oil required clad steel pipe; host country's offset regulations (worker quota, 15-year-experience visa requirement for managers) made project unworkable. Illustrates offset externality and the unintended-consequence dynamic of national content laws.
 - **Era:** ~2014 (story is "three years ago")
 
 ### Boeing/Airbus offset agreements
 - **Anchor:** `§1.p7`
-- **canonical_cluster_id:** "PROPOSED: Boeing-Airbus aircraft offset agreements (Africa, South America, Japan)"
+- **canonical_cluster_id:** PROPOSED: Boeing-Airbus aircraft offset agreements (Africa, South America, Japan)
 - **Frame in this section:** Used to generalize the offset dynamic — Japan's high-tech base absorbs offsets easily; smaller countries' offsets force unworkable concessions.
 
 ### US copper tubing industry survival
@@ -81,7 +81,7 @@
 
 ### Burt Westwood 1960 GE structural-materials cost-volume plot
 - **Anchor:** `§2.p8, §2.p9`
-- **canonical_cluster_id:** "PROPOSED: Burt Westwood 1960 GE structural-materials cost-volume plot"
+- **canonical_cluster_id:** PROPOSED: Burt Westwood 1960 GE structural-materials cost-volume plot
 - **Frame in this section:** Proprietary 1960 GE report by an MIT materials department graduate; the source of the pounds-per-year vs. dollars-per-pound diagram with iso-market-size lines whose slope predicts that halving material price quadruples market volume.
 - **Era:** 1960
 

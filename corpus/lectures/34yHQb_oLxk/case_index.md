@@ -40,33 +40,33 @@ This lecture is a tour of materials innovations that actually disrupted their in
 
 ### Gallium arsenide semiconductor development at Lincoln Lab
 - **Anchor:** `§3.p1`–`§3.p3`
-- **canonical_cluster_id:** "Bell Labs transistor development" — *no match.* PROPOSED: "Lincoln Lab gallium arsenide development under NASA funding"
+- **canonical_cluster_id:** PROPOSED: Lincoln Lab gallium arsenide development under NASA funding
 - **Frame in this lecture:** NASA-funded studies at Lincoln Lab; took 30 years to make reliably. Harry Gatos as "father of gallium arsenide."
 - **Materials/systems:** GaAs, 3-5 compound semiconductors
 - **Era:** 1950s–1980s
 
 ### Harry Gatos flutes and Attleboro precious-metals tubing
 - **Anchor:** `§3.p2`
-- **canonical_cluster_id:** PROPOSED: "Harry Gatos platinum flute consulting (Attleboro precious metals tubing)"
+- **canonical_cluster_id:** PROPOSED: Harry Gatos platinum flute consulting (Attleboro precious metals tubing)
 - **Frame in this lecture:** Personal aside — Gatos consulted Tom on how to fabricate half-million-dollar platinum flutes via the Attleboro precious-metals tubing maker.
 - **Related cluster:** "Attleboro gold alloy and casting operations" (different operation, same town)
 - **Era:** 1970s–1980s
 
 ### Phased-array radar GaAs $500 chips
 - **Anchor:** `§3.p3`
-- **canonical_cluster_id:** PROPOSED: "Military phased-array radar gallium arsenide chip packaging (1980s)"
+- **canonical_cluster_id:** PROPOSED: Military phased-array radar gallium arsenide chip packaging (1980s)
 - **Frame in this lecture:** Military application that finally made GaAs production economic ~30 years in.
 - **Era:** ~1990
 
 ### Motorola first cell phone
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** PROPOSED: "Motorola first-generation cell phone (brick-size flip phone)"
+- **canonical_cluster_id:** PROPOSED: Motorola first-generation cell phone (brick-size flip phone)
 - **Frame in this lecture:** $3,000 brick-size flip phone with poor reception; ties GaAs frequency capability to modern cell phones and GPS.
 - **Era:** late 1980s / early 1990s
 
 ### Nakamura gallium nitride blue LED
 - **Anchor:** `§3.p5`
-- **canonical_cluster_id:** PROPOSED: "Nakamura gallium nitride blue LED development"
+- **canonical_cluster_id:** PROPOSED: Nakamura gallium nitride blue LED development
 - **Frame in this lecture:** Enabled white-light LEDs; saved trillions in lighting energy. Predicted in the 1950s.
 - **Era:** 1990s
 
@@ -115,13 +115,13 @@ This lecture is a tour of materials innovations that actually disrupted their in
 
 ### Digital Alloys Joule printing scientific advisory board (full disclosure)
 - **Anchor:** `§6.p1`–`§7.p1`
-- **canonical_cluster_id:** PROPOSED: "Digital Alloys Joule printing scientific advisory board (Tom's involvement)"
+- **canonical_cluster_id:** PROPOSED: Digital Alloys Joule printing scientific advisory board (Tom's involvement)
 - **Frame in this lecture:** Tom's involvement story — declined initially, accepted because of former IT employee Sal Barriga; made the rep come to Belmont; recognized 10×–100× cost advantage in the Joule printing process. Discloses parallel SAB roles at Desktop Metals (via other MIT colleagues).
 - **Era:** late 2010s
 
 ### General Electric Cincinnati additive manufacturing facility
 - **Anchor:** `§7.p5`
-- **canonical_cluster_id:** PROPOSED: "GE Additive Cincinnati jet engine parts facility"
+- **canonical_cluster_id:** PROPOSED: GE Additive Cincinnati jet engine parts facility
 - **Frame in this lecture:** GE makes ~400 different jet-engine parts there; economic because jet engines value pound-saved at $200–220K.
 - **Era:** late 2010s
 
@@ -139,13 +139,13 @@ This lecture is a tour of materials innovations that actually disrupted their in
 
 ### MMPDS / FAA certification process for aerospace materials
 - **Anchor:** `§9.p1`–`§9.p3`
-- **canonical_cluster_id:** PROPOSED: "MMPDS material certification and FAA aerospace qualification process"
+- **canonical_cluster_id:** PROPOSED: MMPDS material certification and FAA aerospace qualification process
 - **Frame in this lecture:** 60+ pages of Ti-6Al-4V data in MMPDS; 10 heats × 10 samples minimum for statistical process control. The bottleneck for any new AM process entering aerospace.
 - **Era:** standing requirement
 
 ### Boeing AM tensile-bar program (Digital Alloys)
 - **Anchor:** `§9.p2`, `§6.p1`
-- **canonical_cluster_id:** PROPOSED: "Boeing Digital Alloys Joule-printed titanium tensile-bar certification program"
+- **canonical_cluster_id:** "Boeing titanium part certification testing"
 - **Frame in this lecture:** The hundred-parts Digital Alloys is making for Boeing are tensile specimens for FAA certification, not flight hardware yet.
 - **Era:** 2019
 

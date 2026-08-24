@@ -6,7 +6,7 @@
 
 ### NASA X-33 space plane
 - **Anchor:** `§3.p1`, `§3.p2`, `§3.p3`, `§3.p4`
-- **canonical_cluster_id:** "NASA X-33 space plane"
+- **canonical_cluster_id:** "X-33 Space Plane"
 - **Frame in this lecture:** Used to illustrate how aerospace weight-savings drives composite adoption — and how the $12,000/lb fabrication cost of the composite liquid hydrogen tank ($50M for a 4,000-lb tank) killed the program. Tank size: "two-story house." Set up rapid-prototyping context from the first Gulf War.
 - **Materials/systems:** Nomex honeycomb core (Kevlar trade name), graphite-fiber-reinforced skin, adhesively bonded; Inconel and titanium forgings for structural connections.
 - **Era:** Early 1990s, $1.3 billion NASA program.

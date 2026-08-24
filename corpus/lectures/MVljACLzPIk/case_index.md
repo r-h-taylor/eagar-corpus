@@ -13,7 +13,7 @@
 
 ### Pratt & Whitney 1972 TLP bonding patent / Duvall-Owczarski-Polonis 1974 paper
 - **Anchor:** `§5.p3`–`§5.p5`
-- **canonical_cluster_id:** PROPOSED: "Pratt & Whitney TLP bonding patent (1972) and Owczarski paper (1974)"
+- **canonical_cluster_id:** PROPOSED: Pratt & Whitney TLP bonding patent (1972) and Owczarski paper (1974)
 - **Frame in this lecture:** Origin case for transient liquid phase diffusion bonding as practiced in the superalloy industry. Patent 1972, paper 1973 conference / April 1974 *Welding Journal*. Authors: Scott Duvall, Bill Owczarski, Dia Polonis. Uses nickel-boron interlayer (eutectic at ~1035°C vs 1455°C pure nickel) on nickel-based superalloys.
 - **Era:** 1972–1974
 - **Materials/systems:** Nickel-based superalloys with Ni-B interlayer
@@ -27,7 +27,7 @@
 
 ### King Tut's dagger (TLP-attached gold beads, 2500 BC)
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: "King Tut dagger gold-bead joining"
+- **canonical_cluster_id:** PROPOSED: King Tut dagger gold-bead joining
 - **Frame in this lecture:** Dagger with little gold beads thought to be TLP-attached. Nobody will cut up the sword to confirm. Tom's rhetorical move: "No interest in science."
 - **Era:** 2500 BC
 
@@ -47,7 +47,7 @@
 
 ### Pratt & Whitney Christmas-tree blade attachment / Wood's metal fixturing
 - **Anchor:** `§3.p1`, `§3.p3`–`§3.p4`
-- **canonical_cluster_id:** PROPOSED: "Pratt & Whitney turbine blade grinder and Wood's metal fixturing"
+- **canonical_cluster_id:** "Pratt & Whitney turbine blade grinder and Woods metal fixturing"
 - **Frame in this lecture:** Pratt & Whitney's manufacturing plant 20 years ago held turbine blades to one-ten-thousandth (~2.5 micron) tolerances using a $10M grinder room-sized machine. Blades cast in Wood's metal (50% Bi alloy that expands on freezing) so there's zero looseness during grinding. Plant restructuring moved from a football-field-sized layout with separated machine types to cellular manufacturing — travel distance cut from miles to ~100 yards.
 - **Era:** ~1993 (20 years before 2013 lecture)
 - **Materials/systems:** Wood's metal (bismuth alloy) fixturing; superalloy turbine blade roots
@@ -75,7 +75,7 @@
 
 ### Gallium arsenide / silicon TLP soldering (early-1990s Raytheon student thesis)
 - **Anchor:** `§9.p3`
-- **canonical_cluster_id:** PROPOSED: "Gallium arsenide TLP diffusion soldering (Raytheon student, early 1990s)"
+- **canonical_cluster_id:** PROPOSED: Gallium arsenide TLP diffusion soldering (Raytheon student, early 1990s)
 - **Frame in this lecture:** Tom had a Raytheon-employed graduate student in the early 1990s who worked on transient liquid phase diffusion soldering of silicon and gallium arsenide chips to substrates — addresses the thermal expansion mismatch problem in electronic packaging.
 - **Era:** Early 1990s
 - **Materials/systems:** GaAs, Si chips on substrate; Pb-Sn solder with TLP
@@ -84,7 +84,7 @@
 
 ### Japanese 10,000-ton diffusion bonding press
 - **Anchor:** `§7.p10`
-- **canonical_cluster_id:** PROPOSED: "Japanese 10,000-ton diffusion bonding press for clad metal"
+- **canonical_cluster_id:** PROPOSED: Japanese 10,000-ton diffusion bonding press for clad metal
 - **Frame in this lecture:** World's largest diffusion bonding press; in Japan; ~room-length plates; ~8 ft wide; ~10,000 tons. Japanese substituted diffusion bonding for explosive bonding in clad-metal manufacture. Tom cites it as a homework problem datum from 25 years ago.
 - **Era:** Pre-1988 (datum is 25 years old as of 2013)
 - **Materials/systems:** Clad metal sheet
@@ -95,7 +95,7 @@
 
 ### Rohr Corporation 1956 *Welding Journal* paragraph
 - **Anchor:** `§6.p2`
-- **canonical_cluster_id:** PROPOSED: "Rohr Corporation 1956 TLP bonding prior art"
+- **canonical_cluster_id:** "Pratt & Whitney v. Chromalloy lawsuit"
 - **Frame in this lecture:** A 1956 paragraph Tom found that anticipated the entire Pratt & Whitney TLP patent disclosure, invalidating that patent in the Chromalloy suit. Mentioned only in service of the Chromalloy case.
 
 ## Figures referenced (not cases)

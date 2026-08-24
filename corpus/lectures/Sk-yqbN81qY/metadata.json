@@ -63,5 +63,7 @@
   ],
   "course_canonical": "Welding Metallurgy",
   "course_module": "Welding Metallurgy",
-  "corpus_id": "WM_S2014_10"
+  "corpus_id": "WM_S2014_10",
+  "visible": false,
+  "instructor": "guest"
 }

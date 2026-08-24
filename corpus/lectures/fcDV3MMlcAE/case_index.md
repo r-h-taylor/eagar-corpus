@@ -33,7 +33,7 @@
 
 ### Hyundai shipyard panel line (Ulsan, Korea)
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** PROPOSED: "Hyundai Ulsan shipyard panel line scale"
+- **canonical_cluster_id:** PROPOSED: Hyundai Ulsan shipyard panel line scale
 - **Frame in this lecture:** Comparative reference — Hyundai's panel line is two football fields, used to give scale to what a panel line looks like.
 - **Era:** contemporary
 

@@ -31,7 +31,7 @@ This lecture is structured around two major cases: the Navy recuperator failure 
 
 ### Inconel 718 development
 - **Anchor:** `§3.p1`–`§3.p2`
-- **canonical_cluster_id:** PROPOSED: "Inconel 718 invention (Huntington Alloys, 1950s)"
+- **canonical_cluster_id:** PROPOSED: Inconel 718 invention (Huntington Alloys, 1950s)
 - **Frame in this lecture:** Origin story for the workhorse nickel-based superalloy. Inventor was a guy in West Virginia in the 1950s who replaced some aluminum with titanium to improve weldability. (Tom names "Larry Hyzak"; historical record points to Herbert Eiselstein at International Nickel's Huntington Alloys facility, Huntington WV. See editorial register flag.)
 - **Era:** 1950s
 
@@ -65,7 +65,7 @@ This lecture is structured around two major cases: the Navy recuperator failure 
 
 ### Coast Guard test-circumvention pattern
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** PROPOSED: "Coast Guard / Navy material-test best-region circumvention pattern" (this pattern recurs across the corpus — picking the best location for the qualifying coupon — but isn't a single discrete case in the aggregate)
+- **canonical_cluster_id:** PROPOSED: Coast Guard / Navy material-test best-region circumvention pattern
 - **Frame in this lecture:** One-line analogy: "This is just like the Coast Guard case — pick the best place to get the best properties, test it, pass your test, say we've got good material."
 
 ## Figures referenced

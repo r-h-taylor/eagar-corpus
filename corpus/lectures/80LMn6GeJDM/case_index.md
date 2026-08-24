@@ -53,18 +53,18 @@ This lecture is Tom's opening session on additive manufacturing for Fall 2019. I
 
 ### Continuous casting steel-roll resurfacing (PROPOSED)
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** "PROPOSED: Continuous caster steel-roll resurfacing by weld deposition"
+- **canonical_cluster_id:** "POSCO continuous caster roll refurbishment"
 - **Frame in this lecture:** Football-field-sized refurbishment shop with lathes restoring caster rolls by weld deposition. Tom's central example that metal additive manufacturing has industrial precedent going back a hundred years.
 - **Related cases in aggregate:** "POSCO continuous caster roll refurbishment" — possibly the same operation Tom is describing, or a parallel one. Editor reconciliation needed.
 
 ### Sachs/Cima 3D printing invention at MIT (PROPOSED)
 - **Anchor:** `§6.p3`–`§6.p4`
-- **canonical_cluster_id:** "PROPOSED: Sachs and Cima 3D printing invention (MIT, ~1990)"
+- **canonical_cluster_id:** PROPOSED: Sachs and Cima 3D printing invention (MIT, ~1990)
 - **Frame in this lecture:** Tom credits Ely Sachs and Mike Cima with inventing the term "3D printing" by adapting an inkjet print head to spray binder on layered ceramic powder. Earliest applications: casting molds for artificial hips, Super Bowl/World Series rings (still at Tiffany's in Rhode Island), and pharmaceutical pill compounding.
 
 ### Selective laser sintering (Texas, ~1985) (PROPOSED)
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** "PROPOSED: Selective laser sintering invention (Texas, ~1985)"
+- **canonical_cluster_id:** PROPOSED: Selective laser sintering invention (Texas, ~1985)
 - **Frame in this lecture:** Tom identifies this as the first modern AM process — two intersecting laser beams polymerizing a liquid photopolymer at the intersection point. Used through the late 1980s for prototyping.
 
 ### Artificial hip replacement failures - early iterations
@@ -76,23 +76,23 @@ This lecture is Tom's opening session on additive manufacturing for Fall 2019. I
 
 ### Digital Alloys (PROPOSED)
 - **Anchor:** `§2.p2`–`§2.p3`, `§7.p1`–`§7.p2`
-- **canonical_cluster_id:** "PROPOSED: Digital Alloys metal AM startup (Burlington, MA)"
+- **canonical_cluster_id:** PROPOSED: Digital Alloys metal AM startup (Burlington, MA)
 - **Frame in this lecture:** Tom's industry-advisory relationship. Sample part displayed at `§7.p2` (titanium, looks like World Trade Center, 100% dense, 1000 being made for Boeing for MMPDS qualification testing).
 - **Conflict of interest:** Tom is on the advisory board with MIT colleagues Slocum, Hart, Sadoway. He discloses this explicitly.
 
 ### Tiffany's (Rhode Island) Super Bowl ring manufacturing (PROPOSED)
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** "PROPOSED: Tiffany Rhode Island Super Bowl ring 3D-printed mold manufacturing"
+- **canonical_cluster_id:** PROPOSED: Tiffany Rhode Island Super Bowl ring 3D-printed mold manufacturing
 - **Frame in this lecture:** Example of an established commercial AM application — short production runs (200 molds) where the custom-design tax is justified.
 
 ### Roman concrete and Admir Masic's research (PROPOSED)
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** "PROPOSED: Roman concrete research (Admir Masic, MIT civil)"
+- **canonical_cluster_id:** PROPOSED: Roman concrete research (Admir Masic, MIT civil)
 - **Frame in this lecture:** Tom cites Masic's work as part of the longer arc of materials people studying Roman concrete for 2000 years. Volcanic ash as key constituent.
 
 ### Büyüköztürk Kuwait concrete program (PROPOSED)
 - **Anchor:** `§4.p4`
-- **canonical_cluster_id:** "PROPOSED: Büyüköztürk Kuwait $25M concrete research program"
+- **canonical_cluster_id:** PROPOSED: Büyüköztürk Kuwait $25M concrete research program
 - **Frame in this lecture:** $25M from Kuwait to develop next-generation concretes (ultralight, ultradense, radiation-shielding for nuclear).
 
 ### Scandium-aluminum baseball bats

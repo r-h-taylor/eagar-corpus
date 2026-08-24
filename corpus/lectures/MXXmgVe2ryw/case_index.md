@@ -34,7 +34,7 @@ This lecture is primarily a theory-and-method session on drawing and necking, wi
 
 ### TRIP steels (transformation-induced plasticity)
 - **Anchor:** `§2.p5`–`§2.p6`
-- **canonical_cluster_id:** "PROPOSED: TRIP steels for automotive deep drawing"
+- **canonical_cluster_id:** PROPOSED: TRIP steels for automotive deep drawing
 - **Frame in this lecture:** Recent (early 2010s) automotive steel development achieving 50%+ necking strain via martensitic transformation, as an alternative to superplasticity.
 
 ### Corning optical fiber manufacturing
@@ -61,7 +61,7 @@ This lecture is primarily a theory-and-method session on drawing and necking, wi
 
 ### Walker spy case
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** "PROPOSED: Walker spy case (military base security tightening)"
+- **canonical_cluster_id:** PROPOSED: Walker spy case (military base security tightening)
 - **Frame in this lecture:** Mid-1980s espionage case that ended easy civilian access to US military bases.
 
 ### Black light bulb eye injury case (forensic)

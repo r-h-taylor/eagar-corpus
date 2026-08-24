@@ -73,7 +73,7 @@
 
 ### LNG tanker 33-inch propeller shaft fracture
 - **Anchor:** `§9.p4`
-- **canonical_cluster_id:** "PROPOSED: LNG tanker 33-inch propeller shaft fracture"
+- **canonical_cluster_id:** "LNG carrier tail shaft fracture"
 - **Frame in this lecture:** Used as a scale comparator in Tom's exchange with Pelloux. Possibly an instance of the canonical "LNG carrier tail shaft fracture" or "SS Libra LNG vessel tail shaft failure" — flagged in editorial register for confirmation.
 - **Materials/systems:** large-diameter forged shaft on LNG tanker
 

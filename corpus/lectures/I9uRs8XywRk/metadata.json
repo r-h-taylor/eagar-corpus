@@ -36,5 +36,8 @@
   "notes": "Anomalous lecture in the Eagar corpus: Tom is largely silent and a guest lectures. Speaker attribution 'Dr. Delmar' inferred from Tom's reference at p57. Several captioner garbles flagged for editorial review (see transformation_log.md). Lecture recording appears truncated mid-sentence at the end.",
   "course_canonical": "Codes and Standards",
   "course_module": "Codes and Standards",
-  "corpus_id": "CS_F2012_09"
+  "corpus_id": "CS_F2012_09",
+  "visible": false,
+  "instructor": "guest",
+  "guest_note": "Simone Belmar"
 }

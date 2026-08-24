@@ -20,7 +20,7 @@ This is the final session of 3.371 Fall 2014 — a survey march across the perio
 
 ### Reynolds Aluminum spin-off from Reynolds Tobacco
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** "PROPOSED: Reynolds Aluminum origin in Reynolds Tobacco cigarette foil"
+- **canonical_cluster_id:** PROPOSED: Reynolds Aluminum origin in Reynolds Tobacco cigarette foil
 - **Frame in this lecture:** Why Alcoa only had ~50% of the aluminum foil market. Used to illustrate vertical integration logic from an adjacent industry.
 
 ### Concorde skin temperature limitation
@@ -105,7 +105,7 @@ This is the final session of 3.371 Fall 2014 — a survey march across the perio
 
 ### Manganese sea nodules (Kennecott Copper, ~1975)
 - **Anchor:** `§11.p3`, `§11.p4`, `§11.p6`
-- **canonical_cluster_id:** "PROPOSED: Mid-Atlantic Ridge manganese sea nodule mining (Kennecott, 1970s)"
+- **canonical_cluster_id:** PROPOSED: Mid-Atlantic Ridge manganese sea nodule mining (Kennecott, 1970s)
 - **Frame in this lecture:** Physical-object demonstration. Nodules from 6,000 ft depth, rich in Cu/Ni/Mn. Kennecott studied mining feasibility; Nick Grant proposed launching a manganese-metallurgy industry.
 - **Era:** 1975
 - **Note:** Not in aggregate v2; proposed addition.

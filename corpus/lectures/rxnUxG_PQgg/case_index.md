@@ -25,18 +25,16 @@
 
 ### Jesús del Alamo / Joel Moses "promised land" letter
 - **Anchor:** `§3.p7`
-- **canonical_cluster_id:** PROPOSED: Joel Moses "Dear Jesus, welcome to the promised land" hire letter
 - **Frame in this lecture:** MIT-administration humor anecdote. Joel Moses, then head of EE, wrote the offer letter to Jesús del Alamo and signed it "Moses."
 - **Era:** Moses-as-EE-head period (late 1970s–early 1980s)
 
 ### Engineering Council / daycare-center joke
 - **Anchor:** `§3.p7`
-- **canonical_cluster_id:** PROPOSED: Joel Moses Engineering Council joke incident (anonymous Civil Engineering head, "daycare center has adult leadership")
+- **canonical_cluster_id:** PROPOSED: Joel Moses Engineering Council joke incident (anonymous Civil Engineering head, daycare center has adult leadership")"
 - **Frame in this lecture:** Used to set up the "you're right too" rabbi parable in §3.p8. The only time Tom saw Joel Moses not laugh at a joke.
 
 ### "You're right too" rabbi parable
 - **Anchor:** `§3.p8`
-- **canonical_cluster_id:** PROPOSED: Joel Moses "you're right too" rabbi parable
 - **Frame in this lecture:** Tom uses the parable to defuse the student's contradiction about whether this is a half-semester or full-semester course. ("You're right" / "You're right" / "You're right too.")
 - **Note:** Distinct from the joke incident above; this is the parable Moses told, not a joke about Moses.
 
@@ -58,7 +56,7 @@
 
 ### Rensselaer Polytechnic and the Erie Canal
 - **Anchor:** `§6.p2`
-- **canonical_cluster_id:** PROPOSED: Rensselaer Polytechnic (1823) — coining of "civil engineering" to distinguish from military, driven by Erie Canal construction
+- **canonical_cluster_id:** PROPOSED: Rensselaer Polytechnic (1823) — coining of civil engineering"
 - **Frame in this lecture:** Origin of the term "civil engineering" and why Course One at MIT carries that designation.
 
 ### MIT founding and Course numbering origins
@@ -94,7 +92,6 @@
 
 ### Chuck Vest's decision to accept MIT presidency (Dave Ragone advice)
 - **Anchor:** `§8.p5`
-- **canonical_cluster_id:** PROPOSED: Chuck Vest / Dave Ragone "no football team, no medical school" advice
 - **Frame in this lecture:** Closing anecdote. Ragone's two reasons to accept the MIT presidency: no football team, no medical school. Frames why MIT created the Division of Health Sciences and Technology (HST) jointly with Harvard rather than starting its own medical school.
 - **Era:** Vest's 1990 hire
 

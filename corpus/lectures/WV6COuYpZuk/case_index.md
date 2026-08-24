@@ -6,7 +6,7 @@
 
 ### National Lab nuclear weapon components inspection
 - **Anchor:** `§3.p11`
-- **canonical_cluster_id:** National Lab nuclear weapon components inspection
+- **canonical_cluster_id:** "National Lab nuclear weapon components inspection"
 - **Frame in this lecture:** Balfour mentions his prior employment at a National Lab making nuclear weapon components, where 100% inspection was required, as a contrasting example to high-volume automotive sampling-based inspection.
 - **Materials/systems:** Nuclear weapon components.
 - **Era:** Pre-2014 (Balfour's prior employment).

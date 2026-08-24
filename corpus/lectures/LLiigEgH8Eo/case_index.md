@@ -35,7 +35,7 @@ This lecture is primarily a materials-properties catalog (titanium, aluminum ser
 
 ### Aluminum beer cans (40% of world aluminum)
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: "Aluminum beverage can industry tonnage"
+- **canonical_cluster_id:** PROPOSED: Aluminum beverage can industry tonnage
 - **Frame in this lecture:** Used to anchor the 3000-series (Al-Mn) aluminum alloy in industrial scale. Largest tonnage use of aluminum at one time was forty percent into beer cans.
 - **Materials/systems:** 3000-series Al-Mn alloy, non-heat-treatable.
 - **Note:** related to but distinct from the canonical "1980s aluminum beverage can design optimization using supercomputers" cluster — this is the *industry tonnage* framing, not the *design optimization* case.
@@ -49,7 +49,7 @@ This lecture is primarily a materials-properties catalog (titanium, aluminum ser
 
 ### Magnesium in automotive dashboards
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** "Department of Energy 9% nickel steel qualification effort" — *no, this is the wrong cluster.* PROPOSED: "DOE magnesium automotive lightweighting program"
+- **canonical_cluster_id:** PROPOSED: DOE magnesium automotive lightweighting program
 - **Frame in this lecture:** DOE has spent tens to hundreds of millions per year over fifty years on magnesium-for-automotive lightweighting. Currently magnesium is used in cast substructure under the dashboard, where it's protected from corrosion.
 - **Materials/systems:** Cast magnesium automotive components.
 
@@ -61,20 +61,20 @@ This lecture is primarily a materials-properties catalog (titanium, aluminum ser
 
 ### Honeywell brake leasing / Pratt & Whitney power-by-the-hour engines
 - **Anchor:** `§7.p2`–`§7.p4`
-- **canonical_cluster_id:** PROPOSED: "Commercial aircraft lease-by-the-hour maintenance economics"
+- **canonical_cluster_id:** PROPOSED: Commercial aircraft lease-by-the-hour maintenance economics
 - **Frame in this lecture:** Honeywell leases brakes to airlines, gets paid per landing, and so has incentive to design long-life brakes. Pratt & Whitney and GE (or brokerage firms) do the same with engines on a power-by-the-hour basis. Trend extending toward aircraft-by-the-hour leasing.
 - **Materials/systems:** Carbon-carbon brakes; gas turbine engines.
 - **Note:** this is an *economic structure* case rather than a forensic-failure case. It illustrates how maintenance incentives shape materials/component design.
 
 ### Deer Island sewage treatment plant (aluminum piping)
 - **Anchor:** `§8.p4`
-- **canonical_cluster_id:** PROPOSED: "Deer Island wastewater treatment aluminum piping"
+- **canonical_cluster_id:** PROPOSED: Deer Island wastewater treatment aluminum piping
 - **Frame in this lecture:** Example of aluminum's freshwater corrosion resistance. Lower-strength alloys carrying dirty water at Boston Harbor cleanup facility.
 - **Materials/systems:** Lower-strength corrosion-resistant aluminum alloy.
 
 ### Aluminum foil cooking (Boy Scout foil dinner)
 - **Anchor:** `§8.p4`
-- **canonical_cluster_id:** PROPOSED: "Aluminum foil cooking water-cooling demonstration"
+- **canonical_cluster_id:** PROPOSED: Aluminum foil cooking water-cooling demonstration
 - **Frame in this lecture:** Teaching anecdote. Aluminum foil melts above the temperature of a campfire, but water in the cooking food keeps it cool. Put a dry steel bolt in the foil and the foil will melt around it.
 - **Note:** likely a recurring rhetorical anecdote across lectures rather than a developed case. Reconciliation needed.
 

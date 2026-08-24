@@ -8,7 +8,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### NASA X-33 space plane
 - **Anchor:** `§5.p18`, `§6.p1`–`§6.p14`, `§11.p21`
-- **canonical_cluster_id:** "NASA X-33 space plane"
+- **canonical_cluster_id:** "X-33 Space Plane"
 - **Frame in this lecture:** Tom uses the X-33 as the central morality tale of post-Gulf-War rapid prototyping. NASA awarded Lockheed Martin Skunk Works a $1.3B contract on a ~33-month schedule for a single-stage-to-orbit replacement for the Space Shuttle. The team spent six months designing a 3D-woven carbon composite ring-stiffened liquid hydrogen tank, discovered the design would blow the budget 4–5×, then improvised a Nextel-honeycomb / carbon-tape sandwich design in one month at $50M per tank, ~2,000 lb each. Cryogenic fill test at Huntsville appeared successful until video showed frost popping off — the carbon composite was permeable to hydrogen. Project cancelled; the tanks still sit at Palmdale. The X-33 piece passed around the class ($12,000/lb) anchors the cost-per-pound argument.
 - **Materials/systems:** Nextel honeycomb, carbon-fiber/polymer tape, Inconel fastener inserts; liquid/gaseous hydrogen permeability
 - **Era:** Post-1991 Gulf War through cancellation (mid-to-late 1990s)
@@ -186,7 +186,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Pratt & Whitney F-117 stealth fighter (referenced)
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: Lockheed Skunk Works F-117 production hangar (X-33 facility)
+- **canonical_cluster_id:** "Lockheed Skunk Works X-33 spaceplane composite tank (rapid prototyping redesign)"
 - **Frame in this lecture:** Geographic-political context: the X-33 LH₂ tank was built in the same Palmdale top-secret hangar that produced the F-117. NASA used the Skunk Works specifically to escape conventional defense-contractor schedule/budget overruns — and got them anyway.
 - **Materials/systems:** —
 - **Era:** F-117 production through X-33 era

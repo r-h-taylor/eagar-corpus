@@ -57,7 +57,7 @@
 
 ### Japanese 600 kV electron beam welder for heavy-section steel
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** PROPOSED: Japanese heavy-section electron beam welding project
+- **canonical_cluster_id:** "Japanese heavy-section electron beam welding project"
 - **Frame in this lecture:** Built a 600 kV / 60 kW machine for EB welds in 4–8 inch thick steel. Tom flags that "it didn't work all that well" but does not develop the case in this lecture.
 - **Era:** Unspecified
 

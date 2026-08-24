@@ -49,7 +49,7 @@
 
 ### Large ship forgings supplier dispute (unnamed)
 - **Anchor:** `§11.p3`
-- **canonical_cluster_id:** PROPOSED: Large ship forging fraud and delayed justice
+- **canonical_cluster_id:** "Large ship forging fraud and delayed justice"
 - **Frame in this lecture:** Mentioned in one sentence as an analogue to Kaydon — Tom got the chance "about 20 years later, to screw that company that screwed the other company, just by chance." No further detail given here; presumably developed in another lecture.
 - **Era:** Unspecified.
 

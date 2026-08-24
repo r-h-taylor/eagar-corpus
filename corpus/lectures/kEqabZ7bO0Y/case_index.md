@@ -61,7 +61,7 @@
 
 ### Oakland Bay Bridge section collapse
 - **Anchor:** `§6.p8`
-- **canonical_cluster_id:** *PROPOSED:* Oakland Bay Bridge 1989 Loma Prieta partial collapse
+- **canonical_cluster_id:** PROPOSED: Oakland Bay Bridge 1989 Loma Prieta partial collapse
 - **Frame in this lecture:** Tom mentions a section collapsed but doesn't recall fatalities. Brief reference; not developed.
 
 ### Ship dismantling in Bangladesh

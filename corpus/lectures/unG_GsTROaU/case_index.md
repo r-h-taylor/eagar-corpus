@@ -78,7 +78,7 @@ This lecture has a heavy middle: two extended teaching cases (the Rolls-Royce re
 
 ### Engagement ring iridium acquisition (Tom Eagar personal)
 - **Anchor:** `§7.p6`
-- **canonical_cluster_id:** PROPOSED: "Eagar engagement ring iridium acquisition (Engelhard / Bob Rose)"
+- **canonical_cluster_id:** PROPOSED: Eagar engagement ring iridium acquisition (Engelhard / Bob Rose)
 - **Frame:** Personal anecdote with technical content. Tom, as a grad student working on Nb3Al superconductivity, leveraged a related Nb3Ir alloy to justify ordering half an ounce of iridium from Engelhard (world production ~100 oz/year). Used the iridium for an engagement ring; followed up with palladium for the wedding ring (also cheaper than gold at the time). Bob Rose (Tom's thesis advisor) covered for him when Engelhard came back to ask about the research.
 - **Era:** Tom's MIT grad student years, late 1960s
 
@@ -90,7 +90,7 @@ This lecture has a heavy middle: two extended teaching cases (the Rolls-Royce re
 
 ### Plumber MAPP gas torch and silver brazing (metal fume fever)
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** PROPOSED: "Plumber silver-brazing cadmium exposure and metal fume fever"
+- **canonical_cluster_id:** PROPOSED: Plumber silver-brazing cadmium exposure and metal fume fever
 - **Frame:** Used to introduce metal fume fever as the acute syndrome of Zn and Cd brazing exposure. Anecdote from a technician: "first you're afraid you're going to die, then you're afraid you're not." 48-hour syndrome, no long-term effect — for Zn. Cd retained by liver, no such relief.
 - **Era:** unspecified
 

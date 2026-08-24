@@ -74,7 +74,7 @@
 
 ### Bethlehem Steel low-sulfur A360 marketing
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel low-sulfur A360 competitive failure (1970s)
+- **canonical_cluster_id:** "Japanese low-sulfur A36 steel market disruption"
 - **Frame in this lecture:** Tom's experience as Bethlehem Steel engineer. Japanese suppliers selling A360 I-beams with 0.005 sulfur as standard; Bethlehem trying to extract a $20/ton (8%) premium for low-sulfur and failing. Part of the broader U.S. Steel industry decline narrative.
 - **Era:** Tom's tenure at Bethlehem, ~1970s.
 

@@ -8,7 +8,7 @@ This is a short lecture (≈9 minutes) focused on the technical content of prehe
 
 ### Seawolf submarine hydrogen cracking (welding under preheat)
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** `Seawolf submarine hydrogen cracking`
+- **canonical_cluster_id:**"Seawolf submarine hydrogen cracking"
 - **Frame in this section:** Operational illustration of high-temperature preheat. To prevent hydrogen cracking in the high-strength steel, welders had to work inside 400°F enclosures wearing liquid-cooled "blue jelly suits" with respirators, in twenty-minute shifts. Used to make the point that inadequate hydrogen control during the design phase imposes large downstream costs in production.
 - **Materials/systems:** High-strength submarine hull steel (HY-100 class), arc welding under preheat.
 - **Era:** Late 1980s–1990s (Seawolf-class construction, Groton CT).

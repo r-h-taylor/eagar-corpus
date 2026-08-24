@@ -75,7 +75,7 @@ This lecture is the hydrogen-cracking war-stories session of the welding metallu
 
 ### Gas vs. liquid pipeline fracture mechanics
 - **Anchors:** `§5.p7`–`§5.p8`
-- **canonical_cluster_id:** PROPOSED: Gas vs. liquid pipeline fracture mechanics
+- **canonical_cluster_id:** "Gas pipeline brittle fracture propagation"
 - **Frame:** Speed-of-sound argument for why brittle crack arrest works in liquid pipelines (pressure wave outruns crack, decompresses tip) but not in gas pipelines (gas speed of sound far below crack-running speed, so crack tip stays fully stressed). Important for the Coast Guard students who may build gas pipelines from Alaska.
 - **Note:** this is a teaching framework rather than a case; could be indexed as a "figure" / "framework" rather than a case if the corpus taxonomy distinguishes.
 

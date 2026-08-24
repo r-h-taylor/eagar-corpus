@@ -35,5 +35,7 @@
   ],
   "course_canonical": "Total Quality Improvement",
   "course_module": "Total Quality Improvement",
-  "corpus_id": "TQI_S2018_03"
+  "corpus_id": "TQI_S2018_03",
+  "visible": false,
+  "instructor": "guest"
 }

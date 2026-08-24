@@ -8,7 +8,7 @@ This lecture is primarily a historical/institutional survey rather than a case-h
 
 ### Boeing 747 longeron distortion
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** "PROPOSED: Boeing 747 long geronde beam distortion" (likely matches existing cluster; "longeron" is the correct spelling — "long geronde" in the canon appears to be captioner garbling of the same case)
+- **canonical_cluster_id:** "Boeing 747 long geronde beam distortion"
 - **Frame in this lecture:** Mentioned in passing as the kind of focused problem Tom considers a good ten-minute student presentation topic.
 - **Materials/systems:** aircraft longerons / structural beams
 - **Era:** Tom's consulting work, era unspecified here
@@ -55,13 +55,13 @@ This lecture is primarily a historical/institutional survey rather than a case-h
 
 ### MIT Foundry / Building 35 (Metals Processing)
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** "PROPOSED: MIT Building 35 Metals Processing construction (John Wulff)"
+- **canonical_cluster_id:** PROPOSED: MIT Building 35 Metals Processing construction (John Wulff)
 - **Frame in this lecture:** Tom notes John Wulff built Building 35 after being exiled from physics to metallurgy. Brief institutional-history anchor.
 - **Era:** post-1930s
 
 ### Slocum hydroelectric / desalination concept (Hawaii collaboration)
 - **Anchor:** `§10.p4`, `§10.p5`
-- **canonical_cluster_id:** "PROPOSED: Alexander Slocum hydroelectric-desalination integration concept"
+- **canonical_cluster_id:** PROPOSED: Alexander Slocum hydroelectric-desalination integration concept
 - **Frame in this lecture:** Used as an example of large-scale engineering-for-clean-water work. The ideal head height for hydroelectric (500–700 m, ~1000–1200 psi) matches the optimal pressure for reverse osmosis desalination — a coincidence Slocum proposes to exploit. Two draft papers (July 31, 2015) to be assigned reading.
 - **Era:** 2015
 - **Note:** unclear whether this concept recurs elsewhere in the corpus; flagged as PROPOSED.

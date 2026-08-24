@@ -81,7 +81,7 @@ This lecture is built around a productivity-and-economics arc that mirrors lectu
 
 ### MIT School of Engineering strategy retreat (circa 1990) — NSF superconductor funding directive
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: "NSF 1989 superconductor-only funding directive"
+- **canonical_cluster_id:** PROPOSED: NSF 1989 superconductor-only funding directive
 - **Frame in this lecture:** NSF announced in 1989 that only high-Tc superconductor proposals would be funded for a year; within one year, half the MIT Materials Science faculty pivoted into the field. Four of the five faculty who had prior superconductor experience stayed out, knowing the critical-current problem was unsolvable.
 - **Era:** 1989
 - **Note:** Possibly subsumed under the "High-temperature superconductors hype" cluster; flagged for reconciliation.

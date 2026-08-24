@@ -73,7 +73,7 @@
 
 ### Protective Armor Systems (PAS) bullet-resistant glass
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** "PROPOSED: Protective Armor Systems (PAS) bullet-resistant glass"
+- **canonical_cluster_id:** PROPOSED: Protective Armor Systems (PAS) bullet-resistant glass
 - **Frame in this lecture:** Western Massachusetts company. Four-layer glass-polycarbonate-glass laminate stops .38 and .45 rounds; thicker versions (4.5") in presidential limousine stop RPGs.
 - **Materials/systems:** glass-polycarbonate laminate
 - **Era:** current
@@ -87,7 +87,7 @@
 
 ### Corningware three-layer glass-ceramic (residual-stress strengthening)
 - **Anchor:** `§6.p2`
-- **canonical_cluster_id:** "PROPOSED: Corningware three-layer glass-ceramic"
+- **canonical_cluster_id:** PROPOSED: Corningware three-layer glass-ceramic
 - **Frame in this lecture:** Modern Corningware: three glass layers rolled together with the center having higher coefficient of thermal expansion than the skins, producing compressive surface stress on cooling. Stamp-forged into ramekins and casseroles. Replaces the earlier low-CTE glass-ceramic body.
 - **Materials/systems:** layered glass with engineered CTE mismatch
 - **Era:** modern
@@ -107,7 +107,7 @@
 
 ### Obsidian as natural glass
 - **Anchor:** `§2.p2`
-- **canonical_cluster_id:** "PROPOSED: Obsidian as natural glass"
+- **canonical_cluster_id:** PROPOSED: Obsidian as natural glass
 - **Frame in this lecture:** Natural amorphous oxide stone, usually black. Used to anchor the definition of glass as a non-crystalline solid in the context of ancient glass-making from slags.
 
 ### Jena/Germany old window with replaced corner pane

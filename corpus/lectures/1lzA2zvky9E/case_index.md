@@ -61,7 +61,7 @@
 
 ### Edwin Drake and Titusville oil transport (1857)
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** PROPOSED: Titusville-to-Oil City river oil transport (Drake era)
+- **canonical_cluster_id:** "Oil City river oil transport and pollution"
 - **Frame in this section:** Historical anchor for how dramatically environmental rules have changed: 1857 oil was floated down the river from Titusville to Oil City and skimmed off.
 - **Era:** 1857
 
@@ -77,7 +77,7 @@
 
 ### Conflict diamonds (Angola, Congo)
 - **Anchor:** `§8.p1`
-- **canonical_cluster_id:** Blood diamonds civil war
+- **canonical_cluster_id:** "Blood diamonds civil war"
 - **Frame in this section:** The social-externality flagship case. 40–50-year Angolan civil war financed by forced labor in diamond mines; embargo undermined by the practical impossibility of identifying conflict diamonds.
 - **Era:** 1970s–2000s
 
@@ -93,7 +93,7 @@
 
 ### Flint, Michigan lead crisis
 - **Anchor:** `§9.p1`
-- **canonical_cluster_id:** Flint Michigan lead in drinking water
+- **canonical_cluster_id:** "Flint Michigan lead in drinking water"
 - **Frame in this section:** Used to introduce the "EPA shifts the limit as analytical capability improves" pattern. Tom credits the Virginia Tech whistleblower (Marc Edwards, name forgotten on tape).
 - **Era:** 2014–2016
 
@@ -110,7 +110,7 @@
 
 ### Alaska gold mine arsenic discharge
 - **Anchor:** `§9.p3`
-- **canonical_cluster_id:** Alaska gold mine arsenic discharge
+- **canonical_cluster_id:** "Alaska gold mine arsenic discharge"
 - **Frame in this section:** Tom's example of regulation that doesn't make engineering sense: a gold mine required to discharge water at <1 ppm arsenic into a river whose natural background was 7 ppm. The mine had to clean water below the level of the river it returned to. **Note: in `§9.p3` close, layer 3 silently corrects Tom's spoken slip "level of lead" to "level of arsenic" — see editorial register.**
 
 ### 1925 Toyota sewing-machine battery prize
@@ -126,7 +126,7 @@
 
 ### Mercury historical use and fluorescent bulbs
 - **Anchor:** `§9.p7`
-- **canonical_cluster_id:** PROPOSED: Mercury historical use and regulatory shift; Mercury thermometer lab spill protocol change
+- **canonical_cluster_id:** "Mercury thermometer lab spill protocol change"
 - **Frame in this section:** Tom's undergraduate-lab anecdote (swept up broken thermometers) used to illustrate generational shift in mercury handling. Fluorescent bulb mercury content as the lingering exposure pathway.
 
 ### Ellingham diagram and carbon-free metal reduction
@@ -142,7 +142,7 @@
 
 ### $250,000 gold shirt (Indian businessman murdered)
 - **Anchor:** `§10.p5`
-- **canonical_cluster_id:** Indian businessman murdered for gold shark shirt
+- **canonical_cluster_id:** "Indian businessman murdered for gold shark shirt"
 - **Frame in this section:** The cultural-externality landing case for the lecture. Gold has near-zero functional value; its value is cultural; the consequences of conspicuous display can be lethal.
 
 ## Figures referenced (not cases)

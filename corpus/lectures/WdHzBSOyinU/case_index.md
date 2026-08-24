@@ -13,7 +13,7 @@
 
 ### Attleboro platinum wedding ring manufacturer (high-power laser kerf reduction)
 - **Anchor:** `§7.p8`, `§7.p9`
-- **canonical_cluster_id:** PROPOSED: Attleboro platinum wedding ring laser kerf reduction
+- **canonical_cluster_id:** "Platinum jewelry laser cutting adoption"
 - **Frame in this lecture:** Second-largest jeweler in the world (also Attleboro). They slice thick-walled platinum tube and turn down rings on screw machines. Switched from mechanical cutting (0.8 mm kerf) to high-power laser cutting (1/4 the kerf), $3–4M laser paid back in two months. Carrying cost on raw materials drives processing decisions in this industry.
 - **Materials/systems:** platinum, laser cutting
 - **Era:** ~2012 (Tom toured the plant "two weeks ago")

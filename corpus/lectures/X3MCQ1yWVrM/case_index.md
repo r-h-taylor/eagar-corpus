@@ -54,7 +54,7 @@ This lecture is the opening of the Spring 2018 Total Quality Improvement module.
 
 ### Tragedy of the commons applied to global steel
 - **Anchor:** `§5.p4`
-- **canonical_cluster_id:** PROPOSED: tragedy of the commons in global steel overcapacity
+- **canonical_cluster_id:** "Steel industry excess capacity crisis"
 - **Frame in this lecture:** Government-backed steel mills export at below-cost prices, dragging the market to the lowest common denominator. References *Boston Globe* coverage of unfair Chinese steel competition from morning of lecture.
 
 ### Tom's welder-population estimate and the Welding Handbook
@@ -113,7 +113,7 @@ This lecture is the opening of the Spring 2018 Total Quality Improvement module.
 
 ### *The Machine That Changed the World* and lean manufacturing
 - **Anchor:** `§7.p4`, `§8.p1`
-- **canonical_cluster_id:** PROPOSED: MIT International Motor Vehicle Program and the origin of "lean"
+- **canonical_cluster_id:** PROPOSED: MIT International Motor Vehicle Program and the origin of lean"
 - **Frame in this lecture:** $5M, five-year MIT study (Womack, Jones, Roos) on the future of the automobile; origin of the term "lean manufacturing." Toyota beating GM/Ford/Chrysler on quality.
 - **Era:** late 1980s
 

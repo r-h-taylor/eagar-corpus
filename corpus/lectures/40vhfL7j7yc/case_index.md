@@ -75,12 +75,12 @@ This lecture is primarily a technical exposition of soldering science and microe
 
 ## Cases proposed (not in aggregate)
 
-### PROPOSED: Intel Chandler Arizona Craig Barrett cubicle culture
+### Intel Chandler Arizona Craig Barrett cubicle culture
 - **Anchor:** `§6.p2`
 - **Frame in this lecture:** Anecdotal portrait of Intel's flat-hierarchy office culture circa 1995, used as texture around the tab-bonded-tape story. May be a recurring anecdote across Tom's lectures.
 - **Note:** Likely a recurring color anecdote rather than a true case. Flagging for aggregate review.
 
-### PROPOSED: AMP / Uncas Whitaker level-three connector business
+### AMP / Uncas Whitaker level-three connector business
 - **Anchor:** `§7.p2`
 - **Frame in this lecture:** AMP (Harrisburg, PA), founded by Uncas Whitaker (after whom Whitaker College at MIT is named), as the dominant supplier of board-to-subsystem plug-in connectors. Used to illustrate the level-three interconnect tier and the economics of plug-in board replacement ($5,000 per board, repaired and resold).
 - **Note:** Worth a cluster if AMP/Whitaker recur elsewhere in the corpus.

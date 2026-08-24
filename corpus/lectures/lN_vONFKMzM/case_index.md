@@ -14,7 +14,7 @@ This lecture is structured as a productivity history of the steel industry. Case
 
 ### England 16th-17th century deforestation and energy crisis
 - **Anchor:** `§4.p1`, `§4.p2`, `§4.p3`, `§4.p4`, `§4.p6`
-- **canonical_cluster_id:** "England 16th century 17th century deforestation and energy crisis"
+- **canonical_cluster_id:** "England 16th-17th century deforestation and energy crisis"
 - **Frame in this lecture:** The structural argument for why American iron industry began — England exhausted its forests for charcoal (iron, shipbuilding, glass) and forced colonial relocation.
 - **Materials/systems:** charcoal, blast furnaces, cast iron, oak (shipbuilding).
 - **Era:** 1500s–1600s.
@@ -126,7 +126,7 @@ This lecture is structured as a productivity history of the steel industry. Case
 
 ### Andrew Carnegie / Eagar grandfather story
 - **Anchor:** `§7.p2`, `§7.p3`
-- **canonical_cluster_id:** PROPOSED: "Andrew Carnegie and Eagar grandfather University of Chattanooga donation"
+- **canonical_cluster_id:** PROPOSED: Andrew Carnegie and Eagar grandfather University of Chattanooga donation
 - **Frame in this lecture:** Tom's grandfather (former mayor of Chattanooga) sought $25,000 from Carnegie to complete a $500K matching grant (Rockefeller's $250K) for the University of Chattanooga. Carnegie asked his education level; grandfather said 13 months; Carnegie revealed he too had 13 months and granted the funds. The anecdote serves as a Carnegie character study and a generational bridge to the steel-industry narrative.
 
 ### Dick Simmons private plane story

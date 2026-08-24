@@ -69,5 +69,8 @@
   ],
   "course_canonical": "Fusion Welding",
   "course_module": "Fusion Welding",
-  "corpus_id": "FW_Su2013_07"
+  "corpus_id": "FW_Su2013_07",
+  "visible": false,
+  "instructor": "guest",
+  "guest_note": "educational video shown in class"
 }

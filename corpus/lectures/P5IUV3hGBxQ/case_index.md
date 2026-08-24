@@ -37,13 +37,13 @@ This lecture is a synthesis session on TQM, leadership, and the limits of manage
 
 ### MIT additive manufacturing startup ($220M powder metallurgy venture)
 - **Anchor:** `§5.p2`–`§5.p3`
-- **canonical_cluster_id:** "PROPOSED: MIT $220M powder metallurgy 3D printing startup (circa 2017)"
+- **canonical_cluster_id:** PROPOSED: MIT $220M powder metallurgy 3D printing startup (circa 2017)
 - **Frame in this lecture:** Tom's skepticism case for 3D printing at automotive cost targets. $10,000/lb baseline vs. $2/lb automotive target; twenty print heads as factor-of-ten improvement still leaves factor-of-500 gap.
 - **Note:** Likely Desktop Metal (founded 2015 by MIT faculty including Ely Sachs, Chris Schuh, etc.). Tom's wording is deliberately oblique. May correspond to existing cluster "Desktop Metal eyeglass hinges" or "3D metal sintering venture (concept laser acquisition)" — needs reconciliation.
 
 ### MIT 3D inkjet printing origin (Sachs and Cima)
 - **Anchor:** `§5.p4`
-- **canonical_cluster_id:** "PROPOSED: MIT 3D inkjet printing origin (Sachs/Cima, early 1990s)"
+- **canonical_cluster_id:** PROPOSED: MIT 3D inkjet printing origin (Sachs/Cima, early 1990s)
 - **Frame in this lecture:** Historical origin of the term "3D printing" — inkjet head depositing adhesive into ceramic powder beds at MIT.
 - **Era:** early 1990s.
 
@@ -83,7 +83,7 @@ This lecture is a synthesis session on TQM, leadership, and the limits of manage
 
 ### MIT custodial Christmas breakfast (department-head leadership example)
 - **Anchor:** `§9.p9`–`§9.p11`
-- **canonical_cluster_id:** "PROPOSED: MIT custodial Christmas breakfast (Eagar department head)"
+- **canonical_cluster_id:** PROPOSED: MIT custodial Christmas breakfast (Eagar department head)
 - **Frame in this lecture:** Tom's signature leadership-by-respect anecdote. Best custodial service in the institute as result of one annual breakfast.
 - **Era:** Tom's department head tenure (1990s).
 

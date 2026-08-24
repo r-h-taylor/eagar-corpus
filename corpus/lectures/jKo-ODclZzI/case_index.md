@@ -16,7 +16,7 @@ None of this segment is built around a named industrial-historical or forensic c
 
 ### Battleship welding procedure loss
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** PROPOSED: Lost battleship welding procedure (qualification cost case)
+- **canonical_cluster_id:** "USS Battleship turret hydrogen cracking repair (Puerto Rico, ~1980)"
 - **Frame in this section:** Tom mentions in passing that requalifying a welding procedure under modern standards "would have cost — you could have built another battleship." The actual case is not developed here; this appears to be a callback to material from an earlier session.
 - **Note:** Likely a backward-reference to a case Tom developed earlier in the course. Cross-reference against earlier lectures in the 3.371 Summer 2014 sequence.
 
@@ -35,7 +35,7 @@ None of this segment is built around a named industrial-historical or forensic c
 
 ### Hammer head shards in the eye
 - **Anchor:** `§3.p1`
-- **canonical_cluster_id:** Mushroomed hammer head eye injuries
+- **canonical_cluster_id:** "Mushroomed hammer head eye injuries"
 - **Frame in this section:** Tom uses the brittle-surface / ductile-core argument for surface hardening, and notes in passing that people routinely send hammer fragments into their eyes — a recurring safety theme in his teaching.
 - **Note:** Match to canonical cluster "Mushroomed hammer head eye injuries" from the aggregate.
 

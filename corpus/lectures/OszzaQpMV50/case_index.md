@@ -41,7 +41,7 @@
 
 ### MIT Industrial Liaison Program consulting (1980s)
 - **Anchor:** `§4.p1`
-- **canonical_cluster_id:** PROPOSED: "MIT Industrial Liaison Program consulting practice (1980s)"
+- **canonical_cluster_id:** PROPOSED: MIT Industrial Liaison Program consulting practice (1980s)
 - **Frame in this lecture:** Tom's recurring framing for how the Farberware and other member-company consults reached him. "I did a lot of failure analysis — three or four companies a week coming in." Likely recurs across the corpus as the institutional setting for many of Tom's case stories; promoting to canonical case status pending cross-reference.
 
 ## Figures referenced (not cases)

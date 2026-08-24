@@ -37,13 +37,13 @@
 
 ### Carbon-free metal reduction (Sadoway/Allanore)
 - **Anchor:** `§2.p6`–`§2.p7`
-- **canonical_cluster_id:** PROPOSED: "Sadoway/Allanore carbon-free metal reduction research"
+- **canonical_cluster_id:** PROPOSED: Sadoway/Allanore carbon-free metal reduction research
 - **Frame in this lecture:** Ellingham-diagram thermodynamic argument that any oxide can be reduced by carbon at sufficient temperature, but CO2 externalities are driving MIT research toward electron-based reduction routes.
 - **Materials/systems:** metal oxides; carbon vs. electrochemical reduction.
 
 ### Charles Martin Hall / Niagara Falls aluminum smelting
 - **Anchor:** `§2.p7`
-- **canonical_cluster_id:** PROPOSED: "Charles Martin Hall Niagara Falls Alcoa first reduction plant"
+- **canonical_cluster_id:** PROPOSED: Charles Martin Hall Niagara Falls Alcoa first reduction plant
 - **Frame in this lecture:** Aluminum smelting is sited at electricity sources — Norway, James Bay, and originally Niagara Falls for Alcoa's first plant.
 
 ### Japan-US Oil and Steel Embargo (World War II)
@@ -54,7 +54,7 @@
 
 ### India gold cultural reserve
 - **Anchor:** `§2.p9`–`§2.p10`
-- **canonical_cluster_id:** PROPOSED: "India cultural gold reserve"
+- **canonical_cluster_id:** PROPOSED: India cultural gold reserve
 - **Frame in this lecture:** Cultural externality. Half the world's mined gold sits on the necks and wrists of Indian people; cultural color-match drives material demand.
 
 ### Platinum jewelry in Asia
@@ -70,12 +70,12 @@
 
 ### LED light bulb utility subsidies
 - **Anchor:** `§3.p3`–`§3.p4`
-- **canonical_cluster_id:** PROPOSED: "Utility LED light bulb rate-base subsidy"
+- **canonical_cluster_id:** PROPOSED: Utility LED light bulb rate-base subsidy
 - **Frame in this lecture:** Economic logic of utilities subsidizing efficient bulbs — $2000/kW installed cost of new plants justifies any kWh savings cheaper than that. Massachusetts DPU example.
 
 ### Cape Wind / Nantucket windmill opposition
 - **Anchor:** `§3.p5`
-- **canonical_cluster_id:** PROPOSED: "Cape Wind Martha's Vineyard Nantucket windmill opposition"
+- **canonical_cluster_id:** PROPOSED: Cape Wind Martha's Vineyard Nantucket windmill opposition
 - **Frame in this lecture:** NIMBY externality. Residents would oppose tripled electric bills if framed honestly, but frame the objection as aesthetic.
 
 ### Rhodesian chromite embargo
@@ -90,7 +90,7 @@
 
 ### US copper tubing manufacturing
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** "US copper tubing manufacturing" (also "Reading Pennsylvania copper plant deoxidation process", "Copper-to-copper crimp connector adoption in residential plumbing")
+- **canonical_cluster_id:** "U.S. copper tubing manufacturing" (also "Reading Pennsylvania copper plant deoxidation process", "Copper-to-copper crimp connector adoption in residential plumbing")
 - **Frame in this lecture:** Transportation externality. Six US copper tubing plants survived 1980s–90s offshoring because the air-in-the-hole shipping cost was prohibitive. Reading Tube as the LGO thesis site.
 
 ### Saugus Ironworks
@@ -111,12 +111,12 @@
 
 ### Norm Augustine "Socio-Engineering" article (1993)
 - **Anchor:** `§5.p5`
-- **canonical_cluster_id:** PROPOSED: "Norm Augustine socio-engineering 1993 Colorado talk"
+- **canonical_cluster_id:** PROPOSED: Norm Augustine socio-engineering 1993 Colorado talk
 - **Frame in this lecture:** Augustine's 1993 University of Colorado engineering centennial talk anticipated the externality-dominated era of materials selection. Posted as course reading.
 
 ### Ashby's materials-over-the-ages plot
 - **Anchor:** `§6.p1`–`§6.p2`, `§7.p1`
-- **canonical_cluster_id:** PROPOSED: "Mike Ashby materials-over-the-ages plot critique"
+- **canonical_cluster_id:** PROPOSED: Mike Ashby materials-over-the-ages plot critique
 - **Frame in this lecture:** Tom's critique of Ashby's predicted decline of metals and rise of ceramics/composites — argues Ashby bought into 1980s ceramics fever.
 
 ### Ceramics fever / NIST kitchen-sink talk
@@ -127,7 +127,7 @@
 
 ### "Future of Metals" article (1991 Welding Journal)
 - **Anchor:** `§7.p2`–`§7.p3`
-- **canonical_cluster_id:** PROPOSED: "Eagar 1991 Welding Journal Future of Metals article"
+- **canonical_cluster_id:** PROPOSED: Eagar 1991 Welding Journal Future of Metals article
 - **Frame in this lecture:** Tom's June 1991 *Welding Journal* article. 95% of world metal is steel; in 1990, steel was a $500B industry at 2% growth — its absolute growth exceeded ceramics ($5B/20%), composites ($15B/10%), and semiconductors ($100B/5%) combined.
 
 ### Lakshmi Mittal steel mill acquisition strategy

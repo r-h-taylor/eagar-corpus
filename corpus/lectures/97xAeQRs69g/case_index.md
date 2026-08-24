@@ -45,7 +45,7 @@ This lecture is structurally a metallurgy lecture on nickel-based superalloys an
 
 ### U.S. Navy all-stainless steel submarine program (AL-6X alloy) / U.S. Navy superaustenitic submarine material evaluation
 - **Anchor:** `§3.p1`, `§3.p2`
-- **canonical_cluster_id:** "U.S. Navy all-stainless steel submarine program (AL-6X alloy)"
+- **canonical_cluster_id:** "US Navy all-stainless steel submarine program (AL-6X alloy)"
 - **Frame in this lecture:** AL-6XN cited at ~$10/lb as the non-magnetic stainless option. Used as the intermediate cost comparator between HSLA steel (~$1/lb) and titanium (~$100/lb fabricated).
 
 ### Westinghouse Bettis inconel electron beam weld cracking specification

@@ -30,19 +30,19 @@
 
 ### National Academy committee on materials research needs (2002-2003)
 - **Anchor:** `§4.p1, §4.p7`
-- **canonical_cluster_id:** "PROPOSED: National Academy of Sciences 2002-2003 Defense Department materials research committee"
+- **canonical_cluster_id:** PROPOSED: National Academy of Sciences 2002-2003 Defense Department materials research committee
 - **Frame in this lecture:** The committee on which Tom served and to which he contributed the appendix that is the source of the handout used throughout the lecture. Used to frame the entire materials-cost discussion that follows.
 - **Era:** 2002-2003
 
 ### Westbrook 1962 GE structural materials plot
 - **Anchor:** `§5.p1, §5.p2`
-- **canonical_cluster_id:** "PROPOSED: Westbrook 1962 General Electric structural materials price-vs-volume plot"
+- **canonical_cluster_id:** PROPOSED: Westbrook 1962 General Electric structural materials price-vs-volume plot
 - **Frame in this lecture:** The classic plot Tom uses to introduce the price/volume relationship in structural materials. Source: Jack Westbrook, internal GE memo, 1962. Notable as a corpus-recurring figure.
 - **Era:** 1962 (GE internal memo)
 
 ### Tracy Hall / GE man-made diamonds
 - **Anchor:** `§5.p2`
-- **canonical_cluster_id:** "PROPOSED: General Electric synthetic diamond development (Tracy Hall)"
+- **canonical_cluster_id:** PROPOSED: General Electric synthetic diamond development (Tracy Hall)
 - **Frame in this lecture:** Aside to explain why diamond appears on Westbrook's structural-materials plot — GE had a near-monopoly on synthetic diamonds at the time of the 1962 plot.
 - **Era:** 1950s onward
 
@@ -54,7 +54,7 @@
 
 ### Peter Bridenbaugh / Alcoa aluminum-automobile economics
 - **Anchor:** `§5.p5`
-- **canonical_cluster_id:** "PROPOSED: Peter Bridenbaugh Alcoa aluminum vehicle economics communication (October 2001)"
+- **canonical_cluster_id:** PROPOSED: Peter Bridenbaugh Alcoa aluminum vehicle economics communication (October 2001)
 - **Frame in this lecture:** Personal communication, October 11, 2001. Tom hedged his "all-aluminum vehicles need $4/gal gas" claim to avoid offending Bridenbaugh, who at the break confirmed Tom's actual $2/lb working figure.
 - **Era:** October 2001
 
@@ -85,7 +85,7 @@
 
 ### Tom's home renovation (basement / sewer pipes / EV outlets)
 - **Anchor:** `§5.p9, §7.p7`
-- **canonical_cluster_id:** "PROPOSED: Tom Eagar 80-year-old home renovation (Spring 2016)"
+- **canonical_cluster_id:** PROPOSED: Tom Eagar 80-year-old home renovation (Spring 2016)
 - **Frame in this lecture:** Personal anecdote, surfaces twice. In §5 it anchors the electric-vehicle infrastructure cost discussion (three driveway outlets being wired during a down-to-the-studs renovation). In §7 it anchors the cast-iron sewer pipe corrosion-replacement point and the plastic-vs-cast-iron longevity comparison. Real-time during this lecture: "they just started digging out the basement."
 - **Era:** Spring 2016
 

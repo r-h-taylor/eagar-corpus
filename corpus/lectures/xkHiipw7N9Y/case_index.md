@@ -46,38 +46,37 @@
 
 ### IBM Customer Driven Quality / MIT faculty week
 - **Anchor:** `§8.p2`, `§8.p3`, `§8.p4`
-- **canonical_cluster_id:** "IBM PowerPoint executive meetings under Gerstner" (closest match — but this is a distinct episode; **PROPOSED:** "IBM Customer Driven Quality MIT faculty training week (1990s)")
+- **canonical_cluster_id:** PROPOSED: IBM Customer Driven Quality MIT faculty training week (1990s))"
 - **Frame in this lecture:** Mid-1990s, when Tom was department head. MIT paired with IBM as part of an industry-elite-universities TQM initiative. Seventy-five MIT faculty spent a week at IBM's executive training center on the Hudson. The episode includes the 410K→320K headcount story and Tom's question about whether eliminating 90,000 middle managers revealed more problems escalating (answer: no).
 - **Era:** 1990s
 - **Note:** This is closely related to but distinct from the Gerstner-building-access cluster. May belong as its own canonical case.
 
 ### Vera Kistiakowsky quantum mechanics course
 - **Anchor:** `§4.p4`, `§4.p5`
-- **canonical_cluster_id:** **PROPOSED:** "Vera Kistiakowsky quantum mechanics course (Tom's undergraduate)"
 - **Frame in this lecture:** The night-before-final pedagogical epiphany — Tom skimmed the textbook for high points, finished a three-hour final in 80 minutes, got an A. The origin story for Tom's "guess my lecture" method and his abandonment of note-taking.
 - **Era:** late 1960s (Tom's MIT junior year)
 
 ### Paul Gray on MIT pace and pressure
 - **Anchor:** `§3.p1`
-- **canonical_cluster_id:** **PROPOSED:** "Paul Gray on MIT pace and pressure (retirement reflection)"
+- **canonical_cluster_id:** PROPOSED: Paul Gray on MIT pace and pressure (retirement reflection)
 - **Frame in this lecture:** Quoted as supporting the "flexibility and stress-free environment" theme: Gray's retirement-era admission that one of his big disappointments was not having reduced MIT's pace and pressure.
 - **Era:** late 1980s/early 1990s
 
 ### General Motors distance education experiment
 - **Anchor:** `§2.p2`, `§2.p3`
-- **canonical_cluster_id:** **PROPOSED:** "General Motors MIT distance education welding course (late 1980s)"
+- **canonical_cluster_id:** PROPOSED: General Motors MIT distance education welding course (late 1980s)
 - **Frame in this lecture:** Tom's first videotaped course, ~30 years prior to 2018. Thirteen-to-fifteen GM employees enrolled as MIT special students. The Detroit-trip discovery that the students were rewinding-and-replaying the tapes, which is what made Tom realize the medium had pedagogical value. Linked forward to Stanford's "tutored video instruction" finding.
 - **Era:** late 1980s
 
 ### Stanford tutored video instruction
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** **PROPOSED:** "Stanford tutored video instruction (1980s)"
+- **canonical_cluster_id:** PROPOSED: Stanford tutored video instruction (1980s)
 - **Frame in this lecture:** Cited as parallel to Tom's GM experience — Stanford found that students taking courses via tutored video instruction outperformed live-class students, attributed to the replay capability.
 - **Era:** 1980s
 
 ### Simone Belmar's MMT pipeline scratch tester
 - **Anchor:** `§8.p6`
-- **canonical_cluster_id:** **PROPOSED:** "Simone Belmar MMT pipeline mechanical property scratch tester"
+- **canonical_cluster_id:** PROPOSED: Simone Belmar MMT pipeline mechanical property scratch tester
 - **Frame in this lecture:** Belmar's NSF SBIR-funded company doing on-site evaluation of pipeline steel mechanical properties (tensile strength, hoped-for fracture toughness) via a portable scratch tester. ~$1.2M in NSF funding. Used as one of last spring's three live modules.
 - **Era:** 2018
 

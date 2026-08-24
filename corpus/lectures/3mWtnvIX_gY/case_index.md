@@ -6,7 +6,7 @@
 
 ### Kinematic coupling design and Teradyne handler
 - **Anchor:** `§3.p1` through `§3.p11`; resumed at `§7.p1` through `§7.p4`
-- **canonical_cluster_id:** `Kinematic coupling design and commercialization`
+- **canonical_cluster_id:**"Kinematic coupling design and commercialization"
 - **Frame in this lecture:** Slocum's signature consulting case. The Teradyne semiconductor-test-handler realignment problem; his Maxwell-derived kinematic-coupling solution; the $20M endowed chair from Alex d'Arbeloff; the $500M downstream commercialization figure.
 - **Materials/systems:** Three balls in three grooves; three-two-one tetrahedron-groove-flat variant. Hertz contact stress analysis applied for the first time to kinematic couplings.
 - **Era:** Late 1980s–1990s consulting engagement; coupling sales ongoing.
@@ -20,7 +20,7 @@
 
 ### Deepwater Horizon hairball generator (blowout preventer remediation)
 - **Anchor:** `§5.p4`
-- **canonical_cluster_id:** `Deep Water Horizon hair/debris accumulation problem`
+- **canonical_cluster_id:**"Deep Water Horizon hair/debris accumulation problem"
 - **Frame in this lecture:** Slocum's Houston-based startup. He served on Secretary Chu's Deepwater Horizon team. The "hairball generator" is a device for sending wire into a blowout preventer to deliberately create a debris ball — Slocum's tongue-in-cheek inversion of the actual failure mode at Macondo.
 - **Materials/systems:** Wire deployment into BOP; commercial product.
 - **Era:** Post-2010 (post-Macondo).

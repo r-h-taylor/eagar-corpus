@@ -19,7 +19,7 @@
 
 ### NASA X-33 space plane
 - **Anchor:** `§3.p2`, `§3.p3`, `§3.p4`
-- **canonical_cluster_id:** "NASA X-33 space plane"
+- **canonical_cluster_id:** "X-33 Space Plane"
 - **Frame in this lecture:** $1.3 billion half-size demonstrator. Two hydrogen tanks ($50M each composite) and one aluminum oxygen tank ($15M), totaling about $12,000/lb as fabricated. Intended successor to space shuttle, targeting $1,000/lb-to-orbit. Tank physical sample passed in class.
 - **Materials/systems:** Composite hydrogen tanks; aluminum oxygen tank; titanium and Inconel structural struts
 - **Era:** 1990s
@@ -81,7 +81,7 @@
 
 ### Andrew Mellon all-aluminum Pierce Arrow automobile
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** "PROPOSED: J.P. Morgan all-aluminum automobile (1930s)"
+- **canonical_cluster_id:** "Andrew Mellon all-aluminum Pierce Arrow automobile"
 - **Frame in this lecture:** Tom attributes the 1930s aluminum automobile to J.P. Morgan, not Mellon. May be the same cluster as "Andrew Mellon all-aluminum Pierce Arrow automobile" or "1930s all-aluminum Duesenberg automobiles" — Tom is reaching for the wealthy-industrialist-owns-aluminum-car trope. **Flag for editor:** likely conflated; the cluster_id used here is provisional.
 
 ### MIT Berylliosis cases

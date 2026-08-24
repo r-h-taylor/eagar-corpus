@@ -13,7 +13,7 @@
 
 ### Millennium cookware hydrogen cracking and Teflon coating
 - **Anchor:** `§2.p1`–`§2.p5`
-- **canonical_cluster_id:** "Millennium cookware hydrogen cracking" (also overlaps "Farberware Millennium cookware hydrogen cracking" and "Faberware Millennium cookware hydrogen cracking")
+- **canonical_cluster_id:** "Faberware Millennium cookware hydrogen cracking" (also overlaps "Farberware Millennium cookware hydrogen cracking" and "Faberware Millennium cookware hydrogen cracking")
 - **Frame in this lecture:** Two-part teaching unit using the pot as prop. (1) The aluminum/stainless cold-bonded base illustrates that a deliberately weak bond (10% bonded area) is correct design for dissimilar-CTE joints — porosity accommodates thermal strain. (2) The plasma-sprayed inner surface for Teflon adhesion introduced hydrogen (95% argon / 5% hydrogen gas), which caused delayed cracking after shipping from Brooklyn to Japan. Martensite transformation in deformed 304 stainless was the susceptible microstructure.
 - **Materials/systems:** 304 stainless steel, aluminum, plasma-sprayed stainless powder, Teflon, hydrogen plasma gas.
 - **Era:** Tom: "twenty years ago" from 2013, so ~1993.
@@ -68,7 +68,7 @@
 
 ### Presidential limousine glass armor
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: "Presidential limousine glass armor"
+- **canonical_cluster_id:** PROPOSED: Presidential limousine glass armor
 - **Frame in this lecture:** Tom's standing prop (referenced, not produced today). Four layers of glass plus one layer of polycarbonate, adhesively bonded by hand layup with rollers, then pressed in a vacuum system to eliminate bubbles. Used to illustrate maximum-care surface preparation for life-safety adhesive joints.
 - **Materials/systems:** Glass, polycarbonate, polyimide adhesive.
 

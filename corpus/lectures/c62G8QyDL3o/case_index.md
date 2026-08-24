@@ -47,7 +47,7 @@ This lecture is primarily a technical exposition of aluminum welding (alloy sele
 
 ### 2025 aluminum propeller alloy
 - **Anchor:** `§4.p4`
-- **canonical_cluster_id:** PROPOSED: "2025 aluminum propeller alloy (mid-1920s)"
+- **canonical_cluster_id:** PROPOSED: 2025 aluminum propeller alloy (mid-1920s)
 - **Frame:** Tom's claim that the toughest aluminum alloy — developed in the mid-1920s for aluminum propellers, bends 180° before breaking — is 2025. Used to make the toughness/strength tradeoff point. Not developed as a case; mentioned as a single data point.
 - **Era:** mid-1920s development
 

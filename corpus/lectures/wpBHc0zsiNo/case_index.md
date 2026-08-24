@@ -62,13 +62,13 @@ This lecture traces three topical arcs: (1) gas turbine materials and the Air Fo
 
 ### Roman concrete longevity
 - **Anchor:** `§6.p7`
-- **canonical_cluster_id:** "Roman aqueducts" (closest existing); could also be PROPOSED: "Roman concrete longevity and volcanic ash chemistry"
+- **canonical_cluster_id:** PROPOSED: Roman concrete longevity and volcanic ash chemistry
 - **Frame in this lecture:** 2,000-year durability of Roman concrete vs. 100–200-year modern concrete, attributed to volcanic ash chemistry. Source for student papers.
 - **Era:** Roman / modern comparison
 
 ### Adobe construction (Mexican student project)
 - **Anchor:** `§6.p8`
-- **canonical_cluster_id:** PROPOSED: "Adobe construction with manure binder (Mexico)"
+- **canonical_cluster_id:** PROPOSED: Adobe construction with manure binder (Mexico)
 - **Frame in this lecture:** Past student project on traditional adobe in Mexico — straw plus manure (the manure repels flies, but the house smells for a few years).
 - **Era:** traditional / undated
 
@@ -80,13 +80,13 @@ This lecture traces three topical arcs: (1) gas turbine materials and the Air Fo
 
 ### Bessemer process invention
 - **Anchor:** `§8.p1`
-- **canonical_cluster_id:** PROPOSED: "Bessemer converter invention (1856)"
+- **canonical_cluster_id:** PROPOSED: Bessemer converter invention (1856)
 - **Frame in this lecture:** Henry Bessemer in 1856 develops air-blown cast-iron conversion to steel, enabling the Carnegie steel era.
 - **Era:** 1856
 
 ### Andrew Carnegie and integrated steel
 - **Anchor:** `§8.p1`–`§8.p3`
-- **canonical_cluster_id:** PROPOSED: "Andrew Carnegie steel empire and philanthropy"
+- **canonical_cluster_id:** PROPOSED: Andrew Carnegie steel empire and philanthropy
 - **Frame in this lecture:** Carnegie's rise via Bessemer steel, his quote ("Take away my people, leave my factories..."), his philanthropy (Carnegie libraries, Carnegie Mellon), juxtaposed with Rockefeller [misspoken as "Roosevelt"] handing out dimes. Tom's grandfather's role at the University of Chattanooga briefly invoked.
 - **Era:** late 19th–early 20th century
 

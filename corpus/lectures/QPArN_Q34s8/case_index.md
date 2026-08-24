@@ -70,7 +70,7 @@
 
 ### Ingot-cast rim steel surface purity
 - **Anchor:** `§8.p11`
-- **canonical_cluster_id:** PROPOSED: "Ingot-cast rim steel surface purity"
+- **canonical_cluster_id:** PROPOSED: Ingot-cast rim steel surface purity
 - **Frame in this lecture:** Why ingot-cast rim steel gave the best sheet properties — first stuff to solidify on the mold wall is the purest iron. Used to argue that the casting method has to be chosen for the product (sheet vs. plate).
 
 ### Generator rotor housing sand casting

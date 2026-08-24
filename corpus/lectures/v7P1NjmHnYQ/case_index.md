@@ -33,14 +33,13 @@
 
 ### MAPP gas discontinuation
 - **Anchor:** `§3.p4`, `§3.p5`, `§3.p6`
-- **canonical_cluster_id:** "MAPP gas cylinder drop and bending incidents" — closest canonical match; this lecture's mention is about the EPA shutdown of the Chicago manufacturer, not drop incidents. **PROPOSED:** distinct case "MAPP gas discontinuation and propylene substitution"
 - **Frame in this lecture:** Live torch demonstration comparing C₃H₈ (propane) vs C₃H₄ (MAPP) — MAPP heats faster, steel reaches red heat first. Used to illustrate enthalpy-of-reaction effect on flame temperature. Side teaching: MAPP no longer manufactured (EPA closure of Chicago plant ~2011); plumbers now use propylene C₃H₆ in yellow cylinders.
 - **Materials/systems:** Hydrocarbon fuel gases, steel welding wire
 - **Era:** EPA shutdown ca. 2011; demo current
 
 ### Elihu Thomson and the invention of resistance spot welding
 - **Anchor:** `§5.p3`, `§5.p4`
-- **canonical_cluster_id:** **PROPOSED:** "Elihu Thomson invention of resistance spot welding"
+- **canonical_cluster_id:** PROPOSED: Elihu Thomson invention of resistance spot welding
 - **Frame in this lecture:** Historical origin of automotive spot welding. Thomson — MIT EE professor, one-year MIT president, GE co-founder with Edison in Lynn, MA. ~380 patents (#2 after Edison's ~400).
 - **Era:** 1890s
 

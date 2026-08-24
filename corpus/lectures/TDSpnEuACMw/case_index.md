@@ -8,32 +8,32 @@ This lecture is largely systematic teaching on hydrogen cracking, residual stres
 
 ### Lithography semiconductor machining precision problem
 - **Anchor:** `§4.p1`
-- **canonical_cluster_id:** Lithography semiconductor machining precision problem
+- **canonical_cluster_id:** "Lithography semiconductor machining precision problem"
 - **Frame in this lecture:** Used to motivate why stress relief matters before precision machining — heat-treated material walks during stock removal, an issue Tom describes as a "20-billion-dollar problem" for the semiconductor industry.
 - **Era:** late 1990s / early 2000s
 
 ### Helicopter bearing precision manufacturing
 - **Anchor:** `§4.p5`
-- **canonical_cluster_id:** Helicopter bearing precision manufacturing
+- **canonical_cluster_id:** "Helicopter bearing precision manufacturing"
 - **Frame in this lecture:** 42-inch bearing held to ±0.005 inches (one part in 10,000) by submerging the bar mic in the same oil bath as the workpiece. Used to illustrate that thermal expansion governs precision at parts-per-million tolerances.
 - **Materials/systems:** large rolling-element bearings
 
 ### Lithography wavelength limits (UV / electron-beam)
 - **Anchor:** `§4.p10`
-- **canonical_cluster_id:** Lithography semiconductor machining precision problem
+- **canonical_cluster_id:** "Lithography semiconductor machining precision problem"
 - **Frame in this lecture:** Continuation of the lithography case — at sub-wavelength feature sizes, photolithography gives way to UV / electron-beam patterning, with chips patterned in sections matched together because tolerance can't be held over a centimeter.
 - **Note:** clustered with §4.p1 under the same canonical case; two anchors, one cluster.
 
 ### Simpson Gumpertz and Heger preheat-procedure violation
 - **Anchor:** `§6.p1`–`§6.p3`
-- **canonical_cluster_id:** Simpson Governance and Hager firm preheat procedure violation
+- **canonical_cluster_id:** "Simpson Governance and Hager firm preheat procedure violation"
 - **Frame in this lecture:** Welding engineer walks the shop on Monday morning, finds the workpiece cold, asks the welder; welder replies "we did that on Friday." Used to illustrate that field-welding procedures fail when the welder doesn't understand the principle.
 - **Era:** Tom's working career (post-1970s)
 - **Note:** the canonical cluster name as given carries garbling ("Simpson Governance and Hager"). The firm is Simpson Gumpertz & Heger — three MIT civil engineers, founded 1950s. Recommend canonical cluster rename.
 
 ### Vietnam-era Naval Air Rework Facility peening certification
 - **Anchor:** `§7.p3`–`§7.p7`
-- **canonical_cluster_id:** Vietnam-era Naval jet engine crashes and rebuilds
+- **canonical_cluster_id:** "Vietnam-era Naval jet engine crashes and rebuilds"
 - **Frame in this lecture:** 1969 Norfolk VA, Tom as freshman/sophomore engineering intern. Crack in titanium inlet-fan case of a rebuilt jet engine bound for Southeast Asia. Chief engineer designs a pneumatic peening tool to avoid disassembly; Tom witnesses Almen-gauge testing, signs the certification under threat of "you'll be in jail within 24 hours" if the plane goes down. The teaching point: "sometimes you just have to take risk" — but not without knowledge.
 - **Materials/systems:** titanium inlet-fan engine case; Almen gauge; pneumatic peening tool
 - **Era:** 1969
@@ -41,13 +41,13 @@ This lecture is largely systematic teaching on hydrogen cracking, residual stres
 
 ### Bethlehem Steel welding engineer experience
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** Tom Eagar's steel company experience
+- **canonical_cluster_id:** "Tom Eagar's steel company experience"
 - **Frame in this lecture:** Tom situates the Tekken test as a Japanese practice he encountered while a welding engineer at Bethlehem Steel in the mid-1970s.
 - **Era:** mid-1970s
 
 ### Tekken test (Japanese railway weldability test)
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** PROPOSED: Tekken test development for Japanese railways
+- **canonical_cluster_id:** "Tekken test development for Japanese railways"
 - **Frame in this lecture:** Japanese small-coupon weldability test (double bevel on one plate, single on the other, weld in the joint, look for cracks). Tom translates "Tekken" as "railroad" and ties the test to Japanese railway construction of the 1970s–80s.
 - **Note:** existing cluster `Tekken test development for Japanese railways` matches.
 

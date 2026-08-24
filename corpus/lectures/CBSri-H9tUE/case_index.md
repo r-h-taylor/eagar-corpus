@@ -27,7 +27,7 @@ This lecture covers distortion, residual stress, the SCC/HE distinction, and the
 
 ### Idaho National Engineering Lab preheat-skipped-over-weekend story
 - **Anchor:** `§4.p1`
-- **canonical_cluster_id:** "PROPOSED: Idaho National Engineering Lab nuclear reactor component preheat failure"
+- **canonical_cluster_id:** PROPOSED: Idaho National Engineering Lab nuclear reactor component preheat failure
 - **Frame in this lecture:** Teaching anecdote from a welding-engineer friend. The Monday-morning piece was supposed to be preheated to 150°F; touch-test revealed it had been preheated Friday and allowed to cool over the weekend. Used as the punchline illustrating that preheat must be present at the moment of welding, not just nominally performed.
 - **Note:** Probably distinct from the canonical "Idaho National Engineering Lab nuclear reactor component cracking" entry, which appears to refer to a cracking case rather than a preheat-protocol anecdote. Flagged for editor reconciliation.
 
@@ -45,7 +45,7 @@ This lecture covers distortion, residual stress, the SCC/HE distinction, and the
 
 ### Electric Boat HY-80 one-inch weld sample
 - **Anchor:** `§6.p1`
-- **canonical_cluster_id:** "PROPOSED: Electric Boat HY-80 demonstration weld sample (Tom's classroom artifact)"
+- **canonical_cluster_id:** "Electric Boat HY80 weld forensics"
 - **Frame in this lecture:** Physical-object teaching move. Tom acquired this single-side weld with backing bar from Electric Boat ~30–35 years before the lecture; uses it to show distortion (V-shape pulls top edges in), the HAZ size relative to a quarter-inch in carbon steel, and the rationale for clear-coating black iron samples.
 - **Note:** This is a recurring classroom artifact, not a forensic case per se. Treated as a "PROPOSED:" cluster pending check against the aggregate for whether the artifact is referenced in other lectures.
 

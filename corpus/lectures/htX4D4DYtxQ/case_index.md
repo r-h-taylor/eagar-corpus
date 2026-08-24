@@ -27,7 +27,7 @@
 
 ### Alaska Pipeline construction
 - **Anchor:** `§1.p4`
-- **canonical_cluster_id:** "Alaska Pipeline construction"
+- **canonical_cluster_id:** "Alaskan Pipeline construction"
 - **Frame in this lecture:** Bethlehem Steel in the mid-70s wanted to use a 1% nickel HSLA precursor steel for the Alaskan Pipeline. Would have consumed a substantial fraction of world nickel supply.
 - **Materials/systems:** 1% nickel HSLA precursor steel
 - **Era:** mid-1970s

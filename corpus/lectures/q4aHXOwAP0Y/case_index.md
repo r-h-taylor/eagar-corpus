@@ -12,7 +12,7 @@
 
 ### Rolls-Royce M250 BLISK (bladed disk) for helicopters
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** "Rolls-Royce M250 BLISK (bladed disk) for helicopters"
+- **canonical_cluster_id:** "Rolls Royce M250 BLISK (bladed disk) for helicopters"
 - **Frame in this lecture:** Cited as the only high-volume cast blisk engine in production (~50,000 units, 30+ years). Used to introduce the collateral-weight-savings argument.
 - **Materials/systems:** Cast nickel superalloy blisk.
 
@@ -43,12 +43,12 @@
 
 ### "Bringing New Materials to Market" (1995 Technology Review article)
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** PROPOSED: "Eagar 1995 'Bringing New Materials to Market' Technology Review article"
+- **canonical_cluster_id:** PROPOSED: Eagar 1995 'Bringing New Materials to Market' Technology Review article
 - **Frame in this lecture:** Tom's own publication. Twenty-year payback for new materials companies; at 8% IRR, $1 invested today must return $20 in twenty years. Used to explain why venture capital avoids materials.
 
 ### Oil reserves and twenty-year proven-reserve floor
 - **Anchor:** `§3.p5`
-- **canonical_cluster_id:** PROPOSED: "Twenty-year oil reserves industry investment floor"
+- **canonical_cluster_id:** PROPOSED: Twenty-year oil reserves industry investment floor
 - **Frame in this lecture:** Industry maintains twenty years of proven reserves because longer-horizon returns are uneconomic at typical IRRs. Used as parallel example to the materials-investment problem.
 
 ### GE samarium cobalt magnet development

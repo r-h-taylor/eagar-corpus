@@ -71,7 +71,7 @@ This lecture surfaces a cluster of corrosion-related cases, opening with two mil
 
 ### Cambridge MA water chlorine content
 - **Anchor:** `§8.p8`
-- **canonical_cluster_id:** PROPOSED: "Cambridge MA water chlorine content"
+- **canonical_cluster_id:** PROPOSED: Cambridge MA water chlorine content
 - **Frame in this lecture:** Used as a real-world reference point for the Delrin chlorine sensitivity — Cambridge water from Fresh Pond has 5–10 ppm chlorine, ten times the DuPont "corrosion resistant" threshold. EPA allows up to 100 ppm in potable water. Teaching point: nominally "potable" water spans two orders of magnitude in the variable that determines whether Delrin survives.
 - **Materials/systems:** municipal water supply
 - **Era:** ~2014 (current at lecture)
@@ -92,7 +92,7 @@ This lecture surfaces a cluster of corrosion-related cases, opening with two mil
 
 ### Charles Goodyear vulcanization and Mayan rubber crosslinking
 - **Anchor:** `§9.p2`
-- **canonical_cluster_id:** PROPOSED: "Charles Goodyear vulcanization and Mayan rubber crosslinking"
+- **canonical_cluster_id:** PROPOSED: Charles Goodyear vulcanization and Mayan rubber crosslinking
 - **Frame in this lecture:** Used as a deep analogy for PEX crosslinking. Goodyear's 1830s sulfur-latex patent; Mike Tarkanian's MIT bachelor's thesis on Mayan use of morning glory vine for natural sulfur crosslinking thousands of years earlier.
 - **Materials/systems:** natural rubber crosslinked with sulfur
 - **Era:** Mayan antiquity; 1830s Goodyear; recent Tarkanian thesis

@@ -26,13 +26,13 @@
 
 ### Boeing aircraft wing lightning strike — composites
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** Boeing composite wing lightning strike internship project
+- **canonical_cluster_id:** "Boeing composite wing lightning strike internship project"
 - **Frame in this lecture:** Painted aluminum vs bare aluminum vs composite wing response to lightning; Tom's student internship at Boeing on composite-wing lightning strikes. Connects to the §2.p3 stainless-steel-tubing case through shared failure physics.
 - **Materials/systems:** aluminum, painted aluminum, composite wing skin
 
 ### Asphalt reclamation tool — sintered diamond vs tungsten carbide
 - **Anchor:** `§4.p2`, `§4.p3`
-- **canonical_cluster_id:** Tungsten carbide and sintered diamond asphalt milling bit optimization
+- **canonical_cluster_id:** "Tungsten carbide and sintered diamond asphalt milling bit optimization"
 - **Frame in this lecture:** Highway-reclamation milling bits wear out in 3–4 hours with tungsten carbide tips; sintered diamond extends life past an 8-hour shift. Tom consulted on whether to acquire the company; verdict was technologically superior but too expensive.
 - **Materials/systems:** tungsten carbide + cobalt; sintered diamond; step braze joint
 - **Era:** 1980s (Tracy Hall man-made diamond lineage from 1950s GE Research)
@@ -48,7 +48,7 @@
 
 ### Sapphire boule manufacturing → LED substrates → China
 - **Anchor:** `§5.p4`, `§5.p5`
-- **canonical_cluster_id:** Sapphire substrate manufacturing for LED market dominance
+- **canonical_cluster_id:** "Sapphire substrate manufacturing for LED market dominance"
 - **Frame in this lecture:** New Hampshire company growing sapphire boules sold furnace technology to China on a ~$300M order; China now owns the LED substrate market.
 - **Materials/systems:** alumina (Al₂O₃) sapphire boules; gallium arsenide LED substrates
 - **Era:** 2000s–2010s
@@ -67,21 +67,21 @@
 
 ### National Aerospace Plane (NASP) — copper skin / liquid hydrogen cooling
 - **Anchor:** `§6.p1`, `§6.p2`
-- **canonical_cluster_id:** National Aerospace Plane
+- **canonical_cluster_id:** "National Aerospace Plane"
 - **Frame in this lecture:** Mid-1980s program — Mach 17 spaceplane with copper skin (1/8-inch thick) cooled internally by liquid hydrogen against 3,000 K external air. Tom's framing: structurally absurd; partly a cover for Reagan-era Star Wars hardware-in-space.
 - **Materials/systems:** copper skin; liquid hydrogen coolant
 - **Era:** mid-1980s
 
 ### Air Force Mach 17 air-breathing aircraft program
 - **Anchor:** `§6.p3`, `§6.p4`, `§6.p5`, `§6.p6`
-- **canonical_cluster_id:** Air Force Mach 17 air-breathing aircraft program
+- **canonical_cluster_id:** "Air Force Mach 17 air-breathing aircraft program"
 - **Frame in this lecture:** 2004 National Research Council committee on Air Force propulsion. Air Force requirement: Mach 17 unmanned warhead (motivated by 15-minute window to strike bin Laden) plus 25,000-mile unrefueled range from continental US bases. Tom's analysis: 6,000-degree radiation heat transfer alone exceeds copper melting point, no boundary layer can save it.
 - **Materials/systems:** copper, refractory metals (implied)
 - **Era:** ~2004
 
 ### Spruce Goose (Howard Hughes)
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** Spruce Goose
+- **canonical_cluster_id:** "Spruce Goose"
 - **Frame in this lecture:** World's largest aircraft, built of spruce by Howard Hughes. Used to motivate the "wood as a strength-to-weight material" point on the Ashby strength-density plot. Currently displayed at an aviation museum in Oregon.
 
 ### Louisville Slugger / ash baseball bats
@@ -92,7 +92,7 @@
 
 ### Titanic — brittle fracture
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** Titanic
+- **canonical_cluster_id:** "Titanic"
 - **Frame in this lecture:** Referenced briefly in connection with Tom's History Channel appearance and the paper-tearing demonstration of flaw-induced strength loss in brittle materials. Not developed here.
 
 ## Figures referenced

@@ -8,7 +8,7 @@
 
 ### Hot isostatic press vessel failure (200-ton vessel, half-inch critical flaw)
 - **Anchor:** `§1.p1`–`§1.p11` (entire section)
-- **canonical_cluster_id:** `Pratt & Whitney / General Electric jet engine disc HIP vessel failure`
+- **canonical_cluster_id:**"Pratt & Whitney / General Electric jet engine disc HIP vessel failure"
 - **Frame in this lecture:** Forensic conclusion. Tom analyzes the 200-ton vessel failure as a three-cause convergence — transient thermal stresses (the operator hadn't waited for thermal equilibration; the design hadn't been modeled in finite element because 1982-era computing couldn't), susceptible microstructure (Japan Steelworks delivered material with toughness below specification, and the un-heated corner regions retained the as-rolled properties), and hydrogen from a corrosion-pit-initiated crack on the water-cooled jacket (the inspection company hadn't been checking the outside often enough; the water treatment company was using out-of-date molybdate chemistry). Critical flaw size: half an inch. Three liable parties: Japan Steelworks, operator, water-treatment / inspection company.
 - **Materials/systems:** 280 ksi quenched-and-tempered high-strength steel, 16-ton forged piece in a 200-ton pressure vessel, 20,000 psi argon at ~1,800–2,000 °F.
 - **Era:** Vessel designed ~1982; failure analysis date not stated in this section but the case is recurrent in Tom's corpus.
@@ -16,7 +16,7 @@
 
 ### French generator rotor forging — stress corrosion cracking from molybdate water treatment
 - **Anchor:** `§1.p9`
-- **canonical_cluster_id:** `French electrical generator rotor forging failure`
+- **canonical_cluster_id:**"French electrical generator rotor forging failure"
 - **Frame in this lecture:** Cited as supporting precedent for the molybdate water-treatment failure mode. Same type of high-strength steel, same type of cooling water treatment, same stress corrosion cracking initiated from pitting — a documented French utility failure that should have been in the inspection company's literature review.
 - **Materials/systems:** Large electrical generator rotor forging; high-strength steel; molybdate-treated cooling water.
 - **Era:** Within the five-to-ten years preceding the HIP vessel failure analysis (so roughly mid-1970s to mid-1980s).

@@ -56,7 +56,7 @@ This is a mechanism lecture, not a case lecture — Tom is building the hydrogen
 
 ### ESAB founding (Gothenburg, Sweden, ~1910)
 - **Anchor:** `§5.p8`
-- **canonical_cluster_id:** PROPOSED: "ESAB founding from muddy-electrode discovery (Gothenburg ~1910)"
+- **canonical_cluster_id:** PROPOSED: ESAB founding from muddy-electrode discovery (Gothenburg ~1910)
 - **Frame in this lecture:** Origin story for mineral-coated electrodes. Welder in Gothenburg dipped bar electrode in mud, found mineral coating excluded atmospheric nitrogen and eliminated porosity. Became basis of ESAB, now one of the world's largest welding companies. Also: contemporary discovery of cellulosic coatings from paper-wrapped electrodes.
 - **Era:** ~1910.
 

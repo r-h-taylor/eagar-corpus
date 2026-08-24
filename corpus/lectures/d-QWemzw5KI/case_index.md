@@ -21,7 +21,7 @@ Lecture 29 is a continuation lecture in the welding metallurgy series. It opens 
 
 ### Baseball bat performance study (Eagar consulting)
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** "Baseball bat forensic consulting case"
+- **canonical_cluster_id:** "Aluminum bat forensic consulting case"
 - **Frame in this lecture:** Brief reference: "I did a study for someone once" on whether aluminum bats hit further than wood bats.
 - **Era:** unspecified.
 
@@ -42,7 +42,7 @@ Lecture 29 is a continuation lecture in the welding metallurgy series. It opens 
 
 ### NASCAR magnesium components
 - **Anchor:** `§2.p5`
-- **canonical_cluster_id:** "PROPOSED: NASCAR magnesium components"
+- **canonical_cluster_id:** PROPOSED: NASCAR magnesium components
 - **Frame in this lecture:** Magnesium used where short service life is acceptable — 500-mile race-distance argument.
 - **Note:** parallel to the cruise-missile-engine example as a "short-life-justifies-aggressive-material" case.
 

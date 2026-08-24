@@ -179,12 +179,12 @@
 
 ### Comfort Adams and the founding of the American Welding Society (1921)
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** PROPOSED: "Comfort Adams and the founding of the American Welding Society (1921)"
+- **canonical_cluster_id:** PROPOSED: Comfort Adams and the founding of the American Welding Society (1921)
 - **Frame in this lecture:** AWS founded in 1921 after Adams's WWI shipbuilding service; AWS motto "to foster the art and science of welding" — admits welding is an art.
 
 ### Pentium chip tape-automated bonding
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** PROPOSED: "Pentium chip tape-automated bonding (1995-era show-and-tell)"
+- **canonical_cluster_id:** "Pentium 6 / Early 1990s large-format chip bonding"
 - **Frame in this lecture:** Physical artifact: 1995-era Pentium chip used to introduce TAB soldering for the soldering module.
 
 ## Figures referenced (not cases)

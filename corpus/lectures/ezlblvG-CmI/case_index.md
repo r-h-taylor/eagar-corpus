@@ -78,9 +78,9 @@
 - **canonical_cluster_id:** "Percy Bridgeman high-pressure materials research"
 - **Frame in this lecture:** Harvard physicist, Nobel laureate, tetrahedral anvil press at gigapascal pressures, foundation for synthetic diamond manufacture. Used to anchor the "parameter" usage dispute with Hallock Campbell.
 
-### PROPOSED: Hallock Campbell AWS definition dispute
+### Hallock Campbell AWS definition dispute
 - **Anchor:** `§5.p2`, `§5.p3`, `§5.p4`, `§5.p5`
-- **canonical_cluster_id:** PROPOSED: "Hallock Campbell AWS definition dispute and 'In Search of the Perfect Weld' keynote"
+- **canonical_cluster_id:** PROPOSED: Hallock Campbell AWS definition dispute and 'In Search of the Perfect Weld' keynote
 - **Frame in this lecture:** Hallock Campbell (Harvard grad, AWS glossary author) wrote to Tom in Japan in 1985 critiquing his use of "parameter" in a Welding Journal title. Tom showed the dictionary cited Bridgman; Campbell's handwritten reply: "Percy, how could you?" Used as launchpad for Tom's "weld defined by properties, not process" reformulation in his keynote address.
 
 ### Watertown Arsenal titanium development
@@ -88,14 +88,14 @@
 - **canonical_cluster_id:** "Watertown Arsenal titanium development"
 - **Frame in this lecture:** Watertown Arsenal (now Watertown Mall) developed Ti-6Al-4V around 1950, made possible by industrial-scale vacuum melting originating from MIT mechanical engineering.
 
-### PROPOSED: H.C. Starck Newton tantalum operations
+### H.C. Starck Newton tantalum operations
 - **Anchor:** `§6.p1`, `§6.p2`
-- **canonical_cluster_id:** PROPOSED: "H.C. Starck Newton tantalum operations"
+- **canonical_cluster_id:** PROPOSED: H.C. Starck Newton tantalum operations
 - **Frame in this lecture:** H.C. Starck (now part of Bayer) operates one of the world's largest tantalum production facilities in residential Newton, MA. Tom traces its founding to post-WWII MIT mechanical engineering vacuum-melting innovation.
 
-### PROPOSED: Nuclear Metals Concord depleted uranium extrusion
+### Nuclear Metals Concord depleted uranium extrusion
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** PROPOSED: "Nuclear Metals Concord depleted uranium extrusion"
+- **canonical_cluster_id:** PROPOSED: Nuclear Metals Concord depleted uranium extrusion
 - **Frame in this lecture:** Concord, MA company (now largely defunct) that extruded depleted uranium for bullets, and produced tantalum wire by cold-weld die forging. Tom obtained his tantalum cold-weld sample from them.
 
 ### Kuwait depleted uranium contamination

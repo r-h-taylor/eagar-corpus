@@ -94,7 +94,7 @@ This lecture is structured around several developed teaching cases (eyeglass hin
 
 ### Fastenal (Rockford, Illinois)
 - **Anchor:** `§5.p8`
-- **canonical_cluster_id:** `PROPOSED: Fastenal Rockford Illinois plant tour`
+- **canonical_cluster_id:** PROPOSED: Fastenal Rockford Illinois plant tour
 - **Frame in this lecture:** Tom recommends the video tour of Fastenal's plant as documentation of optimized 70-year fastener manufacturing.
 
 ### Desktop Metal eyeglass hinges
@@ -104,7 +104,7 @@ This lecture is structured around several developed teaching cases (eyeglass hin
 
 ### Digital Alloys (Joule printing)
 - **Anchor:** `§8.p2`, `§8.p9`
-- **canonical_cluster_id:** `PROPOSED: Digital Alloys Joule printing process`
+- **canonical_cluster_id:** PROPOSED: Digital Alloys Joule printing process
 - **Frame in this lecture:** The company whose scientific advisory board Tom sits on; Alex Huckstep's employer. Joule printing is their wire-based directed-energy process. Tom uses their cost charts but notes they pick favorable axes ($/cc vs $/kg).
 
 ## Figures referenced

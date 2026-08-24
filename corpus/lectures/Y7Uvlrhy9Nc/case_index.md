@@ -6,7 +6,7 @@
 
 ### NASA X-33 space plane
 - **Anchors:** `§7.p1`, `§7.p2`, `§7.p3`, `§10.p1`, `§10.p2`, `§10.p3`, `§11.p1`, `§11.p2`, `§11.p3`, `§11.p4`, `§11.p5`, `§12.p1`, `§12.p2`, `§12.p3`, `§12.p4`
-- **canonical_cluster_id:** "NASA X-33 space plane"
+- **canonical_cluster_id:** "X-33 Space Plane"
 - **Frame in this lecture:** Tom's extended case study of the failed $1.3B Lockheed Martin Skunk Works program. Used to teach: (1) rapid prototyping as a buzzword that can override engineering judgment; (2) how a 2.0 safety factor degraded to 1.05 through autoclave delamination; (3) how NASA misread the 3M epoxy data sheet (10% remaining strength after 10 days, not 80–90%); (4) the unverified hydrogen permeability number off by three orders of magnitude that became the final Achilles heel.
 - **Materials/systems:** 3D woven carbon fiber composite (rejected as too expensive); Nomex honeycomb sandwich with 0/45/90 carbon fiber plies; 3M epoxy adhesive (refrigerator-cured); Inconel and titanium internal struts; aerospike engines (NASA Stennis); aluminum LOX tank; multi-lobe composite LH2 tanks.
 - **Era:** Post-first-Gulf-War (early-to-mid 1990s); contract awarded for 33-month design-to-flight.
