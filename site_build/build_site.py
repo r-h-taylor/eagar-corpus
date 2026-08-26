@@ -470,13 +470,24 @@ def build_search_index(lectures, inverted_case_index):
 # Rendering
 # ---------------------------------------------------------------------------
 
-def setup_jinja():
+def setup_jinja(base_path=""):
+    """
+    base_path is the URL path the site is served under, without a trailing
+    slash: "" at a domain root, "/eagar-corpus" for a project site. The
+    templates read nav_prefix / static_prefix / home_prefix, which default to
+    "/" and so only resolve correctly at a domain root.
+    """
     env = Environment(
         loader=FileSystemLoader(TEMPLATES_DIR),
         autoescape=select_autoescape(["html", "xml"]),
         trim_blocks=True,
         lstrip_blocks=True,
     )
+    bp = base_path.rstrip("/")
+    env.globals["base_path"] = bp
+    env.globals["nav_prefix"] = bp + "/"
+    env.globals["home_prefix"] = bp + "/"
+    env.globals["static_prefix"] = bp + "/static"
     return env
 
 
@@ -806,7 +817,11 @@ def main():
     print(f"  {len(search_docs)} search documents")
 
     print("Setting up templates...")
-    env = setup_jinja()
+    from urllib.parse import urlparse
+    base_path = urlparse(args.base_url).path.rstrip("/")
+    env = setup_jinja(base_path)
+    if base_path:
+        print(f"  Serving under {base_path}/")
 
     print("Rendering site...")
     render_all(lectures, inverted, env, search_docs)
