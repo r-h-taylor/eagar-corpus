@@ -459,6 +459,7 @@ def build_search_index(lectures, inverted_case_index):
             "cluster_id": cluster_id,
             "content": f"{cluster_id} {content}",
             "appearance_count": len(appearances),
+            "lecture_count": len({a["video_id"] for a in appearances}),
         })
 
     # Lecture-level documents
@@ -621,6 +622,7 @@ def render_all(lectures, inverted, env, search_docs):
             cluster_id=cluster_id,
             appearances=snippets,
             appearance_count=len(snippets),
+            lecture_count=len({a["video_id"] for a in appearances}),
             is_proposed=any(a["is_proposed"] for a in appearances),
         )
         # Sanitize cluster_id for filename
@@ -635,6 +637,8 @@ def render_all(lectures, inverted, env, search_docs):
                 "cluster_id": cid,
                 "safe_id": re.sub(r"[^a-zA-Z0-9_.-]", "_", cid)[:120],
                 "appearance_count": len(appearances),
+                "lecture_count": len({a["video_id"] for a in appearances}),
+            "lecture_count": len({a["video_id"] for a in appearances}),
                 "is_proposed": any(a["is_proposed"] for a in appearances),
             }
             for cid, appearances in inverted.items()

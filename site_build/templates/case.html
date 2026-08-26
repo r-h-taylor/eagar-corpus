@@ -10,7 +10,7 @@
 <div class="case-header">
   <h1>{{ cluster_id }}</h1>
   {% if is_proposed %}<p class="proposed-flag-big">PROPOSED case — pending reconciliation against canon</p>{% endif %}
-  <p class="case-summary">Appears in {{ appearance_count }} lecture{{ "s" if appearance_count != 1 else "" }}.</p>
+  <p class="case-summary">Appears at {{ appearance_count }} point{{ "s" if appearance_count != 1 else "" }}{% if lecture_count and lecture_count != appearance_count %} across {{ lecture_count }} lectures{% elif lecture_count %} in {{ lecture_count }} lecture{{ "s" if lecture_count != 1 else "" }}{% endif %}.</p>
 </div>
 
 <section class="appearances">
