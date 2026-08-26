@@ -10,7 +10,7 @@
 <section class="corpus-stats">
   <div class="stat"><span class="num">{{ lecture_count }}</span> lectures</div>
   <div class="stat"><span class="num">{{ "{:,}".format(total_words|int) }}</span> cleaned words</div>
-  <div class="stat"><span class="num">{{ canonical_case_count }}</span> canonical cases</div>
+  <div class="stat"><span class="num">{{ "{:,}".format(canonical_case_count) }}</span> canonical cases</div>
 </section>
 
 <section class="entry-points">

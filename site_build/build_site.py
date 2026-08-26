@@ -74,6 +74,11 @@ TEMPLATES_DIR = ROOT / "site_build" / "templates"
 STATIC_DIR = ROOT / "site_build" / "static"
 SITE_OUT = ROOT / "site"
 
+import sys as _sys
+_sys.path.insert(0, str(ROOT / "pipeline"))
+from aliases import resolve, clean_id, split_multivalue, parse_fields
+
+
 REQUIRED_FILES = [
     "layer2.md", "layer3.md", "anchors.json",
     "transformation_log.md", "editorial_register.md",
@@ -255,17 +260,23 @@ def parse_case_index(text):
         case_name = m.group(1).strip()
         body = m.group(2)
 
-        # Look for canonical_cluster_id
-        cluster_match = re.search(
-            r"\*\*canonical_cluster_id:\*\*\s*[\"']?([^\"'\n]+?)[\"']?\s*$",
-            body, re.MULTILINE,
-        )
-        cluster_id = cluster_match.group(1).strip() if cluster_match else case_name
-        # Strip surrounding quotes
-        cluster_id = cluster_id.strip("\"'")
-        is_proposed = cluster_id.startswith("PROPOSED:")
+        # Parse the canonical_cluster_id with the shared, delimiter-tolerant
+        # parser rather than a local regex. A stricter pattern misses 377
+        # blocks corpus-wide and falls back to the ### heading, which is each
+        # lecture's own ad-hoc naming and defeats alias resolution.
+        fields = parse_fields(body)
+        if fields:
+            primary, _others = fields[0]
+        else:
+            primary = case_name
+        cleaned = clean_id(primary)
+        is_proposed = cleaned.startswith("PROPOSED:")
         if is_proposed:
-            cluster_id = cluster_id[len("PROPOSED:"):].strip()
+            cluster_id = cleaned[len("PROPOSED:"):].strip()
+        else:
+            cluster_id = resolve(primary)
+        if not cluster_id:
+            continue  # commentary or explicit non-match, not a case
 
         # Anchor(s)
         anchor_match = re.search(
