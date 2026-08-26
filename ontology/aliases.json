@@ -1,0 +1,202 @@
+{
+  "_about": "Canonical cluster name -> known variant names. Consulted by pipeline/aliases.py, which resolves ids at parse time in reconcile_canon.py and build_casemap_data.py. Add new variants here rather than patching downstream. Run `python3 pipeline/aliases.py --scan` to find unresolved near-matches.",
+  "_provenance": "Initial contents derived from a similarity sweep of 1,298 clusters at threshold 0.72, tested against lecture-overlap evidence. See docs/alias_decisions.json for the rejected pairs and the reasoning.",
+  "aliases": {
+    "1906 San Francisco earthquake and fire": [
+      "San Francisco earthquake and fires"
+    ],
+    "Air Force 100,000-ton forging press (unbuilt)": [
+      "Air Force 100,000-ton forging press project",
+      "Unbuilt 100,000-ton Air Force forging press"
+    ],
+    "American Airlines composite rudder separation": [
+      "American Airlines composite aircraft repair"
+    ],
+    "Ammunition dump lightning strike": [
+      "Army ammunition dump lightning strike",
+      "Historical ammunition dump lightning strike"
+    ],
+    "Audi-Alcoa all-aluminium vehicle development": [
+      "Audi all-aluminum automobiles",
+      "Audi-Alcoa aluminum vehicle development partnership",
+      "Alcoa-Audi all-aluminum automobile development"
+    ],
+    "Black Hawk tail rotor washer stress-corrosion failure": [
+      "Black Hawk helicopter tail rotor washer failure",
+      "Blackhawk helicopter stress corrosion cracking failure",
+      "Aluminum washer stress-corrosion cracking failure"
+    ],
+    "Boeing door product center": [
+      "Boeing door product center cost accounting failure",
+      "Boeing door product center manufacturing"
+    ],
+    "Boston warehouse fire protection piping corrosion": [
+      "Boston warehouse fire protection system corrosion",
+      "Warehouse fire protection system piping corrosion"
+    ],
+    "China rare earth embargo on Japan (2010)": [
+      "2010 China rare earth embargo on Japan",
+      "China rare earth embargo on Japan"
+    ],
+    "Church building galvanized handrail paint failure (1986)": [
+      "1986 church building galvanized steel handrail paint failure",
+      "Church building galvanized handrails and light posts paint failure"
+    ],
+    "Container ship wire rope fracture": [
+      "Cargo container ship wire rope fracture"
+    ],
+    "Copperweld continuous caster breakout": [
+      "Continuous caster breakout"
+    ],
+    "Ford Aerostar rear axle fatigue failures (1985)": [
+      "1985 Ford Aerostar rear axle fatigue failures",
+      "Ford Aerostar axle fatigue failures"
+    ],
+    "Forging press weld repair (7,000/7,500-ton)": [
+      "7,000-ton forging press weld repair",
+      "7500-ton forging press failure"
+    ],
+    "GTD-111 superalloy patent dispute": [
+      "GE GTD-111 nickel superalloy patent dispute"
+    ],
+    "German superplasticity research (1930s)": [
+      "German superplastic tensile bar (1934)",
+      "German superplasticity research (1938, lost in WWII)"
+    ],
+    "Johnson & Johnson surgical instrument consulting": [
+      "Johnson & Johnson laser surgery instrument coating",
+      "Johnson & Johnson surgical instruments consulting"
+    ],
+    "Lead-acid battery terminal corrosion from road salt": [
+      "Car battery terminal corrosion (road salt environment)"
+    ],
+    "Leaded brass plumbing fittings phase-out": [
+      "Leaded brass plumbing fittings lawsuit"
+    ],
+    "Leech and Garner gold mill consulting": [
+      "Leech and Garner consulting retainer"
+    ],
+    "MIT Building 20 asbestos liability": [
+      "MIT building asbestos remediation"
+    ],
+    "MIT materials department tenure discrimination settlement": [
+      "MIT Materials Department tenure discrimination settlement",
+      "MIT materials department tenure settlement"
+    ],
+    "MIT titanium flame-cutting incident": [
+      "MIT titanium flame-cutting environmental incident",
+      "Titanium flame cutting lab smoke incident"
+    ],
+    "Mercury/Apollo graphite lubricant failure": [
+      "Mercury/Apollo program graphite lubricant failure",
+      "NASA Mercury space program graphite lubricant failure"
+    ],
+    "Molten Metal Technology": [
+      "Molten Metal Technologies",
+      "Molten Metal Technology tenure case"
+    ],
+    "NYC titanium heat exchanger fire": [
+      "Titanium heat exchanger corrosion failure",
+      "New York City titanium heat exchanger corrosion failure"
+    ],
+    "Naval Research Lab laser welding of HY-80": [
+      "Naval Research Lab HY80 laser welding study",
+      "Naval Research Lab Laser Welding of HY-80"
+    ],
+    "Navy braze joint consulting case": [
+      "Navy TLP bonding consulting case",
+      "Navy gold-copper braze joint consulting case"
+    ],
+    "Navy ship recuperator heat exchanger failure": [
+      "Naval ship recuperator heat exchanger failure"
+    ],
+    "Ohio River steamboat boiler explosions": [
+      "Early steamboat boiler explosions (Ohio River)",
+      "Ohio River steamboat boiler explosion"
+    ],
+    "Oil City refinery storage tank explosion": [
+      "Oil City refinery explosion"
+    ],
+    "Pensacola crash": [
+      "Pensacola Florida crash"
+    ],
+    "Pittsburgh Plate Glass mile-long factory": [
+      "Pittsburgh Plate Glass mile-long facility"
+    ],
+    "Rhodesian chromite embargo and laundering": [
+      "Rhodesian chrome embargo"
+    ],
+    "SS Esso Manhattan brittle fracture": [
+      "ESSO Manhattan",
+      "USS Esso Manhattan",
+      "SS Manhattan fracture at sea",
+      "USS Manhattan brittle fracture"
+    ],
+    "Sailboat trailer weld failure on Route 24": [
+      "Nova Scotia sailboat trailer weld failure",
+      "Boat trailer weld failure on highway"
+    ],
+    "Single-crystal turbine blades (Pratt & Whitney / GE)": [
+      "Pratt & Whitney single-crystal turbine blade",
+      "Pratt & Whitney turbine blade",
+      "Single-crystal turbine blades (GE/Pratt & Whitney)"
+    ],
+    "Soviet aluminium dumping and Alcoa/Norsk Hydro market collapse": [
+      "Soviet aluminum dumping and Alcoa/Norsk Hydro market collapse",
+      "Soviet Union aluminum dumping (1980s)"
+    ],
+    "Soviet titanium creep-fatigue discovery (1982)": [
+      "Soviet titanium submarine (Alpha-class) creep-fatigue failures",
+      "U.S. Navy titanium creep-fatigue research (1982 Soviet discovery)"
+    ],
+    "Soviet titanium electro-slag welding technology": [
+      "Soviet electro-slag remelting quality issue"
+    ],
+    "Speedboat propeller shaft fatigue failure": [
+      "High-speed boat propeller shaft failure"
+    ],
+    "Steel industry excess capacity crisis": [
+      "U.S. Steel Industry Overcapacity Crisis"
+    ],
+    "Submarine first-dive stress relief": [
+      "Submarine first deep dive stress relief mechanism",
+      "US Navy submarine first-dive stress relief"
+    ],
+    "Superconducting DC transmission line trial in Manhattan": [
+      "DC transmission line in Manhattan"
+    ],
+    "Sylvania light bulb glass strength demonstration": [
+      "Freshly made light bulb strength demonstration"
+    ],
+    "Turbine blade casting development at Pratt & Whitney": [
+      "Air-cooled turbine blade development (Pratt Whitney)"
+    ],
+    "U.S. Navy heavy-section titanium submarine welding": [
+      "U.S. Navy heavy-section titanium welding (1980s)",
+      "US Navy heavy-section titanium submarine program",
+      "U.S. Navy titanium submarine welding research (Alvin prototype program)",
+      "Titanium submarine heavy-section welding development",
+      "Navy titanium submarine welding research",
+      "Titanium submarine hull design"
+    ],
+    "U.S. Steel's last large open hearth furnace": [
+      "US Steel Basic Open Hearth failure"
+    ],
+    "USS Nautilus hydrogen cracking during construction": [
+      "Nautilus submarine hydrogen cracking during construction",
+      "USS Nautilus hydrogen cracking"
+    ],
+    "USS Seawolf (SSN-21) hydrogen cracking": [
+      "Seawolf submarine hydrogen cracking",
+      "USS Seawolf HY-100 hydrogen cracking",
+      "SSN-21 Sea Wolf hull cracking problem",
+      "USS Sea Wolf submarine hull cracking"
+    ],
+    "Wright brothers' aircraft engine": [
+      "Wright Brothers aircraft engine"
+    ],
+    "X-33 space plane": [
+      "X-33 Space Plane"
+    ]
+  }
+}

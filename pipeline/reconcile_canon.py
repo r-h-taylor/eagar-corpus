@@ -45,6 +45,8 @@ import time
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from aliases import extract_cluster_ids, resolve
+
 try:
     from anthropic import Anthropic
 except ImportError:
@@ -371,8 +373,8 @@ def main():
             layer3_per_lec[lec_dir.name] = l3.read_text(encoding="utf-8")
         if ci.exists():
             text = ci.read_text(encoding="utf-8")
-            for m in re.finditer(r'canonical_cluster_id:\s*\*?\*?\s*"([^"]+)"', text):
-                cid = m.group(1)
+            # Delimiter- and alias-aware parsing; see pipeline/aliases.py.
+            for cid in extract_cluster_ids(text, include_proposed=True):
                 if cid.startswith("PROPOSED:"):
                     proposed_clusters_per_lec[lec_dir.name].append(cid)
                 else:

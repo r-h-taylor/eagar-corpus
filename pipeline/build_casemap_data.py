@@ -25,6 +25,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from aliases import parse_fields, resolve
+
 LECTURES_DIR = Path("output/v1/lectures")
 OUT_PATH = Path("output/v1/casemap_data.json")
 TAGS_PATH = Path("output/v1/case_function_tags.json")  # produced by classify_cases.py
@@ -104,12 +106,13 @@ def parse_case_anchors(text: str) -> list[dict]:
     for block in re.split(r"\n(?=### )", text):
         if not block.startswith("### "):
             continue
-        cid_m = re.search(r'canonical_cluster_id:\s*\*?\*?\s*"([^"]+)"', block)
-        if not cid_m:
+        fields = parse_fields(block)
+        if not fields:
             continue
-        cluster_id = cid_m.group(1)
-        if cluster_id.startswith("PROPOSED:"):
-            continue  # Skip PROPOSED, focus on canonical
+        # First value only; multi-value fields list related cases, not aliases.
+        cluster_id = resolve(fields[0][0])
+        if not cluster_id or cluster_id.startswith("PROPOSED:"):
+            continue  # Skip PROPOSED and unparseable, focus on canonical
         anchor_m = re.search(r"\*\*Anchor:\*\*\s*([^\n]+)", block)
         anchors = []
         if anchor_m:
