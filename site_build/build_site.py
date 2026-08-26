@@ -491,6 +491,23 @@ def setup_jinja(base_path=""):
     return env
 
 
+def _canonical_case_count():
+    """
+    Number of deduplicated canonical clusters, from casemap_data.json.
+
+    Distinct from len(inverted), which counts every cluster id referenced
+    anywhere in the lecture files before alias resolution and PROPOSED
+    filtering. The canonical figure is what the case map and the case pages
+    actually contain, so it is what the home page should report.
+    """
+    try:
+        d = json.loads(CASEMAP_SRC.read_text(encoding="utf-8"))
+        cases = d["cases"] if isinstance(d, dict) else d
+        return len(cases)
+    except Exception:
+        return None
+
+
 def render_all(lectures, inverted, env, search_docs):
     SITE_OUT.mkdir(parents=True, exist_ok=True)
     (SITE_OUT / "lectures").mkdir(exist_ok=True)
@@ -751,6 +768,7 @@ def render_all(lectures, inverted, env, search_docs):
     out = home_tmpl.render(
         lecture_count=len(lectures),
         case_count=len(inverted),
+        canonical_case_count=_canonical_case_count(),
         proposed_count=sum(
             1 for cid, apps in inverted.items() if any(a["is_proposed"] for a in apps)
         ),
