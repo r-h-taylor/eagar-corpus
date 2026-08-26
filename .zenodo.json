@@ -2,7 +2,9 @@
   "upload_type": "dataset",
   "title": "The Eagar Corpus: the recorded teaching of Thomas W. Eagar (MIT, 2011-2022)",
   "creators": [
-    { "name": "Taylor, Richard H." }
+    {
+      "name": "Taylor, Richard H."
+    }
   ],
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -13,6 +15,6 @@
     "teaching corpus",
     "Thomas W. Eagar"
   ],
-  "description": "<p>The Eagar Corpus is an edited scholarly edition of 231 lectures self-recorded by Thomas W. Eagar (1950-2022), Professor of Materials Engineering at MIT, between 2011 and 2022, spanning welding metallurgy, fusion and solid-state welding, corrosion, casting, deformation processing, materials selection, codes and standards, and total quality improvement.</p><p>Lectures are presented in editorial layers running from the unmodified auto-caption transcript through to a readable edition with scholarly annotation. Each lecture carries a stable identifier of the form CODE_TERMYEAR_NN (e.g. WM_Su2014_01); passages are cited by identifier plus paragraph anchor. The deposit also includes a deduplicated canonical case index of 935 cases with function tags, the editorial convention catalogue, per-lecture editorial and transformation registers, and the pipeline code.</p><p>Browse the corpus at https://r-h-taylor.github.io/</p><p>Each release carries its own version DOI, shown on this page. To cite the corpus as a whole, use the concept DOI 10.5281/zenodo.20226048, which always resolves to the latest version.</p>",
+  "description": "<p>The Eagar Corpus is an edited scholarly edition of 231 lectures (215 of them Eagar's own teaching; 16 guest lectures or educational films shown in class), approximately 1.5 million words, self-recorded by Thomas W. Eagar (1950-2022), Professor of Materials Engineering at MIT, between 2011 and 2022, spanning welding metallurgy, fusion and solid-state welding, corrosion, casting, deformation processing, materials selection, codes and standards, and total quality improvement.</p><p>Lectures are presented in editorial layers running from the unmodified auto-caption transcript through to a readable edition with scholarly annotation. Each lecture carries a stable identifier of the form CODE_TERMYEAR_NN (e.g. WM_Su2014_01); passages are cited by identifier plus paragraph anchor. The deposit also includes a deduplicated canonical case index with function tags, the editorial convention catalogue, per-lecture editorial and transformation registers, and the pipeline code.</p><p>Browse the corpus at https://r-h-taylor.github.io/eagar-corpus/</p><p>Each release carries its own version DOI, shown on this page. To cite the corpus as a whole, use the concept DOI 10.5281/zenodo.20226048, which always resolves to the latest version.</p>",
   "notes": "Cite the version DOI shown on this record for a specific release, or the concept DOI 10.5281/zenodo.20226048 for the corpus as a whole."
 }
