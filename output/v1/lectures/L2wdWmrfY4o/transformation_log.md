@@ -128,7 +128,9 @@ Correction on Rickover: removed the bracket. Layer 2 reads "what Rickover had fo
 
 ### p20 (L605–650)
 - "puffer" → "Pfeffer" (tentative). The technician's name; flag for editor if Tom is misremembering or captioner misheard.
-- "second liquid helium" — likely "submerge in liquid helium" but unclear; preserved as captioner gave it because the correction is ambiguous.
+- "second liquid helium" — captioner error. Read as "sit it in liquid helium" and corrected at layer 3; layer 2 preserves the captioner text. (Earlier revisions of this log recorded it as preserved-because-ambiguous; superseded.)
+
+- "and because my thesis advisor by 1965, with Margaret MacVicar" — preserved verbatim. The clause is unfinished in the spoken record; the completion is made at layer 3 and logged in the editorial register. Do not read the sentence appositively: Bob Rose, not MacVicar, was Tom's thesis advisor (see `p21`).
 
 ### p21 (L651–710)
 - "Kennedy Fellow" — Tom said "cabin is fellow" per captioner; this is captioner garble for either "Kennedy Fellow" or "Marshall Fellow" or similar. Going with Tom's likely phrasing based on MacVicar's biography (Marshall Scholar at Oxford); flagged in editorial register if needed.

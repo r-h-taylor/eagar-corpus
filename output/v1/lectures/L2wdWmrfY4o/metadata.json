@@ -35,7 +35,7 @@
     "Daniel Kahneman",
     "Robert Sprague",
     "Jim Williams",
-    "Theodore von K\u00e1rm\u00e1n",
+    "Theodore von Kármán",
     "Joel Moses",
     "Thomas Edison",
     "Brian Josephson",
@@ -80,7 +80,7 @@
   "works_cited": [
     "Thinking Fast and Slow (Kahneman)",
     "The Builders: Marvels of Engineering (National Geographic Society)",
-    "Methods of Theoretical Physics (Morse & Feshbach) \u2014 referenced approximately as 'Theoretical Modern Physics'"
+    "Methods of Theoretical Physics (Morse & Feshbach) — referenced approximately as 'Theoretical Modern Physics'"
   ],
   "editorial_flags": [
     "Pfeffer/puffer: technician name tentative",
@@ -88,7 +88,8 @@
     "Kennedy Fellow vs Marshall Fellow: MacVicar's postgrad fellowship tentative",
     "Rickover: bracketed [Admiral] inserted for reader clarity",
     "Morrison Fishbach: possibly captioner garble for 'Morse and Fishbach'",
-    "p20 'second liquid helium': likely 'submerge in liquid helium' but ambiguous; preserved"
+    "p20 'second liquid helium': captioner error, read as 'sit it in liquid helium' and corrected at layer 3",
+    "p20 thesis-advisor clause: unfinished in the spoken record; Bob Rose was Tom's advisor, not MacVicar. Completion bracketed at layer 3 and logged in the editorial register"
   ],
   "course_canonical": "What is Engineering",
   "course_module": "What is Engineering",

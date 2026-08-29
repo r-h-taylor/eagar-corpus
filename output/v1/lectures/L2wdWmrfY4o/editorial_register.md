@@ -31,7 +31,8 @@ The §7/§8 break is placed at the slide pivot from Maslow's hierarchy to the sp
 - "Theoretical Modern Physics or something" preserved with Tom's hedge — the actual book is *Methods of Theoretical Physics* (Morse & Feshbach, 1953), but Tom's uncertainty is in the spoken record and is preserved as such rather than silently corrected, since the misremembered title is not factually misleading on its face.
 
 ### §5 — Josephson and MacVicar
-- "second liquid helium" (L2 `p20`) is a captioner error for "sit it in liquid helium," silently corrected.
+- "second liquid helium" (L2 `p20`) is a captioner error for "sit it in liquid helium," silently corrected. Note: `transformation_log.md` and `metadata.json` previously recorded this as preserved-because-ambiguous; both have been updated to match.
+- §5.p2: layer 2 reads "and because my thesis advisor by 1965, with Margaret MacVicar." An earlier layer 3 rendering dropped "with" and inserted "of," producing an appositive that wrongly made MacVicar Tom's thesis advisor. The comitative is restored and `['s work]` supplied to complete the clause. §5.p3 establishes the actual relationship: Bob Rose was Tom's thesis advisor and MacVicar's collaborator on the tunneling experiments, and Pfeffer trained them both in the same laboratory.
 - "Yeah, Margaret and Tucker, get any kind of warrants" (L2 `p22`) is a captioner garbling of the student's question "Did Margaret get any kind of recognition" — restored from context at §5.p6. Tom's answer makes clear what was asked.
 
 ### §6 — Webster's and engineering schools
@@ -65,7 +66,8 @@ None at section scope. All within-paragraph smoothings (e.g., Tom's self-correct
 1. **§4.p14** — Title of Morse & Feshbach book preserved as Tom's hedged "Theoretical Modern Physics or something" rather than silently corrected to *Methods of Theoretical Physics*. The hedge is Tom's; the captioner did not garble it.
 2. **§8.p5** — Student turn "[comment about prevention]" is a placeholder. L2 `p38` opens "Being prevention" which is likely a captioner mis-transcription of the student's actual question, but the original audio would be needed to recover what was asked.
 3. **§10.p4** — Closing line trails off; layer 3 supplies "him" as the inferred pronoun for the lecturer Tom is naming as possibly covering for him. This is a minor inferential completion; if Taylor wants it stricter, render as ellipsis instead.
-4. **Daniel Kahneman name** — restored silently throughout §1. Tom names him; the captioner mis-transcribed. Logged here for transparency rather than in transformation_log.md because the correction crosses multiple paragraphs.
+4. **§5.p2 thesis-advisor attribution** — the bracketed `['s work]` is an inferential completion of a clause Tom left unfinished. The correction it makes is not optional (the uncorrected reading asserts a false relationship), but the specific wording is editorial. If a stricter reading is wanted, render the clause verbatim from layer 2 and leave the resolution to a layer 4 note.
+5. **Daniel Kahneman name** — restored silently throughout §1. Tom names him; the captioner mis-transcribed. Logged here for transparency rather than in transformation_log.md because the correction crosses multiple paragraphs.
 
 ## Decisions that are *not* permitted at layer 3
 

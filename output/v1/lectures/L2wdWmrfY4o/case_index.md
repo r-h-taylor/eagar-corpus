@@ -25,7 +25,7 @@ This lecture is a thematic and historical opener for "What is Engineering." It i
 ### Margaret MacVicar niobium tunneling experiments
 - **Anchor:** `§5.p2`, `§5.p3`, `§5.p7`
 - **canonical_cluster_id:** "Margaret MacVicar niobium tunneling experiments"
-- **Frame in this lecture:** MacVicar (Tom's thesis advisor) did the experimental confirmation of the Josephson effect at MIT — grew niobium single crystals, laid down insulating layer, did tunneling experiments in liquid helium. Tom uses the case to launch into MacVicar's career trajectory (UROP founder, Dean of Undergraduate Education, biology requirement, Exxon board, death at 41-42 of brain cancer) and to make the point that MIT physics wouldn't admit its own (the Feynman-to-Princeton aside).
+- **Frame in this lecture:** MacVicar, a doctoral student of Tom's thesis advisor Bob Rose, did the experimental confirmation of the Josephson effect at MIT — grew niobium single crystals, laid down insulating layer, did tunneling experiments in liquid helium. Tom uses the case to launch into MacVicar's career trajectory (UROP founder, Dean of Undergraduate Education, biology requirement, Exxon board, death at 41-42 of brain cancer) and to make the point that MIT physics wouldn't admit its own (the Feynman-to-Princeton aside).
 
 ### Edison's carbonized horsehair light bulb filament
 - **Anchor:** `§5.p3`, `§5.p5`
