@@ -16,7 +16,7 @@
 ### p1 (L1–L30)
 - Capitalization at sentence starts.
 - "martin sitting stainless steels" → "martensitic stainless steels" — captioner garbling, unambiguous correction in context.
-- "Mike Baumforth" — proper noun capitalized; spelling inferred from context (referenced as a guest lecturer the day before).
+- "mike baumforth" → "Mike Balmforth" — captioner mishearing of the surname. Balmforth gave the previous day's guest lecture (4yImu8D5fOs) and names himself there; corrected against that source.
 - "600 degrees fahrenheit" → "600 degrees Fahrenheit" — proper noun capitalization.
 
 ### p2 (L32–L38)

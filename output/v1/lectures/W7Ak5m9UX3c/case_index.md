@@ -26,6 +26,6 @@ This is a short lecture (≈9 minutes) focused on the technical content of prehe
 
 ## References to other classroom material
 
-- **Mike Baumforth lecture (preceding day):** `§1.p1`. Tom references Baumforth's figure of 600°F preheat for martensitic stainless steels. This is a cross-lecture reference within the same course; not a case, but a pedagogical pointer.
+- **Mike Balmforth lecture (preceding day):** `§1.p1`. Tom references Balmforth's figure of 600°F preheat for martensitic stainless steels. This is a cross-lecture reference within the same course; not a case, but a pedagogical pointer.
 - **Stout & Doty, *Weldability of Steels*:** `§5.p2`. Tom's reference to the standard cookbook source for preheat tables. Not a case; a bibliographic pointer.
 - **V-shaped hydrogen diffusion curve / Venn diagram:** `§3.p2`, `§5.p1`. Tom refers back to diagrams introduced earlier in the course (the V-curve for hydrogen escape rate vs. temperature, and the Venn diagram of hydrogen-cracking factors: hydrogen × hardness × stress). Not cases; recurring teaching aids.

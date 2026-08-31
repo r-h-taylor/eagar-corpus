@@ -19,7 +19,7 @@ Section breaks fall at natural teaching transitions: each new temperature regime
 ### §1.p1
 - Cut "Well actually" opener (false-start filler).
 - Cut "okay" twice as mid-clause filler.
-- "what level Mike Baumforth said yesterday … what temperature you said you had to preheat" — Tom's pronoun slip ("you said" mid-sentence referring to Baumforth) smoothed to "he said."
+- "what level Mike Balmforth said yesterday … what temperature you said you had to preheat" — Tom's pronoun slip ("you said" mid-sentence referring to Balmforth) smoothed to "he said."
 
 ### §1.p2
 - Cut filler "you know."

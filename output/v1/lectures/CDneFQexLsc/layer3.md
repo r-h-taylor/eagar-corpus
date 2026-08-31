@@ -51,7 +51,7 @@
 
 `§3.p6` I started out as a welding engineer. When I went to industry, they said you're a welding engineer. I actually worry about structural materials. You're going to need to pick one of these modules from the past, and you're going to have to watch it on your own. Then you're going to have to decide what you want to do your presentation on.
 
-`§3.p7` We're going to meet every day of the week that I'm here or Dr. Belmar is here. He and I were both down in Texas yesterday and Wednesday. So Mike Baumforth gave you an introduction, because it was first day of class and we didn't want to have an empty classroom. Today is my first lecture to talk about the course. I'm supposed to tell you, by MIT regulations, about certain types of requirements of the course.
+`§3.p7` We're going to meet every day of the week that I'm here or Dr. Belmar is here. He and I were both down in Texas yesterday and Wednesday. So Mike Balmforth gave you an introduction, because it was first day of class and we didn't want to have an empty classroom. Today is my first lecture to talk about the course. I'm supposed to tell you, by MIT regulations, about certain types of requirements of the course.
 
 `§3.p8` Officially it's Monday Tuesday Wednesday Thursday Friday, and Tuesdays and Thursdays are recitations. I have to tell the registrar that, because otherwise he won't let me have a classroom every day of the week. But we're going to finish up by mid-October, certainly before Halloween. I've never gone past Halloween. I don't want to go past then because as soon as you go off daylight savings time, it's very hard for the students to get here even at nine o'clock. I've learned that.
 

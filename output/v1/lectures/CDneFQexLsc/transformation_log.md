@@ -63,7 +63,7 @@
 - "advanced visual studies" → "Advanced Visual Studies" (MIT program) (p17).
 - "dr belmar" / "simone belmar" → "Dr. Belmar" / "Simone Belmar" — global.
 - "dr jenkins" → "Dr. Jenkins" (p19).
-- "mike baumforth" → "Mike Baumforth" (p21).
+- "mike baumforth" → "Mike Balmforth" (p21).
 - "five thousand pulls" → not present.
 - "the appian way you know made out of cement" — preserved.
 - "norm augustine" → "Norm Augustine" (p44).
