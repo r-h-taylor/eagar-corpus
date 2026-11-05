@@ -37,7 +37,7 @@ Eight sections. Breaks fall at clear teaching transitions:
 - **§4.p2.** "and and whatnot" duplication smoothed; "you know" filler removed.
 
 ### §5
-- **§5.p2.** "Admiral Fireball" preserved with editorial query bracket [Bruce DeMars?] — Tom appears to be using a nickname or misnaming. Bruce DeMars was Director of Naval Nuclear Propulsion in the early 1990s; the name "Fireball" doesn't match any admiral I can confirm. **Flag for editor review.** Preserved as Tom said it, with editorial bracket; convention 9 covers this.
+- **§5.p2.** "Admiral Fireball" corrected to "Admiral Firebaugh". Tom's own description, Chief Engineer of the Navy who had designed the Seawolf as a captain, identifies RADM Millard S. Firebaugh; the earlier [Bruce DeMars?] query bracket is withdrawn. Same captioner mishearing as corrected at DokriGA10Oo and Fx3xPdMmlac.
 - **§5.p2.** Tom says "18 of the hulls built" then in §5.p4 says "18 percent" — this is the same figure (eighteen percent of the hull). Layer 3 normalizes the first occurrence to "Eighteen percent of the hull built" to match the resolution Tom gives later. This is a **substantive editorial inference** about what Tom meant; flagged here for review.
 - **§5.p2.** Cut Tom's mid-sentence pivot on under-bead cracks: "because they always penetrate the surface — pretty bad, you can't even find it" — this is internally contradictory (under-bead cracks by definition don't penetrate the surface). Layer 3 reads "they don't penetrate the surface" — this is a **silent correction of a Tom slip**, per the rule that we correct things that would actively mislead a reader. **Flag for editor review** — this may instead want a bracketed correction.
 - **§5.p3.** "near, well, greater than 90 percent" smoothed to "greater than 90 percent" — Tom self-corrected mid-phrase.
@@ -61,7 +61,7 @@ Eight sections. Breaks fall at clear teaching transitions:
 
 ## Flags for editor review
 
-1. **Admiral "Fireball"** (§5.p2): Likely a Tom nickname for Adm. Bruce DeMars, but uncorroborated. Bracket retained.
+1. **Admiral "Fireball"** (§5.p2): resolved. Captioner mishearing of RADM Millard S. Firebaugh (Navy Chief Engineer; designed the Seawolf as a captain). Corrected to "Admiral Firebaugh"; DeMars query withdrawn.
 2. **"18 of the hulls" → "18 percent"** (§5.p2): Substantive normalization based on Tom's later self-clarification. Verify against video.
 3. **Under-bead cracks "don't penetrate the surface"** (§5.p2): Silent correction of Tom's mid-sentence misstatement. May want to be bracketed instead.
 

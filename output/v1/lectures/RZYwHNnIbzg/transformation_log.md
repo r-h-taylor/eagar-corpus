@@ -22,7 +22,7 @@
 - L173 "7014 7020" preserved as Tom hedges between codes; not corrected, this is genuine uncertainty on Tom's part.
 - L221 "tencel" → "tensile" throughout (captioner consistently misrecognizes; appears ~5 times).
 - L262, L271 "sea wolf" → "Seawolf" (USS Seawolf, SSN-21, proper noun).
-- L268 "admiral fireball" — preserved as Tom said it; this is Tom's nickname/spoonerism for Admiral Bruce DeMars (or similar). Bracketed as `Admiral Fireball [Bruce DeMars?]` on first occurrence with question mark since identification is uncertain. Flagged for editorial register.
+- L268 "admiral fireball" → "Admiral Firebaugh" — captioner mishearing of RADM Millard S. Firebaugh, Chief Engineer of the Navy, who designed the Seawolf as a captain (as Tom says here). Same captioner mishearing as corrected at DokriGA10Oo and Fx3xPdMmlac.
 - L295 "magnetite" preserved (correct).
 - L420 "hunt for reg right october they was the patrick now i can't remember patrick henry" → "*Hunt for Red [October]*, right, October. They was the — Patrick, now I can't remember, Patrick Henry" — captioner garbled "Red October" as "reg right october"; the *Hunt for Red October* film reference is unambiguous from context. Tom's stumbling over the submarine name (Patrick Henry vs. another) is preserved.
 - L536 "stealing" preserved as student speech (student likely said "steel and"; captioner garble; preserved with [inaudible] adjacent since this is student speech and we should not silently correct students).
@@ -31,7 +31,7 @@
 
 ## Tom's spoken slips bracketed
 
-- **p21 / p24**: "Admiral Fireball" — bracketed with `[Bruce DeMars?]` on first occurrence in p21. This appears to be either Tom's actual nickname for the admiral or a slip. Flagged in editorial register: was this Tom's idiom or a misremembering? Subsequent "Admiral Fireball" left unbracketed in p24 since it's clearly the same referent and Tom is using the name consistently (suggesting it may be his actual term).
+- **p21 / p24**: "Admiral Fireball" → "Admiral Firebaugh" in both occurrences; corrected silently per the proper-noun convention. The earlier `[Bruce DeMars?]` query bracket is removed.
 - **p33**: "Hunt for Reg right October" — corrected to "*Hunt for Red [October]*"; the bracket marks Tom's mid-word stumble preserved; captioner garbling at the start of the title corrected.
 
 ## Numerals
@@ -73,7 +73,7 @@ Tom hedging between electrode codes "7014, 7020" — preserved verbatim, this is
 "This one's dying too. I have ordered a new blue one, it quit working" — Tom's marker/pen aside. Preserved as pocket-patting equivalent (marker frustration).
 
 ### p21 (L266–L290)
-Seawolf section opens. "Admiral Fireball" bracketed on first occurrence.
+Seawolf section opens. Captioner's "Admiral Fireball" corrected to "Admiral Firebaugh".
 
 ### p23 (L329–L379)
 The swarf/Scrabble digression preserved verbatim — characteristic Eagar lateral move.
@@ -108,5 +108,5 @@ Tom's autobiographical tangent about Bethlehem Steel return, mortgage, consultin
 
 ## Editorial flags raised
 
-- **"Admiral Fireball"**: Tom uses this name consistently. Is this his actual nickname for the admiral (real, recurring usage), or a slip/joke? Needs editor judgment. Bracketed conservatively on first use with `[Bruce DeMars?]` since DeMars was a relevant Navy figure of the era but identification is not certain.
+- **"Admiral Fireball" (resolved)**: captioner mishearing of Firebaugh, not a nickname. Tom identifies him in §5.p2 as the Navy's Chief Engineer who had designed the Seawolf as a captain, which is RADM Millard S. Firebaugh. The earlier `[Bruce DeMars?]` query is withdrawn.
 - **"8027 steel"**: captioner had "827"; corrected to "8027" but this may need verification — could also be a different alloy designation Tom referenced from the Stout & Doty handout.

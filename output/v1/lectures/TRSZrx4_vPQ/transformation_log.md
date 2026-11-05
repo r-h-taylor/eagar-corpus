@@ -47,6 +47,7 @@
 - "$1,000 a ton" preserved as digits in technical density/cost calculation (p70).
 - "20° centigrade" preserved.
 - "10 to the minus 8" rendered as "10 to the minus 8" (verbal) consistently.
+- "admiral fireball" / "captain fireball" → "Admiral Firebaugh" / "Captain Firebaugh" (p99) — captioner mishearing of Millard S. Firebaugh, Seawolf designer. Same captioner mishearing as corrected at DokriGA10Oo and Fx3xPdMmlac.
 - Years (1797, 1802, 1823, 1865, 1888, 1890s, 1918, 1950, 1962, 1974, 1980, 1990, 1996, 2000s) as digits.
 - KSI / ksi: lowercased to "ksi" per metallurgical convention (preserved as Tom said it).
 

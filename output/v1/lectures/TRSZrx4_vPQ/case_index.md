@@ -172,7 +172,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 ### DARPA all-composite submarine workshop (post-Alpha)
 - **Anchor:** `§11.p21`–`§11.p22`
 - **canonical_cluster_id:** "Composite submarine repairability failure"
-- **Frame in this lecture:** After Congress zeroed Captain ("Admiral"-self-corrected-to-"Captain") Fireball's $100M Seawolf design budget and gave it to DARPA for "something beyond titanium," a three-day Reston VA workshop convened composites proponents. Congress later restored the Seawolf money while keeping DARPA's. Tom files it alongside Star Wars and the National Aerospace Plane as defense fantasy untethered from physics.
+- **Frame in this lecture:** After Congress zeroed Captain ("Admiral"-self-corrected-to-"Captain") Firebaugh's $100M Seawolf design budget and gave it to DARPA for "something beyond titanium," a three-day Reston VA workshop convened composites proponents. Congress later restored the Seawolf money while keeping DARPA's. Tom files it alongside Star Wars and the National Aerospace Plane as defense fantasy untethered from physics.
 - **Materials/systems:** composite submarine hull (proposed)
 - **Era:** Mid-1980s
 - **Related clusters in canon:** SSN-21 Sea Wolf hull cracking problem; USS Sea Wolf submarine hull cracking; National Aerospace Plane
@@ -229,6 +229,6 @@ This lecture's center of gravity is the **economics of structural-material proce
 - **§7.p16 "Doug Lemmberg"**: Name uncertain. Likely Douglas Lemberg, or possibly a misidentification of one of the actual 1996 ESD founders (Tom Magnanti chaired; Daniel Roos was central). Needs verification.
 - **§8.p8 elided researcher name**: Layer 2 had a `[Tom name]` placeholder for the MIT magnetothermal-refrigeration researcher Tom mentioned. Layer 3 generalized to "There are people who have been working." If identifiable (Dresselhaus group? others c. 2011), restore.
 - **§10.p15 "monolayers"**: Tom said "atoms"; layer 3 corrected to "monolayers" for dimensional consistency. Borderline against convention 16 — flagged.
-- **§11.p21 "Captain Fireball"**: Captioner garbling near-certain. Submarine-design budget for Seawolf ~1985, $100M, Congress vs. DARPA dispute — the actual referent should be recoverable from Navy program history. Possibly Captain (later RADM) John P. Fireball-sounding name? Editor with Navy submarine-program knowledge to identify.
+- **§11.p21 "Captain Fireball"**: resolved as a captioner mishearing of Captain (later RADM) Millard S. Firebaugh, Seawolf designer and later Chief Engineer of the Navy. Corrected to "Captain Firebaugh" in layers 2 and 3.
 - **§6.p2 "didn't last five or six years"**: Reads oppositely from Tom's apparent meaning (Gulf War was short, ~six weeks, prompting the rapid-prototyping push). Could be captioner error for "weeks" or a genuine Tom slip. Preserved per convention 16; flag for footnote.
 - **Many "PROPOSED:" entries** above (Westbrook plot, Kinik pad conditioner, Bi-Te thermoelectric, MIT department history, Langmuir/GE vaporization, Atlantic-coast cement barging, F-117 hangar, SDI critique, MP35N section-size limit, Morgrip single-use practice) may match existing canonical clusters under different names; canon curator should reconcile before adding new IDs.

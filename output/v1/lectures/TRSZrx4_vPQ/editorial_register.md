@@ -18,7 +18,7 @@ The standard convention catalog (v1) was applied. Most consistently visible in t
 6. **"Okay" handling** — cut as mid-clause filler in most places; preserved where it closes a thought ("If I didn't have to give you an assignment I wouldn't, okay.").
 7. **"You know" / "I mean"** — cut consistently as filler.
 8. **Soft reordering** — minimal in this lecture; see table below.
-9. **Bracketed corrections** — no Tom-slips of the Forward/Ford type in this lecture. Note: "Admiral Fireball" / "Captain Fireball" — Tom self-corrects in p99; layer 3 keeps the corrected form ("Captain Fireball") in both occurrences. The actual referent is almost certainly Admiral Hyman Rickover or similar; the captioner garbling ("Fireball") is preserved because the corrected reading is not unambiguous. Flagged below.
+9. **Bracketed corrections** — no Tom-slips of the Forward/Ford type in this lecture. "Admiral Fireball" / "Captain Fireball" in p99 is a captioner mishearing of Firebaugh: Tom self-corrects to "Captain", and Millard S. Firebaugh was the captain responsible for the Seawolf design in the mid-1980s. Corrected to "Captain Firebaugh"; see below.
 10. **Captioner garbling** — silently fixed when unambiguous ("NIS" → "NIST"; "Lockheed Martin Skunk Works in Palmdale" kept; "Vena, New York" / "Vinea, New York" — layer 3 uses "Vinea"; actual referent is likely Ravena, NY, flagged below).
 11. **Sectioning** — 11 sections, breaking at teaching transitions.
 12–15. Standard.
@@ -137,7 +137,7 @@ The standard convention catalog (v1) was applied. Most consistently visible in t
 - p92/92b: student turn labeled.
 - p93: "**Student:** Technically there would be structural applications for very small amounts" preserved.
 - p94/94b: student turn ("Surgical tweezers?") and longer follow-up turn both labeled.
-- p99: "Admiral Fireball" / "Captain Fireball" — Tom self-corrects mid-paragraph. Layer 3 uses "Captain Fireball" throughout. **Flagged** — actual referent unclear.
+- p99: "Admiral Fireball" / "Captain Fireball" → "Admiral Firebaugh" / "Captain Firebaugh" (Tom self-corrects to Captain). Layer 3 uses "Captain Firebaugh" throughout. Resolved.
 - p101: "I didn't get to it today, but we will get to it. Um, but it'll be on Monday" smoothed.
 
 ## Soft reorderings logged
@@ -161,7 +161,7 @@ No across-paragraph reorderings made. The lecture is delivered in fairly clean t
 
 5. **§10.p15 — "monolayers" vs. "atoms"**: Tom said "10 to the 8 atoms" but the dimensional analysis requires monolayers. Layer 3 silently corrected to "monolayers." This is the kind of correction that should arguably be footnoted rather than silent, per convention 16.
 
-6. **§11.p21 — "Captain Fireball"**: Tom self-corrects from "Admiral Fireball" to "Captain Fireball." Captioner garbling almost certain — "Fireball" is implausible as a real Navy officer name. Possibilities: Captain (later Admiral) somebody Pirie? Or this could be a real informal nickname. Flag for editor with Navy knowledge.
+6. **§11.p21 — "Captain Fireball"**: resolved. Captioner mishearing of Captain (later RADM) Millard S. Firebaugh, who held the Seawolf design budget in the mid-1980s and later became Chief Engineer of the Navy. Corrected to "Captain Firebaugh". Same captioner mishearing as corrected at DokriGA10Oo and Fx3xPdMmlac.
 
 7. **§6.p2 — "didn't last five or six years"**: Tom's actual meaning is that the first Gulf War was short (about six weeks), not that it lasted five or six years. The wording as preserved reads oddly. Could be argued as a Tom-misstatement preserved per convention 16, or as captioner garbling of "lasted five or six weeks." Flagged.
 
