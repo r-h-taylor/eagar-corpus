@@ -12,7 +12,7 @@ CC-BY-4.0 (see [LICENSE-DATA](LICENSE-DATA))
 
 ## What this is
 
-Thomas W. Eagar (1949–2022) was Professor of Materials Engineering at
+Thomas W. Eagar (1950–2022) was Professor of Materials Engineering at
 MIT, where he taught from 1976 until his death. Beginning in 2011 he
 self-recorded his classroom lectures and posted them publicly on
 YouTube under the channel `eagar.mit.edu`. The recordings span eleven
