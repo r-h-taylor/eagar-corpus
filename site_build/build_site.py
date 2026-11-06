@@ -796,7 +796,7 @@ def render_all(lectures, inverted, env, search_docs):
 
     # About page
     about_tmpl = env.get_template("about.html")
-    out = about_tmpl.render()
+    out = about_tmpl.render(canonical_case_count=_canonical_case_count())
     (SITE_OUT / "about.html").write_text(out, encoding="utf-8")
 
     # Search page

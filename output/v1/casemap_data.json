@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:02:38.272196+00:00",
+  "generated_at": "2026-11-06T00:05:44.650350+00:00",
   "n_cases": 1270,
   "summary": {
     "by_function_tag": {
@@ -56,7 +56,12 @@
         },
         {
           "video_id": "DokriGA10Oo",
-          "anchor": "?",
+          "anchor": "\u00a72.p5",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "DokriGA10Oo",
+          "anchor": "\u00a79.p1",
           "treatment": "substantive"
         },
         {
@@ -76,7 +81,12 @@
         },
         {
           "video_id": "GYtCQg57RNU",
-          "anchor": "?",
+          "anchor": "\u00a77.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "GYtCQg57RNU",
+          "anchor": "\u00a78.p1",
           "treatment": "substantive"
         },
         {
@@ -136,12 +146,17 @@
         },
         {
           "video_id": "RZYwHNnIbzg",
-          "anchor": "?",
+          "anchor": "\u00a75.p1",
           "treatment": "substantive"
         },
         {
           "video_id": "RZYwHNnIbzg",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "RZYwHNnIbzg",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         },
         {
@@ -166,7 +181,7 @@
         },
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a73.p1",
           "treatment": "substantive"
         },
         {
@@ -1061,7 +1076,77 @@
         },
         {
           "video_id": "Y7Uvlrhy9Nc",
-          "anchor": "?",
+          "anchor": "\u00a77.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a77.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a77.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a710.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a710.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a710.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a711.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a711.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a711.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a711.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a711.p5",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a712.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a712.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a712.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "Y7Uvlrhy9Nc",
+          "anchor": "\u00a712.p4",
           "treatment": "substantive"
         },
         {
@@ -1086,7 +1171,12 @@
         },
         {
           "video_id": "v-PMrqbjY1A",
-          "anchor": "?",
+          "anchor": "\u00a73.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "v-PMrqbjY1A",
+          "anchor": "\u00a73.p13",
           "treatment": "substantive"
         },
         {
@@ -1259,7 +1349,12 @@
         },
         {
           "video_id": "HuLV8P6ouwA",
-          "anchor": "?",
+          "anchor": "\u00a73.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a73.p5",
           "treatment": "substantive"
         },
         {
@@ -1319,7 +1414,17 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a73.p6",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a75.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a77.p4",
           "treatment": "substantive"
         }
       ]
@@ -2111,7 +2216,12 @@
         },
         {
           "video_id": "q4aHXOwAP0Y",
-          "anchor": "?",
+          "anchor": "\u00a72.p6",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "q4aHXOwAP0Y",
+          "anchor": "\u00a77.p2",
           "treatment": "substantive"
         },
         {
@@ -3072,12 +3182,32 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a73.p1",
           "treatment": "substantive"
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a75.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a77.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a76.p2",
           "treatment": "substantive"
         },
         {
@@ -3460,12 +3590,32 @@
         },
         {
           "video_id": "XI3NzU5YHIQ",
-          "anchor": "?",
+          "anchor": "\u00a71.p1",
           "treatment": "substantive"
         },
         {
           "video_id": "XI3NzU5YHIQ",
-          "anchor": "?",
+          "anchor": "\u00a72.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "XI3NzU5YHIQ",
+          "anchor": "\u00a73.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "XI3NzU5YHIQ",
+          "anchor": "\u00a74.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "XI3NzU5YHIQ",
+          "anchor": "\u00a73.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "XI3NzU5YHIQ",
+          "anchor": "\u00a73.p2",
           "treatment": "substantive"
         },
         {
@@ -4045,7 +4195,12 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a74.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a77.p1",
           "treatment": "substantive"
         },
         {
@@ -4237,7 +4392,37 @@
         },
         {
           "video_id": "ZqjHbnqjOQY",
-          "anchor": "?",
+          "anchor": "\u00a71.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a71.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a72.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a73.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a74.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a75.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         },
         {
@@ -4666,7 +4851,7 @@
         },
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a75.p1",
           "treatment": "substantive"
         },
         {
@@ -4896,7 +5081,22 @@
         },
         {
           "video_id": "YDg-vgIdgGs",
-          "anchor": "?",
+          "anchor": "\u00a71.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "YDg-vgIdgGs",
+          "anchor": "\u00a71.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "YDg-vgIdgGs",
+          "anchor": "\u00a71.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "YDg-vgIdgGs",
+          "anchor": "\u00a71.p4",
           "treatment": "substantive"
         },
         {
@@ -5264,7 +5464,12 @@
         },
         {
           "video_id": "k1wVwANPdgQ",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "k1wVwANPdgQ",
+          "anchor": "\u00a76.p3",
           "treatment": "substantive"
         },
         {
@@ -5377,7 +5582,7 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
           "treatment": "substantive"
         },
         {
@@ -5431,7 +5636,27 @@
         },
         {
           "video_id": "7D_eu9LVGqo",
-          "anchor": "?",
+          "anchor": "\u00a74.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a74.p5",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a74.p6",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a74.p7",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         },
         {
@@ -5627,7 +5852,7 @@
         },
         {
           "video_id": "DokriGA10Oo",
-          "anchor": "?",
+          "anchor": "\u00a710.p1",
           "treatment": "substantive"
         }
       ]
@@ -5925,7 +6150,7 @@
         },
         {
           "video_id": "8b4n8diQ_6U",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         },
         {
@@ -7100,7 +7325,12 @@
         },
         {
           "video_id": "HuLV8P6ouwA",
-          "anchor": "?",
+          "anchor": "\u00a71.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a71.p5",
           "treatment": "substantive"
         },
         {
@@ -7237,7 +7467,12 @@
         },
         {
           "video_id": "WH-SIgf7Yfo",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "WH-SIgf7Yfo",
+          "anchor": "\u00a710.p3",
           "treatment": "substantive"
         },
         {
@@ -7437,7 +7672,7 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a79.p4",
           "treatment": "substantive"
         }
       ]
@@ -7529,7 +7764,17 @@
         },
         {
           "video_id": "7D_eu9LVGqo",
-          "anchor": "?",
+          "anchor": "\u00a75.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a79.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a79.p3",
           "treatment": "substantive"
         },
         {
@@ -8373,7 +8618,12 @@
         },
         {
           "video_id": "JqHyPQAPsao",
-          "anchor": "?",
+          "anchor": "\u00a73.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "JqHyPQAPsao",
+          "anchor": "\u00a75.p1",
           "treatment": "substantive"
         },
         {
@@ -8383,7 +8633,12 @@
         },
         {
           "video_id": "sSdJgzB3ioQ",
-          "anchor": "?",
+          "anchor": "\u00a73.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "sSdJgzB3ioQ",
+          "anchor": "\u00a73.p9",
           "treatment": "substantive"
         }
       ]
@@ -8783,7 +9038,7 @@
         },
         {
           "video_id": "GYtCQg57RNU",
-          "anchor": "?",
+          "anchor": "\u00a79.p1",
           "treatment": "substantive"
         },
         {
@@ -8861,7 +9116,7 @@
         },
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a71.p4",
           "treatment": "substantive"
         },
         {
@@ -8890,7 +9145,7 @@
         },
         {
           "video_id": "JqHyPQAPsao",
-          "anchor": "?",
+          "anchor": "\u00a71.p1",
           "treatment": "substantive"
         },
         {
@@ -8915,7 +9170,7 @@
         },
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         }
       ]
@@ -9564,7 +9819,7 @@
       "lectures": [
         {
           "video_id": "G5THU-givDs",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         },
         {
@@ -9695,7 +9950,7 @@
       "lectures": [
         {
           "video_id": "JqHyPQAPsao",
-          "anchor": "?",
+          "anchor": "\u00a72.p1",
           "treatment": "substantive"
         },
         {
@@ -9833,7 +10088,7 @@
         },
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
           "treatment": "substantive"
         }
       ]
@@ -10047,7 +10302,7 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a74.p5",
           "treatment": "substantive"
         }
       ]
@@ -10071,7 +10326,7 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a72.p2",
           "treatment": "substantive"
         }
       ]
@@ -10095,7 +10350,17 @@
         },
         {
           "video_id": "7D_eu9LVGqo",
-          "anchor": "?",
+          "anchor": "\u00a73.p6",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a73.p7",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a73.p8",
           "treatment": "substantive"
         },
         {
@@ -10178,7 +10443,7 @@
         },
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a72.p2",
           "treatment": "substantive"
         }
       ]
@@ -10688,7 +10953,17 @@
         },
         {
           "video_id": "cys2q7xFrbQ",
-          "anchor": "?",
+          "anchor": "\u00a73.p11",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "cys2q7xFrbQ",
+          "anchor": "\u00a74.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "cys2q7xFrbQ",
+          "anchor": "\u00a77.p3",
           "treatment": "substantive"
         }
       ]
@@ -10983,7 +11258,7 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a78.p2",
           "treatment": "substantive"
         },
         {
@@ -12004,7 +12279,7 @@
         },
         {
           "video_id": "unG_GsTROaU",
-          "anchor": "?",
+          "anchor": "\u00a74.p5",
           "treatment": "substantive"
         }
       ]
@@ -12931,7 +13206,7 @@
         },
         {
           "video_id": "unG_GsTROaU",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         }
       ]
@@ -13362,7 +13637,12 @@
         },
         {
           "video_id": "WH-SIgf7Yfo",
-          "anchor": "?",
+          "anchor": "\u00a75.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "WH-SIgf7Yfo",
+          "anchor": "\u00a75.p2",
           "treatment": "substantive"
         },
         {
@@ -13536,7 +13816,27 @@
         },
         {
           "video_id": "ZqjHbnqjOQY",
-          "anchor": "?",
+          "anchor": "\u00a74.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a75.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a75.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a76.p4",
           "treatment": "substantive"
         },
         {
@@ -13738,7 +14038,12 @@
       "lectures": [
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a73.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "qBeTbWLRrVo",
+          "anchor": "\u00a73.p13",
           "treatment": "substantive"
         },
         {
@@ -13748,7 +14053,87 @@
         },
         {
           "video_id": "yeLP2yXF358",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a76.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a76.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a76.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a77.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a77.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a77.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a78.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a78.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a78.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a78.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a78.p5",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a79.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a79.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a79.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a79.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "yeLP2yXF358",
+          "anchor": "\u00a79.p5",
           "treatment": "substantive"
         }
       ]
@@ -13829,7 +14214,12 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a79.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "kaKkRC6Yu_c",
+          "anchor": "\u00a79.p6",
           "treatment": "substantive"
         }
       ]
@@ -13848,7 +14238,7 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a79.p5",
           "treatment": "substantive"
         }
       ]
@@ -13926,7 +14316,12 @@
         },
         {
           "video_id": "HuLV8P6ouwA",
-          "anchor": "?",
+          "anchor": "\u00a71.p10",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a71.p11",
           "treatment": "substantive"
         }
       ]
@@ -14258,7 +14653,17 @@
         },
         {
           "video_id": "ZqjHbnqjOQY",
-          "anchor": "?",
+          "anchor": "\u00a76.p7",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a76.p8",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "ZqjHbnqjOQY",
+          "anchor": "\u00a77.p1",
           "treatment": "substantive"
         }
       ]
@@ -14320,7 +14725,12 @@
         },
         {
           "video_id": "G5THU-givDs",
-          "anchor": "?",
+          "anchor": "\u00a76.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "G5THU-givDs",
+          "anchor": "\u00a77.p1",
           "treatment": "substantive"
         }
       ]
@@ -14669,7 +15079,17 @@
         },
         {
           "video_id": "unG_GsTROaU",
-          "anchor": "?",
+          "anchor": "\u00a77.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "unG_GsTROaU",
+          "anchor": "\u00a77.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "unG_GsTROaU",
+          "anchor": "\u00a77.p7",
           "treatment": "substantive"
         }
       ]
@@ -14702,7 +15122,12 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a713.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a713.p4",
           "treatment": "substantive"
         },
         {
@@ -15325,7 +15750,22 @@
       "lectures": [
         {
           "video_id": "7D_eu9LVGqo",
-          "anchor": "?",
+          "anchor": "\u00a75.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a75.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a75.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a75.p5",
           "treatment": "substantive"
         },
         {
@@ -15368,7 +15808,12 @@
       "lectures": [
         {
           "video_id": "7D_eu9LVGqo",
-          "anchor": "?",
+          "anchor": "\u00a78.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a78.p6",
           "treatment": "substantive"
         },
         {
@@ -16822,7 +17267,7 @@
         },
         {
           "video_id": "kaKkRC6Yu_c",
-          "anchor": "?",
+          "anchor": "\u00a78.p3",
           "treatment": "substantive"
         }
       ]
@@ -17353,7 +17798,7 @@
       "lectures": [
         {
           "video_id": "G5THU-givDs",
-          "anchor": "?",
+          "anchor": "\u00a71.p1",
           "treatment": "substantive"
         },
         {
@@ -17420,7 +17865,12 @@
       "lectures": [
         {
           "video_id": "GYtCQg57RNU",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "GYtCQg57RNU",
+          "anchor": "\u00a75.p4",
           "treatment": "substantive"
         },
         {
@@ -17712,7 +18162,12 @@
       "lectures": [
         {
           "video_id": "HuLV8P6ouwA",
-          "anchor": "?",
+          "anchor": "\u00a73.p7",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a73.p11",
           "treatment": "substantive"
         },
         {
@@ -17736,7 +18191,12 @@
       "lectures": [
         {
           "video_id": "HuLV8P6ouwA",
-          "anchor": "?",
+          "anchor": "\u00a73.p8",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a73.p14",
           "treatment": "substantive"
         },
         {
@@ -18198,7 +18658,12 @@
         },
         {
           "video_id": "sSdJgzB3ioQ",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "sSdJgzB3ioQ",
+          "anchor": "\u00a76.p10",
           "treatment": "substantive"
         }
       ]
@@ -18769,7 +19234,7 @@
       "lectures": [
         {
           "video_id": "RZYwHNnIbzg",
-          "anchor": "?",
+          "anchor": "\u00a78.p7",
           "treatment": "substantive"
         },
         {
@@ -19882,7 +20347,12 @@
       "lectures": [
         {
           "video_id": "k1wVwANPdgQ",
-          "anchor": "?",
+          "anchor": "\u00a71.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "k1wVwANPdgQ",
+          "anchor": "\u00a73.p5",
           "treatment": "substantive"
         },
         {
@@ -20976,7 +21446,22 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a710.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a711.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a712.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a713.p4",
           "treatment": "substantive"
         }
       ]
@@ -20990,7 +21475,17 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a77.p3",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a711.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a712.p1",
           "treatment": "substantive"
         }
       ]
@@ -21004,7 +21499,12 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a73.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a713.p4",
           "treatment": "substantive"
         }
       ]
@@ -21018,7 +21518,12 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a713.p4",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "3aJEQaYKG3w",
+          "anchor": "\u00a713.p5",
           "treatment": "substantive"
         }
       ]
@@ -21032,7 +21537,7 @@
       "lectures": [
         {
           "video_id": "3aJEQaYKG3w",
-          "anchor": "?",
+          "anchor": "\u00a713.p4",
           "treatment": "substantive"
         }
       ]
@@ -21748,7 +22253,32 @@
       "lectures": [
         {
           "video_id": "7D_eu9LVGqo",
-          "anchor": "?",
+          "anchor": "\u00a77.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a77.p5",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a77.p6",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a77.p7",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a77.p8",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "7D_eu9LVGqo",
+          "anchor": "\u00a77.p9",
           "treatment": "substantive"
         }
       ]
@@ -21898,7 +22428,7 @@
       "lectures": [
         {
           "video_id": "8b4n8diQ_6U",
-          "anchor": "?",
+          "anchor": "\u00a79.p2",
           "treatment": "substantive"
         }
       ]
@@ -21912,7 +22442,7 @@
       "lectures": [
         {
           "video_id": "8b4n8diQ_6U",
-          "anchor": "?",
+          "anchor": "\u00a710.p1",
           "treatment": "substantive"
         }
       ]
@@ -23183,7 +23713,7 @@
       "lectures": [
         {
           "video_id": "DokriGA10Oo",
-          "anchor": "?",
+          "anchor": "\u00a78.p1",
           "treatment": "substantive"
         }
       ]
@@ -23655,7 +24185,7 @@
       "lectures": [
         {
           "video_id": "G5THU-givDs",
-          "anchor": "?",
+          "anchor": "\u00a77.p1",
           "treatment": "substantive"
         }
       ]
@@ -23828,7 +24358,17 @@
       "lectures": [
         {
           "video_id": "HuLV8P6ouwA",
-          "anchor": "?",
+          "anchor": "\u00a71.p6",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a71.p7",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "HuLV8P6ouwA",
+          "anchor": "\u00a71.p8",
           "treatment": "substantive"
         }
       ]
@@ -24385,7 +24925,7 @@
       "lectures": [
         {
           "video_id": "JqHyPQAPsao",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
           "treatment": "substantive"
         }
       ]
@@ -24399,7 +24939,7 @@
       "lectures": [
         {
           "video_id": "JqHyPQAPsao",
-          "anchor": "?",
+          "anchor": "\u00a76.p1",
           "treatment": "substantive"
         }
       ]
@@ -24413,7 +24953,7 @@
       "lectures": [
         {
           "video_id": "JqHyPQAPsao",
-          "anchor": "?",
+          "anchor": "\u00a75.p7",
           "treatment": "substantive"
         }
       ]
@@ -24733,7 +25273,7 @@
       "lectures": [
         {
           "video_id": "MTzYKTMcmJo",
-          "anchor": "?",
+          "anchor": "\u00a71.p2",
           "treatment": "substantive"
         }
       ]
@@ -24747,7 +25287,7 @@
       "lectures": [
         {
           "video_id": "MTzYKTMcmJo",
-          "anchor": "?",
+          "anchor": "\u00a71.p4",
           "treatment": "substantive"
         }
       ]
@@ -24789,7 +25329,7 @@
       "lectures": [
         {
           "video_id": "MTzYKTMcmJo",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
           "treatment": "substantive"
         }
       ]
@@ -25873,7 +26413,7 @@
       "lectures": [
         {
           "video_id": "RZYwHNnIbzg",
-          "anchor": "?",
+          "anchor": "\u00a72.p7",
           "treatment": "substantive"
         }
       ]
@@ -30354,7 +30894,7 @@
       "lectures": [
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a72.p3",
           "treatment": "substantive"
         }
       ]
@@ -30368,7 +30908,7 @@
       "lectures": [
         {
           "video_id": "qBeTbWLRrVo",
-          "anchor": "?",
+          "anchor": "\u00a75.p4",
           "treatment": "substantive"
         }
       ]
@@ -30734,7 +31274,17 @@
       "lectures": [
         {
           "video_id": "sSdJgzB3ioQ",
-          "anchor": "?",
+          "anchor": "\u00a74.p1",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "sSdJgzB3ioQ",
+          "anchor": "\u00a74.p2",
+          "treatment": "substantive"
+        },
+        {
+          "video_id": "sSdJgzB3ioQ",
+          "anchor": "\u00a74.p3",
           "treatment": "substantive"
         }
       ]
@@ -30819,7 +31369,7 @@
       "lectures": [
         {
           "video_id": "unG_GsTROaU",
-          "anchor": "?",
+          "anchor": "\u00a77.p8",
           "treatment": "substantive"
         }
       ]

@@ -120,6 +120,20 @@ def parse_case_anchors(text: str) -> list[dict]:
                                      anchor_m.group(1)):
                 sec, para = span.group(1), span.group(2)
                 anchors.append(f"§{sec}.p{para}")
+        if not anchors:
+            # Lenient fallback for entries the strict form above misses:
+            # "Anchors:" (plural), unbackticked anchors, comma lists inside
+            # one pair of backticks, and short ranges such as `§7.p1-p6`.
+            # Applied only when the strict form finds nothing, so entries
+            # that already parse are unchanged. Ranges record their start.
+            lenient_m = re.search(r"\*\*Anchors?:?\*\*:?\s*([^\n]+)", block)
+            if lenient_m:
+                field = lenient_m.group(1).replace("`", "")
+                for span in re.finditer(
+                        r"§(\d+)\.p(\d+)(?:\s*[\-–—]\s*(?:§\d+\.)?p\d+)?", field):
+                    a = f"§{span.group(1)}.p{span.group(2)}"
+                    if a not in anchors:
+                        anchors.append(a)
         out.append({"cluster_id": cluster_id, "anchors": anchors or ["?"]})
     return out
 
